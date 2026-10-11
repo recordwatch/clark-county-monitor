@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T00:55:18",
+  "generatedAt": "2026-10-11T01:13:42",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 477,
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-11",
-      "booked": 1,
+      "booked": 2,
       "released": 0
     }
   ],
@@ -456,13 +456,13 @@
     },
     {
       "name": "B",
-      "count": 30,
-      "pct": 6.7
+      "count": 31,
+      "pct": 6.9
     },
     {
       "name": "C",
       "count": 40,
-      "pct": 8.9
+      "pct": 8.8
     },
     {
       "name": "D",
@@ -472,7 +472,7 @@
     {
       "name": "E",
       "count": 96,
-      "pct": 21.3
+      "pct": 21.2
     },
     {
       "name": "F",
@@ -515,8 +515,8 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 1475,
-      "pct": 48.5
+      "count": 1476,
+      "pct": 48.6
     },
     {
       "name": "COMBINED",
@@ -525,7 +525,7 @@
     },
     {
       "name": "BAIL BOND",
-      "count": 521,
+      "count": 520,
       "pct": 17.1
     }
   ],
@@ -559,15 +559,15 @@
         "count": 0
       }
     ],
-    "currentMedianDaysHeld": 52,
-    "currentLongestDaysHeld": 1031
+    "currentMedianDaysHeld": 50.1,
+    "currentLongestDaysHeld": 1031.1
   },
   "bond": {
-    "withBond": 336,
-    "noBond": 140,
+    "withBond": 335,
+    "noBond": 141,
     "medianBond": 25000,
     "maxBond": 10005000,
-    "totalBond": 56377400
+    "totalBond": 56376400
   },
   "chargesPerBooking": 6.4
 }
