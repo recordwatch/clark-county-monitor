@@ -21,7 +21,7 @@ serves a static site.
 
 ## Architecture
 - **Scraper:** `scrape.js` (orchestrator) + `scrapers/clark.js` (Cheerio parsing), Node 20 built-in fetch
-- **Schedule:** `.github/workflows/scrape.yml`, cron every 30 min
+- **Schedule:** `.github/workflows/scrape.yml`, cron every 30 min (backup only — see Scheduling)
 - **Storage:** JSON committed to `data/` — no server, no database
 - **Frontend:** React + Vite in `frontend/`, built and pushed to the `gh-pages` branch
 
@@ -46,6 +46,18 @@ serves a static site.
   `releaseStatus`), else `'observed'` (scrape time) and retried for two days.
 - Safety: if the roster comes back empty or < 50% of the previous in-custody
   count, the run exits non-zero without marking anyone released.
+
+## Scheduling (important)
+- GitHub's own `schedule:` cron is unreliable for small repos — Kitsap's
+  measured gaps were 3–9 hours (median ~5.5 h), not 30 minutes.
+- The real trigger is an external **cron-job.org** job that POSTs every 30
+  minutes to
+  `https://api.github.com/repos/recordwatch/clark-county-monitor/actions/workflows/scrape.yml/dispatches`
+  with body `{"ref":"main"}`. The workflow's own `schedule:` stays as a backup.
+- It authenticates with a fine-grained GitHub token (Actions: read & write on
+  the county repos only). **The token expires in August 2027** — after that, runs
+  silently fall back to GitHub's slow schedule. Renew the token and update
+  the cron-job.org job before then.
 
 ## Data files
 - `data/change_log.json` — every booking ever seen, newest `bookedAt` first
