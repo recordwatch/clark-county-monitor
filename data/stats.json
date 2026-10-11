@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T21:55:17",
+  "generatedAt": "2026-10-10T22:15:18",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 472,
@@ -461,8 +461,8 @@
     },
     {
       "name": "C",
-      "count": 41,
-      "pct": 9.2
+      "count": 40,
+      "pct": 8.9
     },
     {
       "name": "D",
@@ -496,8 +496,8 @@
     },
     {
       "name": "M",
-      "count": 7,
-      "pct": 1.6
+      "count": 8,
+      "pct": 1.8
     },
     {
       "name": "SKAMANIA",
