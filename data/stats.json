@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T07:59:48",
+  "generatedAt": "2026-10-11T08:55:15",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 486,
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-11",
-      "booked": 11,
+      "booked": 12,
       "released": 0
     }
   ],
@@ -266,13 +266,13 @@
     {
       "name": "SO6",
       "count": 389,
-      "pct": 80.2,
+      "pct": 80,
       "label": "SO6"
     },
     {
       "name": "VPD",
-      "count": 48,
-      "pct": 9.9,
+      "count": 49,
+      "pct": 10.1,
       "label": "Vancouver Police"
     },
     {
@@ -328,7 +328,7 @@
     {
       "name": "S9",
       "count": 408,
-      "pct": 15.8,
+      "pct": 15.7,
       "label": "Superior Court (S9)"
     },
     {
@@ -340,7 +340,7 @@
     {
       "name": "S10",
       "count": 338,
-      "pct": 13.1,
+      "pct": 13,
       "label": "Superior Court (S10)"
     },
     {
@@ -357,8 +357,8 @@
     },
     {
       "name": "DARR",
-      "count": 308,
-      "pct": 11.9,
+      "count": 311,
+      "pct": 12,
       "label": "District Court (DARR)"
     },
     {
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 36,
-      "pct": 7.8
+      "count": 35,
+      "pct": 7.6
     },
     {
       "name": "C",
@@ -496,8 +496,8 @@
     },
     {
       "name": "M",
-      "count": 11,
-      "pct": 2.4
+      "count": 12,
+      "pct": 2.6
     },
     {
       "name": "SKAMANIA",
@@ -515,13 +515,13 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 1485,
+      "count": 1488,
       "pct": 48.6
     },
     {
       "name": "COMBINED",
       "count": 1047,
-      "pct": 34.3
+      "pct": 34.2
     },
     {
       "name": "BAIL BOND",
@@ -559,8 +559,8 @@
         "count": 0
       }
     ],
-    "currentMedianDaysHeld": 48.3,
-    "currentLongestDaysHeld": 1031.3
+    "currentMedianDaysHeld": 48.4,
+    "currentLongestDaysHeld": 1031.4
   },
   "bond": {
     "withBond": 337,
