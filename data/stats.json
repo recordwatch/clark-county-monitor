@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-11T01:13:42",
+  "generatedAt": "2026-10-11T01:55:15",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 477,
-    "bookingsObserved": 8,
+    "bookingsTracked": 479,
+    "bookingsObserved": 10,
     "releasesObserved": 1,
-    "inCustody": 476,
+    "inCustody": 478,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-11",
-      "booked": 2,
+      "booked": 4,
       "released": 0
     }
   ],
@@ -168,7 +168,7 @@
     },
     {
       "name": "ASSAULT-4 - DV",
-      "count": 103,
+      "count": 104,
       "pct": 3.4
     },
     {
@@ -192,14 +192,14 @@
       "pct": 2.2
     },
     {
-      "name": "POSSESS DEPICTIONS OF A MINOR 1 ENGAGED IN SEXUALLY EXPLICIT CONDUCT",
+      "name": "ASSAULT-2 -DV",
       "count": 57,
       "pct": 1.9
     },
     {
-      "name": "ASSAULT-2 -DV",
-      "count": 56,
-      "pct": 1.8
+      "name": "POSSESS DEPICTIONS OF A MINOR 1 ENGAGED IN SEXUALLY EXPLICIT CONDUCT",
+      "count": 57,
+      "pct": 1.9
     },
     {
       "name": "SEXUAL EXPLOITATION OF A MINOR PHOTOGRAPH/LIVE PERFORMANCE",
@@ -266,13 +266,13 @@
     {
       "name": "SO6",
       "count": 389,
-      "pct": 81.7,
+      "pct": 81.4,
       "label": "SO6"
     },
     {
       "name": "VPD",
-      "count": 44,
-      "pct": 9.2,
+      "count": 46,
+      "pct": 9.6,
       "label": "Vancouver Police"
     },
     {
@@ -284,7 +284,7 @@
     {
       "name": "WSP",
       "count": 5,
-      "pct": 1.1,
+      "pct": 1,
       "label": "Washington State Patrol"
     },
     {
@@ -328,7 +328,7 @@
     {
       "name": "S9",
       "count": 408,
-      "pct": 15.9,
+      "pct": 15.8,
       "label": "Superior Court (S9)"
     },
     {
@@ -357,7 +357,7 @@
     },
     {
       "name": "DARR",
-      "count": 301,
+      "count": 302,
       "pct": 11.7,
       "label": "District Court (DARR)"
     },
@@ -401,19 +401,19 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1124,
+      "count": 1126,
       "pct": 37.1,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
       "count": 754,
-      "pct": 24.9,
+      "pct": 24.8,
       "label": "Class C Felony"
     },
     {
       "name": "FB",
-      "count": 622,
+      "count": 624,
       "pct": 20.5,
       "label": "Class B Felony"
     },
@@ -425,7 +425,7 @@
     },
     {
       "name": "M",
-      "count": 191,
+      "count": 192,
       "pct": 6.3,
       "label": "Misdemeanor"
     },
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 31,
-      "pct": 6.9
+      "count": 33,
+      "pct": 7.3
     },
     {
       "name": "C",
@@ -467,27 +467,27 @@
     {
       "name": "D",
       "count": 37,
-      "pct": 8.2
+      "pct": 8.1
     },
     {
       "name": "E",
       "count": 96,
-      "pct": 21.2
+      "pct": 21.1
     },
     {
       "name": "F",
       "count": 107,
-      "pct": 23.7
+      "pct": 23.6
     },
     {
       "name": "G",
       "count": 92,
-      "pct": 20.4
+      "pct": 20.3
     },
     {
       "name": "H",
       "count": 17,
-      "pct": 3.8
+      "pct": 3.7
     },
     {
       "name": "JDH",
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 1476,
+      "count": 1478,
       "pct": 48.6
     },
     {
@@ -525,7 +525,7 @@
     },
     {
       "name": "BAIL BOND",
-      "count": 520,
+      "count": 521,
       "pct": 17.1
     }
   ],
@@ -563,11 +563,11 @@
     "currentLongestDaysHeld": 1031.1
   },
   "bond": {
-    "withBond": 335,
-    "noBond": 141,
+    "withBond": 336,
+    "noBond": 142,
     "medianBond": 25000,
     "maxBond": 10005000,
-    "totalBond": 56376400
+    "totalBond": 56376900
   },
   "chargesPerBooking": 6.4
 }
