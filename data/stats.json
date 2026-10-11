@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-11T02:55:17",
+  "generatedAt": "2026-10-11T03:55:18",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 481,
-    "bookingsObserved": 12,
+    "bookingsTracked": 482,
+    "bookingsObserved": 13,
     "releasesObserved": 1,
-    "inCustody": 480,
+    "inCustody": 481,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-11",
-      "booked": 6,
+      "booked": 8,
       "released": 0
     }
   ],
@@ -266,7 +266,7 @@
     {
       "name": "SO6",
       "count": 389,
-      "pct": 81.2,
+      "pct": 81,
       "label": "SO6"
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "CLS",
-      "count": 20,
-      "pct": 4.2,
+      "count": 21,
+      "pct": 4.4,
       "label": "CLS"
     },
     {
@@ -402,7 +402,7 @@
     {
       "name": "GM",
       "count": 1130,
-      "pct": 37.2,
+      "pct": 37.1,
       "label": "Gross Misdemeanor"
     },
     {
@@ -419,7 +419,7 @@
     },
     {
       "name": "FA",
-      "count": 264,
+      "count": 265,
       "pct": 8.7,
       "label": "Class A Felony"
     },
@@ -472,17 +472,17 @@
     {
       "name": "E",
       "count": 96,
-      "pct": 21.1
+      "pct": 21
     },
     {
       "name": "F",
       "count": 107,
-      "pct": 23.5
+      "pct": 23.4
     },
     {
       "name": "G",
       "count": 92,
-      "pct": 20.2
+      "pct": 20.1
     },
     {
       "name": "H",
@@ -496,8 +496,8 @@
     },
     {
       "name": "M",
-      "count": 9,
-      "pct": 2
+      "count": 10,
+      "pct": 2.2
     },
     {
       "name": "SKAMANIA",
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 1479,
+      "count": 1480,
       "pct": 48.6
     },
     {
@@ -559,12 +559,12 @@
         "count": 0
       }
     ],
-    "currentMedianDaysHeld": 49.1,
-    "currentLongestDaysHeld": 1031.1
+    "currentMedianDaysHeld": 48.2,
+    "currentLongestDaysHeld": 1031.2
   },
   "bond": {
     "withBond": 336,
-    "noBond": 144,
+    "noBond": 145,
     "medianBond": 25000,
     "maxBond": 10005000,
     "totalBond": 56376900
