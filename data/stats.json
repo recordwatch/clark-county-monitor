@@ -1,0 +1,567 @@
+{
+  "generatedAt": "2026-10-10T18:32:10",
+  "monitoringSince": "2026-10-10T18:32:10",
+  "totals": {
+    "bookingsTracked": 469,
+    "bookingsObserved": 0,
+    "releasesObserved": 0,
+    "inCustody": 469,
+    "uniquePeople": 1
+  },
+  "bookingsByDay": [
+    {
+      "date": "2026-09-11",
+      "booked": 3,
+      "released": 0
+    },
+    {
+      "date": "2026-09-12",
+      "booked": 3,
+      "released": 0
+    },
+    {
+      "date": "2026-09-13",
+      "booked": 3,
+      "released": 0
+    },
+    {
+      "date": "2026-09-14",
+      "booked": 1,
+      "released": 0
+    },
+    {
+      "date": "2026-09-15",
+      "booked": 5,
+      "released": 0
+    },
+    {
+      "date": "2026-09-16",
+      "booked": 9,
+      "released": 0
+    },
+    {
+      "date": "2026-09-17",
+      "booked": 4,
+      "released": 0
+    },
+    {
+      "date": "2026-09-18",
+      "booked": 3,
+      "released": 0
+    },
+    {
+      "date": "2026-09-19",
+      "booked": 1,
+      "released": 0
+    },
+    {
+      "date": "2026-09-20",
+      "booked": 1,
+      "released": 0
+    },
+    {
+      "date": "2026-09-21",
+      "booked": 10,
+      "released": 0
+    },
+    {
+      "date": "2026-09-22",
+      "booked": 6,
+      "released": 0
+    },
+    {
+      "date": "2026-09-23",
+      "booked": 6,
+      "released": 0
+    },
+    {
+      "date": "2026-09-24",
+      "booked": 2,
+      "released": 0
+    },
+    {
+      "date": "2026-09-25",
+      "booked": 7,
+      "released": 0
+    },
+    {
+      "date": "2026-09-26",
+      "booked": 4,
+      "released": 0
+    },
+    {
+      "date": "2026-09-27",
+      "booked": 4,
+      "released": 0
+    },
+    {
+      "date": "2026-09-28",
+      "booked": 1,
+      "released": 0
+    },
+    {
+      "date": "2026-09-29",
+      "booked": 5,
+      "released": 0
+    },
+    {
+      "date": "2026-09-30",
+      "booked": 4,
+      "released": 0
+    },
+    {
+      "date": "2026-10-01",
+      "booked": 10,
+      "released": 0
+    },
+    {
+      "date": "2026-10-02",
+      "booked": 6,
+      "released": 0
+    },
+    {
+      "date": "2026-10-03",
+      "booked": 3,
+      "released": 0
+    },
+    {
+      "date": "2026-10-04",
+      "booked": 4,
+      "released": 0
+    },
+    {
+      "date": "2026-10-05",
+      "booked": 9,
+      "released": 0
+    },
+    {
+      "date": "2026-10-06",
+      "booked": 7,
+      "released": 0
+    },
+    {
+      "date": "2026-10-07",
+      "booked": 14,
+      "released": 0
+    },
+    {
+      "date": "2026-10-08",
+      "booked": 9,
+      "released": 0
+    },
+    {
+      "date": "2026-10-09",
+      "booked": 13,
+      "released": 0
+    },
+    {
+      "date": "2026-10-10",
+      "booked": 15,
+      "released": 0
+    }
+  ],
+  "topCharges": [
+    {
+      "name": "PROTECTION ORDER VIOLATION",
+      "count": 327,
+      "pct": 10.8
+    },
+    {
+      "name": "ASSAULT-4 - DV",
+      "count": 102,
+      "pct": 3.4
+    },
+    {
+      "name": "PROTECTION ORDER VIOL PREV CONVICTI",
+      "count": 91,
+      "pct": 3
+    },
+    {
+      "name": "HARASSMENT PREV CONV OR THREAT TO KILL",
+      "count": 83,
+      "pct": 2.7
+    },
+    {
+      "name": "THEFT-3",
+      "count": 75,
+      "pct": 2.5
+    },
+    {
+      "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
+      "count": 66,
+      "pct": 2.2
+    },
+    {
+      "name": "POSSESS DEPICTIONS OF A MINOR 1 ENGAGED IN SEXUALLY EXPLICIT CONDUCT",
+      "count": 57,
+      "pct": 1.9
+    },
+    {
+      "name": "ASSAULT-2 -DV",
+      "count": 56,
+      "pct": 1.8
+    },
+    {
+      "name": "SEXUAL EXPLOITATION OF A MINOR PHOTOGRAPH/LIVE PERFORMANCE",
+      "count": 56,
+      "pct": 1.8
+    },
+    {
+      "name": "ASSAULT-4",
+      "count": 53,
+      "pct": 1.7
+    },
+    {
+      "name": "RESISTING ARREST",
+      "count": 50,
+      "pct": 1.6
+    },
+    {
+      "name": "FUGITIVE",
+      "count": 48,
+      "pct": 1.6
+    },
+    {
+      "name": "CONTROLLED SUBSTANCE KNOWINGLY POSSESS",
+      "count": 47,
+      "pct": 1.6
+    },
+    {
+      "name": "ASSAULT-3",
+      "count": 45,
+      "pct": 1.5
+    },
+    {
+      "name": "OBSTRUCT LAW ENFORCEMENT OFC",
+      "count": 43,
+      "pct": 1.4
+    },
+    {
+      "name": "ASSAULT-2",
+      "count": 42,
+      "pct": 1.4
+    },
+    {
+      "name": "CHILD MOLESTATION-1",
+      "count": 40,
+      "pct": 1.3
+    },
+    {
+      "name": "RAPE OF A CHILD-1",
+      "count": 39,
+      "pct": 1.3
+    },
+    {
+      "name": "MALICIOUS MISCHIEF-3",
+      "count": 38,
+      "pct": 1.3
+    },
+    {
+      "name": "POSSESS DEPICTIONS OF A MINOR-2 ENGAGED IN SEXUALLY EXPLICIT CONDUCT",
+      "count": 36,
+      "pct": 1.2
+    }
+  ],
+  "topAgencies": [
+    {
+      "name": "SO6",
+      "count": 389,
+      "pct": 82.9,
+      "label": "SO6"
+    },
+    {
+      "name": "VPD",
+      "count": 40,
+      "pct": 8.5,
+      "label": "Vancouver Police"
+    },
+    {
+      "name": "CLS",
+      "count": 18,
+      "pct": 3.8,
+      "label": "CLS"
+    },
+    {
+      "name": "WSP",
+      "count": 5,
+      "pct": 1.1,
+      "label": "Washington State Patrol"
+    },
+    {
+      "name": "OTH",
+      "count": 4,
+      "pct": 0.9,
+      "label": "OTH"
+    },
+    {
+      "name": "BGP",
+      "count": 4,
+      "pct": 0.9,
+      "label": "BGP"
+    },
+    {
+      "name": "WGP",
+      "count": 2,
+      "pct": 0.4,
+      "label": "WGP"
+    },
+    {
+      "name": "OCW",
+      "count": 2,
+      "pct": 0.4,
+      "label": "OCW"
+    },
+    {
+      "name": "VCA",
+      "count": 2,
+      "pct": 0.4,
+      "label": "VCA"
+    },
+    {
+      "name": "LAP",
+      "count": 1,
+      "pct": 0.2,
+      "label": "LAP"
+    }
+  ],
+  "courts": [
+    {
+      "name": "S9",
+      "count": 408,
+      "pct": 15.9,
+      "label": "Superior Court (S9)"
+    },
+    {
+      "name": "S3",
+      "count": 399,
+      "pct": 15.6,
+      "label": "Superior Court (S3)"
+    },
+    {
+      "name": "S10",
+      "count": 338,
+      "pct": 13.2,
+      "label": "Superior Court (S10)"
+    },
+    {
+      "name": "S12",
+      "count": 322,
+      "pct": 12.6,
+      "label": "Superior Court (S12)"
+    },
+    {
+      "name": "S8",
+      "count": 314,
+      "pct": 12.2,
+      "label": "Superior Court (S8)"
+    },
+    {
+      "name": "DARR",
+      "count": 295,
+      "pct": 11.5,
+      "label": "District Court (DARR)"
+    },
+    {
+      "name": "D2",
+      "count": 64,
+      "pct": 2.5,
+      "label": "District Court (D2)"
+    },
+    {
+      "name": "D4",
+      "count": 59,
+      "pct": 2.3,
+      "label": "District Court (D4)"
+    },
+    {
+      "name": "D5",
+      "count": 58,
+      "pct": 2.3,
+      "label": "District Court (D5)"
+    },
+    {
+      "name": "D3",
+      "count": 56,
+      "pct": 2.2,
+      "label": "District Court (D3)"
+    },
+    {
+      "name": "D1",
+      "count": 49,
+      "pct": 1.9,
+      "label": "District Court (D1)"
+    },
+    {
+      "name": "D6",
+      "count": 44,
+      "pct": 1.7,
+      "label": "District Court (D6)"
+    }
+  ],
+  "chargeClasses": [
+    {
+      "name": "GM",
+      "count": 1119,
+      "pct": 37,
+      "label": "Gross Misdemeanor"
+    },
+    {
+      "name": "FC",
+      "count": 753,
+      "pct": 24.9,
+      "label": "Class C Felony"
+    },
+    {
+      "name": "FB",
+      "count": 621,
+      "pct": 20.5,
+      "label": "Class B Felony"
+    },
+    {
+      "name": "FA",
+      "count": 264,
+      "pct": 8.7,
+      "label": "Class A Felony"
+    },
+    {
+      "name": "M",
+      "count": 188,
+      "pct": 6.2,
+      "label": "Misdemeanor"
+    },
+    {
+      "name": "H",
+      "count": 48,
+      "pct": 1.6,
+      "label": "H"
+    },
+    {
+      "name": "O",
+      "count": 25,
+      "pct": 0.8,
+      "label": "O"
+    },
+    {
+      "name": "AD",
+      "count": 4,
+      "pct": 0.1,
+      "label": "AD"
+    }
+  ],
+  "housingUnits": [
+    {
+      "name": "A",
+      "count": 14,
+      "pct": 3.1
+    },
+    {
+      "name": "B",
+      "count": 32,
+      "pct": 7.2
+    },
+    {
+      "name": "C",
+      "count": 41,
+      "pct": 9.2
+    },
+    {
+      "name": "D",
+      "count": 36,
+      "pct": 8.1
+    },
+    {
+      "name": "E",
+      "count": 96,
+      "pct": 21.6
+    },
+    {
+      "name": "F",
+      "count": 104,
+      "pct": 23.4
+    },
+    {
+      "name": "G",
+      "count": 91,
+      "pct": 20.4
+    },
+    {
+      "name": "H",
+      "count": 17,
+      "pct": 3.8
+    },
+    {
+      "name": "JDH",
+      "count": 2,
+      "pct": 0.4
+    },
+    {
+      "name": "M",
+      "count": 7,
+      "pct": 1.6
+    },
+    {
+      "name": "SKAMANIA",
+      "count": 5,
+      "pct": 1.1
+    }
+  ],
+  "releaseStatus": [],
+  "bailTypes": [
+    {
+      "name": "NONE",
+      "count": 1470,
+      "pct": 48.5
+    },
+    {
+      "name": "COMBINED",
+      "count": 1043,
+      "pct": 34.4
+    },
+    {
+      "name": "BAIL BOND",
+      "count": 519,
+      "pct": 17.1
+    }
+  ],
+  "stay": {
+    "releasedCount": 0,
+    "medianDays": null,
+    "meanDays": null,
+    "buckets": [
+      {
+        "label": "< 1 day",
+        "count": 0
+      },
+      {
+        "label": "1–3 days",
+        "count": 0
+      },
+      {
+        "label": "3–7 days",
+        "count": 0
+      },
+      {
+        "label": "1–4 weeks",
+        "count": 0
+      },
+      {
+        "label": "1–3 months",
+        "count": 0
+      },
+      {
+        "label": "3+ months",
+        "count": 0
+      }
+    ],
+    "currentMedianDaysHeld": 52.8,
+    "currentLongestDaysHeld": 1030.8
+  },
+  "bond": {
+    "withBond": 334,
+    "noBond": 135,
+    "medianBond": 25000,
+    "maxBond": 10005000,
+    "totalBond": 56373900
+  },
+  "chargesPerBooking": 6.5
+}
