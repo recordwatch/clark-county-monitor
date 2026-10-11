@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T07:55:15",
+  "generatedAt": "2026-10-11T07:59:48",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 486,
@@ -346,7 +346,7 @@
     {
       "name": "S12",
       "count": 322,
-      "pct": 12.5,
+      "pct": 12.4,
       "label": "Superior Court (S12)"
     },
     {
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 1483,
+      "count": 1485,
       "pct": 48.6
     },
     {
@@ -526,7 +526,7 @@
     {
       "name": "BAIL BOND",
       "count": 524,
-      "pct": 17.2
+      "pct": 17.1
     }
   ],
   "stay": {
