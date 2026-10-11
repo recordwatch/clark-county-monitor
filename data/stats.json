@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T09:55:16",
+  "generatedAt": "2026-10-11T10:55:18",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 486,
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 34,
-      "pct": 7.4
+      "count": 33,
+      "pct": 7.2
     },
     {
       "name": "C",
@@ -481,8 +481,8 @@
     },
     {
       "name": "G",
-      "count": 92,
-      "pct": 20
+      "count": 93,
+      "pct": 20.2
     },
     {
       "name": "H",
@@ -559,8 +559,8 @@
         "count": 0
       }
     ],
-    "currentMedianDaysHeld": 48.4,
-    "currentLongestDaysHeld": 1031.4
+    "currentMedianDaysHeld": 48.5,
+    "currentLongestDaysHeld": 1031.5
   },
   "bond": {
     "withBond": 337,
