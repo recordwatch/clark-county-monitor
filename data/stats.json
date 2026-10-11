@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-11T06:55:17",
+  "generatedAt": "2026-10-11T07:55:15",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 485,
-    "bookingsObserved": 16,
+    "bookingsTracked": 486,
+    "bookingsObserved": 17,
     "releasesObserved": 1,
-    "inCustody": 484,
+    "inCustody": 485,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-11",
-      "booked": 10,
+      "booked": 11,
       "released": 0
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "PROTECTION ORDER VIOLATION",
       "count": 329,
-      "pct": 10.8
+      "pct": 10.7
     },
     {
       "name": "ASSAULT-4 - DV",
@@ -184,7 +184,7 @@
     {
       "name": "THEFT-3",
       "count": 75,
-      "pct": 2.5
+      "pct": 2.4
     },
     {
       "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
@@ -207,13 +207,18 @@
       "pct": 1.8
     },
     {
-      "name": "ASSAULT-4",
+      "name": "ASSAULT-3",
+      "count": 55,
+      "pct": 1.8
+    },
+    {
+      "name": "RESISTING ARREST",
       "count": 53,
       "pct": 1.7
     },
     {
-      "name": "RESISTING ARREST",
-      "count": 52,
+      "name": "ASSAULT-4",
+      "count": 53,
       "pct": 1.7
     },
     {
@@ -227,13 +232,8 @@
       "pct": 1.5
     },
     {
-      "name": "ASSAULT-3",
-      "count": 46,
-      "pct": 1.5
-    },
-    {
       "name": "OBSTRUCT LAW ENFORCEMENT OFC",
-      "count": 45,
+      "count": 46,
       "pct": 1.5
     },
     {
@@ -266,7 +266,7 @@
     {
       "name": "SO6",
       "count": 389,
-      "pct": 80.4,
+      "pct": 80.2,
       "label": "SO6"
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "CLS",
-      "count": 23,
-      "pct": 4.8,
+      "count": 24,
+      "pct": 4.9,
       "label": "CLS"
     },
     {
@@ -401,20 +401,20 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1136,
-      "pct": 37.3,
+      "count": 1138,
+      "pct": 37.2,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
-      "count": 755,
-      "pct": 24.8,
+      "count": 765,
+      "pct": 25,
       "label": "Class C Felony"
     },
     {
       "name": "FB",
       "count": 624,
-      "pct": 20.5,
+      "pct": 20.4,
       "label": "Class B Felony"
     },
     {
@@ -425,7 +425,7 @@
     },
     {
       "name": "M",
-      "count": 191,
+      "count": 192,
       "pct": 6.3,
       "label": "Misdemeanor"
     },
@@ -472,12 +472,12 @@
     {
       "name": "E",
       "count": 96,
-      "pct": 20.9
+      "pct": 20.8
     },
     {
       "name": "F",
-      "count": 107,
-      "pct": 23.3
+      "count": 108,
+      "pct": 23.4
     },
     {
       "name": "G",
@@ -515,8 +515,8 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 1482,
-      "pct": 48.5
+      "count": 1483,
+      "pct": 48.6
     },
     {
       "name": "COMBINED",
@@ -564,7 +564,7 @@
   },
   "bond": {
     "withBond": 337,
-    "noBond": 147,
+    "noBond": 148,
     "medianBond": 25000,
     "maxBond": 10005000,
     "totalBond": 56389400
