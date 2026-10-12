@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-11T17:55:16",
+  "generatedAt": "2026-10-11T18:55:15",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 490,
-    "bookingsObserved": 21,
+    "bookingsTracked": 492,
+    "bookingsObserved": 23,
     "releasesObserved": 3,
-    "inCustody": 487,
+    "inCustody": 489,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -223,7 +223,7 @@
     },
     {
       "name": "FUGITIVE",
-      "count": 48,
+      "count": 49,
       "pct": 1.6
     },
     {
@@ -266,7 +266,7 @@
     {
       "name": "SO6",
       "count": 390,
-      "pct": 79.6,
+      "pct": 79.4,
       "label": "SO6"
     },
     {
@@ -288,16 +288,16 @@
       "label": "Washington State Patrol"
     },
     {
+      "name": "OTH",
+      "count": 5,
+      "pct": 1,
+      "label": "OTH"
+    },
+    {
       "name": "WGP",
       "count": 4,
       "pct": 0.8,
       "label": "WGP"
-    },
-    {
-      "name": "OTH",
-      "count": 4,
-      "pct": 0.8,
-      "label": "OTH"
     },
     {
       "name": "BGP",
@@ -374,16 +374,16 @@
       "label": "District Court (D4)"
     },
     {
+      "name": "SARR",
+      "count": 58,
+      "pct": 2.2,
+      "label": "Superior Court (SARR)"
+    },
+    {
       "name": "D5",
       "count": 58,
       "pct": 2.2,
       "label": "District Court (D5)"
-    },
-    {
-      "name": "SARR",
-      "count": 57,
-      "pct": 2.2,
-      "label": "Superior Court (SARR)"
     },
     {
       "name": "D3",
@@ -402,7 +402,7 @@
     {
       "name": "GM",
       "count": 1140,
-      "pct": 37.2,
+      "pct": 37.1,
       "label": "Gross Misdemeanor"
     },
     {
@@ -431,7 +431,7 @@
     },
     {
       "name": "H",
-      "count": 48,
+      "count": 49,
       "pct": 1.6,
       "label": "H"
     },
@@ -456,38 +456,43 @@
     },
     {
       "name": "B",
-      "count": 30,
-      "pct": 6.5
+      "count": 29,
+      "pct": 6.2
     },
     {
       "name": "C",
       "count": 42,
-      "pct": 9.1
+      "pct": 9
     },
     {
       "name": "D",
-      "count": 36,
-      "pct": 7.8
+      "count": 34,
+      "pct": 7.3
     },
     {
       "name": "E",
-      "count": 100,
-      "pct": 21.6
+      "count": 102,
+      "pct": 21.9
     },
     {
       "name": "F",
       "count": 108,
-      "pct": 23.3
+      "pct": 23.2
     },
     {
       "name": "G",
-      "count": 94,
-      "pct": 20.3
+      "count": 96,
+      "pct": 20.6
     },
     {
       "name": "H",
       "count": 17,
       "pct": 3.7
+    },
+    {
+      "name": "IR",
+      "count": 2,
+      "pct": 0.4
     },
     {
       "name": "JDH",
@@ -496,8 +501,8 @@
     },
     {
       "name": "M",
-      "count": 12,
-      "pct": 2.6
+      "count": 11,
+      "pct": 2.4
     },
     {
       "name": "SKAMANIA",
@@ -515,7 +520,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 1503,
+      "count": 1504,
       "pct": 48.8
     },
     {
@@ -559,12 +564,12 @@
         "count": 0
       }
     ],
-    "currentMedianDaysHeld": 48.7,
-    "currentLongestDaysHeld": 1031.7
+    "currentMedianDaysHeld": 48.8,
+    "currentLongestDaysHeld": 1031.8
   },
   "bond": {
     "withBond": 339,
-    "noBond": 148,
+    "noBond": 150,
     "medianBond": 25000,
     "maxBond": 10005000,
     "totalBond": 56449400
