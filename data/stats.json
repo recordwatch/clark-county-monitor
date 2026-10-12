@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-11T18:55:15",
+  "generatedAt": "2026-10-11T19:33:23",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 492,
-    "bookingsObserved": 23,
+    "bookingsTracked": 493,
+    "bookingsObserved": 24,
     "releasesObserved": 3,
-    "inCustody": 489,
+    "inCustody": 490,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-11",
-      "booked": 16,
+      "booked": 18,
       "released": 2
     }
   ],
@@ -238,7 +238,7 @@
     },
     {
       "name": "ASSAULT-2",
-      "count": 42,
+      "count": 43,
       "pct": 1.4
     },
     {
@@ -266,13 +266,13 @@
     {
       "name": "SO6",
       "count": 390,
-      "pct": 79.4,
+      "pct": 79.3,
       "label": "SO6"
     },
     {
       "name": "VPD",
-      "count": 50,
-      "pct": 10.2,
+      "count": 51,
+      "pct": 10.4,
       "label": "Vancouver Police"
     },
     {
@@ -282,16 +282,16 @@
       "label": "CLS"
     },
     {
-      "name": "WSP",
-      "count": 5,
-      "pct": 1,
-      "label": "Washington State Patrol"
-    },
-    {
       "name": "OTH",
       "count": 5,
       "pct": 1,
       "label": "OTH"
+    },
+    {
+      "name": "WSP",
+      "count": 5,
+      "pct": 1,
+      "label": "Washington State Patrol"
     },
     {
       "name": "WGP",
@@ -364,20 +364,20 @@
     {
       "name": "D2",
       "count": 64,
-      "pct": 2.5,
+      "pct": 2.4,
       "label": "District Court (D2)"
+    },
+    {
+      "name": "SARR",
+      "count": 59,
+      "pct": 2.3,
+      "label": "Superior Court (SARR)"
     },
     {
       "name": "D4",
       "count": 59,
       "pct": 2.3,
       "label": "District Court (D4)"
-    },
-    {
-      "name": "SARR",
-      "count": 58,
-      "pct": 2.2,
-      "label": "Superior Court (SARR)"
     },
     {
       "name": "D5",
@@ -413,7 +413,7 @@
     },
     {
       "name": "FB",
-      "count": 626,
+      "count": 627,
       "pct": 20.4,
       "label": "Class B Felony"
     },
@@ -452,12 +452,12 @@
     {
       "name": "A",
       "count": 17,
-      "pct": 3.7
+      "pct": 3.6
     },
     {
       "name": "B",
-      "count": 29,
-      "pct": 6.2
+      "count": 30,
+      "pct": 6.4
     },
     {
       "name": "C",
@@ -487,7 +487,7 @@
     {
       "name": "H",
       "count": 17,
-      "pct": 3.7
+      "pct": 3.6
     },
     {
       "name": "IR",
@@ -520,8 +520,8 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 1504,
-      "pct": 48.8
+      "count": 1505,
+      "pct": 48.9
     },
     {
       "name": "COMBINED",
@@ -564,15 +564,15 @@
         "count": 0
       }
     ],
-    "currentMedianDaysHeld": 48.8,
+    "currentMedianDaysHeld": 47.8,
     "currentLongestDaysHeld": 1031.8
   },
   "bond": {
     "withBond": 339,
-    "noBond": 150,
+    "noBond": 151,
     "medianBond": 25000,
     "maxBond": 10005000,
     "totalBond": 56449400
   },
-  "chargesPerBooking": 6.3
+  "chargesPerBooking": 6.2
 }
