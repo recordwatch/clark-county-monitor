@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T02:55:21",
+  "generatedAt": "2026-10-12T03:09:12",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 498,
@@ -515,17 +515,17 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 1512,
-      "pct": 48.8
+      "count": 1515,
+      "pct": 48.9
     },
     {
       "name": "COMBINED",
-      "count": 1051,
+      "count": 1049,
       "pct": 33.9
     },
     {
       "name": "BAIL BOND",
-      "count": 533,
+      "count": 532,
       "pct": 17.2
     }
   ],
@@ -559,15 +559,15 @@
         "count": 0
       }
     ],
-    "currentMedianDaysHeld": 48.1,
+    "currentMedianDaysHeld": 47.1,
     "currentLongestDaysHeld": 1032.1
   },
   "bond": {
-    "withBond": 341,
-    "noBond": 152,
+    "withBond": 340,
+    "noBond": 153,
     "medianBond": 25000,
     "maxBond": 10005000,
-    "totalBond": 56436900
+    "totalBond": 56425400
   },
   "chargesPerBooking": 6.2
 }
