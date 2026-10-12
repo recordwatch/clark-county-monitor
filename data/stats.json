@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T07:55:22",
+  "generatedAt": "2026-10-12T08:55:17",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 500,
@@ -339,14 +339,14 @@
     },
     {
       "name": "S10",
-      "count": 342,
-      "pct": 13,
+      "count": 336,
+      "pct": 12.8,
       "label": "Superior Court (S10)"
     },
     {
       "name": "S12",
-      "count": 322,
-      "pct": 12.2,
+      "count": 328,
+      "pct": 12.5,
       "label": "Superior Court (S12)"
     },
     {
@@ -456,13 +456,13 @@
     },
     {
       "name": "B",
-      "count": 27,
-      "pct": 5.8
+      "count": 26,
+      "pct": 5.6
     },
     {
       "name": "C",
-      "count": 44,
-      "pct": 9.4
+      "count": 45,
+      "pct": 9.6
     },
     {
       "name": "D",
@@ -559,8 +559,8 @@
         "count": 0
       }
     ],
-    "currentMedianDaysHeld": 47.3,
-    "currentLongestDaysHeld": 1032.3
+    "currentMedianDaysHeld": 47.4,
+    "currentLongestDaysHeld": 1032.4
   },
   "bond": {
     "withBond": 341,
