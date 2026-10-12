@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T13:55:17",
+  "generatedAt": "2026-10-12T14:55:21",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 508,
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-12",
-      "booked": 11,
+      "booked": 12,
       "released": 12
     }
   ],
@@ -333,20 +333,20 @@
     },
     {
       "name": "S12",
-      "count": 402,
+      "count": 403,
       "pct": 15,
       "label": "Superior Court (S12)"
     },
     {
       "name": "S3",
-      "count": 384,
-      "pct": 14.3,
+      "count": 376,
+      "pct": 14,
       "label": "Superior Court (S3)"
     },
     {
       "name": "S10",
-      "count": 347,
-      "pct": 12.9,
+      "count": 355,
+      "pct": 13.2,
       "label": "Superior Court (S10)"
     },
     {
@@ -456,23 +456,23 @@
     },
     {
       "name": "B",
-      "count": 32,
-      "pct": 6.9
+      "count": 24,
+      "pct": 5.1
     },
     {
       "name": "C",
-      "count": 44,
-      "pct": 9.4
+      "count": 47,
+      "pct": 10.1
     },
     {
       "name": "D",
-      "count": 34,
-      "pct": 7.3
+      "count": 35,
+      "pct": 7.5
     },
     {
       "name": "E",
-      "count": 104,
-      "pct": 22.3
+      "count": 106,
+      "pct": 22.7
     },
     {
       "name": "F",
@@ -486,8 +486,8 @@
     },
     {
       "name": "H",
-      "count": 18,
-      "pct": 3.9
+      "count": 20,
+      "pct": 4.3
     },
     {
       "name": "JDH",
