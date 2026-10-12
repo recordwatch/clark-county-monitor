@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-12T10:55:18",
+  "generatedAt": "2026-10-12T11:55:17",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 502,
-    "bookingsObserved": 33,
-    "releasesObserved": 15,
-    "inCustody": 487,
+    "bookingsTracked": 504,
+    "bookingsObserved": 35,
+    "releasesObserved": 16,
+    "inCustody": 488,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -151,13 +151,13 @@
     },
     {
       "date": "2026-10-11",
-      "booked": 21,
+      "booked": 22,
       "released": 4
     },
     {
       "date": "2026-10-12",
-      "booked": 6,
-      "released": 10
+      "booked": 8,
+      "released": 11
     }
   ],
   "topCharges": [
@@ -183,12 +183,12 @@
     },
     {
       "name": "THEFT-3",
-      "count": 78,
+      "count": 79,
       "pct": 2.5
     },
     {
       "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
-      "count": 71,
+      "count": 72,
       "pct": 2.3
     },
     {
@@ -198,8 +198,8 @@
     },
     {
       "name": "ASSAULT-3",
-      "count": 57,
-      "pct": 1.8
+      "count": 58,
+      "pct": 1.9
     },
     {
       "name": "POSSESS DEPICTIONS OF A MINOR 1 ENGAGED IN SEXUALLY EXPLICIT CONDUCT",
@@ -218,8 +218,8 @@
     },
     {
       "name": "RESISTING ARREST",
-      "count": 54,
-      "pct": 1.7
+      "count": 55,
+      "pct": 1.8
     },
     {
       "name": "FUGITIVE",
@@ -233,7 +233,7 @@
     },
     {
       "name": "OBSTRUCT LAW ENFORCEMENT OFC",
-      "count": 47,
+      "count": 48,
       "pct": 1.5
     },
     {
@@ -254,7 +254,7 @@
     {
       "name": "RAPE OF A CHILD-1",
       "count": 39,
-      "pct": 1.3
+      "pct": 1.2
     },
     {
       "name": "POSSESS DEPICTIONS OF A MINOR-2 ENGAGED IN SEXUALLY EXPLICIT CONDUCT",
@@ -265,20 +265,20 @@
   "topAgencies": [
     {
       "name": "SO6",
-      "count": 391,
-      "pct": 78,
+      "count": 392,
+      "pct": 77.9,
       "label": "SO6"
     },
     {
       "name": "VPD",
       "count": 55,
-      "pct": 11,
+      "pct": 10.9,
       "label": "Vancouver Police"
     },
     {
       "name": "CLS",
-      "count": 27,
-      "pct": 5.4,
+      "count": 28,
+      "pct": 5.6,
       "label": "CLS"
     },
     {
@@ -328,14 +328,20 @@
     {
       "name": "S9",
       "count": 404,
-      "pct": 15.3,
+      "pct": 15.2,
       "label": "Superior Court (S9)"
     },
     {
       "name": "S3",
       "count": 396,
-      "pct": 15,
+      "pct": 14.9,
       "label": "Superior Court (S3)"
+    },
+    {
+      "name": "S12",
+      "count": 355,
+      "pct": 13.4,
+      "label": "Superior Court (S12)"
     },
     {
       "name": "S10",
@@ -344,34 +350,28 @@
       "label": "Superior Court (S10)"
     },
     {
-      "name": "S12",
-      "count": 333,
-      "pct": 12.6,
-      "label": "Superior Court (S12)"
-    },
-    {
       "name": "DARR",
-      "count": 323,
+      "count": 325,
       "pct": 12.2,
       "label": "District Court (DARR)"
     },
     {
       "name": "S8",
       "count": 314,
-      "pct": 11.9,
+      "pct": 11.8,
       "label": "Superior Court (S8)"
-    },
-    {
-      "name": "SARR",
-      "count": 75,
-      "pct": 2.8,
-      "label": "Superior Court (SARR)"
     },
     {
       "name": "D2",
       "count": 64,
       "pct": 2.4,
       "label": "District Court (D2)"
+    },
+    {
+      "name": "SARR",
+      "count": 60,
+      "pct": 2.3,
+      "label": "Superior Court (SARR)"
     },
     {
       "name": "D4",
@@ -394,38 +394,38 @@
     {
       "name": "D1",
       "count": 49,
-      "pct": 1.9,
+      "pct": 1.8,
       "label": "District Court (D1)"
     }
   ],
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1158,
-      "pct": 37.3,
+      "count": 1163,
+      "pct": 37.4,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
-      "count": 772,
-      "pct": 24.9,
+      "count": 773,
+      "pct": 24.8,
       "label": "Class C Felony"
     },
     {
       "name": "FB",
-      "count": 631,
+      "count": 632,
       "pct": 20.3,
       "label": "Class B Felony"
     },
     {
       "name": "FA",
-      "count": 268,
+      "count": 269,
       "pct": 8.6,
       "label": "Class A Felony"
     },
     {
       "name": "M",
-      "count": 195,
+      "count": 196,
       "pct": 6.3,
       "label": "Misdemeanor"
     },
@@ -451,8 +451,8 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 14,
-      "pct": 3
+      "count": 15,
+      "pct": 3.2
     },
     {
       "name": "B",
@@ -472,7 +472,7 @@
     {
       "name": "E",
       "count": 104,
-      "pct": 22.5
+      "pct": 22.4
     },
     {
       "name": "F",
@@ -486,8 +486,8 @@
     },
     {
       "name": "H",
-      "count": 16,
-      "pct": 3.5
+      "count": 18,
+      "pct": 3.9
     },
     {
       "name": "JDH",
@@ -496,8 +496,8 @@
     },
     {
       "name": "M",
-      "count": 12,
-      "pct": 2.6
+      "count": 10,
+      "pct": 2.2
     },
     {
       "name": "SKAMANIA",
@@ -515,13 +515,13 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 1528,
-      "pct": 49.1
+      "count": 1537,
+      "pct": 49.2
     },
     {
       "name": "COMBINED",
       "count": 1049,
-      "pct": 33.7
+      "pct": 33.6
     },
     {
       "name": "BAIL BOND",
@@ -530,9 +530,9 @@
     }
   ],
   "stay": {
-    "releasedCount": 15,
-    "medianDays": 6.4,
-    "meanDays": 40.7,
+    "releasedCount": 16,
+    "medianDays": 5.7,
+    "meanDays": 38.2,
     "buckets": [
       {
         "label": "< 1 day",
@@ -540,7 +540,7 @@
       },
       {
         "label": "1–3 days",
-        "count": 2
+        "count": 3
       },
       {
         "label": "3–7 days",
@@ -564,7 +564,7 @@
   },
   "bond": {
     "withBond": 337,
-    "noBond": 150,
+    "noBond": 151,
     "medianBond": 25000,
     "maxBond": 10005000,
     "totalBond": 56352650
