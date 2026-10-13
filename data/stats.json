@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T23:55:17",
+  "generatedAt": "2026-10-13T00:55:16",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 511,
@@ -9,11 +9,6 @@
     "uniquePeople": 1
   },
   "bookingsByDay": [
-    {
-      "date": "2026-09-13",
-      "booked": 3,
-      "released": 0
-    },
     {
       "date": "2026-09-14",
       "booked": 1,
@@ -158,12 +153,17 @@
       "date": "2026-10-12",
       "booked": 15,
       "released": 39
+    },
+    {
+      "date": "2026-10-13",
+      "booked": 0,
+      "released": 0
     }
   ],
   "topCharges": [
     {
       "name": "PROTECTION ORDER VIOLATION",
-      "count": 332,
+      "count": 334,
       "pct": 10.5
     },
     {
@@ -184,7 +184,7 @@
     {
       "name": "THEFT-3",
       "count": 81,
-      "pct": 2.6
+      "pct": 2.5
     },
     {
       "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
@@ -345,7 +345,7 @@
     },
     {
       "name": "DARR",
-      "count": 334,
+      "count": 336,
       "pct": 12.4,
       "label": "District Court (DARR)"
     },
@@ -388,7 +388,7 @@
     {
       "name": "D1",
       "count": 50,
-      "pct": 1.9,
+      "pct": 1.8,
       "label": "District Court (D1)"
     },
     {
@@ -401,13 +401,13 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1186,
+      "count": 1188,
       "pct": 37.5,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
-      "count": 787,
+      "count": 788,
       "pct": 24.9,
       "label": "Class C Felony"
     },
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 1557,
+      "count": 1560,
       "pct": 49.1
     },
     {
@@ -559,7 +559,7 @@
         "count": 3
       }
     ],
-    "currentMedianDaysHeld": 53,
+    "currentMedianDaysHeld": 52,
     "currentLongestDaysHeld": 1033
   },
   "bond": {
