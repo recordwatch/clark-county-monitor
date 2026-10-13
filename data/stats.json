@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-13T03:55:17",
+  "generatedAt": "2026-10-13T05:55:18",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 512,
-    "bookingsObserved": 43,
+    "bookingsTracked": 513,
+    "bookingsObserved": 44,
     "releasesObserved": 44,
-    "inCustody": 468,
+    "inCustody": 469,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-13",
-      "booked": 1,
+      "booked": 2,
       "released": 0
     }
   ],
@@ -188,7 +188,7 @@
     },
     {
       "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
-      "count": 76,
+      "count": 77,
       "pct": 2.4
     },
     {
@@ -266,13 +266,13 @@
     {
       "name": "SO6",
       "count": 411,
-      "pct": 80.4,
+      "pct": 80.1,
       "label": "SO6"
     },
     {
       "name": "VPD",
-      "count": 52,
-      "pct": 10.2,
+      "count": 54,
+      "pct": 10.5,
       "label": "Vancouver Police"
     },
     {
@@ -334,7 +334,7 @@
     {
       "name": "S9",
       "count": 410,
-      "pct": 15.2,
+      "pct": 15.1,
       "label": "Superior Court (S9)"
     },
     {
@@ -345,8 +345,8 @@
     },
     {
       "name": "DARR",
-      "count": 336,
-      "pct": 12.4,
+      "count": 340,
+      "pct": 12.5,
       "label": "District Court (DARR)"
     },
     {
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1189,
+      "count": 1191,
       "pct": 37.5,
       "label": "Gross Misdemeanor"
     },
@@ -452,12 +452,12 @@
     {
       "name": "A",
       "count": 14,
-      "pct": 3.2
+      "pct": 3.1
     },
     {
       "name": "B",
-      "count": 19,
-      "pct": 4.3
+      "count": 20,
+      "pct": 4.5
     },
     {
       "name": "C",
@@ -492,7 +492,7 @@
     {
       "name": "JDH",
       "count": 2,
-      "pct": 0.5
+      "pct": 0.4
     },
     {
       "name": "M",
@@ -515,13 +515,13 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 1546,
-      "pct": 48.6
+      "count": 1550,
+      "pct": 48.7
     },
     {
       "name": "COMBINED",
       "count": 1086,
-      "pct": 34.2
+      "pct": 34.1
     },
     {
       "name": "BAIL BOND",
@@ -564,7 +564,7 @@
   },
   "bond": {
     "withBond": 335,
-    "noBond": 133,
+    "noBond": 134,
     "medianBond": 25000,
     "maxBond": 10005000,
     "totalBond": 56510750
