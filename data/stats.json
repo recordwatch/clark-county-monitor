@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T08:55:16",
+  "generatedAt": "2026-10-13T09:41:39",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 514,
@@ -271,8 +271,8 @@
     },
     {
       "name": "VPD",
-      "count": 54,
-      "pct": 10.5,
+      "count": 53,
+      "pct": 10.3,
       "label": "Vancouver Police"
     },
     {
@@ -306,6 +306,12 @@
       "label": "BGP"
     },
     {
+      "name": "CMP",
+      "count": 2,
+      "pct": 0.4,
+      "label": "CMP"
+    },
+    {
       "name": "OCW",
       "count": 2,
       "pct": 0.4,
@@ -316,12 +322,6 @@
       "count": 2,
       "pct": 0.4,
       "label": "VCA"
-    },
-    {
-      "name": "CMP",
-      "count": 1,
-      "pct": 0.2,
-      "label": "CMP"
     }
   ],
   "courts": [
@@ -567,7 +567,7 @@
     "noBond": 135,
     "medianBond": 25000,
     "maxBond": 10005000,
-    "totalBond": 56509250
+    "totalBond": 56508750
   },
   "chargesPerBooking": 6.2
 }
