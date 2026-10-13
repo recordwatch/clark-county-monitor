@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T00:55:16",
+  "generatedAt": "2026-10-13T01:52:54",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 511,
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "SO6",
-      "count": 409,
-      "pct": 80.2,
+      "count": 411,
+      "pct": 80.6,
       "label": "SO6"
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "CLS",
-      "count": 26,
-      "pct": 5.1,
+      "count": 24,
+      "pct": 4.7,
       "label": "CLS"
     },
     {
@@ -515,18 +515,18 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 1560,
-      "pct": 49.1
+      "count": 1542,
+      "pct": 48.6
     },
     {
       "name": "COMBINED",
-      "count": 1070,
-      "pct": 33.7
+      "count": 1086,
+      "pct": 34.2
     },
     {
       "name": "BAIL BOND",
-      "count": 546,
-      "pct": 17.2
+      "count": 548,
+      "pct": 17.3
     }
   ],
   "stay": {
@@ -559,15 +559,15 @@
         "count": 3
       }
     ],
-    "currentMedianDaysHeld": 52,
-    "currentLongestDaysHeld": 1033
+    "currentMedianDaysHeld": 52.1,
+    "currentLongestDaysHeld": 1033.1
   },
   "bond": {
-    "withBond": 334,
-    "noBond": 133,
+    "withBond": 336,
+    "noBond": 131,
     "medianBond": 25000,
     "maxBond": 10005000,
-    "totalBond": 56461250
+    "totalBond": 56511250
   },
   "chargesPerBooking": 6.2
 }
