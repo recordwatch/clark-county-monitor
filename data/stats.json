@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-12T22:55:17",
+  "generatedAt": "2026-10-12T23:55:17",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 510,
-    "bookingsObserved": 41,
-    "releasesObserved": 42,
-    "inCustody": 468,
+    "bookingsTracked": 511,
+    "bookingsObserved": 42,
+    "releasesObserved": 44,
+    "inCustody": 467,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,8 +156,8 @@
     },
     {
       "date": "2026-10-12",
-      "booked": 13,
-      "released": 37
+      "booked": 15,
+      "released": 39
     }
   ],
   "topCharges": [
@@ -257,7 +257,7 @@
       "pct": 1.2
     },
     {
-      "name": "POSSESS DEPICTIONS OF A MINOR-2 ENGAGED IN SEXUALLY EXPLICIT CONDUCT",
+      "name": "THEFT-2",
       "count": 36,
       "pct": 1.1
     }
@@ -265,7 +265,7 @@
   "topAgencies": [
     {
       "name": "SO6",
-      "count": 408,
+      "count": 409,
       "pct": 80.2,
       "label": "SO6"
     },
@@ -277,21 +277,21 @@
     },
     {
       "name": "CLS",
-      "count": 25,
-      "pct": 4.9,
+      "count": 26,
+      "pct": 5.1,
       "label": "CLS"
-    },
-    {
-      "name": "OTH",
-      "count": 5,
-      "pct": 1,
-      "label": "OTH"
     },
     {
       "name": "WSP",
       "count": 5,
       "pct": 1,
       "label": "Washington State Patrol"
+    },
+    {
+      "name": "OTH",
+      "count": 4,
+      "pct": 0.8,
+      "label": "OTH"
     },
     {
       "name": "WGP",
@@ -345,7 +345,7 @@
     },
     {
       "name": "DARR",
-      "count": 336,
+      "count": 334,
       "pct": 12.4,
       "label": "District Court (DARR)"
     },
@@ -407,8 +407,8 @@
     },
     {
       "name": "FC",
-      "count": 786,
-      "pct": 24.8,
+      "count": 787,
+      "pct": 24.9,
       "label": "Class C Felony"
     },
     {
@@ -456,13 +456,13 @@
     },
     {
       "name": "B",
-      "count": 17,
-      "pct": 3.8
+      "count": 18,
+      "pct": 4.1
     },
     {
       "name": "C",
       "count": 45,
-      "pct": 10.1
+      "pct": 10.2
     },
     {
       "name": "D",
@@ -471,18 +471,18 @@
     },
     {
       "name": "E",
-      "count": 102,
-      "pct": 23
+      "count": 101,
+      "pct": 22.8
     },
     {
       "name": "F",
-      "count": 102,
-      "pct": 23
+      "count": 101,
+      "pct": 22.8
     },
     {
       "name": "G",
       "count": 96,
-      "pct": 21.6
+      "pct": 21.7
     },
     {
       "name": "H",
@@ -508,7 +508,7 @@
   "releaseStatus": [
     {
       "name": "RELEASED",
-      "count": 41,
+      "count": 43,
       "pct": 100
     }
   ],
@@ -520,7 +520,7 @@
     },
     {
       "name": "COMBINED",
-      "count": 1069,
+      "count": 1070,
       "pct": 33.7
     },
     {
@@ -530,9 +530,9 @@
     }
   ],
   "stay": {
-    "releasedCount": 42,
+    "releasedCount": 44,
     "medianDays": 2.8,
-    "meanDays": 16.2,
+    "meanDays": 15.6,
     "buckets": [
       {
         "label": "< 1 day",
@@ -540,11 +540,11 @@
       },
       {
         "label": "1–3 days",
-        "count": 22
+        "count": 23
       },
       {
         "label": "3–7 days",
-        "count": 7
+        "count": 8
       },
       {
         "label": "1–4 weeks",
@@ -563,11 +563,11 @@
     "currentLongestDaysHeld": 1033
   },
   "bond": {
-    "withBond": 335,
+    "withBond": 334,
     "noBond": 133,
     "medianBond": 25000,
     "maxBond": 10005000,
-    "totalBond": 56464750
+    "totalBond": 56461250
   },
   "chargesPerBooking": 6.2
 }
