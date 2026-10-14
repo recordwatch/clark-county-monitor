@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T22:44:54",
+  "generatedAt": "2026-10-13T22:55:17",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 523,
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-13",
-      "booked": 11,
+      "booked": 12,
       "released": 19
     }
   ],
@@ -184,11 +184,11 @@
     {
       "name": "THEFT-3",
       "count": 82,
-      "pct": 2.6
+      "pct": 2.5
     },
     {
       "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
-      "count": 80,
+      "count": 81,
       "pct": 2.5
     },
     {
@@ -271,8 +271,8 @@
     },
     {
       "name": "VPD",
-      "count": 57,
-      "pct": 10.9,
+      "count": 58,
+      "pct": 11.1,
       "label": "Vancouver Police"
     },
     {
@@ -345,8 +345,8 @@
     },
     {
       "name": "DARR",
-      "count": 346,
-      "pct": 12.7,
+      "count": 347,
+      "pct": 12.8,
       "label": "District Court (DARR)"
     },
     {
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1209,
+      "count": 1210,
       "pct": 37.7,
       "label": "Gross Misdemeanor"
     },
@@ -525,7 +525,7 @@
     },
     {
       "name": "BAIL BOND",
-      "count": 556,
+      "count": 557,
       "pct": 17.3
     }
   ],
@@ -559,15 +559,15 @@
         "count": 3
       }
     ],
-    "currentMedianDaysHeld": 55.9,
-    "currentLongestDaysHeld": 1033.9
+    "currentMedianDaysHeld": 55.5,
+    "currentLongestDaysHeld": 1034
   },
   "bond": {
-    "withBond": 326,
-    "noBond": 134,
+    "withBond": 327,
+    "noBond": 133,
     "medianBond": 25000,
     "maxBond": 10005000,
-    "totalBond": 56911900
+    "totalBond": 56912900
   },
   "chargesPerBooking": 6.1
 }
