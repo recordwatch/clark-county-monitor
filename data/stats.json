@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-13T21:55:14",
+  "generatedAt": "2026-10-13T22:44:54",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 522,
-    "bookingsObserved": 53,
+    "bookingsTracked": 523,
+    "bookingsObserved": 54,
     "releasesObserved": 63,
-    "inCustody": 459,
+    "inCustody": 460,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-13",
-      "booked": 10,
+      "booked": 11,
       "released": 19
     }
   ],
@@ -178,8 +178,8 @@
     },
     {
       "name": "HARASSMENT PREV CONV OR THREAT TO KILL",
-      "count": 85,
-      "pct": 2.6
+      "count": 86,
+      "pct": 2.7
     },
     {
       "name": "THEFT-3",
@@ -266,7 +266,7 @@
     {
       "name": "SO6",
       "count": 414,
-      "pct": 79.5,
+      "pct": 79.3,
       "label": "SO6"
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "CLS",
-      "count": 25,
-      "pct": 4.8,
+      "count": 26,
+      "pct": 5,
       "label": "CLS"
     },
     {
@@ -326,6 +326,12 @@
   ],
   "courts": [
     {
+      "name": "S3",
+      "count": 410,
+      "pct": 15.1,
+      "label": "Superior Court (S3)"
+    },
+    {
       "name": "S9",
       "count": 410,
       "pct": 15.1,
@@ -333,15 +339,9 @@
     },
     {
       "name": "S12",
-      "count": 406,
-      "pct": 14.9,
+      "count": 402,
+      "pct": 14.8,
       "label": "Superior Court (S12)"
-    },
-    {
-      "name": "S3",
-      "count": 405,
-      "pct": 14.9,
-      "label": "Superior Court (S3)"
     },
     {
       "name": "DARR",
@@ -407,7 +407,7 @@
     },
     {
       "name": "FC",
-      "count": 797,
+      "count": 798,
       "pct": 24.9,
       "label": "Class C Felony"
     },
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 19,
-      "pct": 4.4
+      "count": 20,
+      "pct": 4.6
     },
     {
       "name": "C",
@@ -472,12 +472,12 @@
     {
       "name": "E",
       "count": 100,
-      "pct": 23
+      "pct": 22.9
     },
     {
       "name": "F",
       "count": 100,
-      "pct": 23
+      "pct": 22.9
     },
     {
       "name": "G",
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 1571,
+      "count": 1572,
       "pct": 48.9
     },
     {
@@ -564,10 +564,10 @@
   },
   "bond": {
     "withBond": 326,
-    "noBond": 133,
+    "noBond": 134,
     "medianBond": 25000,
     "maxBond": 10005000,
     "totalBond": 56911900
   },
-  "chargesPerBooking": 6.2
+  "chargesPerBooking": 6.1
 }
