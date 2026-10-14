@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-14T09:55:16",
+  "generatedAt": "2026-10-14T10:55:17",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 530,
-    "bookingsObserved": 61,
-    "releasesObserved": 72,
-    "inCustody": 458,
+    "bookingsTracked": 531,
+    "bookingsObserved": 62,
+    "releasesObserved": 75,
+    "inCustody": 456,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,8 +156,8 @@
     },
     {
       "date": "2026-10-14",
-      "booked": 6,
-      "released": 9
+      "booked": 7,
+      "released": 12
     }
   ],
   "topCharges": [
@@ -168,7 +168,7 @@
     },
     {
       "name": "ASSAULT-4 - DV",
-      "count": 115,
+      "count": 116,
       "pct": 3.6
     },
     {
@@ -266,13 +266,13 @@
     {
       "name": "SO6",
       "count": 415,
-      "pct": 78.3,
+      "pct": 78.2,
       "label": "SO6"
     },
     {
       "name": "VPD",
-      "count": 63,
-      "pct": 11.9,
+      "count": 64,
+      "pct": 12.1,
       "label": "Vancouver Police"
     },
     {
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "S12",
-      "count": 415,
+      "count": 416,
       "pct": 15.2,
       "label": "Superior Court (S12)"
     },
@@ -339,20 +339,20 @@
     },
     {
       "name": "S3",
-      "count": 390,
-      "pct": 14.2,
+      "count": 381,
+      "pct": 13.9,
       "label": "Superior Court (S3)"
     },
     {
       "name": "DARR",
-      "count": 358,
+      "count": 359,
       "pct": 13.1,
       "label": "District Court (DARR)"
     },
     {
       "name": "S10",
-      "count": 342,
-      "pct": 12.5,
+      "count": 350,
+      "pct": 12.8,
       "label": "Superior Court (S10)"
     },
     {
@@ -369,8 +369,8 @@
     },
     {
       "name": "D5",
-      "count": 66,
-      "pct": 2.4,
+      "count": 64,
+      "pct": 2.3,
       "label": "District Court (D5)"
     },
     {
@@ -380,16 +380,16 @@
       "label": "District Court (D4)"
     },
     {
+      "name": "D1",
+      "count": 57,
+      "pct": 2.1,
+      "label": "District Court (D1)"
+    },
+    {
       "name": "D3",
       "count": 56,
       "pct": 2,
       "label": "District Court (D3)"
-    },
-    {
-      "name": "D1",
-      "count": 55,
-      "pct": 2,
-      "label": "District Court (D1)"
     },
     {
       "name": "D6",
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1222,
+      "count": 1223,
       "pct": 37.9,
       "label": "Gross Misdemeanor"
     },
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 22,
-      "pct": 5.1
+      "count": 24,
+      "pct": 5.6
     },
     {
       "name": "C",
@@ -471,18 +471,18 @@
     },
     {
       "name": "E",
-      "count": 99,
-      "pct": 22.9
+      "count": 98,
+      "pct": 22.8
     },
     {
       "name": "F",
       "count": 97,
-      "pct": 22.5
+      "pct": 22.6
     },
     {
       "name": "G",
-      "count": 91,
-      "pct": 21.1
+      "count": 89,
+      "pct": 20.7
     },
     {
       "name": "H",
@@ -496,8 +496,8 @@
     },
     {
       "name": "M",
-      "count": 9,
-      "pct": 2.1
+      "count": 8,
+      "pct": 1.9
     },
     {
       "name": "SKAMANIA",
@@ -508,15 +508,15 @@
   "releaseStatus": [
     {
       "name": "RELEASED",
-      "count": 71,
+      "count": 74,
       "pct": 100
     }
   ],
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 1584,
-      "pct": 48.9
+      "count": 1585,
+      "pct": 49
     },
     {
       "name": "COMBINED",
@@ -530,9 +530,9 @@
     }
   ],
   "stay": {
-    "releasedCount": 72,
+    "releasedCount": 75,
     "medianDays": 2.8,
-    "meanDays": 15.3,
+    "meanDays": 14.8,
     "buckets": [
       {
         "label": "< 1 day",
@@ -544,7 +544,7 @@
       },
       {
         "label": "3–7 days",
-        "count": 12
+        "count": 15
       },
       {
         "label": "1–4 weeks",
@@ -559,15 +559,15 @@
         "count": 3
       }
     ],
-    "currentMedianDaysHeld": 56.4,
-    "currentLongestDaysHeld": 1034.4
+    "currentMedianDaysHeld": 56.5,
+    "currentLongestDaysHeld": 1034.5
   },
   "bond": {
-    "withBond": 329,
-    "noBond": 129,
+    "withBond": 328,
+    "noBond": 128,
     "medianBond": 25000,
     "maxBond": 10005000,
-    "totalBond": 56917400
+    "totalBond": 56892400
   },
   "chargesPerBooking": 6.1
 }
