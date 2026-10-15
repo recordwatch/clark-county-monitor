@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T09:13:10",
+  "generatedAt": "2026-10-15T09:55:15",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 558,
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-15",
-      "booked": 5,
+      "booked": 6,
       "released": 9
     }
   ],
@@ -266,13 +266,13 @@
     {
       "name": "SO6",
       "count": 422,
-      "pct": 75.9,
+      "pct": 75.8,
       "label": "SO6"
     },
     {
       "name": "VPD",
-      "count": 73,
-      "pct": 13.1,
+      "count": 74,
+      "pct": 13.3,
       "label": "Vancouver Police"
     },
     {
@@ -327,27 +327,27 @@
   "courts": [
     {
       "name": "S9",
-      "count": 476,
-      "pct": 17,
+      "count": 490,
+      "pct": 17.5,
       "label": "Superior Court (S9)"
     },
     {
       "name": "S3",
-      "count": 407,
-      "pct": 14.6,
+      "count": 399,
+      "pct": 14.3,
       "label": "Superior Court (S3)"
-    },
-    {
-      "name": "S12",
-      "count": 377,
-      "pct": 13.5,
-      "label": "Superior Court (S12)"
     },
     {
       "name": "DARR",
       "count": 372,
       "pct": 13.3,
       "label": "District Court (DARR)"
+    },
+    {
+      "name": "S12",
+      "count": 371,
+      "pct": 13.3,
+      "label": "Superior Court (S12)"
     },
     {
       "name": "S10",
@@ -515,13 +515,13 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 1633,
+      "count": 1635,
       "pct": 49.5
     },
     {
       "name": "COMBINED",
       "count": 1094,
-      "pct": 33.2
+      "pct": 33.1
     },
     {
       "name": "BAIL BOND",
