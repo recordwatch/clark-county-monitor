@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T01:55:17",
+  "generatedAt": "2026-10-15T02:55:17",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 554,
@@ -163,8 +163,8 @@
   "topCharges": [
     {
       "name": "PROTECTION ORDER VIOLATION",
-      "count": 355,
-      "pct": 10.8
+      "count": 352,
+      "pct": 10.7
     },
     {
       "name": "ASSAULT-4 - DV",
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "S12",
-      "count": 428,
-      "pct": 15.3,
+      "count": 430,
+      "pct": 15.4,
       "label": "Superior Court (S12)"
     },
     {
@@ -401,8 +401,8 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1252,
-      "pct": 38.1,
+      "count": 1249,
+      "pct": 38,
       "label": "Gross Misdemeanor"
     },
     {
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 1637,
+      "count": 1634,
       "pct": 49.6
     },
     {
