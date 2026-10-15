@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T12:55:16",
+  "generatedAt": "2026-10-15T12:57:49",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 562,
@@ -228,7 +228,7 @@
     },
     {
       "name": "OBSTRUCT LAW ENFORCEMENT OFC",
-      "count": 53,
+      "count": 54,
       "pct": 1.6
     },
     {
@@ -327,26 +327,26 @@
   "courts": [
     {
       "name": "S9",
-      "count": 526,
+      "count": 527,
       "pct": 18.7,
       "label": "Superior Court (S9)"
     },
     {
       "name": "S3",
-      "count": 397,
+      "count": 396,
       "pct": 14.1,
       "label": "Superior Court (S3)"
     },
     {
       "name": "DARR",
-      "count": 379,
+      "count": 381,
       "pct": 13.5,
       "label": "District Court (DARR)"
     },
     {
       "name": "S12",
-      "count": 372,
-      "pct": 13.2,
+      "count": 373,
+      "pct": 13.3,
       "label": "Superior Court (S12)"
     },
     {
@@ -401,20 +401,20 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1260,
+      "count": 1261,
       "pct": 38.1,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
       "count": 819,
-      "pct": 24.8,
+      "pct": 24.7,
       "label": "Class C Felony"
     },
     {
       "name": "FB",
       "count": 637,
-      "pct": 19.3,
+      "pct": 19.2,
       "label": "Class B Felony"
     },
     {
@@ -425,7 +425,7 @@
     },
     {
       "name": "M",
-      "count": 230,
+      "count": 231,
       "pct": 7,
       "label": "Misdemeanor"
     },
@@ -516,16 +516,16 @@
     {
       "name": "NONE",
       "count": 1643,
-      "pct": 49.6
+      "pct": 49.5
     },
     {
       "name": "COMBINED",
-      "count": 1094,
+      "count": 1095,
       "pct": 33
     },
     {
       "name": "BAIL BOND",
-      "count": 577,
+      "count": 578,
       "pct": 17.4
     }
   ],
@@ -559,7 +559,7 @@
         "count": 4
       }
     ],
-    "currentMedianDaysHeld": 52.5,
+    "currentMedianDaysHeld": 51.5,
     "currentLongestDaysHeld": 1035.5
   },
   "bond": {
@@ -567,7 +567,7 @@
     "noBond": 137,
     "medianBond": 25000,
     "maxBond": 10005000,
-    "totalBond": 56564400
+    "totalBond": 56565400
   },
   "chargesPerBooking": 5.9
 }
