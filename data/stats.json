@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-15T10:55:17",
+  "generatedAt": "2026-10-15T11:55:17",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 559,
-    "bookingsObserved": 90,
+    "bookingsTracked": 560,
+    "bookingsObserved": 91,
     "releasesObserved": 97,
-    "inCustody": 462,
+    "inCustody": 463,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -168,7 +168,7 @@
     },
     {
       "name": "ASSAULT-4 - DV",
-      "count": 125,
+      "count": 126,
       "pct": 3.8
     },
     {
@@ -179,7 +179,7 @@
     {
       "name": "HARASSMENT PREV CONV OR THREAT TO KILL",
       "count": 91,
-      "pct": 2.8
+      "pct": 2.7
     },
     {
       "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
@@ -239,7 +239,7 @@
     {
       "name": "ASSAULT-2",
       "count": 48,
-      "pct": 1.5
+      "pct": 1.4
     },
     {
       "name": "MALICIOUS MISCHIEF-3",
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "S9",
-      "count": 502,
-      "pct": 17.9,
+      "count": 518,
+      "pct": 18.5,
       "label": "Superior Court (S9)"
     },
     {
@@ -339,20 +339,20 @@
     },
     {
       "name": "DARR",
-      "count": 372,
+      "count": 374,
       "pct": 13.3,
       "label": "District Court (DARR)"
     },
     {
       "name": "S12",
-      "count": 370,
-      "pct": 13.2,
+      "count": 365,
+      "pct": 13,
       "label": "Superior Court (S12)"
     },
     {
       "name": "S10",
-      "count": 319,
-      "pct": 11.4,
+      "count": 311,
+      "pct": 11.1,
       "label": "Superior Court (S10)"
     },
     {
@@ -376,7 +376,7 @@
     {
       "name": "D1",
       "count": 63,
-      "pct": 2.3,
+      "pct": 2.2,
       "label": "District Court (D1)"
     },
     {
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1254,
+      "count": 1256,
       "pct": 38,
       "label": "Gross Misdemeanor"
     },
@@ -425,7 +425,7 @@
     },
     {
       "name": "M",
-      "count": 227,
+      "count": 229,
       "pct": 6.9,
       "label": "Misdemeanor"
     },
@@ -456,13 +456,13 @@
     },
     {
       "name": "B",
-      "count": 28,
-      "pct": 6.4
+      "count": 23,
+      "pct": 5.3
     },
     {
       "name": "C",
-      "count": 40,
-      "pct": 9.2
+      "count": 41,
+      "pct": 9.4
     },
     {
       "name": "D",
@@ -476,8 +476,8 @@
     },
     {
       "name": "F",
-      "count": 101,
-      "pct": 23.1
+      "count": 104,
+      "pct": 23.8
     },
     {
       "name": "G",
@@ -486,8 +486,8 @@
     },
     {
       "name": "H",
-      "count": 20,
-      "pct": 4.6
+      "count": 21,
+      "pct": 4.8
     },
     {
       "name": "JDH",
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 1636,
+      "count": 1638,
       "pct": 49.5
     },
     {
@@ -564,7 +564,7 @@
   },
   "bond": {
     "withBond": 327,
-    "noBond": 135,
+    "noBond": 136,
     "medianBond": 25000,
     "maxBond": 10005000,
     "totalBond": 56562400
