@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T12:29:17",
+  "generatedAt": "2026-10-16T12:55:16",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 586,
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1311,
+      "count": 1310,
       "pct": 38.5,
       "label": "Gross Misdemeanor"
     },
@@ -425,7 +425,7 @@
     },
     {
       "name": "M",
-      "count": 248,
+      "count": 249,
       "pct": 7.3,
       "label": "Misdemeanor"
     },
@@ -451,13 +451,13 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 14,
-      "pct": 3.2
+      "count": 15,
+      "pct": 3.5
     },
     {
       "name": "B",
-      "count": 28,
-      "pct": 6.5
+      "count": 27,
+      "pct": 6.2
     },
     {
       "name": "C",
