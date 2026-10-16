@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T08:55:19",
+  "generatedAt": "2026-10-16T08:59:05",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 584,
@@ -208,7 +208,7 @@
     },
     {
       "name": "OBSTRUCT LAW ENFORCEMENT OFC",
-      "count": 57,
+      "count": 58,
       "pct": 1.7
     },
     {
@@ -340,13 +340,13 @@
     {
       "name": "S3",
       "count": 419,
-      "pct": 14.5,
+      "pct": 14.4,
       "label": "Superior Court (S3)"
     },
     {
       "name": "DARR",
-      "count": 399,
-      "pct": 13.8,
+      "count": 398,
+      "pct": 13.7,
       "label": "District Court (DARR)"
     },
     {
@@ -401,14 +401,14 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1307,
+      "count": 1309,
       "pct": 38.5,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
-      "count": 833,
-      "pct": 24.5,
+      "count": 835,
+      "pct": 24.6,
       "label": "Class C Felony"
     },
     {
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 1677,
+      "count": 1681,
       "pct": 49.3
     },
     {
