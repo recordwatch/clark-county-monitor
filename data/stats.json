@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T00:55:17",
+  "generatedAt": "2026-10-16T01:55:15",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 579,
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "S12",
-      "count": 451,
-      "pct": 15.6,
+      "count": 455,
+      "pct": 15.7,
       "label": "Superior Court (S12)"
     },
     {
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1302,
+      "count": 1301,
       "pct": 38.4,
       "label": "Gross Misdemeanor"
     },
@@ -425,7 +425,7 @@
     },
     {
       "name": "M",
-      "count": 243,
+      "count": 244,
       "pct": 7.2,
       "label": "Misdemeanor"
     },
@@ -559,8 +559,8 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 53,
-    "currentLongestDaysHeld": 1036
+    "currentMedianDaysHeld": 53.1,
+    "currentLongestDaysHeld": 1036.1
   },
   "bond": {
     "withBond": 330,
