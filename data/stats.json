@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-16T15:10:40",
+  "generatedAt": "2026-10-16T15:55:18",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 589,
     "bookingsObserved": 120,
-    "releasesObserved": 133,
-    "inCustody": 456,
+    "releasesObserved": 134,
+    "inCustody": 455,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,8 +156,8 @@
     },
     {
       "date": "2026-10-16",
-      "booked": 11,
-      "released": 15
+      "booked": 12,
+      "released": 16
     }
   ],
   "topCharges": [
@@ -334,7 +334,7 @@
     {
       "name": "S9",
       "count": 426,
-      "pct": 14.6,
+      "pct": 14.7,
       "label": "Superior Court (S9)"
     },
     {
@@ -345,8 +345,8 @@
     },
     {
       "name": "DARR",
-      "count": 402,
-      "pct": 13.8,
+      "count": 404,
+      "pct": 13.9,
       "label": "District Court (DARR)"
     },
     {
@@ -380,16 +380,16 @@
       "label": "District Court (D1)"
     },
     {
-      "name": "D3",
-      "count": 63,
-      "pct": 2.2,
-      "label": "District Court (D3)"
-    },
-    {
       "name": "D5",
       "count": 62,
       "pct": 2.1,
       "label": "District Court (D5)"
+    },
+    {
+      "name": "D3",
+      "count": 61,
+      "pct": 2.1,
+      "label": "District Court (D3)"
     },
     {
       "name": "D6",
@@ -401,8 +401,8 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1315,
-      "pct": 38.6,
+      "count": 1314,
+      "pct": 38.5,
       "label": "Gross Misdemeanor"
     },
     {
@@ -425,7 +425,7 @@
     },
     {
       "name": "M",
-      "count": 249,
+      "count": 250,
       "pct": 7.3,
       "label": "Misdemeanor"
     },
@@ -452,7 +452,7 @@
     {
       "name": "A",
       "count": 14,
-      "pct": 3.2
+      "pct": 3.3
     },
     {
       "name": "B",
@@ -462,7 +462,7 @@
     {
       "name": "C",
       "count": 42,
-      "pct": 9.7
+      "pct": 9.8
     },
     {
       "name": "D",
@@ -471,8 +471,8 @@
     },
     {
       "name": "E",
-      "count": 95,
-      "pct": 22
+      "count": 94,
+      "pct": 21.9
     },
     {
       "name": "F",
@@ -508,7 +508,7 @@
   "releaseStatus": [
     {
       "name": "RELEASED",
-      "count": 131,
+      "count": 132,
       "pct": 100
     }
   ],
@@ -530,9 +530,9 @@
     }
   ],
   "stay": {
-    "releasedCount": 133,
+    "releasedCount": 134,
     "medianDays": 2.8,
-    "meanDays": 32.4,
+    "meanDays": 32.2,
     "buckets": [
       {
         "label": "< 1 day",
@@ -544,7 +544,7 @@
       },
       {
         "label": "3–7 days",
-        "count": 16
+        "count": 17
       },
       {
         "label": "1–4 weeks",
@@ -559,15 +559,15 @@
         "count": 10
       }
     ],
-    "currentMedianDaysHeld": 51.6,
-    "currentLongestDaysHeld": 1036.6
+    "currentMedianDaysHeld": 51.7,
+    "currentLongestDaysHeld": 1036.7
   },
   "bond": {
-    "withBond": 327,
+    "withBond": 326,
     "noBond": 129,
     "medianBond": 25000,
     "maxBond": 10005000,
-    "totalBond": 56332050
+    "totalBond": 56307050
   },
   "chargesPerBooking": 5.8
 }
