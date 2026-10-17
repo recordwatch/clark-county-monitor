@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T01:55:17",
+  "generatedAt": "2026-10-17T02:34:09",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 603,
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-17",
-      "booked": 3,
+      "booked": 4,
       "released": 1
     }
   ],
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "SO6",
-      "count": 435,
-      "pct": 72.3,
+      "count": 436,
+      "pct": 72.4,
       "label": "SO6"
     },
     {
@@ -294,16 +294,16 @@
       "label": "CMP"
     },
     {
-      "name": "OTH",
-      "count": 4,
-      "pct": 0.7,
-      "label": "OTH"
-    },
-    {
       "name": "WGP",
       "count": 4,
       "pct": 0.7,
       "label": "WGP"
+    },
+    {
+      "name": "OTH",
+      "count": 3,
+      "pct": 0.5,
+      "label": "OTH"
     },
     {
       "name": "BGP",
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 1732,
+      "count": 1731,
       "pct": 50.1
     },
     {
@@ -525,7 +525,7 @@
     },
     {
       "name": "BAIL BOND",
-      "count": 601,
+      "count": 602,
       "pct": 17.4
     }
   ],
@@ -559,15 +559,15 @@
         "count": 11
       }
     ],
-    "currentMedianDaysHeld": 54.1,
+    "currentMedianDaysHeld": 53.6,
     "currentLongestDaysHeld": 1037.1
   },
   "bond": {
-    "withBond": 319,
-    "noBond": 127,
+    "withBond": 320,
+    "noBond": 126,
     "medianBond": 25000,
     "maxBond": 10005000,
-    "totalBond": 55263700
+    "totalBond": 55513700
   },
   "chargesPerBooking": 5.7
 }
