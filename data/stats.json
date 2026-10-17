@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-16T22:16:52",
+  "generatedAt": "2026-10-16T22:55:17",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 598,
-    "bookingsObserved": 129,
+    "bookingsTracked": 599,
+    "bookingsObserved": 130,
     "releasesObserved": 152,
-    "inCustody": 446,
+    "inCustody": 447,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -163,7 +163,7 @@
   "topCharges": [
     {
       "name": "PROTECTION ORDER VIOLATION",
-      "count": 359,
+      "count": 360,
       "pct": 10.4
     },
     {
@@ -178,7 +178,7 @@
     },
     {
       "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
-      "count": 94,
+      "count": 95,
       "pct": 2.7
     },
     {
@@ -213,7 +213,7 @@
     },
     {
       "name": "RESISTING ARREST",
-      "count": 57,
+      "count": 58,
       "pct": 1.7
     },
     {
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "SO6",
-      "count": 433,
+      "count": 435,
       "pct": 72.7,
       "label": "SO6"
     },
     {
       "name": "VPD",
-      "count": 91,
-      "pct": 15.3,
+      "count": 92,
+      "pct": 15.4,
       "label": "Vancouver Police"
     },
     {
@@ -288,16 +288,16 @@
       "label": "Washington State Patrol"
     },
     {
-      "name": "OTH",
-      "count": 5,
-      "pct": 0.8,
-      "label": "OTH"
-    },
-    {
       "name": "CMP",
       "count": 4,
       "pct": 0.7,
       "label": "CMP"
+    },
+    {
+      "name": "OTH",
+      "count": 4,
+      "pct": 0.7,
+      "label": "OTH"
     },
     {
       "name": "WGP",
@@ -327,14 +327,14 @@
   "courts": [
     {
       "name": "S12",
-      "count": 454,
-      "pct": 15.6,
+      "count": 449,
+      "pct": 15.4,
       "label": "Superior Court (S12)"
     },
     {
       "name": "S3",
-      "count": 433,
-      "pct": 14.9,
+      "count": 438,
+      "pct": 15,
       "label": "Superior Court (S3)"
     },
     {
@@ -345,8 +345,8 @@
     },
     {
       "name": "DARR",
-      "count": 391,
-      "pct": 13.4,
+      "count": 385,
+      "pct": 13.2,
       "label": "District Court (DARR)"
     },
     {
@@ -374,16 +374,16 @@
       "label": "District Court (D2)"
     },
     {
+      "name": "D5",
+      "count": 67,
+      "pct": 2.3,
+      "label": "District Court (D5)"
+    },
+    {
       "name": "D1",
       "count": 66,
       "pct": 2.3,
       "label": "District Court (D1)"
-    },
-    {
-      "name": "D5",
-      "count": 62,
-      "pct": 2.1,
-      "label": "District Court (D5)"
     },
     {
       "name": "D3",
@@ -401,8 +401,8 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1326,
-      "pct": 38.5,
+      "count": 1329,
+      "pct": 38.6,
       "label": "Gross Misdemeanor"
     },
     {
@@ -420,12 +420,12 @@
     {
       "name": "FA",
       "count": 277,
-      "pct": 8.1,
+      "pct": 8,
       "label": "Class A Felony"
     },
     {
       "name": "M",
-      "count": 255,
+      "count": 256,
       "pct": 7.4,
       "label": "Misdemeanor"
     },
@@ -476,13 +476,13 @@
     },
     {
       "name": "F",
-      "count": 91,
-      "pct": 21.6
+      "count": 92,
+      "pct": 21.7
     },
     {
       "name": "G",
       "count": 92,
-      "pct": 21.8
+      "pct": 21.7
     },
     {
       "name": "H",
@@ -515,17 +515,17 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 1743,
-      "pct": 50.5
+      "count": 1735,
+      "pct": 50.2
     },
     {
       "name": "COMBINED",
-      "count": 1110,
-      "pct": 32.2
+      "count": 1121,
+      "pct": 32.5
     },
     {
       "name": "BAIL BOND",
-      "count": 596,
+      "count": 597,
       "pct": 17.3
     }
   ],
@@ -559,15 +559,15 @@
         "count": 11
       }
     ],
-    "currentMedianDaysHeld": 53.9,
-    "currentLongestDaysHeld": 1036.9
+    "currentMedianDaysHeld": 53.5,
+    "currentLongestDaysHeld": 1037
   },
   "bond": {
-    "withBond": 318,
+    "withBond": 319,
     "noBond": 128,
     "medianBond": 25000,
     "maxBond": 10005000,
-    "totalBond": 54764200
+    "totalBond": 55261700
   },
   "chargesPerBooking": 5.8
 }
