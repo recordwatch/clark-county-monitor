@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-17T03:55:16",
+  "generatedAt": "2026-10-17T04:55:18",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 605,
-    "bookingsObserved": 136,
+    "bookingsTracked": 606,
+    "bookingsObserved": 137,
     "releasesObserved": 157,
-    "inCustody": 448,
+    "inCustody": 449,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-17",
-      "booked": 5,
+      "booked": 6,
       "released": 1
     }
   ],
@@ -198,7 +198,7 @@
     },
     {
       "name": "ASSAULT-2 -DV",
-      "count": 62,
+      "count": 63,
       "pct": 1.8
     },
     {
@@ -402,37 +402,37 @@
     {
       "name": "GM",
       "count": 1332,
-      "pct": 38.6,
+      "pct": 38.5,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
-      "count": 843,
+      "count": 844,
       "pct": 24.4,
       "label": "Class C Felony"
     },
     {
       "name": "FB",
-      "count": 647,
-      "pct": 18.7,
+      "count": 648,
+      "pct": 18.8,
       "label": "Class B Felony"
     },
     {
       "name": "FA",
-      "count": 277,
-      "pct": 8,
+      "count": 279,
+      "pct": 8.1,
       "label": "Class A Felony"
     },
     {
       "name": "M",
-      "count": 260,
-      "pct": 7.5,
+      "count": 261,
+      "pct": 7.6,
       "label": "Misdemeanor"
     },
     {
       "name": "H",
       "count": 57,
-      "pct": 1.7,
+      "pct": 1.6,
       "label": "H"
     },
     {
@@ -451,13 +451,13 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 14,
-      "pct": 3.3
+      "count": 13,
+      "pct": 3.1
     },
     {
       "name": "B",
-      "count": 15,
-      "pct": 3.5
+      "count": 16,
+      "pct": 3.8
     },
     {
       "name": "C",
@@ -564,7 +564,7 @@
   },
   "bond": {
     "withBond": 320,
-    "noBond": 128,
+    "noBond": 129,
     "medianBond": 25000,
     "maxBond": 10005000,
     "totalBond": 55513700
