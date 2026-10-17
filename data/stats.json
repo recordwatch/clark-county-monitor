@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-17T02:34:09",
+  "generatedAt": "2026-10-17T02:55:15",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 603,
-    "bookingsObserved": 134,
+    "bookingsTracked": 604,
+    "bookingsObserved": 135,
     "releasesObserved": 157,
-    "inCustody": 446,
+    "inCustody": 447,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -172,13 +172,13 @@
       "pct": 3.9
     },
     {
-      "name": "PROTECTION ORDER VIOL PREV CONVICTI",
+      "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
       "count": 97,
       "pct": 2.8
     },
     {
-      "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
-      "count": 96,
+      "name": "PROTECTION ORDER VIOL PREV CONVICTI",
+      "count": 97,
       "pct": 2.8
     },
     {
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1331,
+      "count": 1332,
       "pct": 38.6,
       "label": "Gross Misdemeanor"
     },
@@ -414,7 +414,7 @@
     {
       "name": "FB",
       "count": 647,
-      "pct": 18.8,
+      "pct": 18.7,
       "label": "Class B Felony"
     },
     {
@@ -425,7 +425,7 @@
     },
     {
       "name": "M",
-      "count": 258,
+      "count": 260,
       "pct": 7.5,
       "label": "Misdemeanor"
     },
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 14,
-      "pct": 3.3
+      "count": 15,
+      "pct": 3.5
     },
     {
       "name": "C",
@@ -564,7 +564,7 @@
   },
   "bond": {
     "withBond": 320,
-    "noBond": 126,
+    "noBond": 127,
     "medianBond": 25000,
     "maxBond": 10005000,
     "totalBond": 55513700
