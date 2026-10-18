@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-18T03:55:15",
+  "generatedAt": "2026-10-18T04:31:54",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 629,
-    "bookingsObserved": 160,
+    "bookingsTracked": 630,
+    "bookingsObserved": 161,
     "releasesObserved": 167,
-    "inCustody": 462,
+    "inCustody": 463,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-18",
-      "booked": 3,
+      "booked": 4,
       "released": 0
     }
   ],
@@ -266,7 +266,7 @@
     {
       "name": "SO6",
       "count": 437,
-      "pct": 69.5,
+      "pct": 69.4,
       "label": "SO6"
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "CLS",
-      "count": 40,
-      "pct": 6.4,
+      "count": 41,
+      "pct": 6.5,
       "label": "CLS"
     },
     {
@@ -345,7 +345,7 @@
     },
     {
       "name": "DARR",
-      "count": 421,
+      "count": 422,
       "pct": 14.1,
       "label": "District Court (DARR)"
     },
@@ -413,7 +413,7 @@
     },
     {
       "name": "FB",
-      "count": 661,
+      "count": 662,
       "pct": 18.8,
       "label": "Class B Felony"
     },
@@ -452,17 +452,17 @@
     {
       "name": "A",
       "count": 16,
-      "pct": 3.7
+      "pct": 3.6
     },
     {
       "name": "B",
-      "count": 27,
-      "pct": 6.2
+      "count": 28,
+      "pct": 6.4
     },
     {
       "name": "C",
       "count": 41,
-      "pct": 9.4
+      "pct": 9.3
     },
     {
       "name": "D",
@@ -472,12 +472,12 @@
     {
       "name": "E",
       "count": 95,
-      "pct": 21.7
+      "pct": 21.6
     },
     {
       "name": "F",
       "count": 98,
-      "pct": 22.4
+      "pct": 22.3
     },
     {
       "name": "G",
@@ -515,13 +515,13 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 1776,
+      "count": 1777,
       "pct": 50.3
     },
     {
       "name": "COMBINED",
       "count": 1132,
-      "pct": 32.1
+      "pct": 32
     },
     {
       "name": "BAIL BOND",
@@ -559,12 +559,12 @@
         "count": 11
       }
     ],
-    "currentMedianDaysHeld": 52.2,
+    "currentMedianDaysHeld": 51.7,
     "currentLongestDaysHeld": 1038.2
   },
   "bond": {
     "withBond": 328,
-    "noBond": 134,
+    "noBond": 135,
     "medianBond": 24500,
     "maxBond": 10005000,
     "totalBond": 55133900
