@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-17T21:55:17",
+  "generatedAt": "2026-10-17T22:55:15",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 623,
-    "bookingsObserved": 154,
+    "bookingsTracked": 624,
+    "bookingsObserved": 155,
     "releasesObserved": 167,
-    "inCustody": 456,
+    "inCustody": 457,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-17",
-      "booked": 24,
+      "booked": 25,
       "released": 11
     }
   ],
@@ -168,7 +168,7 @@
     },
     {
       "name": "ASSAULT-4 - DV",
-      "count": 140,
+      "count": 141,
       "pct": 4
     },
     {
@@ -266,13 +266,13 @@
     {
       "name": "SO6",
       "count": 437,
-      "pct": 70.3,
+      "pct": 70.1,
       "label": "SO6"
     },
     {
       "name": "VPD",
-      "count": 106,
-      "pct": 17,
+      "count": 107,
+      "pct": 17.2,
       "label": "Vancouver Police"
     },
     {
@@ -345,7 +345,7 @@
     },
     {
       "name": "DARR",
-      "count": 410,
+      "count": 411,
       "pct": 13.8,
       "label": "District Court (DARR)"
     },
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1351,
+      "count": 1352,
       "pct": 38.6,
       "label": "Gross Misdemeanor"
     },
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 23,
-      "pct": 5.3
+      "count": 24,
+      "pct": 5.5
     },
     {
       "name": "C",
@@ -472,17 +472,17 @@
     {
       "name": "E",
       "count": 95,
-      "pct": 22
+      "pct": 21.9
     },
     {
       "name": "F",
       "count": 98,
-      "pct": 22.7
+      "pct": 22.6
     },
     {
       "name": "G",
       "count": 91,
-      "pct": 21.1
+      "pct": 21
     },
     {
       "name": "H",
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 1768,
+      "count": 1769,
       "pct": 50.3
     },
     {
@@ -559,12 +559,12 @@
         "count": 11
       }
     ],
-    "currentMedianDaysHeld": 52.9,
-    "currentLongestDaysHeld": 1037.9
+    "currentMedianDaysHeld": 53,
+    "currentLongestDaysHeld": 1038
   },
   "bond": {
     "withBond": 324,
-    "noBond": 132,
+    "noBond": 133,
     "medianBond": 25000,
     "maxBond": 10005000,
     "totalBond": 55121800
