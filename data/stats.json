@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-17T18:55:16",
+  "generatedAt": "2026-10-17T19:55:18",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 622,
-    "bookingsObserved": 153,
+    "bookingsTracked": 623,
+    "bookingsObserved": 154,
     "releasesObserved": 166,
-    "inCustody": 456,
+    "inCustody": 457,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-17",
-      "booked": 23,
+      "booked": 24,
       "released": 10
     }
   ],
@@ -266,7 +266,7 @@
     {
       "name": "SO6",
       "count": 437,
-      "pct": 70.5,
+      "pct": 70.4,
       "label": "SO6"
     },
     {
@@ -288,6 +288,12 @@
       "label": "Washington State Patrol"
     },
     {
+      "name": "CMP",
+      "count": 5,
+      "pct": 0.8,
+      "label": "CMP"
+    },
+    {
       "name": "BGP",
       "count": 4,
       "pct": 0.6,
@@ -298,12 +304,6 @@
       "count": 4,
       "pct": 0.6,
       "label": "OTH"
-    },
-    {
-      "name": "CMP",
-      "count": 4,
-      "pct": 0.6,
-      "label": "CMP"
     },
     {
       "name": "WGP",
@@ -407,7 +407,7 @@
     },
     {
       "name": "FC",
-      "count": 848,
+      "count": 849,
       "pct": 24.2,
       "label": "Class C Felony"
     },
@@ -419,7 +419,7 @@
     },
     {
       "name": "FA",
-      "count": 280,
+      "count": 281,
       "pct": 8,
       "label": "Class A Felony"
     },
@@ -451,13 +451,13 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 14,
-      "pct": 3.2
+      "count": 15,
+      "pct": 3.5
     },
     {
       "name": "B",
-      "count": 21,
-      "pct": 4.9
+      "count": 22,
+      "pct": 5.1
     },
     {
       "name": "C",
@@ -471,18 +471,18 @@
     },
     {
       "name": "E",
-      "count": 96,
-      "pct": 22.2
+      "count": 95,
+      "pct": 21.9
     },
     {
       "name": "F",
       "count": 98,
-      "pct": 22.7
+      "pct": 22.6
     },
     {
       "name": "G",
       "count": 92,
-      "pct": 21.3
+      "pct": 21.2
     },
     {
       "name": "H",
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 1764,
+      "count": 1766,
       "pct": 50.3
     },
     {
@@ -564,7 +564,7 @@
   },
   "bond": {
     "withBond": 325,
-    "noBond": 131,
+    "noBond": 132,
     "medianBond": 25000,
     "maxBond": 10005000,
     "totalBond": 55371800
