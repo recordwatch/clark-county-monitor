@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T14:55:17",
+  "generatedAt": "2026-10-18T15:48:59",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 634,
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-18",
-      "booked": 7,
+      "booked": 8,
       "released": 2
     }
   ],
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 31,
-      "pct": 7
+      "count": 25,
+      "pct": 5.7
     },
     {
       "name": "C",
@@ -471,13 +471,13 @@
     },
     {
       "name": "E",
-      "count": 97,
-      "pct": 22
+      "count": 100,
+      "pct": 22.7
     },
     {
       "name": "F",
-      "count": 100,
-      "pct": 22.7
+      "count": 101,
+      "pct": 22.9
     },
     {
       "name": "G",
@@ -486,8 +486,8 @@
     },
     {
       "name": "H",
-      "count": 17,
-      "pct": 3.9
+      "count": 18,
+      "pct": 4.1
     },
     {
       "name": "JDH",
@@ -496,8 +496,8 @@
     },
     {
       "name": "M",
-      "count": 9,
-      "pct": 2
+      "count": 10,
+      "pct": 2.3
     },
     {
       "name": "SKAMANIA",
@@ -559,8 +559,8 @@
         "count": 11
       }
     ],
-    "currentMedianDaysHeld": 51.6,
-    "currentLongestDaysHeld": 1038.6
+    "currentMedianDaysHeld": 51.7,
+    "currentLongestDaysHeld": 1038.7
   },
   "bond": {
     "withBond": 328,
