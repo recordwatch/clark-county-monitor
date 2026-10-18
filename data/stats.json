@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T00:55:16",
+  "generatedAt": "2026-10-18T01:55:16",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 626,
@@ -163,7 +163,7 @@
   "topCharges": [
     {
       "name": "PROTECTION ORDER VIOLATION",
-      "count": 363,
+      "count": 364,
       "pct": 10.3
     },
     {
@@ -392,22 +392,22 @@
       "label": "District Court (D3)"
     },
     {
-      "name": "D6",
+      "name": "SARR",
       "count": 46,
       "pct": 1.5,
-      "label": "District Court (D6)"
+      "label": "Superior Court (SARR)"
     }
   ],
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1357,
+      "count": 1358,
       "pct": 38.6,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
-      "count": 849,
+      "count": 850,
       "pct": 24.2,
       "label": "Class C Felony"
     },
@@ -451,13 +451,13 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 15,
-      "pct": 3.4
+      "count": 16,
+      "pct": 3.7
     },
     {
       "name": "B",
-      "count": 26,
-      "pct": 6
+      "count": 24,
+      "pct": 5.5
     },
     {
       "name": "C",
@@ -481,8 +481,8 @@
     },
     {
       "name": "G",
-      "count": 91,
-      "pct": 20.9
+      "count": 92,
+      "pct": 21.1
     },
     {
       "name": "H",
@@ -515,17 +515,17 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 1774,
+      "count": 1775,
       "pct": 50.3
     },
     {
       "name": "COMBINED",
       "count": 1130,
-      "pct": 32.1
+      "pct": 32
     },
     {
       "name": "BAIL BOND",
-      "count": 620,
+      "count": 621,
       "pct": 17.6
     }
   ],
@@ -559,15 +559,15 @@
         "count": 11
       }
     ],
-    "currentMedianDaysHeld": 53,
-    "currentLongestDaysHeld": 1038
+    "currentMedianDaysHeld": 53.1,
+    "currentLongestDaysHeld": 1038.1
   },
   "bond": {
-    "withBond": 325,
-    "noBond": 134,
+    "withBond": 326,
+    "noBond": 133,
     "medianBond": 25000,
     "maxBond": 10005000,
-    "totalBond": 55126900
+    "totalBond": 55131900
   },
   "chargesPerBooking": 5.6
 }
