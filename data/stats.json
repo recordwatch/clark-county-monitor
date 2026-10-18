@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-18T15:55:16",
+  "generatedAt": "2026-10-18T16:55:15",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 634,
-    "bookingsObserved": 165,
-    "releasesObserved": 169,
+    "bookingsTracked": 635,
+    "bookingsObserved": 166,
+    "releasesObserved": 170,
     "inCustody": 465,
     "uniquePeople": 1
   },
@@ -157,7 +157,7 @@
     {
       "date": "2026-10-18",
       "booked": 8,
-      "released": 2
+      "released": 3
     }
   ],
   "topCharges": [
@@ -168,7 +168,7 @@
     },
     {
       "name": "ASSAULT-4 - DV",
-      "count": 142,
+      "count": 143,
       "pct": 4
     },
     {
@@ -183,7 +183,7 @@
     },
     {
       "name": "HARASSMENT PREV CONV OR THREAT TO KILL",
-      "count": 94,
+      "count": 95,
       "pct": 2.7
     },
     {
@@ -194,11 +194,11 @@
     {
       "name": "ASSAULT-4",
       "count": 69,
-      "pct": 2
+      "pct": 1.9
     },
     {
       "name": "ASSAULT-2 -DV",
-      "count": 64,
+      "count": 65,
       "pct": 1.8
     },
     {
@@ -247,13 +247,13 @@
       "pct": 1.4
     },
     {
-      "name": "MALICIOUS MISCHIEF-3",
+      "name": "MALICIOUS MISCHIEF-3 - DV",
       "count": 44,
       "pct": 1.2
     },
     {
-      "name": "MALICIOUS MISCHIEF-3 - DV",
-      "count": 43,
+      "name": "MALICIOUS MISCHIEF-3",
+      "count": 44,
       "pct": 1.2
     },
     {
@@ -266,7 +266,7 @@
     {
       "name": "SO6",
       "count": 437,
-      "pct": 68.9,
+      "pct": 68.8,
       "label": "SO6"
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "CLS",
-      "count": 43,
-      "pct": 6.8,
+      "count": 44,
+      "pct": 6.9,
       "label": "CLS"
     },
     {
@@ -393,27 +393,27 @@
     },
     {
       "name": "SARR",
-      "count": 47,
-      "pct": 1.6,
+      "count": 53,
+      "pct": 1.8,
       "label": "Superior Court (SARR)"
     }
   ],
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1364,
+      "count": 1367,
       "pct": 38.7,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
-      "count": 850,
+      "count": 852,
       "pct": 24.1,
       "label": "Class C Felony"
     },
     {
       "name": "FB",
-      "count": 663,
+      "count": 664,
       "pct": 18.8,
       "label": "Class B Felony"
     },
@@ -451,13 +451,13 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 13,
-      "pct": 2.9
+      "count": 14,
+      "pct": 3.2
     },
     {
       "name": "B",
-      "count": 23,
-      "pct": 5.2
+      "count": 24,
+      "pct": 5.4
     },
     {
       "name": "C",
@@ -471,8 +471,8 @@
     },
     {
       "name": "E",
-      "count": 100,
-      "pct": 22.7
+      "count": 99,
+      "pct": 22.4
     },
     {
       "name": "F",
@@ -481,8 +481,8 @@
     },
     {
       "name": "G",
-      "count": 91,
-      "pct": 20.6
+      "count": 90,
+      "pct": 20.4
     },
     {
       "name": "H",
@@ -508,15 +508,15 @@
   "releaseStatus": [
     {
       "name": "RELEASED",
-      "count": 167,
+      "count": 168,
       "pct": 100
     }
   ],
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 1780,
-      "pct": 50.3
+      "count": 1786,
+      "pct": 50.4
     },
     {
       "name": "COMBINED",
@@ -530,9 +530,9 @@
     }
   ],
   "stay": {
-    "releasedCount": 169,
+    "releasedCount": 170,
     "medianDays": 2,
-    "meanDays": 30.2,
+    "meanDays": 30,
     "buckets": [
       {
         "label": "< 1 day",
@@ -540,7 +540,7 @@
       },
       {
         "label": "1–3 days",
-        "count": 68
+        "count": 69
       },
       {
         "label": "3–7 days",
