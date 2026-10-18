@@ -1,19 +1,14 @@
 {
-  "generatedAt": "2026-10-17T23:55:17",
+  "generatedAt": "2026-10-18T00:55:16",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 625,
-    "bookingsObserved": 156,
+    "bookingsTracked": 626,
+    "bookingsObserved": 157,
     "releasesObserved": 167,
-    "inCustody": 458,
+    "inCustody": 459,
     "uniquePeople": 1
   },
   "bookingsByDay": [
-    {
-      "date": "2026-09-18",
-      "booked": 3,
-      "released": 0
-    },
     {
       "date": "2026-09-19",
       "booked": 1,
@@ -158,6 +153,11 @@
       "date": "2026-10-17",
       "booked": 26,
       "released": 11
+    },
+    {
+      "date": "2026-10-18",
+      "booked": 1,
+      "released": 0
     }
   ],
   "topCharges": [
@@ -266,7 +266,7 @@
     {
       "name": "SO6",
       "count": 437,
-      "pct": 69.9,
+      "pct": 69.8,
       "label": "SO6"
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "CLS",
-      "count": 39,
-      "pct": 6.2,
+      "count": 40,
+      "pct": 6.4,
       "label": "CLS"
     },
     {
@@ -346,7 +346,7 @@
     {
       "name": "DARR",
       "count": 416,
-      "pct": 14,
+      "pct": 13.9,
       "label": "District Court (DARR)"
     },
     {
@@ -364,7 +364,7 @@
     {
       "name": "D4",
       "count": 85,
-      "pct": 2.9,
+      "pct": 2.8,
       "label": "District Court (D4)"
     },
     {
@@ -402,7 +402,7 @@
     {
       "name": "GM",
       "count": 1357,
-      "pct": 38.7,
+      "pct": 38.6,
       "label": "Gross Misdemeanor"
     },
     {
@@ -419,8 +419,8 @@
     },
     {
       "name": "FA",
-      "count": 281,
-      "pct": 8,
+      "count": 285,
+      "pct": 8.1,
       "label": "Class A Felony"
     },
     {
@@ -452,12 +452,12 @@
     {
       "name": "A",
       "count": 15,
-      "pct": 3.5
+      "pct": 3.4
     },
     {
       "name": "B",
-      "count": 25,
-      "pct": 5.8
+      "count": 26,
+      "pct": 6
     },
     {
       "name": "C",
@@ -467,22 +467,22 @@
     {
       "name": "D",
       "count": 35,
-      "pct": 8.1
+      "pct": 8
     },
     {
       "name": "E",
       "count": 95,
-      "pct": 21.9
+      "pct": 21.8
     },
     {
       "name": "F",
       "count": 98,
-      "pct": 22.6
+      "pct": 22.5
     },
     {
       "name": "G",
       "count": 91,
-      "pct": 21
+      "pct": 20.9
     },
     {
       "name": "H",
@@ -502,7 +502,7 @@
     {
       "name": "SKAMANIA",
       "count": 5,
-      "pct": 1.2
+      "pct": 1.1
     }
   ],
   "releaseStatus": [
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 1770,
+      "count": 1774,
       "pct": 50.3
     },
     {
@@ -564,7 +564,7 @@
   },
   "bond": {
     "withBond": 325,
-    "noBond": 133,
+    "noBond": 134,
     "medianBond": 25000,
     "maxBond": 10005000,
     "totalBond": 55126900
