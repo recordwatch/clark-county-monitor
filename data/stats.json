@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-17T18:21:00",
+  "generatedAt": "2026-10-17T18:55:16",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 621,
-    "bookingsObserved": 152,
+    "bookingsTracked": 622,
+    "bookingsObserved": 153,
     "releasesObserved": 166,
-    "inCustody": 455,
+    "inCustody": 456,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-17",
-      "booked": 22,
+      "booked": 23,
       "released": 10
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "PROTECTION ORDER VIOLATION",
       "count": 363,
-      "pct": 10.4
+      "pct": 10.3
     },
     {
       "name": "ASSAULT-4 - DV",
@@ -188,7 +188,7 @@
     },
     {
       "name": "THEFT-3",
-      "count": 92,
+      "count": 93,
       "pct": 2.6
     },
     {
@@ -233,8 +233,8 @@
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOWINGLY POSSESS",
-      "count": 54,
-      "pct": 1.5
+      "count": 55,
+      "pct": 1.6
     },
     {
       "name": "UNLAWFUL CAMPING",
@@ -252,27 +252,27 @@
       "pct": 1.3
     },
     {
-      "name": "RAPE OF A CHILD-1",
-      "count": 42,
+      "name": "BURGLARY-2",
+      "count": 43,
       "pct": 1.2
     },
     {
-      "name": "UNLAWFUL IMPRISONMENT -DV",
-      "count": 41,
+      "name": "RAPE OF A CHILD-1",
+      "count": 42,
       "pct": 1.2
     }
   ],
   "topAgencies": [
     {
       "name": "SO6",
-      "count": 436,
-      "pct": 70.6,
+      "count": 437,
+      "pct": 70.5,
       "label": "SO6"
     },
     {
       "name": "VPD",
-      "count": 104,
-      "pct": 16.8,
+      "count": 105,
+      "pct": 16.9,
       "label": "Vancouver Police"
     },
     {
@@ -340,19 +340,19 @@
     {
       "name": "S9",
       "count": 429,
-      "pct": 14.5,
+      "pct": 14.4,
       "label": "Superior Court (S9)"
     },
     {
       "name": "DARR",
-      "count": 407,
-      "pct": 13.7,
+      "count": 410,
+      "pct": 13.8,
       "label": "District Court (DARR)"
     },
     {
       "name": "S8",
       "count": 334,
-      "pct": 11.3,
+      "pct": 11.2,
       "label": "Superior Court (S8)"
     },
     {
@@ -394,27 +394,27 @@
     {
       "name": "D6",
       "count": 46,
-      "pct": 1.6,
+      "pct": 1.5,
       "label": "District Court (D6)"
     }
   ],
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1349,
+      "count": 1351,
       "pct": 38.6,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
       "count": 848,
-      "pct": 24.3,
+      "pct": 24.2,
       "label": "Class C Felony"
     },
     {
       "name": "FB",
-      "count": 654,
-      "pct": 18.7,
+      "count": 661,
+      "pct": 18.9,
       "label": "Class B Felony"
     },
     {
@@ -425,8 +425,8 @@
     },
     {
       "name": "M",
-      "count": 272,
-      "pct": 7.8,
+      "count": 270,
+      "pct": 7.7,
       "label": "Misdemeanor"
     },
     {
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 20,
-      "pct": 4.6
+      "count": 21,
+      "pct": 4.9
     },
     {
       "name": "C",
@@ -472,7 +472,7 @@
     {
       "name": "E",
       "count": 96,
-      "pct": 22.3
+      "pct": 22.2
     },
     {
       "name": "F",
@@ -515,17 +515,17 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 1757,
-      "pct": 50.2
+      "count": 1764,
+      "pct": 50.3
     },
     {
       "name": "COMBINED",
       "count": 1127,
-      "pct": 32.2
+      "pct": 32.1
     },
     {
       "name": "BAIL BOND",
-      "count": 616,
+      "count": 619,
       "pct": 17.6
     }
   ],
@@ -563,11 +563,11 @@
     "currentLongestDaysHeld": 1037.8
   },
   "bond": {
-    "withBond": 324,
+    "withBond": 325,
     "noBond": 131,
     "medianBond": 25000,
     "maxBond": 10005000,
-    "totalBond": 55366800
+    "totalBond": 55371800
   },
   "chargesPerBooking": 5.6
 }
