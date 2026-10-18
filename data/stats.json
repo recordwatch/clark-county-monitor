@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-18T04:31:54",
+  "generatedAt": "2026-10-18T04:55:15",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 630,
-    "bookingsObserved": 161,
+    "bookingsTracked": 631,
+    "bookingsObserved": 162,
     "releasesObserved": 167,
-    "inCustody": 463,
+    "inCustody": 464,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -173,7 +173,7 @@
     },
     {
       "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
-      "count": 99,
+      "count": 100,
       "pct": 2.8
     },
     {
@@ -266,7 +266,7 @@
     {
       "name": "SO6",
       "count": 437,
-      "pct": 69.4,
+      "pct": 69.3,
       "label": "SO6"
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "CLS",
-      "count": 41,
-      "pct": 6.5,
+      "count": 42,
+      "pct": 6.7,
       "label": "CLS"
     },
     {
@@ -345,7 +345,7 @@
     },
     {
       "name": "DARR",
-      "count": 422,
+      "count": 423,
       "pct": 14.1,
       "label": "District Court (DARR)"
     },
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1362,
+      "count": 1363,
       "pct": 38.7,
       "label": "Gross Misdemeanor"
     },
@@ -525,8 +525,8 @@
     },
     {
       "name": "BAIL BOND",
-      "count": 623,
-      "pct": 17.6
+      "count": 624,
+      "pct": 17.7
     }
   ],
   "stay": {
@@ -559,15 +559,15 @@
         "count": 11
       }
     ],
-    "currentMedianDaysHeld": 51.7,
+    "currentMedianDaysHeld": 51.2,
     "currentLongestDaysHeld": 1038.2
   },
   "bond": {
-    "withBond": 328,
+    "withBond": 329,
     "noBond": 135,
-    "medianBond": 24500,
+    "medianBond": 24000,
     "maxBond": 10005000,
-    "totalBond": 55133900
+    "totalBond": 55134900
   },
   "chargesPerBooking": 5.6
 }
