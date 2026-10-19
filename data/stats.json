@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T00:55:15",
+  "generatedAt": "2026-10-19T01:55:18",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 643,
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-19",
-      "booked": 0,
+      "booked": 1,
       "released": 0
     }
   ],
@@ -202,17 +202,17 @@
       "pct": 1.8
     },
     {
+      "name": "ASSAULT-3",
+      "count": 60,
+      "pct": 1.7
+    },
+    {
       "name": "RESISTING ARREST",
       "count": 60,
       "pct": 1.7
     },
     {
       "name": "OBSTRUCT LAW ENFORCEMENT OFC",
-      "count": 60,
-      "pct": 1.7
-    },
-    {
-      "name": "ASSAULT-3",
       "count": 60,
       "pct": 1.7
     },
@@ -339,7 +339,7 @@
     },
     {
       "name": "DARR",
-      "count": 431,
+      "count": 430,
       "pct": 14.3,
       "label": "District Court (DARR)"
     },
@@ -386,16 +386,16 @@
       "label": "District Court (D1)"
     },
     {
+      "name": "SARR",
+      "count": 60,
+      "pct": 2,
+      "label": "Superior Court (SARR)"
+    },
+    {
       "name": "D3",
       "count": 60,
       "pct": 2,
       "label": "District Court (D3)"
-    },
-    {
-      "name": "SARR",
-      "count": 59,
-      "pct": 2,
-      "label": "Superior Court (SARR)"
     }
   ],
   "chargeClasses": [
@@ -559,8 +559,8 @@
         "count": 11
       }
     ],
-    "currentMedianDaysHeld": 49,
-    "currentLongestDaysHeld": 1039
+    "currentMedianDaysHeld": 49.1,
+    "currentLongestDaysHeld": 1039.1
   },
   "bond": {
     "withBond": 332,
