@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T12:55:18",
+  "generatedAt": "2026-10-19T13:55:16",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 654,
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-19",
-      "booked": 11,
+      "booked": 12,
       "released": 2
     }
   ],
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "SO6",
-      "count": 440,
+      "count": 441,
       "pct": 67.7,
       "label": "SO6"
     },
     {
       "name": "VPD",
       "count": 118,
-      "pct": 18.2,
+      "pct": 18.1,
       "label": "Vancouver Police"
     },
     {
@@ -351,8 +351,8 @@
     },
     {
       "name": "S8",
-      "count": 398,
-      "pct": 13,
+      "count": 401,
+      "pct": 13.1,
       "label": "Superior Court (S8)"
     },
     {
@@ -407,7 +407,7 @@
     },
     {
       "name": "FC",
-      "count": 861,
+      "count": 862,
       "pct": 24,
       "label": "Class C Felony"
     },
@@ -451,8 +451,8 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 14,
-      "pct": 3.1
+      "count": 12,
+      "pct": 2.6
     },
     {
       "name": "B",
@@ -471,8 +471,8 @@
     },
     {
       "name": "E",
-      "count": 100,
-      "pct": 21.9
+      "count": 102,
+      "pct": 22.4
     },
     {
       "name": "F",
@@ -525,8 +525,8 @@
     },
     {
       "name": "BAIL BOND",
-      "count": 638,
-      "pct": 17.7
+      "count": 639,
+      "pct": 17.8
     }
   ],
   "stay": {
@@ -559,15 +559,15 @@
         "count": 11
       }
     ],
-    "currentMedianDaysHeld": 47.5,
-    "currentLongestDaysHeld": 1039.5
+    "currentMedianDaysHeld": 47.6,
+    "currentLongestDaysHeld": 1039.6
   },
   "bond": {
-    "withBond": 339,
-    "noBond": 143,
-    "medianBond": 21000,
+    "withBond": 340,
+    "noBond": 142,
+    "medianBond": 20750,
     "maxBond": 10005000,
-    "totalBond": 55248200
+    "totalBond": 55255700
   },
   "chargesPerBooking": 5.5
 }
