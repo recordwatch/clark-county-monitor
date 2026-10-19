@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T05:55:15",
+  "generatedAt": "2026-10-19T06:55:16",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 644,
@@ -218,7 +218,7 @@
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOWINGLY POSSESS",
-      "count": 57,
+      "count": 58,
       "pct": 1.6
     },
     {
@@ -352,7 +352,7 @@
     {
       "name": "S8",
       "count": 334,
-      "pct": 11.1,
+      "pct": 11,
       "label": "Superior Court (S8)"
     },
     {
@@ -380,16 +380,16 @@
       "label": "Superior Court (SARR)"
     },
     {
+      "name": "D1",
+      "count": 67,
+      "pct": 2.2,
+      "label": "District Court (D1)"
+    },
+    {
       "name": "D5",
       "count": 67,
       "pct": 2.2,
       "label": "District Court (D5)"
-    },
-    {
-      "name": "D1",
-      "count": 66,
-      "pct": 2.2,
-      "label": "District Court (D1)"
     },
     {
       "name": "D3",
@@ -401,8 +401,8 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1376,
-      "pct": 38.7,
+      "count": 1377,
+      "pct": 38.8,
       "label": "Gross Misdemeanor"
     },
     {
@@ -414,13 +414,13 @@
     {
       "name": "FB",
       "count": 666,
-      "pct": 18.8,
+      "pct": 18.7,
       "label": "Class B Felony"
     },
     {
       "name": "FA",
       "count": 286,
-      "pct": 8.1,
+      "pct": 8,
       "label": "Class A Felony"
     },
     {
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 1801,
+      "count": 1802,
       "pct": 50.6
     },
     {
@@ -559,8 +559,8 @@
         "count": 11
       }
     ],
-    "currentMedianDaysHeld": 48.7,
-    "currentLongestDaysHeld": 1039.2
+    "currentMedianDaysHeld": 48.8,
+    "currentLongestDaysHeld": 1039.3
   },
   "bond": {
     "withBond": 333,
