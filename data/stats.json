@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-19T08:55:16",
+  "generatedAt": "2026-10-19T09:55:15",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 647,
-    "bookingsObserved": 178,
-    "releasesObserved": 170,
-    "inCustody": 477,
+    "bookingsTracked": 648,
+    "bookingsObserved": 179,
+    "releasesObserved": 172,
+    "inCustody": 476,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,8 +156,8 @@
     },
     {
       "date": "2026-10-19",
-      "booked": 5,
-      "released": 0
+      "booked": 6,
+      "released": 2
     }
   ],
   "topCharges": [
@@ -173,7 +173,7 @@
     },
     {
       "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
-      "count": 103,
+      "count": 105,
       "pct": 2.9
     },
     {
@@ -266,19 +266,19 @@
     {
       "name": "SO6",
       "count": 439,
-      "pct": 68,
+      "pct": 67.9,
       "label": "SO6"
     },
     {
       "name": "VPD",
       "count": 116,
-      "pct": 18,
+      "pct": 17.9,
       "label": "Vancouver Police"
     },
     {
       "name": "CLS",
-      "count": 46,
-      "pct": 7.1,
+      "count": 47,
+      "pct": 7.3,
       "label": "CLS"
     },
     {
@@ -328,7 +328,7 @@
     {
       "name": "S3",
       "count": 447,
-      "pct": 14.8,
+      "pct": 14.7,
       "label": "Superior Court (S3)"
     },
     {
@@ -339,7 +339,7 @@
     },
     {
       "name": "DARR",
-      "count": 430,
+      "count": 431,
       "pct": 14.2,
       "label": "District Court (DARR)"
     },
@@ -351,8 +351,8 @@
     },
     {
       "name": "S8",
-      "count": 335,
-      "pct": 11.1,
+      "count": 342,
+      "pct": 11.3,
       "label": "Superior Court (S8)"
     },
     {
@@ -374,12 +374,6 @@
       "label": "District Court (D2)"
     },
     {
-      "name": "SARR",
-      "count": 69,
-      "pct": 2.3,
-      "label": "Superior Court (SARR)"
-    },
-    {
       "name": "D1",
       "count": 67,
       "pct": 2.2,
@@ -392,6 +386,12 @@
       "label": "District Court (D5)"
     },
     {
+      "name": "SARR",
+      "count": 65,
+      "pct": 2.1,
+      "label": "Superior Court (SARR)"
+    },
+    {
       "name": "D3",
       "count": 60,
       "pct": 2,
@@ -401,8 +401,8 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1378,
-      "pct": 38.7,
+      "count": 1381,
+      "pct": 38.8,
       "label": "Gross Misdemeanor"
     },
     {
@@ -456,18 +456,18 @@
     },
     {
       "name": "B",
-      "count": 30,
-      "pct": 6.7
+      "count": 31,
+      "pct": 6.9
     },
     {
       "name": "C",
-      "count": 42,
-      "pct": 9.3
+      "count": 41,
+      "pct": 9.1
     },
     {
       "name": "D",
-      "count": 35,
-      "pct": 7.8
+      "count": 34,
+      "pct": 7.6
     },
     {
       "name": "E",
@@ -508,15 +508,15 @@
   "releaseStatus": [
     {
       "name": "RELEASED",
-      "count": 168,
+      "count": 170,
       "pct": 100
     }
   ],
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 1803,
-      "pct": 50.5
+      "count": 1805,
+      "pct": 50.6
     },
     {
       "name": "COMBINED",
@@ -525,14 +525,14 @@
     },
     {
       "name": "BAIL BOND",
-      "count": 632,
+      "count": 633,
       "pct": 17.7
     }
   ],
   "stay": {
-    "releasedCount": 170,
+    "releasedCount": 172,
     "medianDays": 2,
-    "meanDays": 30,
+    "meanDays": 29.8,
     "buckets": [
       {
         "label": "< 1 day",
@@ -544,11 +544,11 @@
       },
       {
         "label": "3–7 days",
-        "count": 18
+        "count": 19
       },
       {
         "label": "1–4 weeks",
-        "count": 18
+        "count": 19
       },
       {
         "label": "1–3 months",
@@ -563,11 +563,11 @@
     "currentLongestDaysHeld": 1039.4
   },
   "bond": {
-    "withBond": 335,
+    "withBond": 334,
     "noBond": 142,
-    "medianBond": 21000,
+    "medianBond": 21250,
     "maxBond": 10005000,
-    "totalBond": 55161450
+    "totalBond": 55156450
   },
   "chargesPerBooking": 5.5
 }
