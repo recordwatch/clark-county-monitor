@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-19T11:55:16",
+  "generatedAt": "2026-10-19T12:55:18",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 653,
-    "bookingsObserved": 184,
+    "bookingsTracked": 654,
+    "bookingsObserved": 185,
     "releasesObserved": 172,
-    "inCustody": 481,
+    "inCustody": 482,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,14 +156,14 @@
     },
     {
       "date": "2026-10-19",
-      "booked": 9,
+      "booked": 11,
       "released": 2
     }
   ],
   "topCharges": [
     {
       "name": "PROTECTION ORDER VIOLATION",
-      "count": 367,
+      "count": 368,
       "pct": 10.2
     },
     {
@@ -327,19 +327,19 @@
   "courts": [
     {
       "name": "S3",
-      "count": 448,
+      "count": 449,
       "pct": 14.7,
       "label": "Superior Court (S3)"
     },
     {
       "name": "DARR",
-      "count": 445,
+      "count": 446,
       "pct": 14.6,
       "label": "District Court (DARR)"
     },
     {
       "name": "S12",
-      "count": 438,
+      "count": 437,
       "pct": 14.3,
       "label": "Superior Court (S12)"
     },
@@ -351,8 +351,8 @@
     },
     {
       "name": "S8",
-      "count": 385,
-      "pct": 12.6,
+      "count": 398,
+      "pct": 13,
       "label": "Superior Court (S8)"
     },
     {
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1397,
+      "count": 1398,
       "pct": 38.9,
       "label": "Gross Misdemeanor"
     },
@@ -414,7 +414,7 @@
     {
       "name": "FB",
       "count": 670,
-      "pct": 18.7,
+      "pct": 18.6,
       "label": "Class B Felony"
     },
     {
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 35,
-      "pct": 7.7
+      "count": 36,
+      "pct": 7.9
     },
     {
       "name": "C",
@@ -472,12 +472,12 @@
     {
       "name": "E",
       "count": 100,
-      "pct": 22
+      "pct": 21.9
     },
     {
       "name": "F",
       "count": 101,
-      "pct": 22.2
+      "pct": 22.1
     },
     {
       "name": "G",
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 1822,
+      "count": 1823,
       "pct": 50.7
     },
     {
@@ -559,12 +559,12 @@
         "count": 11
       }
     ],
-    "currentMedianDaysHeld": 48.5,
+    "currentMedianDaysHeld": 47.5,
     "currentLongestDaysHeld": 1039.5
   },
   "bond": {
     "withBond": 339,
-    "noBond": 142,
+    "noBond": 143,
     "medianBond": 21000,
     "maxBond": 10005000,
     "totalBond": 55248200
