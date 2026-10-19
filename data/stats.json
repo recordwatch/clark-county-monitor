@@ -1,19 +1,14 @@
 {
-  "generatedAt": "2026-10-18T23:55:16",
+  "generatedAt": "2026-10-19T00:55:15",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 642,
-    "bookingsObserved": 173,
+    "bookingsTracked": 643,
+    "bookingsObserved": 174,
     "releasesObserved": 170,
-    "inCustody": 472,
+    "inCustody": 473,
     "uniquePeople": 1
   },
   "bookingsByDay": [
-    {
-      "date": "2026-09-19",
-      "booked": 1,
-      "released": 0
-    },
     {
       "date": "2026-09-20",
       "booked": 1,
@@ -158,18 +153,23 @@
       "date": "2026-10-18",
       "booked": 16,
       "released": 3
+    },
+    {
+      "date": "2026-10-19",
+      "booked": 0,
+      "released": 0
     }
   ],
   "topCharges": [
     {
       "name": "PROTECTION ORDER VIOLATION",
       "count": 365,
-      "pct": 10.3
+      "pct": 10.2
     },
     {
       "name": "ASSAULT-4 - DV",
-      "count": 144,
-      "pct": 4
+      "count": 145,
+      "pct": 4.1
     },
     {
       "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
@@ -202,18 +202,18 @@
       "pct": 1.8
     },
     {
+      "name": "RESISTING ARREST",
+      "count": 60,
+      "pct": 1.7
+    },
+    {
       "name": "OBSTRUCT LAW ENFORCEMENT OFC",
       "count": 60,
       "pct": 1.7
     },
     {
-      "name": "RESISTING ARREST",
-      "count": 59,
-      "pct": 1.7
-    },
-    {
       "name": "ASSAULT-3",
-      "count": 59,
+      "count": 60,
       "pct": 1.7
     },
     {
@@ -266,13 +266,13 @@
     {
       "name": "SO6",
       "count": 437,
-      "pct": 68.3,
+      "pct": 68.2,
       "label": "SO6"
     },
     {
       "name": "VPD",
-      "count": 116,
-      "pct": 18.1,
+      "count": 117,
+      "pct": 18.3,
       "label": "Vancouver Police"
     },
     {
@@ -393,21 +393,21 @@
     },
     {
       "name": "SARR",
-      "count": 55,
-      "pct": 1.8,
+      "count": 59,
+      "pct": 2,
       "label": "Superior Court (SARR)"
     }
   ],
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1374,
+      "count": 1375,
       "pct": 38.7,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
-      "count": 857,
+      "count": 859,
       "pct": 24.2,
       "label": "Class C Felony"
     },
@@ -425,7 +425,7 @@
     },
     {
       "name": "M",
-      "count": 272,
+      "count": 273,
       "pct": 7.7,
       "label": "Misdemeanor"
     },
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 27,
-      "pct": 6
+      "count": 28,
+      "pct": 6.2
     },
     {
       "name": "C",
@@ -477,7 +477,7 @@
     {
       "name": "F",
       "count": 99,
-      "pct": 22.1
+      "pct": 22
     },
     {
       "name": "G",
@@ -515,18 +515,18 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 1792,
+      "count": 1796,
       "pct": 50.5
     },
     {
       "name": "COMBINED",
       "count": 1132,
-      "pct": 31.9
+      "pct": 31.8
     },
     {
       "name": "BAIL BOND",
       "count": 627,
-      "pct": 17.7
+      "pct": 17.6
     }
   ],
   "stay": {
@@ -564,7 +564,7 @@
   },
   "bond": {
     "withBond": 332,
-    "noBond": 140,
+    "noBond": 141,
     "medianBond": 22000,
     "maxBond": 10005000,
     "totalBond": 55134950
