@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T15:55:16",
+  "generatedAt": "2026-10-19T16:55:18",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 655,
@@ -243,8 +243,8 @@
     },
     {
       "name": "ASSAULT-2",
-      "count": 48,
-      "pct": 1.3
+      "count": 49,
+      "pct": 1.4
     },
     {
       "name": "MALICIOUS MISCHIEF-3 - DV",
@@ -277,14 +277,14 @@
     },
     {
       "name": "CLS",
-      "count": 47,
-      "pct": 7.2,
+      "count": 46,
+      "pct": 7,
       "label": "CLS"
     },
     {
       "name": "WSP",
-      "count": 11,
-      "pct": 1.7,
+      "count": 12,
+      "pct": 1.8,
       "label": "Washington State Patrol"
     },
     {
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 458,
+      "count": 456,
       "pct": 14.9,
       "label": "District Court (DARR)"
     },
@@ -351,8 +351,8 @@
     },
     {
       "name": "S8",
-      "count": 405,
-      "pct": 13.2,
+      "count": 412,
+      "pct": 13.4,
       "label": "Superior Court (S8)"
     },
     {
@@ -413,7 +413,7 @@
     },
     {
       "name": "FB",
-      "count": 670,
+      "count": 671,
       "pct": 18.6,
       "label": "Class B Felony"
     },
@@ -425,7 +425,7 @@
     },
     {
       "name": "FA",
-      "count": 286,
+      "count": 285,
       "pct": 7.9,
       "label": "Class A Felony"
     },
@@ -451,13 +451,13 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 10,
-      "pct": 2.2
+      "count": 9,
+      "pct": 2
     },
     {
       "name": "B",
-      "count": 31,
-      "pct": 6.8
+      "count": 23,
+      "pct": 5
     },
     {
       "name": "C",
@@ -471,18 +471,18 @@
     },
     {
       "name": "E",
+      "count": 107,
+      "pct": 23.5
+    },
+    {
+      "name": "F",
       "count": 103,
       "pct": 22.6
     },
     {
-      "name": "F",
-      "count": 101,
-      "pct": 22.1
-    },
-    {
       "name": "G",
-      "count": 92,
-      "pct": 20.2
+      "count": 95,
+      "pct": 20.8
     },
     {
       "name": "H",
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 1822,
+      "count": 1823,
       "pct": 50.5
     },
     {
@@ -525,7 +525,7 @@
     },
     {
       "name": "BAIL BOND",
-      "count": 646,
+      "count": 645,
       "pct": 17.9
     }
   ],
@@ -565,9 +565,9 @@
   "bond": {
     "withBond": 341,
     "noBond": 141,
-    "medianBond": 21000,
+    "medianBond": 20500,
     "maxBond": 10005000,
-    "totalBond": 55270500
+    "totalBond": 55170500
   },
   "chargesPerBooking": 5.5
 }
