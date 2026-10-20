@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-20T00:55:14",
+  "generatedAt": "2026-10-20T01:55:21",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 664,
-    "bookingsObserved": 195,
+    "bookingsTracked": 665,
+    "bookingsObserved": 196,
     "releasesObserved": 204,
-    "inCustody": 460,
+    "inCustody": 461,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-20",
-      "booked": 1,
+      "booked": 2,
       "released": 2
     }
   ],
@@ -168,8 +168,8 @@
     },
     {
       "name": "ASSAULT-4 - DV",
-      "count": 151,
-      "pct": 4.1
+      "count": 152,
+      "pct": 4.2
     },
     {
       "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
@@ -266,13 +266,13 @@
     {
       "name": "SO6",
       "count": 459,
-      "pct": 69.1,
+      "pct": 69,
       "label": "SO6"
     },
     {
       "name": "VPD",
-      "count": 121,
-      "pct": 18.2,
+      "count": 122,
+      "pct": 18.3,
       "label": "Vancouver Police"
     },
     {
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 452,
+      "count": 453,
       "pct": 14.6,
       "label": "District Court (DARR)"
     },
@@ -401,8 +401,8 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1431,
-      "pct": 39.3,
+      "count": 1432,
+      "pct": 39.4,
       "label": "Gross Misdemeanor"
     },
     {
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 20,
-      "pct": 4.6
+      "count": 21,
+      "pct": 4.8
     },
     {
       "name": "C",
@@ -482,7 +482,7 @@
     {
       "name": "G",
       "count": 94,
-      "pct": 21.7
+      "pct": 21.6
     },
     {
       "name": "H",
@@ -502,7 +502,7 @@
     {
       "name": "SKAMANIA",
       "count": 5,
-      "pct": 1.2
+      "pct": 1.1
     }
   ],
   "releaseStatus": [
@@ -515,18 +515,18 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 1822,
+      "count": 1823,
       "pct": 50
     },
     {
       "name": "COMBINED",
-      "count": 1159,
+      "count": 1161,
       "pct": 31.8
     },
     {
       "name": "BAIL BOND",
-      "count": 666,
-      "pct": 18.3
+      "count": 664,
+      "pct": 18.2
     }
   ],
   "stay": {
@@ -559,15 +559,15 @@
         "count": 11
       }
     ],
-    "currentMedianDaysHeld": 55,
-    "currentLongestDaysHeld": 1040
+    "currentMedianDaysHeld": 54.6,
+    "currentLongestDaysHeld": 1040.1
   },
   "bond": {
     "withBond": 338,
-    "noBond": 122,
+    "noBond": 123,
     "medianBond": 24000,
     "maxBond": 10005000,
-    "totalBond": 55470250
+    "totalBond": 55468250
   },
   "chargesPerBooking": 5.5
 }
