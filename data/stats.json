@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T10:44:40",
+  "generatedAt": "2026-10-20T10:55:16",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 675,
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-20",
-      "booked": 9,
+      "booked": 11,
       "released": 12
     }
   ],
@@ -183,7 +183,7 @@
     },
     {
       "name": "HARASSMENT PREV CONV OR THREAT TO KILL",
-      "count": 99,
+      "count": 100,
       "pct": 2.7
     },
     {
@@ -339,8 +339,8 @@
     },
     {
       "name": "S12",
-      "count": 443,
-      "pct": 14.2,
+      "count": 442,
+      "pct": 14.1,
       "label": "Superior Court (S12)"
     },
     {
@@ -351,14 +351,14 @@
     },
     {
       "name": "S8",
-      "count": 396,
-      "pct": 12.7,
+      "count": 407,
+      "pct": 13,
       "label": "Superior Court (S8)"
     },
     {
       "name": "S10",
-      "count": 302,
-      "pct": 9.7,
+      "count": 301,
+      "pct": 9.6,
       "label": "Superior Court (S10)"
     },
     {
@@ -407,14 +407,14 @@
     },
     {
       "name": "FC",
-      "count": 870,
+      "count": 873,
       "pct": 23.8,
       "label": "Class C Felony"
     },
     {
       "name": "FB",
-      "count": 675,
-      "pct": 18.4,
+      "count": 677,
+      "pct": 18.5,
       "label": "Class B Felony"
     },
     {
@@ -515,13 +515,13 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 1837,
-      "pct": 50
+      "count": 1842,
+      "pct": 50.1
     },
     {
       "name": "COMBINED",
       "count": 1163,
-      "pct": 31.7
+      "pct": 31.6
     },
     {
       "name": "BAIL BOND",
@@ -559,8 +559,8 @@
         "count": 11
       }
     ],
-    "currentMedianDaysHeld": 55.4,
-    "currentLongestDaysHeld": 1040.4
+    "currentMedianDaysHeld": 53.5,
+    "currentLongestDaysHeld": 1040.5
   },
   "bond": {
     "withBond": 340,
@@ -569,5 +569,5 @@
     "maxBond": 10005000,
     "totalBond": 55445750
   },
-  "chargesPerBooking": 5.4
+  "chargesPerBooking": 5.5
 }
