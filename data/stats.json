@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T14:11:24",
+  "generatedAt": "2026-10-20T14:55:16",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 681,
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-20",
-      "booked": 17,
+      "booked": 18,
       "released": 13
     }
   ],
@@ -345,8 +345,8 @@
     },
     {
       "name": "S8",
-      "count": 422,
-      "pct": 13.4,
+      "count": 424,
+      "pct": 13.5,
       "label": "Superior Court (S8)"
     },
     {
@@ -456,13 +456,13 @@
     },
     {
       "name": "B",
-      "count": 30,
-      "pct": 6.8
+      "count": 29,
+      "pct": 6.6
     },
     {
       "name": "C",
-      "count": 38,
-      "pct": 8.6
+      "count": 37,
+      "pct": 8.4
     },
     {
       "name": "D",
@@ -496,8 +496,8 @@
     },
     {
       "name": "M",
-      "count": 8,
-      "pct": 1.8
+      "count": 10,
+      "pct": 2.3
     },
     {
       "name": "SKAMANIA",
@@ -559,7 +559,7 @@
         "count": 11
       }
     ],
-    "currentMedianDaysHeld": 53.6,
+    "currentMedianDaysHeld": 52.6,
     "currentLongestDaysHeld": 1040.6
   },
   "bond": {
