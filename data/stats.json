@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T15:55:18",
+  "generatedAt": "2026-10-21T15:59:29",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 702,
@@ -228,7 +228,7 @@
     },
     {
       "name": "UNLAWFUL CAMPING",
-      "count": 57,
+      "count": 58,
       "pct": 1.5
     },
     {
@@ -333,8 +333,8 @@
     },
     {
       "name": "S3",
-      "count": 444,
-      "pct": 13.8,
+      "count": 448,
+      "pct": 13.9,
       "label": "Superior Court (S3)"
     },
     {
@@ -357,8 +357,8 @@
     },
     {
       "name": "S10",
-      "count": 310,
-      "pct": 9.6,
+      "count": 306,
+      "pct": 9.5,
       "label": "Superior Court (S10)"
     },
     {
@@ -559,7 +559,7 @@
         "count": 11
       }
     ],
-    "currentMedianDaysHeld": 51.7,
+    "currentMedianDaysHeld": 51.2,
     "currentLongestDaysHeld": 1041.7
   },
   "bond": {
