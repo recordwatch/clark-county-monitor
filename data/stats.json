@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T15:59:29",
+  "generatedAt": "2026-10-21T16:55:17",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 702,
@@ -183,7 +183,7 @@
     },
     {
       "name": "PROTECTION ORDER VIOL PREV CONVICTI",
-      "count": 105,
+      "count": 106,
       "pct": 2.8
     },
     {
@@ -340,13 +340,13 @@
     {
       "name": "S12",
       "count": 443,
-      "pct": 13.7,
+      "pct": 13.8,
       "label": "Superior Court (S12)"
     },
     {
       "name": "S8",
-      "count": 440,
-      "pct": 13.7,
+      "count": 438,
+      "pct": 13.6,
       "label": "Superior Court (S8)"
     },
     {
@@ -407,7 +407,7 @@
     },
     {
       "name": "FC",
-      "count": 899,
+      "count": 898,
       "pct": 23.8,
       "label": "Class C Felony"
     },
@@ -443,7 +443,7 @@
     },
     {
       "name": "AD",
-      "count": 7,
+      "count": 8,
       "pct": 0.2,
       "label": "AD"
     }
@@ -471,13 +471,13 @@
     },
     {
       "name": "E",
-      "count": 101,
-      "pct": 22.7
+      "count": 100,
+      "pct": 22.5
     },
     {
       "name": "F",
-      "count": 99,
-      "pct": 22.2
+      "count": 100,
+      "pct": 22.5
     },
     {
       "name": "G",
@@ -486,8 +486,8 @@
     },
     {
       "name": "H",
-      "count": 20,
-      "pct": 4.5
+      "count": 21,
+      "pct": 4.7
     },
     {
       "name": "JDH",
@@ -496,8 +496,8 @@
     },
     {
       "name": "M",
-      "count": 10,
-      "pct": 2.2
+      "count": 9,
+      "pct": 2
     },
     {
       "name": "SKAMANIA",
@@ -515,12 +515,12 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 1919,
-      "pct": 50.6
+      "count": 1922,
+      "pct": 50.7
     },
     {
       "name": "COMBINED",
-      "count": 1188,
+      "count": 1185,
       "pct": 31.3
     },
     {
