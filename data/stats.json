@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T22:07:10",
+  "generatedAt": "2026-10-20T22:55:14",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 686,
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-20",
-      "booked": 22,
+      "booked": 23,
       "released": 26
     }
   ],
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "SO6",
-      "count": 461,
-      "pct": 67.2,
+      "count": 462,
+      "pct": 67.3,
       "label": "SO6"
     },
     {
       "name": "VPD",
-      "count": 126,
-      "pct": 18.4,
+      "count": 125,
+      "pct": 18.2,
       "label": "Vancouver Police"
     },
     {
@@ -381,8 +381,8 @@
     },
     {
       "name": "D5",
-      "count": 71,
-      "pct": 2.2,
+      "count": 80,
+      "pct": 2.5,
       "label": "District Court (D5)"
     },
     {
@@ -393,8 +393,8 @@
     },
     {
       "name": "D6",
-      "count": 54,
-      "pct": 1.7,
+      "count": 45,
+      "pct": 1.4,
       "label": "District Court (D6)"
     }
   ],
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 23,
-      "pct": 5.3
+      "count": 24,
+      "pct": 5.6
     },
     {
       "name": "C",
@@ -476,8 +476,8 @@
     },
     {
       "name": "F",
-      "count": 96,
-      "pct": 22.2
+      "count": 95,
+      "pct": 22
     },
     {
       "name": "G",
@@ -515,17 +515,17 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 1876,
-      "pct": 50.4
+      "count": 1874,
+      "pct": 50.3
     },
     {
       "name": "COMBINED",
-      "count": 1179,
+      "count": 1180,
       "pct": 31.7
     },
     {
       "name": "BAIL BOND",
-      "count": 670,
+      "count": 671,
       "pct": 18
     }
   ],
@@ -559,15 +559,15 @@
         "count": 11
       }
     ],
-    "currentMedianDaysHeld": 54.9,
-    "currentLongestDaysHeld": 1040.9
+    "currentMedianDaysHeld": 54.5,
+    "currentLongestDaysHeld": 1041
   },
   "bond": {
-    "withBond": 333,
-    "noBond": 125,
+    "withBond": 334,
+    "noBond": 124,
     "medianBond": 25000,
     "maxBond": 10005000,
-    "totalBond": 55557000
+    "totalBond": 55607000
   },
   "chargesPerBooking": 5.4
 }
