@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T03:25:39",
+  "generatedAt": "2026-10-21T03:55:18",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 690,
@@ -173,7 +173,7 @@
     },
     {
       "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
-      "count": 118,
+      "count": 119,
       "pct": 3.2
     },
     {
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 462,
+      "count": 464,
       "pct": 14.6,
       "label": "District Court (DARR)"
     },
@@ -351,8 +351,8 @@
     },
     {
       "name": "S8",
-      "count": 417,
-      "pct": 13.1,
+      "count": 418,
+      "pct": 13.2,
       "label": "Superior Court (S8)"
     },
     {
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1477,
+      "count": 1479,
       "pct": 39.7,
       "label": "Gross Misdemeanor"
     },
@@ -419,7 +419,7 @@
     },
     {
       "name": "M",
-      "count": 298,
+      "count": 297,
       "pct": 8,
       "label": "Misdemeanor"
     },
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 1878,
+      "count": 1880,
       "pct": 50.3
     },
     {
@@ -559,8 +559,8 @@
         "count": 11
       }
     ],
-    "currentMedianDaysHeld": 54.1,
-    "currentLongestDaysHeld": 1041.1
+    "currentMedianDaysHeld": 54.2,
+    "currentLongestDaysHeld": 1041.2
   },
   "bond": {
     "withBond": 335,
