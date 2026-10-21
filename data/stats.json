@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T17:00:29",
+  "generatedAt": "2026-10-20T17:55:16",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 682,
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 478,
-      "pct": 15.2,
+      "count": 473,
+      "pct": 15,
       "label": "District Court (DARR)"
     },
     {
@@ -380,16 +380,16 @@
       "label": "District Court (D1)"
     },
     {
+      "name": "D3",
+      "count": 68,
+      "pct": 2.2,
+      "label": "District Court (D3)"
+    },
+    {
       "name": "D5",
       "count": 67,
       "pct": 2.1,
       "label": "District Court (D5)"
-    },
-    {
-      "name": "D3",
-      "count": 63,
-      "pct": 2,
-      "label": "District Court (D3)"
     },
     {
       "name": "D6",
@@ -515,18 +515,18 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 1862,
+      "count": 1863,
       "pct": 50.3
     },
     {
       "name": "COMBINED",
-      "count": 1164,
-      "pct": 31.4
+      "count": 1165,
+      "pct": 31.5
     },
     {
       "name": "BAIL BOND",
-      "count": 677,
-      "pct": 18.3
+      "count": 675,
+      "pct": 18.2
     }
   ],
   "stay": {
@@ -567,7 +567,7 @@
     "noBond": 126,
     "medianBond": 21500,
     "maxBond": 10005000,
-    "totalBond": 55452000
+    "totalBond": 55451250
   },
   "chargesPerBooking": 5.4
 }
