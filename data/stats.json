@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-20T21:55:16",
+  "generatedAt": "2026-10-20T22:07:10",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 685,
-    "bookingsObserved": 216,
+    "bookingsTracked": 686,
+    "bookingsObserved": 217,
     "releasesObserved": 228,
-    "inCustody": 457,
+    "inCustody": 458,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -253,8 +253,8 @@
     },
     {
       "name": "BURGLARY-2",
-      "count": 46,
-      "pct": 1.2
+      "count": 47,
+      "pct": 1.3
     },
     {
       "name": "MALICIOUS MISCHIEF-3",
@@ -265,20 +265,20 @@
   "topAgencies": [
     {
       "name": "SO6",
-      "count": 459,
-      "pct": 67,
+      "count": 461,
+      "pct": 67.2,
       "label": "SO6"
     },
     {
       "name": "VPD",
-      "count": 128,
-      "pct": 18.7,
+      "count": 126,
+      "pct": 18.4,
       "label": "Vancouver Police"
     },
     {
       "name": "CLS",
-      "count": 48,
-      "pct": 7,
+      "count": 49,
+      "pct": 7.1,
       "label": "CLS"
     },
     {
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 467,
-      "pct": 14.7,
+      "count": 463,
+      "pct": 14.6,
       "label": "District Court (DARR)"
     },
     {
@@ -351,25 +351,25 @@
     },
     {
       "name": "S8",
-      "count": 409,
+      "count": 408,
       "pct": 12.9,
       "label": "Superior Court (S8)"
     },
     {
       "name": "S10",
-      "count": 306,
+      "count": 307,
       "pct": 9.7,
       "label": "Superior Court (S10)"
     },
     {
       "name": "D4",
-      "count": 100,
+      "count": 103,
       "pct": 3.2,
       "label": "District Court (D4)"
     },
     {
       "name": "D2",
-      "count": 85,
+      "count": 86,
       "pct": 2.7,
       "label": "District Court (D2)"
     },
@@ -407,7 +407,7 @@
     },
     {
       "name": "FC",
-      "count": 880,
+      "count": 881,
       "pct": 23.7,
       "label": "Class C Felony"
     },
@@ -419,7 +419,7 @@
     },
     {
       "name": "M",
-      "count": 297,
+      "count": 298,
       "pct": 8,
       "label": "Misdemeanor"
     },
@@ -472,17 +472,17 @@
     {
       "name": "E",
       "count": 100,
-      "pct": 23.2
+      "pct": 23.1
     },
     {
       "name": "F",
       "count": 96,
-      "pct": 22.3
+      "pct": 22.2
     },
     {
       "name": "G",
-      "count": 96,
-      "pct": 22.3
+      "count": 97,
+      "pct": 22.5
     },
     {
       "name": "H",
@@ -515,13 +515,13 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 1880,
-      "pct": 50.5
+      "count": 1876,
+      "pct": 50.4
     },
     {
       "name": "COMBINED",
-      "count": 1174,
-      "pct": 31.5
+      "count": 1179,
+      "pct": 31.7
     },
     {
       "name": "BAIL BOND",
@@ -563,11 +563,11 @@
     "currentLongestDaysHeld": 1040.9
   },
   "bond": {
-    "withBond": 332,
+    "withBond": 333,
     "noBond": 125,
     "medianBond": 25000,
     "maxBond": 10005000,
-    "totalBond": 55521750
+    "totalBond": 55557000
   },
   "chargesPerBooking": 5.4
 }
