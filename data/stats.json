@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-21T23:20:52",
+  "generatedAt": "2026-10-21T23:55:18",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 704,
-    "bookingsObserved": 235,
+    "bookingsTracked": 705,
+    "bookingsObserved": 236,
     "releasesObserved": 245,
-    "inCustody": 459,
+    "inCustody": 460,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -277,8 +277,8 @@
     },
     {
       "name": "CLS",
-      "count": 47,
-      "pct": 6.7,
+      "count": 48,
+      "pct": 6.8,
       "label": "CLS"
     },
     {
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 475,
-      "pct": 14.7,
+      "count": 470,
+      "pct": 14.5,
       "label": "District Court (DARR)"
     },
     {
@@ -380,16 +380,16 @@
       "label": "District Court (D5)"
     },
     {
+      "name": "D3",
+      "count": 82,
+      "pct": 2.5,
+      "label": "District Court (D3)"
+    },
+    {
       "name": "D1",
       "count": 77,
       "pct": 2.4,
       "label": "District Court (D1)"
-    },
-    {
-      "name": "D3",
-      "count": 76,
-      "pct": 2.4,
-      "label": "District Court (D3)"
     },
     {
       "name": "D6",
@@ -407,7 +407,7 @@
     },
     {
       "name": "FC",
-      "count": 900,
+      "count": 901,
       "pct": 23.7,
       "label": "Class C Felony"
     },
@@ -515,18 +515,18 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 1917,
-      "pct": 50.4
+      "count": 1914,
+      "pct": 50.3
     },
     {
       "name": "COMBINED",
-      "count": 1203,
-      "pct": 31.6
+      "count": 1205,
+      "pct": 31.7
     },
     {
       "name": "BAIL BOND",
-      "count": 687,
-      "pct": 18
+      "count": 688,
+      "pct": 18.1
     }
   ],
   "stay": {
@@ -564,10 +564,10 @@
   },
   "bond": {
     "withBond": 336,
-    "noBond": 123,
+    "noBond": 124,
     "medianBond": 25000,
     "maxBond": 10005000,
-    "totalBond": 56042950
+    "totalBond": 56079950
   },
   "chargesPerBooking": 5.4
 }
