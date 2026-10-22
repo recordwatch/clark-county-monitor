@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T11:55:16",
+  "generatedAt": "2026-10-22T12:55:17",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 714,
@@ -156,20 +156,20 @@
     },
     {
       "date": "2026-10-22",
-      "booked": 10,
+      "booked": 11,
       "released": 6
     }
   ],
   "topCharges": [
     {
       "name": "PROTECTION ORDER VIOLATION",
-      "count": 384,
+      "count": 385,
       "pct": 10
     },
     {
       "name": "ASSAULT-4 - DV",
-      "count": 163,
-      "pct": 4.2
+      "count": 164,
+      "pct": 4.3
     },
     {
       "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
@@ -334,7 +334,7 @@
     {
       "name": "S8",
       "count": 455,
-      "pct": 14,
+      "pct": 13.9,
       "label": "Superior Court (S8)"
     },
     {
@@ -401,14 +401,14 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1525,
+      "count": 1527,
       "pct": 39.8,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
       "count": 903,
-      "pct": 23.6,
+      "pct": 23.5,
       "label": "Class C Felony"
     },
     {
@@ -420,7 +420,7 @@
     {
       "name": "M",
       "count": 324,
-      "pct": 8.5,
+      "pct": 8.4,
       "label": "Misdemeanor"
     },
     {
@@ -515,13 +515,13 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 1917,
+      "count": 1919,
       "pct": 50
     },
     {
       "name": "COMBINED",
       "count": 1215,
-      "pct": 31.7
+      "pct": 31.6
     },
     {
       "name": "BAIL BOND",
@@ -559,7 +559,7 @@
         "count": 13
       }
     ],
-    "currentMedianDaysHeld": 53.5,
+    "currentMedianDaysHeld": 52.5,
     "currentLongestDaysHeld": 1042.5
   },
   "bond": {
