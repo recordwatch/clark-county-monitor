@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T03:55:16",
+  "generatedAt": "2026-10-22T04:55:16",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 710,
@@ -351,8 +351,8 @@
     },
     {
       "name": "S8",
-      "count": 417,
-      "pct": 12.8,
+      "count": 420,
+      "pct": 12.9,
       "label": "Superior Court (S8)"
     },
     {
@@ -564,7 +564,7 @@
         "count": 11
       }
     ],
-    "currentMedianDaysHeld": 54.2,
+    "currentMedianDaysHeld": 53.2,
     "currentLongestDaysHeld": 1042.2
   },
   "bond": {
