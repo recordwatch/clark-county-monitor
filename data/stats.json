@@ -1,19 +1,14 @@
 {
-  "generatedAt": "2026-10-22T23:55:18",
+  "generatedAt": "2026-10-23T00:55:16",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 720,
-    "bookingsObserved": 251,
+    "bookingsTracked": 722,
+    "bookingsObserved": 253,
     "releasesObserved": 264,
-    "inCustody": 456,
+    "inCustody": 458,
     "uniquePeople": 1
   },
   "bookingsByDay": [
-    {
-      "date": "2026-09-23",
-      "booked": 6,
-      "released": 0
-    },
     {
       "date": "2026-09-24",
       "booked": 2,
@@ -158,6 +153,11 @@
       "date": "2026-10-22",
       "booked": 16,
       "released": 19
+    },
+    {
+      "date": "2026-10-23",
+      "booked": 2,
+      "released": 0
     }
   ],
   "topCharges": [
@@ -173,7 +173,7 @@
     },
     {
       "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
-      "count": 124,
+      "count": 125,
       "pct": 3.2
     },
     {
@@ -188,7 +188,7 @@
     },
     {
       "name": "HARASSMENT PREV CONV OR THREAT TO KILL",
-      "count": 102,
+      "count": 103,
       "pct": 2.6
     },
     {
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "SO6",
-      "count": 482,
-      "pct": 67,
+      "count": 484,
+      "pct": 67.1,
       "label": "SO6"
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "CLS",
-      "count": 48,
-      "pct": 6.7,
+      "count": 47,
+      "pct": 6.5,
       "label": "CLS"
     },
     {
@@ -294,6 +294,12 @@
       "label": "WGP"
     },
     {
+      "name": "CMP",
+      "count": 5,
+      "pct": 0.7,
+      "label": "CMP"
+    },
+    {
       "name": "VCA",
       "count": 5,
       "pct": 0.7,
@@ -304,12 +310,6 @@
       "count": 4,
       "pct": 0.6,
       "label": "BGP"
-    },
-    {
-      "name": "CMP",
-      "count": 4,
-      "pct": 0.6,
-      "label": "CMP"
     },
     {
       "name": "CKP",
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 484,
-      "pct": 14.5,
+      "count": 486,
+      "pct": 14.6,
       "label": "District Court (DARR)"
     },
     {
@@ -338,16 +338,16 @@
       "label": "Superior Court (S3)"
     },
     {
+      "name": "S8",
+      "count": 447,
+      "pct": 13.4,
+      "label": "Superior Court (S8)"
+    },
+    {
       "name": "S12",
       "count": 443,
       "pct": 13.3,
       "label": "Superior Court (S12)"
-    },
-    {
-      "name": "S8",
-      "count": 439,
-      "pct": 13.2,
-      "label": "Superior Court (S8)"
     },
     {
       "name": "S9",
@@ -370,7 +370,7 @@
     {
       "name": "D3",
       "count": 95,
-      "pct": 2.9,
+      "pct": 2.8,
       "label": "District Court (D3)"
     },
     {
@@ -401,13 +401,13 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1550,
+      "count": 1552,
       "pct": 39.8,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
-      "count": 919,
+      "count": 922,
       "pct": 23.6,
       "label": "Class C Felony"
     },
@@ -456,33 +456,33 @@
     },
     {
       "name": "B",
-      "count": 18,
-      "pct": 4.2
+      "count": 20,
+      "pct": 4.6
     },
     {
       "name": "C",
       "count": 43,
-      "pct": 10
+      "pct": 9.9
     },
     {
       "name": "D",
       "count": 33,
-      "pct": 7.7
+      "pct": 7.6
     },
     {
       "name": "E",
       "count": 92,
-      "pct": 21.3
+      "pct": 21.2
     },
     {
       "name": "F",
       "count": 93,
-      "pct": 21.6
+      "pct": 21.5
     },
     {
       "name": "G",
       "count": 97,
-      "pct": 22.5
+      "pct": 22.4
     },
     {
       "name": "H",
@@ -497,12 +497,12 @@
     {
       "name": "M",
       "count": 8,
-      "pct": 1.9
+      "pct": 1.8
     },
     {
       "name": "SKAMANIA",
       "count": 8,
-      "pct": 1.9
+      "pct": 1.8
     }
   ],
   "releaseStatus": [
@@ -516,16 +516,16 @@
     {
       "name": "NONE",
       "count": 1973,
-      "pct": 50.5
+      "pct": 50.4
     },
     {
       "name": "COMBINED",
-      "count": 1220,
-      "pct": 31.2
+      "count": 1223,
+      "pct": 31.3
     },
     {
       "name": "BAIL BOND",
-      "count": 713,
+      "count": 715,
       "pct": 18.3
     }
   ],
@@ -563,11 +563,11 @@
     "currentLongestDaysHeld": 1043
   },
   "bond": {
-    "withBond": 335,
+    "withBond": 337,
     "noBond": 121,
     "medianBond": 25000,
     "maxBond": 10005000,
-    "totalBond": 56514950
+    "totalBond": 56556950
   },
   "chargesPerBooking": 5.4
 }
