@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-22T19:55:18",
+  "generatedAt": "2026-10-22T20:09:06",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 719,
     "bookingsObserved": 250,
-    "releasesObserved": 260,
-    "inCustody": 459,
+    "releasesObserved": 261,
+    "inCustody": 458,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-10-22",
       "booked": 16,
-      "released": 15
+      "released": 16
     }
   ],
   "topCharges": [
@@ -223,7 +223,7 @@
     },
     {
       "name": "ASSAULT-3",
-      "count": 61,
+      "count": 62,
       "pct": 1.6
     },
     {
@@ -248,7 +248,7 @@
     },
     {
       "name": "ASSAULT-2",
-      "count": 52,
+      "count": 51,
       "pct": 1.3
     },
     {
@@ -327,27 +327,27 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 487,
-      "pct": 14.8,
+      "count": 484,
+      "pct": 14.7,
       "label": "District Court (DARR)"
     },
     {
       "name": "S8",
-      "count": 452,
-      "pct": 13.7,
+      "count": 448,
+      "pct": 13.6,
       "label": "Superior Court (S8)"
+    },
+    {
+      "name": "S3",
+      "count": 443,
+      "pct": 13.4,
+      "label": "Superior Court (S3)"
     },
     {
       "name": "S12",
       "count": 443,
       "pct": 13.4,
       "label": "Superior Court (S12)"
-    },
-    {
-      "name": "S3",
-      "count": 439,
-      "pct": 13.3,
-      "label": "Superior Court (S3)"
     },
     {
       "name": "S9",
@@ -369,7 +369,7 @@
     },
     {
       "name": "D3",
-      "count": 94,
+      "count": 95,
       "pct": 2.9,
       "label": "District Court (D3)"
     },
@@ -407,13 +407,13 @@
     },
     {
       "name": "FC",
-      "count": 908,
+      "count": 909,
       "pct": 23.5,
       "label": "Class C Felony"
     },
     {
       "name": "FB",
-      "count": 696,
+      "count": 695,
       "pct": 18,
       "label": "Class B Felony"
     },
@@ -471,13 +471,13 @@
     },
     {
       "name": "E",
-      "count": 94,
-      "pct": 21.7
+      "count": 93,
+      "pct": 21.5
     },
     {
       "name": "F",
       "count": 93,
-      "pct": 21.4
+      "pct": 21.5
     },
     {
       "name": "G",
@@ -508,7 +508,7 @@
   "releaseStatus": [
     {
       "name": "RELEASED",
-      "count": 258,
+      "count": 259,
       "pct": 100
     }
   ],
@@ -530,9 +530,9 @@
     }
   ],
   "stay": {
-    "releasedCount": 260,
-    "medianDays": 2.2,
-    "meanDays": 22.9,
+    "releasedCount": 261,
+    "medianDays": 2.1,
+    "meanDays": 22.8,
     "buckets": [
       {
         "label": "< 1 day",
@@ -540,7 +540,7 @@
       },
       {
         "label": "1–3 days",
-        "count": 109
+        "count": 110
       },
       {
         "label": "3–7 days",
@@ -564,7 +564,7 @@
   },
   "bond": {
     "withBond": 334,
-    "noBond": 125,
+    "noBond": 124,
     "medianBond": 25000,
     "maxBond": 10005000,
     "totalBond": 55858950
