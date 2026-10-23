@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-23T11:55:17",
+  "generatedAt": "2026-10-23T12:55:16",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 733,
-    "bookingsObserved": 264,
+    "bookingsTracked": 734,
+    "bookingsObserved": 265,
     "releasesObserved": 276,
-    "inCustody": 457,
+    "inCustody": 458,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -163,7 +163,7 @@
   "topCharges": [
     {
       "name": "PROTECTION ORDER VIOLATION",
-      "count": 393,
+      "count": 394,
       "pct": 10
     },
     {
@@ -178,7 +178,7 @@
     },
     {
       "name": "THEFT-3",
-      "count": 113,
+      "count": 114,
       "pct": 2.9
     },
     {
@@ -218,7 +218,7 @@
     },
     {
       "name": "OBSTRUCT LAW ENFORCEMENT OFC",
-      "count": 64,
+      "count": 65,
       "pct": 1.6
     },
     {
@@ -266,19 +266,19 @@
     {
       "name": "SO6",
       "count": 484,
-      "pct": 66.1,
+      "pct": 66,
       "label": "SO6"
     },
     {
       "name": "VPD",
       "count": 141,
-      "pct": 19.3,
+      "pct": 19.2,
       "label": "Vancouver Police"
     },
     {
       "name": "CLS",
-      "count": 50,
-      "pct": 6.8,
+      "count": 51,
+      "pct": 7,
       "label": "CLS"
     },
     {
@@ -327,20 +327,20 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 504,
+      "count": 507,
       "pct": 15,
       "label": "District Court (DARR)"
     },
     {
       "name": "S12",
       "count": 443,
-      "pct": 13.2,
+      "pct": 13.1,
       "label": "Superior Court (S12)"
     },
     {
       "name": "S3",
       "count": 433,
-      "pct": 12.9,
+      "pct": 12.8,
       "label": "Superior Court (S3)"
     },
     {
@@ -351,8 +351,8 @@
     },
     {
       "name": "S8",
-      "count": 410,
-      "pct": 12.2,
+      "count": 400,
+      "pct": 11.9,
       "label": "Superior Court (S8)"
     },
     {
@@ -363,8 +363,8 @@
     },
     {
       "name": "S4",
-      "count": 118,
-      "pct": 3.5,
+      "count": 128,
+      "pct": 3.8,
       "label": "Superior Court (S4)"
     },
     {
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1577,
+      "count": 1580,
       "pct": 40.1,
       "label": "Gross Misdemeanor"
     },
@@ -452,37 +452,37 @@
     {
       "name": "A",
       "count": 14,
-      "pct": 3.3
+      "pct": 3.2
     },
     {
       "name": "B",
-      "count": 22,
-      "pct": 5.1
+      "count": 24,
+      "pct": 5.5
     },
     {
       "name": "C",
       "count": 42,
-      "pct": 9.8
+      "pct": 9.7
     },
     {
       "name": "D",
       "count": 31,
-      "pct": 7.2
+      "pct": 7.1
     },
     {
       "name": "E",
-      "count": 91,
-      "pct": 21.2
+      "count": 93,
+      "pct": 21.4
     },
     {
       "name": "F",
       "count": 92,
-      "pct": 21.4
+      "pct": 21.2
     },
     {
       "name": "G",
       "count": 97,
-      "pct": 22.6
+      "pct": 22.4
     },
     {
       "name": "H",
@@ -497,12 +497,12 @@
     {
       "name": "M",
       "count": 8,
-      "pct": 1.9
+      "pct": 1.8
     },
     {
       "name": "SKAMANIA",
       "count": 8,
-      "pct": 1.9
+      "pct": 1.8
     }
   ],
   "releaseStatus": [
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 1996,
+      "count": 1999,
       "pct": 50.6
     },
     {
@@ -564,7 +564,7 @@
   },
   "bond": {
     "withBond": 339,
-    "noBond": 118,
+    "noBond": 119,
     "medianBond": 25000,
     "maxBond": 10005000,
     "totalBond": 56570950
