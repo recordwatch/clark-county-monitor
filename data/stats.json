@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T10:55:16",
+  "generatedAt": "2026-10-23T11:35:25",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 733,
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-23",
-      "booked": 12,
+      "booked": 13,
       "released": 12
     }
   ],
@@ -204,7 +204,7 @@
     {
       "name": "UNLAWFUL CAMPING",
       "count": 69,
-      "pct": 1.8
+      "pct": 1.7
     },
     {
       "name": "ASSAULT-2 -DV",
@@ -294,6 +294,12 @@
       "label": "WGP"
     },
     {
+      "name": "BGP",
+      "count": 5,
+      "pct": 0.7,
+      "label": "BGP"
+    },
+    {
       "name": "CMP",
       "count": 5,
       "pct": 0.7,
@@ -304,12 +310,6 @@
       "count": 5,
       "pct": 0.7,
       "label": "VCA"
-    },
-    {
-      "name": "BGP",
-      "count": 5,
-      "pct": 0.7,
-      "label": "BGP"
     },
     {
       "name": "CKP",
@@ -339,20 +339,20 @@
     },
     {
       "name": "S8",
-      "count": 441,
-      "pct": 13.1,
+      "count": 436,
+      "pct": 13,
       "label": "Superior Court (S8)"
     },
     {
       "name": "S3",
-      "count": 436,
-      "pct": 13,
+      "count": 433,
+      "pct": 12.9,
       "label": "Superior Court (S3)"
     },
     {
       "name": "S9",
-      "count": 433,
-      "pct": 12.9,
+      "count": 431,
+      "pct": 12.8,
       "label": "Superior Court (S9)"
     },
     {
@@ -386,29 +386,29 @@
       "label": "District Court (D5)"
     },
     {
+      "name": "S4",
+      "count": 81,
+      "pct": 2.4,
+      "label": "Superior Court (S4)"
+    },
+    {
       "name": "D1",
       "count": 77,
       "pct": 2.3,
       "label": "District Court (D1)"
-    },
-    {
-      "name": "D6",
-      "count": 49,
-      "pct": 1.5,
-      "label": "District Court (D6)"
     }
   ],
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1570,
-      "pct": 40,
+      "count": 1576,
+      "pct": 40.1,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
-      "count": 923,
-      "pct": 23.5,
+      "count": 921,
+      "pct": 23.4,
       "label": "Class C Felony"
     },
     {
@@ -419,7 +419,7 @@
     },
     {
       "name": "M",
-      "count": 333,
+      "count": 334,
       "pct": 8.5,
       "label": "Misdemeanor"
     },
@@ -515,13 +515,13 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 1989,
-      "pct": 50.5
+      "count": 1994,
+      "pct": 50.6
     },
     {
       "name": "COMBINED",
       "count": 1227,
-      "pct": 31.2
+      "pct": 31.1
     },
     {
       "name": "BAIL BOND",
