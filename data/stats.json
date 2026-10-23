@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T21:55:16",
+  "generatedAt": "2026-10-22T22:55:18",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 720,
@@ -328,26 +328,26 @@
     {
       "name": "DARR",
       "count": 484,
-      "pct": 14.7,
+      "pct": 14.6,
       "label": "District Court (DARR)"
     },
     {
       "name": "S3",
-      "count": 447,
-      "pct": 13.5,
+      "count": 456,
+      "pct": 13.8,
       "label": "Superior Court (S3)"
-    },
-    {
-      "name": "S8",
-      "count": 445,
-      "pct": 13.5,
-      "label": "Superior Court (S8)"
     },
     {
       "name": "S12",
       "count": 443,
       "pct": 13.4,
       "label": "Superior Court (S12)"
+    },
+    {
+      "name": "S8",
+      "count": 438,
+      "pct": 13.2,
+      "label": "Superior Court (S8)"
     },
     {
       "name": "S9",
@@ -401,19 +401,19 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1547,
+      "count": 1548,
       "pct": 40,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
-      "count": 909,
+      "count": 912,
       "pct": 23.5,
       "label": "Class C Felony"
     },
     {
       "name": "FB",
-      "count": 696,
+      "count": 699,
       "pct": 18,
       "label": "Class B Felony"
     },
@@ -425,14 +425,14 @@
     },
     {
       "name": "FA",
-      "count": 290,
+      "count": 291,
       "pct": 7.5,
       "label": "Class A Felony"
     },
     {
       "name": "H",
       "count": 60,
-      "pct": 1.6,
+      "pct": 1.5,
       "label": "H"
     },
     {
@@ -515,13 +515,13 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 1945,
-      "pct": 50.2
+      "count": 1953,
+      "pct": 50.3
     },
     {
       "name": "COMBINED",
       "count": 1219,
-      "pct": 31.5
+      "pct": 31.4
     },
     {
       "name": "BAIL BOND",
@@ -559,8 +559,8 @@
         "count": 13
       }
     ],
-    "currentMedianDaysHeld": 55.9,
-    "currentLongestDaysHeld": 1042.9
+    "currentMedianDaysHeld": 56,
+    "currentLongestDaysHeld": 1043
   },
   "bond": {
     "withBond": 333,
