@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T22:55:18",
+  "generatedAt": "2026-10-22T23:55:18",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 720,
@@ -164,12 +164,12 @@
     {
       "name": "PROTECTION ORDER VIOLATION",
       "count": 392,
-      "pct": 10.1
+      "pct": 10
     },
     {
       "name": "ASSAULT-4 - DV",
       "count": 169,
-      "pct": 4.4
+      "pct": 4.3
     },
     {
       "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "SO6",
-      "count": 481,
-      "pct": 66.9,
+      "count": 482,
+      "pct": 67,
       "label": "SO6"
     },
     {
@@ -301,8 +301,8 @@
     },
     {
       "name": "BGP",
-      "count": 5,
-      "pct": 0.7,
+      "count": 4,
+      "pct": 0.6,
       "label": "BGP"
     },
     {
@@ -328,37 +328,37 @@
     {
       "name": "DARR",
       "count": 484,
-      "pct": 14.6,
+      "pct": 14.5,
       "label": "District Court (DARR)"
     },
     {
       "name": "S3",
       "count": 456,
-      "pct": 13.8,
+      "pct": 13.7,
       "label": "Superior Court (S3)"
     },
     {
       "name": "S12",
       "count": 443,
-      "pct": 13.4,
+      "pct": 13.3,
       "label": "Superior Court (S12)"
     },
     {
       "name": "S8",
-      "count": 438,
+      "count": 439,
       "pct": 13.2,
       "label": "Superior Court (S8)"
     },
     {
       "name": "S9",
       "count": 432,
-      "pct": 13.1,
+      "pct": 13,
       "label": "Superior Court (S9)"
     },
     {
       "name": "S10",
       "count": 339,
-      "pct": 10.3,
+      "pct": 10.2,
       "label": "Superior Court (S10)"
     },
     {
@@ -376,7 +376,7 @@
     {
       "name": "D5",
       "count": 88,
-      "pct": 2.7,
+      "pct": 2.6,
       "label": "District Court (D5)"
     },
     {
@@ -401,32 +401,32 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1548,
-      "pct": 40,
+      "count": 1550,
+      "pct": 39.8,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
-      "count": 912,
-      "pct": 23.5,
+      "count": 919,
+      "pct": 23.6,
       "label": "Class C Felony"
     },
     {
       "name": "FB",
-      "count": 699,
-      "pct": 18,
+      "count": 706,
+      "pct": 18.1,
       "label": "Class B Felony"
     },
     {
       "name": "M",
       "count": 325,
-      "pct": 8.4,
+      "pct": 8.3,
       "label": "Misdemeanor"
     },
     {
       "name": "FA",
-      "count": 291,
-      "pct": 7.5,
+      "count": 298,
+      "pct": 7.6,
       "label": "Class A Felony"
     },
     {
@@ -515,17 +515,17 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 1953,
-      "pct": 50.3
+      "count": 1973,
+      "pct": 50.5
     },
     {
       "name": "COMBINED",
-      "count": 1219,
-      "pct": 31.4
+      "count": 1220,
+      "pct": 31.2
     },
     {
       "name": "BAIL BOND",
-      "count": 711,
+      "count": 713,
       "pct": 18.3
     }
   ],
@@ -563,11 +563,11 @@
     "currentLongestDaysHeld": 1043
   },
   "bond": {
-    "withBond": 333,
-    "noBond": 123,
+    "withBond": 335,
+    "noBond": 121,
     "medianBond": 25000,
     "maxBond": 10005000,
-    "totalBond": 56459950
+    "totalBond": 56514950
   },
   "chargesPerBooking": 5.4
 }
