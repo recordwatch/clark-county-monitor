@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-23T08:55:16",
+  "generatedAt": "2026-10-23T09:55:16",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 730,
-    "bookingsObserved": 261,
-    "releasesObserved": 275,
-    "inCustody": 455,
+    "bookingsTracked": 732,
+    "bookingsObserved": 263,
+    "releasesObserved": 276,
+    "inCustody": 456,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,8 +156,8 @@
     },
     {
       "date": "2026-10-23",
-      "booked": 10,
-      "released": 11
+      "booked": 11,
+      "released": 12
     }
   ],
   "topCharges": [
@@ -168,12 +168,12 @@
     },
     {
       "name": "ASSAULT-4 - DV",
-      "count": 171,
-      "pct": 4.3
+      "count": 173,
+      "pct": 4.4
     },
     {
       "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
-      "count": 126,
+      "count": 127,
       "pct": 3.2
     },
     {
@@ -266,7 +266,7 @@
     {
       "name": "SO6",
       "count": 484,
-      "pct": 66.4,
+      "pct": 66.2,
       "label": "SO6"
     },
     {
@@ -277,14 +277,14 @@
     },
     {
       "name": "CLS",
-      "count": 49,
-      "pct": 6.7,
+      "count": 50,
+      "pct": 6.8,
       "label": "CLS"
     },
     {
       "name": "WSP",
-      "count": 16,
-      "pct": 2.2,
+      "count": 17,
+      "pct": 2.3,
       "label": "Washington State Patrol"
     },
     {
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 502,
-      "pct": 14.9,
+      "count": 503,
+      "pct": 15,
       "label": "District Court (DARR)"
     },
     {
@@ -345,8 +345,8 @@
     },
     {
       "name": "S12",
-      "count": 445,
-      "pct": 13.3,
+      "count": 443,
+      "pct": 13.2,
       "label": "Superior Court (S12)"
     },
     {
@@ -401,8 +401,8 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1567,
-      "pct": 39.9,
+      "count": 1570,
+      "pct": 40,
       "label": "Gross Misdemeanor"
     },
     {
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 24,
-      "pct": 5.6
+      "count": 26,
+      "pct": 6.1
     },
     {
       "name": "C",
@@ -471,8 +471,8 @@
     },
     {
       "name": "E",
-      "count": 90,
-      "pct": 21
+      "count": 89,
+      "pct": 20.7
     },
     {
       "name": "F",
@@ -508,14 +508,14 @@
   "releaseStatus": [
     {
       "name": "RELEASED",
-      "count": 273,
+      "count": 274,
       "pct": 100
     }
   ],
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 1986,
+      "count": 1988,
       "pct": 50.5
     },
     {
@@ -530,9 +530,9 @@
     }
   ],
   "stay": {
-    "releasedCount": 275,
+    "releasedCount": 276,
     "medianDays": 2.3,
-    "meanDays": 30.2,
+    "meanDays": 30.1,
     "buckets": [
       {
         "label": "< 1 day",
@@ -540,7 +540,7 @@
       },
       {
         "label": "1–3 days",
-        "count": 113
+        "count": 114
       },
       {
         "label": "3–7 days",
@@ -559,12 +559,12 @@
         "count": 21
       }
     ],
-    "currentMedianDaysHeld": 51.4,
+    "currentMedianDaysHeld": 51.9,
     "currentLongestDaysHeld": 1043.4
   },
   "bond": {
     "withBond": 339,
-    "noBond": 116,
+    "noBond": 117,
     "medianBond": 25000,
     "maxBond": 10005000,
     "totalBond": 56571450
