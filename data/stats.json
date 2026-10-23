@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T06:55:17",
+  "generatedAt": "2026-10-23T07:01:48",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 730,
@@ -169,7 +169,7 @@
     {
       "name": "ASSAULT-4 - DV",
       "count": 171,
-      "pct": 4.4
+      "pct": 4.3
     },
     {
       "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
@@ -202,6 +202,11 @@
       "pct": 1.8
     },
     {
+      "name": "UNLAWFUL CAMPING",
+      "count": 69,
+      "pct": 1.8
+    },
+    {
       "name": "ASSAULT-2 -DV",
       "count": 68,
       "pct": 1.7
@@ -209,11 +214,6 @@
     {
       "name": "RESISTING ARREST",
       "count": 68,
-      "pct": 1.7
-    },
-    {
-      "name": "UNLAWFUL CAMPING",
-      "count": 67,
       "pct": 1.7
     },
     {
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 499,
-      "pct": 14.9,
+      "count": 502,
+      "pct": 15,
       "label": "District Court (DARR)"
     },
     {
@@ -364,7 +364,7 @@
     {
       "name": "D4",
       "count": 99,
-      "pct": 3,
+      "pct": 2.9,
       "label": "District Court (D4)"
     },
     {
@@ -374,16 +374,16 @@
       "label": "District Court (D3)"
     },
     {
+      "name": "D2",
+      "count": 91,
+      "pct": 2.7,
+      "label": "District Court (D2)"
+    },
+    {
       "name": "D5",
       "count": 88,
       "pct": 2.6,
       "label": "District Court (D5)"
-    },
-    {
-      "name": "D2",
-      "count": 87,
-      "pct": 2.6,
-      "label": "District Court (D2)"
     },
     {
       "name": "D1",
@@ -401,14 +401,14 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1563,
+      "count": 1567,
       "pct": 39.9,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
       "count": 923,
-      "pct": 23.6,
+      "pct": 23.5,
       "label": "Class C Felony"
     },
     {
@@ -419,7 +419,7 @@
     },
     {
       "name": "M",
-      "count": 328,
+      "count": 331,
       "pct": 8.4,
       "label": "Misdemeanor"
     },
@@ -515,18 +515,18 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 1981,
-      "pct": 50.4
+      "count": 1985,
+      "pct": 50.5
     },
     {
       "name": "COMBINED",
-      "count": 1226,
+      "count": 1227,
       "pct": 31.2
     },
     {
       "name": "BAIL BOND",
-      "count": 720,
-      "pct": 18.3
+      "count": 722,
+      "pct": 18.4
     }
   ],
   "stay": {
@@ -559,7 +559,7 @@
         "count": 14
       }
     ],
-    "currentMedianDaysHeld": 52.8,
+    "currentMedianDaysHeld": 52.3,
     "currentLongestDaysHeld": 1043.3
   },
   "bond": {
@@ -567,7 +567,7 @@
     "noBond": 125,
     "medianBond": 25000,
     "maxBond": 10005000,
-    "totalBond": 56570450
+    "totalBond": 56572450
   },
   "chargesPerBooking": 5.4
 }
