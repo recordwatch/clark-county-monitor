@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T13:55:18",
+  "generatedAt": "2026-10-23T14:49:08",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 734,
@@ -339,7 +339,7 @@
     },
     {
       "name": "S3",
-      "count": 433,
+      "count": 432,
       "pct": 12.8,
       "label": "Superior Court (S3)"
     },
@@ -351,8 +351,8 @@
     },
     {
       "name": "S8",
-      "count": 398,
-      "pct": 11.8,
+      "count": 388,
+      "pct": 11.5,
       "label": "Superior Court (S8)"
     },
     {
@@ -363,8 +363,8 @@
     },
     {
       "name": "S4",
-      "count": 130,
-      "pct": 3.9,
+      "count": 141,
+      "pct": 4.2,
       "label": "Superior Court (S4)"
     },
     {
@@ -451,13 +451,13 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 12,
-      "pct": 2.8
+      "count": 11,
+      "pct": 2.6
     },
     {
       "name": "B",
-      "count": 23,
-      "pct": 5.3
+      "count": 21,
+      "pct": 4.9
     },
     {
       "name": "C",
@@ -471,13 +471,13 @@
     },
     {
       "name": "E",
-      "count": 94,
-      "pct": 21.8
+      "count": 96,
+      "pct": 22.3
     },
     {
       "name": "F",
-      "count": 90,
-      "pct": 20.9
+      "count": 91,
+      "pct": 21.1
     },
     {
       "name": "G",
