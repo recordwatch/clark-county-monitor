@@ -1,19 +1,14 @@
 {
-  "generatedAt": "2026-10-23T23:55:17",
+  "generatedAt": "2026-10-24T00:55:16",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 746,
-    "bookingsObserved": 277,
+    "bookingsTracked": 747,
+    "bookingsObserved": 278,
     "releasesObserved": 287,
-    "inCustody": 459,
+    "inCustody": 460,
     "uniquePeople": 1
   },
   "bookingsByDay": [
-    {
-      "date": "2026-09-24",
-      "booked": 2,
-      "released": 0
-    },
     {
       "date": "2026-09-25",
       "booked": 7,
@@ -158,6 +153,11 @@
       "date": "2026-10-23",
       "booked": 26,
       "released": 23
+    },
+    {
+      "date": "2026-10-24",
+      "booked": 1,
+      "released": 0
     }
   ],
   "topCharges": [
@@ -334,7 +334,7 @@
     {
       "name": "S8",
       "count": 468,
-      "pct": 13.8,
+      "pct": 13.7,
       "label": "Superior Court (S8)"
     },
     {
@@ -407,8 +407,8 @@
     },
     {
       "name": "FC",
-      "count": 928,
-      "pct": 23.3,
+      "count": 932,
+      "pct": 23.4,
       "label": "Class C Felony"
     },
     {
@@ -515,13 +515,13 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 1976,
-      "pct": 49.6
+      "count": 1980,
+      "pct": 49.7
     },
     {
       "name": "COMBINED",
       "count": 1273,
-      "pct": 32
+      "pct": 31.9
     },
     {
       "name": "BAIL BOND",
@@ -564,7 +564,7 @@
   },
   "bond": {
     "withBond": 338,
-    "noBond": 121,
+    "noBond": 122,
     "medianBond": 25000,
     "maxBond": 10005000,
     "totalBond": 57908200
