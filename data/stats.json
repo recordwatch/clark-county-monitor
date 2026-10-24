@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-24T01:55:17",
+  "generatedAt": "2026-10-24T02:16:16",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 748,
-    "bookingsObserved": 279,
+    "bookingsTracked": 750,
+    "bookingsObserved": 281,
     "releasesObserved": 288,
-    "inCustody": 460,
+    "inCustody": 462,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-24",
-      "booked": 2,
+      "booked": 4,
       "released": 1
     }
   ],
@@ -218,8 +218,8 @@
     },
     {
       "name": "OBSTRUCT LAW ENFORCEMENT OFC",
-      "count": 65,
-      "pct": 1.6
+      "count": 67,
+      "pct": 1.7
     },
     {
       "name": "ASSAULT-3",
@@ -266,13 +266,13 @@
     {
       "name": "SO6",
       "count": 487,
-      "pct": 65.3,
+      "pct": 65.1,
       "label": "SO6"
     },
     {
       "name": "VPD",
-      "count": 149,
-      "pct": 20,
+      "count": 151,
+      "pct": 20.2,
       "label": "Vancouver Police"
     },
     {
@@ -340,7 +340,7 @@
     {
       "name": "S9",
       "count": 459,
-      "pct": 13.5,
+      "pct": 13.4,
       "label": "Superior Court (S9)"
     },
     {
@@ -401,13 +401,13 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1601,
+      "count": 1603,
       "pct": 40.2,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
-      "count": 932,
+      "count": 934,
       "pct": 23.4,
       "label": "Class C Felony"
     },
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 32,
-      "pct": 7.3
+      "count": 34,
+      "pct": 7.8
     },
     {
       "name": "C",
@@ -472,17 +472,17 @@
     {
       "name": "E",
       "count": 96,
-      "pct": 22
+      "pct": 21.9
     },
     {
       "name": "F",
       "count": 90,
-      "pct": 20.6
+      "pct": 20.5
     },
     {
       "name": "G",
       "count": 97,
-      "pct": 22.2
+      "pct": 22.1
     },
     {
       "name": "H",
@@ -520,12 +520,12 @@
     },
     {
       "name": "COMBINED",
-      "count": 1275,
-      "pct": 31.9
+      "count": 1277,
+      "pct": 32
     },
     {
       "name": "BAIL BOND",
-      "count": 735,
+      "count": 737,
       "pct": 18.4
     }
   ],
@@ -563,11 +563,11 @@
     "currentLongestDaysHeld": 1044.1
   },
   "bond": {
-    "withBond": 339,
+    "withBond": 341,
     "noBond": 121,
     "medianBond": 25000,
     "maxBond": 10005000,
-    "totalBond": 57910700
+    "totalBond": 57922700
   },
   "chargesPerBooking": 5.3
 }
