@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-25T10:22:50",
+  "generatedAt": "2026-10-25T10:55:16",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 775,
-    "bookingsObserved": 306,
+    "bookingsTracked": 776,
+    "bookingsObserved": 307,
     "releasesObserved": 296,
-    "inCustody": 479,
+    "inCustody": 480,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -164,11 +164,11 @@
     {
       "name": "PROTECTION ORDER VIOLATION",
       "count": 402,
-      "pct": 9.6
+      "pct": 9.5
     },
     {
       "name": "ASSAULT-4 - DV",
-      "count": 196,
+      "count": 197,
       "pct": 4.7
     },
     {
@@ -266,19 +266,19 @@
     {
       "name": "SO6",
       "count": 488,
-      "pct": 63.1,
+      "pct": 63,
       "label": "SO6"
     },
     {
       "name": "VPD",
       "count": 166,
-      "pct": 21.5,
+      "pct": 21.4,
       "label": "Vancouver Police"
     },
     {
       "name": "CLS",
-      "count": 58,
-      "pct": 7.5,
+      "count": 59,
+      "pct": 7.6,
       "label": "CLS"
     },
     {
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 536,
+      "count": 537,
       "pct": 14.8,
       "label": "District Court (DARR)"
     },
@@ -401,13 +401,13 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1778,
+      "count": 1779,
       "pct": 42.4,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
-      "count": 945,
+      "count": 946,
       "pct": 22.5,
       "label": "Class C Felony"
     },
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 25,
-      "pct": 5.5
+      "count": 26,
+      "pct": 5.7
     },
     {
       "name": "C",
@@ -472,12 +472,12 @@
     {
       "name": "E",
       "count": 104,
-      "pct": 22.9
+      "pct": 22.8
     },
     {
       "name": "F",
       "count": 94,
-      "pct": 20.7
+      "pct": 20.6
     },
     {
       "name": "G",
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2183,
+      "count": 2184,
       "pct": 51.9
     },
     {
@@ -559,12 +559,12 @@
         "count": 22
       }
     ],
-    "currentMedianDaysHeld": 50.4,
-    "currentLongestDaysHeld": 1045.4
+    "currentMedianDaysHeld": 50.5,
+    "currentLongestDaysHeld": 1045.5
   },
   "bond": {
     "withBond": 341,
-    "noBond": 138,
+    "noBond": 139,
     "medianBond": 25000,
     "maxBond": 10005000,
     "totalBond": 57907200
