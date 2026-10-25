@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-24T22:55:17",
+  "generatedAt": "2026-10-24T23:55:17",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 766,
-    "bookingsObserved": 297,
+    "bookingsTracked": 768,
+    "bookingsObserved": 299,
     "releasesObserved": 294,
-    "inCustody": 472,
+    "inCustody": 474,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -168,8 +168,8 @@
     },
     {
       "name": "ASSAULT-4 - DV",
-      "count": 188,
-      "pct": 4.5
+      "count": 191,
+      "pct": 4.6
     },
     {
       "name": "PROTECTION ORDER VIO RESIDENCE,WORKPLACE, DAYCARE",
@@ -179,7 +179,7 @@
     {
       "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
       "count": 136,
-      "pct": 3.3
+      "pct": 3.2
     },
     {
       "name": "THEFT-3",
@@ -271,8 +271,8 @@
     },
     {
       "name": "VPD",
-      "count": 161,
-      "pct": 21.1,
+      "count": 162,
+      "pct": 21.2,
       "label": "Vancouver Police"
     },
     {
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 526,
-      "pct": 14.6,
+      "count": 530,
+      "pct": 14.7,
       "label": "District Court (DARR)"
     },
     {
@@ -340,7 +340,7 @@
     {
       "name": "S9",
       "count": 459,
-      "pct": 12.8,
+      "pct": 12.7,
       "label": "Superior Court (S9)"
     },
     {
@@ -376,7 +376,7 @@
     {
       "name": "D4",
       "count": 99,
-      "pct": 2.8,
+      "pct": 2.7,
       "label": "District Court (D4)"
     },
     {
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1762,
+      "count": 1766,
       "pct": 42.3,
       "label": "Gross Misdemeanor"
     },
@@ -462,7 +462,7 @@
     {
       "name": "C",
       "count": 41,
-      "pct": 9.2
+      "pct": 9.1
     },
     {
       "name": "D",
@@ -472,7 +472,7 @@
     {
       "name": "E",
       "count": 103,
-      "pct": 23
+      "pct": 22.9
     },
     {
       "name": "F",
@@ -482,12 +482,12 @@
     {
       "name": "G",
       "count": 102,
-      "pct": 22.8
+      "pct": 22.7
     },
     {
       "name": "H",
-      "count": 24,
-      "pct": 5.4
+      "count": 25,
+      "pct": 5.6
     },
     {
       "name": "JDH",
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2160,
+      "count": 2164,
       "pct": 51.7
     },
     {
@@ -564,7 +564,7 @@
   },
   "bond": {
     "withBond": 340,
-    "noBond": 132,
+    "noBond": 134,
     "medianBond": 25000,
     "maxBond": 10005000,
     "totalBond": 57904700
