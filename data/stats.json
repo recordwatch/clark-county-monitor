@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-25T15:15:31",
+  "generatedAt": "2026-10-25T15:55:18",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 779,
-    "bookingsObserved": 310,
+    "bookingsTracked": 780,
+    "bookingsObserved": 311,
     "releasesObserved": 296,
-    "inCustody": 483,
+    "inCustody": 484,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-25",
-      "booked": 12,
+      "booked": 13,
       "released": 2
     }
   ],
@@ -173,7 +173,7 @@
     },
     {
       "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
-      "count": 139,
+      "count": 140,
       "pct": 3.3
     },
     {
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "SO6",
-      "count": 488,
-      "pct": 62.8,
+      "count": 489,
+      "pct": 62.9,
       "label": "SO6"
     },
     {
@@ -401,13 +401,13 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1781,
+      "count": 1782,
       "pct": 42.4,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
-      "count": 950,
+      "count": 951,
       "pct": 22.6,
       "label": "Class C Felony"
     },
@@ -451,28 +451,28 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 11,
-      "pct": 2.4
+      "count": 12,
+      "pct": 2.6
     },
     {
       "name": "B",
-      "count": 22,
-      "pct": 4.8
+      "count": 21,
+      "pct": 4.6
     },
     {
       "name": "C",
-      "count": 44,
-      "pct": 9.6
+      "count": 45,
+      "pct": 9.8
     },
     {
       "name": "D",
       "count": 31,
-      "pct": 6.8
+      "pct": 6.7
     },
     {
       "name": "E",
       "count": 104,
-      "pct": 22.7
+      "pct": 22.6
     },
     {
       "name": "F",
@@ -482,7 +482,7 @@
     {
       "name": "G",
       "count": 105,
-      "pct": 22.9
+      "pct": 22.8
     },
     {
       "name": "H",
@@ -515,8 +515,8 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2189,
-      "pct": 51.9
+      "count": 2191,
+      "pct": 52
     },
     {
       "name": "COMBINED",
@@ -526,7 +526,7 @@
     {
       "name": "BAIL BOND",
       "count": 744,
-      "pct": 17.7
+      "pct": 17.6
     }
   ],
   "stay": {
@@ -559,12 +559,12 @@
         "count": 22
       }
     ],
-    "currentMedianDaysHeld": 49.6,
-    "currentLongestDaysHeld": 1045.6
+    "currentMedianDaysHeld": 49.7,
+    "currentLongestDaysHeld": 1045.7
   },
   "bond": {
     "withBond": 341,
-    "noBond": 142,
+    "noBond": 143,
     "medianBond": 25000,
     "maxBond": 10005000,
     "totalBond": 57907200
