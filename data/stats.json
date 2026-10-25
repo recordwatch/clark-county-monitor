@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-25T11:55:18",
+  "generatedAt": "2026-10-25T12:50:37",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 777,
-    "bookingsObserved": 308,
+    "bookingsTracked": 778,
+    "bookingsObserved": 309,
     "releasesObserved": 296,
-    "inCustody": 481,
+    "inCustody": 482,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -266,7 +266,7 @@
     {
       "name": "SO6",
       "count": 488,
-      "pct": 63,
+      "pct": 62.9,
       "label": "SO6"
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "CLS",
-      "count": 59,
-      "pct": 7.6,
+      "count": 60,
+      "pct": 7.7,
       "label": "CLS"
     },
     {
@@ -363,7 +363,7 @@
     },
     {
       "name": "SARR",
-      "count": 203,
+      "count": 205,
       "pct": 5.6,
       "label": "Superior Court (SARR)"
     },
@@ -407,14 +407,14 @@
     },
     {
       "name": "FC",
-      "count": 947,
-      "pct": 22.5,
+      "count": 949,
+      "pct": 22.6,
       "label": "Class C Felony"
     },
     {
       "name": "FB",
       "count": 729,
-      "pct": 17.4,
+      "pct": 17.3,
       "label": "Class B Felony"
     },
     {
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 26,
-      "pct": 5.7
+      "count": 27,
+      "pct": 5.9
     },
     {
       "name": "C",
@@ -472,12 +472,12 @@
     {
       "name": "E",
       "count": 104,
-      "pct": 22.8
+      "pct": 22.7
     },
     {
       "name": "F",
       "count": 94,
-      "pct": 20.6
+      "pct": 20.5
     },
     {
       "name": "G",
@@ -502,7 +502,7 @@
     {
       "name": "SKAMANIA",
       "count": 8,
-      "pct": 1.8
+      "pct": 1.7
     }
   ],
   "releaseStatus": [
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2186,
+      "count": 2188,
       "pct": 51.9
     },
     {
@@ -564,7 +564,7 @@
   },
   "bond": {
     "withBond": 341,
-    "noBond": 140,
+    "noBond": 141,
     "medianBond": 25000,
     "maxBond": 10005000,
     "totalBond": 57907200
