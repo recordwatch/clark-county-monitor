@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T14:55:19",
+  "generatedAt": "2026-10-25T15:15:31",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 779,
@@ -363,8 +363,8 @@
     },
     {
       "name": "SARR",
-      "count": 205,
-      "pct": 5.6,
+      "count": 206,
+      "pct": 5.7,
       "label": "Superior Court (SARR)"
     },
     {
@@ -407,7 +407,7 @@
     },
     {
       "name": "FC",
-      "count": 949,
+      "count": 950,
       "pct": 22.6,
       "label": "Class C Felony"
     },
@@ -451,18 +451,18 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 12,
-      "pct": 2.6
+      "count": 11,
+      "pct": 2.4
     },
     {
       "name": "B",
-      "count": 26,
-      "pct": 5.7
+      "count": 22,
+      "pct": 4.8
     },
     {
       "name": "C",
-      "count": 41,
-      "pct": 8.9
+      "count": 44,
+      "pct": 9.6
     },
     {
       "name": "D",
@@ -481,8 +481,8 @@
     },
     {
       "name": "G",
-      "count": 103,
-      "pct": 22.4
+      "count": 105,
+      "pct": 22.9
     },
     {
       "name": "H",
@@ -516,7 +516,7 @@
     {
       "name": "NONE",
       "count": 2189,
-      "pct": 52
+      "pct": 51.9
     },
     {
       "name": "COMBINED",
@@ -525,8 +525,8 @@
     },
     {
       "name": "BAIL BOND",
-      "count": 743,
-      "pct": 17.6
+      "count": 744,
+      "pct": 17.7
     }
   ],
   "stay": {
@@ -559,7 +559,7 @@
         "count": 22
       }
     ],
-    "currentMedianDaysHeld": 50.1,
+    "currentMedianDaysHeld": 49.6,
     "currentLongestDaysHeld": 1045.6
   },
   "bond": {
