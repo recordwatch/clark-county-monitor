@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T05:55:18",
+  "generatedAt": "2026-10-25T06:32:02",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 775,
@@ -173,7 +173,7 @@
     },
     {
       "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
-      "count": 137,
+      "count": 138,
       "pct": 3.3
     },
     {
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "SO6",
-      "count": 487,
-      "pct": 63.2,
+      "count": 488,
+      "pct": 63.3,
       "label": "SO6"
     },
     {
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1775,
+      "count": 1776,
       "pct": 42.4,
       "label": "Gross Misdemeanor"
     },
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2178,
+      "count": 2179,
       "pct": 51.9
     },
     {
@@ -559,8 +559,8 @@
         "count": 22
       }
     ],
-    "currentMedianDaysHeld": 50.2,
-    "currentLongestDaysHeld": 1045.2
+    "currentMedianDaysHeld": 50.3,
+    "currentLongestDaysHeld": 1045.3
   },
   "bond": {
     "withBond": 340,
