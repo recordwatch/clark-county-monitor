@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T06:55:16",
+  "generatedAt": "2026-10-25T07:55:17",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 775,
@@ -178,7 +178,7 @@
     },
     {
       "name": "PROTECTION ORDER VIO RESIDENCE,WORKPLACE, DAYCARE",
-      "count": 137,
+      "count": 138,
       "pct": 3.3
     },
     {
@@ -266,13 +266,13 @@
     {
       "name": "SO6",
       "count": 488,
-      "pct": 63.3,
+      "pct": 63.2,
       "label": "SO6"
     },
     {
       "name": "VPD",
-      "count": 165,
-      "pct": 21.4,
+      "count": 166,
+      "pct": 21.5,
       "label": "Vancouver Police"
     },
     {
@@ -346,13 +346,13 @@
     {
       "name": "S3",
       "count": 458,
-      "pct": 12.7,
+      "pct": 12.6,
       "label": "Superior Court (S3)"
     },
     {
       "name": "S12",
       "count": 440,
-      "pct": 12.2,
+      "pct": 12.1,
       "label": "Superior Court (S12)"
     },
     {
@@ -363,8 +363,8 @@
     },
     {
       "name": "SARR",
-      "count": 196,
-      "pct": 5.4,
+      "count": 200,
+      "pct": 5.5,
       "label": "Superior Court (SARR)"
     },
     {
@@ -407,13 +407,13 @@
     },
     {
       "name": "FC",
-      "count": 944,
+      "count": 945,
       "pct": 22.5,
       "label": "Class C Felony"
     },
     {
       "name": "FB",
-      "count": 728,
+      "count": 729,
       "pct": 17.4,
       "label": "Class B Felony"
     },
@@ -515,18 +515,18 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2179,
+      "count": 2183,
       "pct": 51.9
     },
     {
       "name": "COMBINED",
       "count": 1279,
-      "pct": 30.5
+      "pct": 30.4
     },
     {
       "name": "BAIL BOND",
       "count": 742,
-      "pct": 17.7
+      "pct": 17.6
     }
   ],
   "stay": {
