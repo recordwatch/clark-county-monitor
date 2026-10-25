@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-25T13:55:18",
+  "generatedAt": "2026-10-25T14:55:19",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 778,
-    "bookingsObserved": 309,
+    "bookingsTracked": 779,
+    "bookingsObserved": 310,
     "releasesObserved": 296,
-    "inCustody": 482,
+    "inCustody": 483,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-25",
-      "booked": 11,
+      "booked": 12,
       "released": 2
     }
   ],
@@ -168,7 +168,7 @@
     },
     {
       "name": "ASSAULT-4 - DV",
-      "count": 197,
+      "count": 198,
       "pct": 4.7
     },
     {
@@ -266,7 +266,7 @@
     {
       "name": "SO6",
       "count": 488,
-      "pct": 62.9,
+      "pct": 62.8,
       "label": "SO6"
     },
     {
@@ -312,22 +312,22 @@
       "label": "WGP"
     },
     {
+      "name": "RPD",
+      "count": 4,
+      "pct": 0.5,
+      "label": "RPD"
+    },
+    {
       "name": "LAP",
       "count": 3,
       "pct": 0.4,
       "label": "LAP"
-    },
-    {
-      "name": "CKP",
-      "count": 3,
-      "pct": 0.4,
-      "label": "CKP"
     }
   ],
   "courts": [
     {
       "name": "DARR",
-      "count": 537,
+      "count": 538,
       "pct": 14.8,
       "label": "District Court (DARR)"
     },
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1780,
+      "count": 1781,
       "pct": 42.4,
       "label": "Gross Misdemeanor"
     },
@@ -451,18 +451,18 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 13,
-      "pct": 2.8
+      "count": 12,
+      "pct": 2.6
     },
     {
       "name": "B",
-      "count": 27,
-      "pct": 5.9
+      "count": 26,
+      "pct": 5.7
     },
     {
       "name": "C",
       "count": 41,
-      "pct": 9
+      "pct": 8.9
     },
     {
       "name": "D",
@@ -476,18 +476,18 @@
     },
     {
       "name": "F",
-      "count": 94,
-      "pct": 20.5
+      "count": 97,
+      "pct": 21.1
     },
     {
       "name": "G",
       "count": 103,
-      "pct": 22.5
+      "pct": 22.4
     },
     {
       "name": "H",
       "count": 25,
-      "pct": 5.5
+      "pct": 5.4
     },
     {
       "name": "JDH",
@@ -515,8 +515,8 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2188,
-      "pct": 51.9
+      "count": 2189,
+      "pct": 52
     },
     {
       "name": "COMBINED",
@@ -564,7 +564,7 @@
   },
   "bond": {
     "withBond": 341,
-    "noBond": 141,
+    "noBond": 142,
     "medianBond": 25000,
     "maxBond": 10005000,
     "totalBond": 57907200
