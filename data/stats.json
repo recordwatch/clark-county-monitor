@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-26T05:09:54",
+  "generatedAt": "2026-10-26T05:55:17",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 787,
     "bookingsObserved": 318,
-    "releasesObserved": 297,
-    "inCustody": 490,
+    "releasesObserved": 298,
+    "inCustody": 489,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-10-26",
       "booked": 1,
-      "released": 0
+      "released": 1
     }
   ],
   "topCharges": [
@@ -471,8 +471,8 @@
     },
     {
       "name": "E",
-      "count": 106,
-      "pct": 22.7
+      "count": 105,
+      "pct": 22.6
     },
     {
       "name": "F",
@@ -482,7 +482,7 @@
     {
       "name": "G",
       "count": 105,
-      "pct": 22.5
+      "pct": 22.6
     },
     {
       "name": "H",
@@ -497,7 +497,7 @@
     {
       "name": "M",
       "count": 10,
-      "pct": 2.1
+      "pct": 2.2
     },
     {
       "name": "SKAMANIA",
@@ -508,7 +508,7 @@
   "releaseStatus": [
     {
       "name": "RELEASED",
-      "count": 295,
+      "count": 296,
       "pct": 100
     }
   ],
@@ -530,9 +530,9 @@
     }
   ],
   "stay": {
-    "releasedCount": 296,
+    "releasedCount": 297,
     "medianDays": 2.3,
-    "meanDays": 29.4,
+    "meanDays": 29.3,
     "buckets": [
       {
         "label": "< 1 day",
@@ -544,7 +544,7 @@
       },
       {
         "label": "3–7 days",
-        "count": 35
+        "count": 36
       },
       {
         "label": "1–4 weeks",
@@ -559,12 +559,12 @@
         "count": 22
       }
     ],
-    "currentMedianDaysHeld": 48.7,
+    "currentMedianDaysHeld": 49.2,
     "currentLongestDaysHeld": 1046.2
   },
   "bond": {
     "withBond": 339,
-    "noBond": 151,
+    "noBond": 150,
     "medianBond": 25000,
     "maxBond": 10005000,
     "totalBond": 57904700
