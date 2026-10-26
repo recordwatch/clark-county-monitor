@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-25T18:55:20",
+  "generatedAt": "2026-10-25T19:55:18",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 781,
-    "bookingsObserved": 312,
+    "bookingsTracked": 782,
+    "bookingsObserved": 313,
     "releasesObserved": 297,
-    "inCustody": 484,
+    "inCustody": 485,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -168,7 +168,7 @@
     },
     {
       "name": "ASSAULT-4 - DV",
-      "count": 198,
+      "count": 200,
       "pct": 4.7
     },
     {
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1783,
+      "count": 1785,
       "pct": 42.4,
       "label": "Gross Misdemeanor"
     },
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 21,
-      "pct": 4.6
+      "count": 22,
+      "pct": 4.8
     },
     {
       "name": "C",
@@ -477,7 +477,7 @@
     {
       "name": "F",
       "count": 96,
-      "pct": 20.9
+      "pct": 20.8
     },
     {
       "name": "G",
@@ -564,7 +564,7 @@
   },
   "bond": {
     "withBond": 340,
-    "noBond": 144,
+    "noBond": 145,
     "medianBond": 25000,
     "maxBond": 10005000,
     "totalBond": 57906200
