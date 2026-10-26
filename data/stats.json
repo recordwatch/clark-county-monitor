@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T11:47:29",
+  "generatedAt": "2026-10-26T11:55:18",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 788,
@@ -327,20 +327,20 @@
   "courts": [
     {
       "name": "S9",
-      "count": 657,
+      "count": 658,
       "pct": 18,
       "label": "Superior Court (S9)"
     },
     {
       "name": "DARR",
-      "count": 549,
+      "count": 550,
       "pct": 15,
       "label": "District Court (DARR)"
     },
     {
       "name": "S12",
-      "count": 473,
-      "pct": 12.9,
+      "count": 485,
+      "pct": 13.3,
       "label": "Superior Court (S12)"
     },
     {
@@ -351,14 +351,14 @@
     },
     {
       "name": "S8",
-      "count": 440,
-      "pct": 12,
+      "count": 432,
+      "pct": 11.8,
       "label": "Superior Court (S8)"
     },
     {
       "name": "S10",
-      "count": 324,
-      "pct": 8.9,
+      "count": 320,
+      "pct": 8.7,
       "label": "Superior Court (S10)"
     },
     {
@@ -419,7 +419,7 @@
     },
     {
       "name": "M",
-      "count": 347,
+      "count": 348,
       "pct": 8.2,
       "label": "Misdemeanor"
     },
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2219,
+      "count": 2220,
       "pct": 52.3
     },
     {
