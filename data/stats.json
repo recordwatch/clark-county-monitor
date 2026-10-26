@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T03:55:47",
+  "generatedAt": "2026-10-26T04:55:17",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 787,
@@ -173,8 +173,8 @@
     },
     {
       "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
-      "count": 141,
-      "pct": 3.3
+      "count": 142,
+      "pct": 3.4
     },
     {
       "name": "PROTECTION ORDER VIO RESIDENCE,WORKPLACE, DAYCARE",
@@ -266,7 +266,7 @@
     {
       "name": "SO6",
       "count": 490,
-      "pct": 62.5,
+      "pct": 62.4,
       "label": "SO6"
     },
     {
@@ -283,8 +283,8 @@
     },
     {
       "name": "WSP",
-      "count": 20,
-      "pct": 2.6,
+      "count": 21,
+      "pct": 2.7,
       "label": "Washington State Patrol"
     },
     {
@@ -327,14 +327,14 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 542,
-      "pct": 14.9,
+      "count": 547,
+      "pct": 15,
       "label": "District Court (DARR)"
     },
     {
       "name": "S8",
       "count": 468,
-      "pct": 12.9,
+      "pct": 12.8,
       "label": "Superior Court (S8)"
     },
     {
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1789,
+      "count": 1790,
       "pct": 42.4,
       "label": "Gross Misdemeanor"
     },
@@ -419,7 +419,7 @@
     },
     {
       "name": "M",
-      "count": 347,
+      "count": 346,
       "pct": 8.2,
       "label": "Misdemeanor"
     },
@@ -515,13 +515,13 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2205,
+      "count": 2210,
       "pct": 52.2
     },
     {
       "name": "COMBINED",
       "count": 1279,
-      "pct": 30.3
+      "pct": 30.2
     },
     {
       "name": "BAIL BOND",
