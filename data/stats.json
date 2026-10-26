@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-25T20:55:17",
+  "generatedAt": "2026-10-25T21:55:17",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 783,
-    "bookingsObserved": 314,
+    "bookingsTracked": 784,
+    "bookingsObserved": 315,
     "releasesObserved": 297,
-    "inCustody": 486,
+    "inCustody": 487,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -173,7 +173,7 @@
     },
     {
       "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
-      "count": 140,
+      "count": 141,
       "pct": 3.3
     },
     {
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1785,
+      "count": 1787,
       "pct": 42.4,
       "label": "Gross Misdemeanor"
     },
@@ -419,7 +419,7 @@
     },
     {
       "name": "M",
-      "count": 344,
+      "count": 347,
       "pct": 8.2,
       "label": "Misdemeanor"
     },
@@ -515,17 +515,17 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2197,
-      "pct": 52
+      "count": 2200,
+      "pct": 52.1
     },
     {
       "name": "COMBINED",
-      "count": 1281,
+      "count": 1279,
       "pct": 30.3
     },
     {
       "name": "BAIL BOND",
-      "count": 743,
+      "count": 742,
       "pct": 17.6
     }
   ],
@@ -563,11 +563,11 @@
     "currentLongestDaysHeld": 1045.9
   },
   "bond": {
-    "withBond": 340,
-    "noBond": 146,
+    "withBond": 339,
+    "noBond": 148,
     "medianBond": 25000,
     "maxBond": 10005000,
-    "totalBond": 57906200
+    "totalBond": 57903700
   },
   "chargesPerBooking": 5.4
 }
