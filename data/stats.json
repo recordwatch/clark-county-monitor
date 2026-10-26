@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T02:55:18",
+  "generatedAt": "2026-10-26T03:55:47",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 787,
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 541,
+      "count": 542,
       "pct": 14.9,
       "label": "District Court (DARR)"
     },
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1788,
+      "count": 1789,
       "pct": 42.4,
       "label": "Gross Misdemeanor"
     },
@@ -525,7 +525,7 @@
     },
     {
       "name": "BAIL BOND",
-      "count": 742,
+      "count": 743,
       "pct": 17.6
     }
   ],
@@ -559,15 +559,15 @@
         "count": 22
       }
     ],
-    "currentMedianDaysHeld": 48.6,
-    "currentLongestDaysHeld": 1046.1
+    "currentMedianDaysHeld": 48.7,
+    "currentLongestDaysHeld": 1046.2
   },
   "bond": {
     "withBond": 339,
     "noBond": 151,
     "medianBond": 25000,
     "maxBond": 10005000,
-    "totalBond": 57903700
+    "totalBond": 57904700
   },
   "chargesPerBooking": 5.4
 }
