@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T10:55:20",
+  "generatedAt": "2026-10-26T11:47:29",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 788,
@@ -199,7 +199,7 @@
     {
       "name": "ASSAULT-4",
       "count": 87,
-      "pct": 2.1
+      "pct": 2
     },
     {
       "name": "ASSAULT-2 -DV",
@@ -209,17 +209,17 @@
     {
       "name": "RESISTING ARREST",
       "count": 70,
-      "pct": 1.7
+      "pct": 1.6
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOWINGLY POSSESS",
       "count": 70,
-      "pct": 1.7
+      "pct": 1.6
     },
     {
       "name": "UNLAWFUL CAMPING",
       "count": 70,
-      "pct": 1.7
+      "pct": 1.6
     },
     {
       "name": "OBSTRUCT LAW ENFORCEMENT OFC",
@@ -327,13 +327,13 @@
   "courts": [
     {
       "name": "S9",
-      "count": 656,
-      "pct": 17.9,
+      "count": 657,
+      "pct": 18,
       "label": "Superior Court (S9)"
     },
     {
       "name": "DARR",
-      "count": 547,
+      "count": 549,
       "pct": 15,
       "label": "District Court (DARR)"
     },
@@ -401,25 +401,25 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1791,
+      "count": 1792,
       "pct": 42.3,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
-      "count": 957,
+      "count": 956,
       "pct": 22.6,
       "label": "Class C Felony"
     },
     {
       "name": "FB",
-      "count": 735,
+      "count": 736,
       "pct": 17.4,
       "label": "Class B Felony"
     },
     {
       "name": "M",
-      "count": 346,
+      "count": 347,
       "pct": 8.2,
       "label": "Misdemeanor"
     },
@@ -451,8 +451,8 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 13,
-      "pct": 2.8
+      "count": 12,
+      "pct": 2.6
     },
     {
       "name": "B",
@@ -466,8 +466,8 @@
     },
     {
       "name": "D",
-      "count": 30,
-      "pct": 6.5
+      "count": 31,
+      "pct": 6.7
     },
     {
       "name": "E",
@@ -515,12 +515,12 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2218,
+      "count": 2219,
       "pct": 52.3
     },
     {
       "name": "COMBINED",
-      "count": 1279,
+      "count": 1280,
       "pct": 30.2
     },
     {
@@ -563,11 +563,11 @@
     "currentLongestDaysHeld": 1046.5
   },
   "bond": {
-    "withBond": 338,
-    "noBond": 150,
+    "withBond": 339,
+    "noBond": 149,
     "medianBond": 25000,
     "maxBond": 10005000,
-    "totalBond": 57897200
+    "totalBond": 57897700
   },
   "chargesPerBooking": 5.4
 }
