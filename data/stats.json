@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-25T21:55:17",
+  "generatedAt": "2026-10-25T22:44:07",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 784,
-    "bookingsObserved": 315,
+    "bookingsTracked": 785,
+    "bookingsObserved": 316,
     "releasesObserved": 297,
-    "inCustody": 487,
+    "inCustody": 488,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-25",
-      "booked": 16,
+      "booked": 17,
       "released": 3
     }
   ],
@@ -266,7 +266,7 @@
     {
       "name": "SO6",
       "count": 490,
-      "pct": 62.8,
+      "pct": 62.7,
       "label": "SO6"
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "CLS",
-      "count": 61,
-      "pct": 7.8,
+      "count": 62,
+      "pct": 7.9,
       "label": "CLS"
     },
     {
@@ -363,7 +363,7 @@
     },
     {
       "name": "SARR",
-      "count": 207,
+      "count": 208,
       "pct": 5.7,
       "label": "Superior Court (SARR)"
     },
@@ -407,7 +407,7 @@
     },
     {
       "name": "FC",
-      "count": 953,
+      "count": 954,
       "pct": 22.6,
       "label": "Class C Felony"
     },
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 22,
-      "pct": 4.8
+      "count": 24,
+      "pct": 5.2
     },
     {
       "name": "C",
@@ -472,17 +472,17 @@
     {
       "name": "E",
       "count": 106,
-      "pct": 22.9
+      "pct": 22.8
     },
     {
       "name": "F",
-      "count": 96,
-      "pct": 20.8
+      "count": 95,
+      "pct": 20.5
     },
     {
       "name": "G",
-      "count": 105,
-      "pct": 22.7
+      "count": 106,
+      "pct": 22.8
     },
     {
       "name": "H",
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2200,
+      "count": 2201,
       "pct": 52.1
     },
     {
@@ -564,7 +564,7 @@
   },
   "bond": {
     "withBond": 339,
-    "noBond": 148,
+    "noBond": 149,
     "medianBond": 25000,
     "maxBond": 10005000,
     "totalBond": 57903700
