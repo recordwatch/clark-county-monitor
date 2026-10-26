@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-26T16:00:06",
+  "generatedAt": "2026-10-26T16:55:17",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 790,
     "bookingsObserved": 321,
-    "releasesObserved": 300,
-    "inCustody": 490,
+    "releasesObserved": 301,
+    "inCustody": 489,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-10-26",
       "booked": 4,
-      "released": 3
+      "released": 4
     }
   ],
   "topCharges": [
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "SO6",
-      "count": 490,
-      "pct": 62.3,
+      "count": 489,
+      "pct": 62.1,
       "label": "SO6"
     },
     {
@@ -312,16 +312,16 @@
       "label": "VCA"
     },
     {
+      "name": "OTH",
+      "count": 4,
+      "pct": 0.5,
+      "label": "OTH"
+    },
+    {
       "name": "RPD",
       "count": 4,
       "pct": 0.5,
       "label": "RPD"
-    },
-    {
-      "name": "LAP",
-      "count": 3,
-      "pct": 0.4,
-      "label": "LAP"
     }
   ],
   "courts": [
@@ -333,13 +333,13 @@
     },
     {
       "name": "DARR",
-      "count": 554,
-      "pct": 15.1,
+      "count": 552,
+      "pct": 15,
       "label": "District Court (DARR)"
     },
     {
       "name": "S12",
-      "count": 483,
+      "count": 480,
       "pct": 13.1,
       "label": "Superior Court (S12)"
     },
@@ -351,8 +351,8 @@
     },
     {
       "name": "S8",
-      "count": 430,
-      "pct": 11.7,
+      "count": 433,
+      "pct": 11.8,
       "label": "Superior Court (S8)"
     },
     {
@@ -363,7 +363,7 @@
     },
     {
       "name": "D3",
-      "count": 110,
+      "count": 111,
       "pct": 3,
       "label": "District Court (D3)"
     },
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 23,
-      "pct": 4.9
+      "count": 22,
+      "pct": 4.7
     },
     {
       "name": "C",
@@ -472,17 +472,17 @@
     {
       "name": "E",
       "count": 105,
-      "pct": 22.5
+      "pct": 22.6
     },
     {
       "name": "F",
       "count": 98,
-      "pct": 21
+      "pct": 21.1
     },
     {
       "name": "G",
       "count": 106,
-      "pct": 22.7
+      "pct": 22.8
     },
     {
       "name": "H",
@@ -497,7 +497,7 @@
     {
       "name": "M",
       "count": 10,
-      "pct": 2.1
+      "pct": 2.2
     },
     {
       "name": "SKAMANIA",
@@ -508,7 +508,7 @@
   "releaseStatus": [
     {
       "name": "RELEASED",
-      "count": 298,
+      "count": 299,
       "pct": 100
     }
   ],
@@ -530,9 +530,9 @@
     }
   ],
   "stay": {
-    "releasedCount": 299,
+    "releasedCount": 300,
     "medianDays": 2.4,
-    "meanDays": 29.8,
+    "meanDays": 30.1,
     "buckets": [
       {
         "label": "< 1 day",
@@ -556,7 +556,7 @@
       },
       {
         "label": "3+ months",
-        "count": 23
+        "count": 24
       }
     ],
     "currentMedianDaysHeld": 48.7,
@@ -564,7 +564,7 @@
   },
   "bond": {
     "withBond": 336,
-    "noBond": 154,
+    "noBond": 153,
     "medianBond": 25000,
     "maxBond": 10005000,
     "totalBond": 57789700
