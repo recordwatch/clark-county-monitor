@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-25T22:55:17",
+  "generatedAt": "2026-10-25T23:55:19",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 785,
-    "bookingsObserved": 316,
+    "bookingsTracked": 786,
+    "bookingsObserved": 317,
     "releasesObserved": 297,
-    "inCustody": 488,
+    "inCustody": 489,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-25",
-      "booked": 18,
+      "booked": 19,
       "released": 3
     }
   ],
@@ -203,7 +203,7 @@
     },
     {
       "name": "ASSAULT-2 -DV",
-      "count": 77,
+      "count": 78,
       "pct": 1.8
     },
     {
@@ -271,8 +271,8 @@
     },
     {
       "name": "VPD",
-      "count": 167,
-      "pct": 21.4,
+      "count": 168,
+      "pct": 21.5,
       "label": "Vancouver Police"
     },
     {
@@ -402,7 +402,7 @@
     {
       "name": "GM",
       "count": 1787,
-      "pct": 42.4,
+      "pct": 42.3,
       "label": "Gross Misdemeanor"
     },
     {
@@ -413,7 +413,7 @@
     },
     {
       "name": "FB",
-      "count": 730,
+      "count": 731,
       "pct": 17.3,
       "label": "Class B Felony"
     },
@@ -451,13 +451,13 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 12,
-      "pct": 2.6
+      "count": 13,
+      "pct": 2.8
     },
     {
       "name": "B",
-      "count": 24,
-      "pct": 5.2
+      "count": 25,
+      "pct": 5.4
     },
     {
       "name": "C",
@@ -477,12 +477,12 @@
     {
       "name": "F",
       "count": 95,
-      "pct": 20.5
+      "pct": 20.4
     },
     {
       "name": "G",
-      "count": 106,
-      "pct": 22.8
+      "count": 105,
+      "pct": 22.6
     },
     {
       "name": "H",
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2201,
+      "count": 2202,
       "pct": 52.1
     },
     {
@@ -564,7 +564,7 @@
   },
   "bond": {
     "withBond": 339,
-    "noBond": 149,
+    "noBond": 150,
     "medianBond": 25000,
     "maxBond": 10005000,
     "totalBond": 57903700
