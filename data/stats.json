@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-26T06:55:18",
+  "generatedAt": "2026-10-26T07:55:18",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 787,
     "bookingsObserved": 318,
-    "releasesObserved": 298,
-    "inCustody": 489,
+    "releasesObserved": 299,
+    "inCustody": 488,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-10-26",
       "booked": 1,
-      "released": 1
+      "released": 2
     }
   ],
   "topCharges": [
@@ -223,7 +223,7 @@
     },
     {
       "name": "OBSTRUCT LAW ENFORCEMENT OFC",
-      "count": 68,
+      "count": 69,
       "pct": 1.6
     },
     {
@@ -332,16 +332,16 @@
       "label": "District Court (DARR)"
     },
     {
-      "name": "S8",
-      "count": 468,
-      "pct": 12.8,
-      "label": "Superior Court (S8)"
+      "name": "S9",
+      "count": 464,
+      "pct": 12.7,
+      "label": "Superior Court (S9)"
     },
     {
-      "name": "S9",
-      "count": 459,
-      "pct": 12.6,
-      "label": "Superior Court (S9)"
+      "name": "S8",
+      "count": 463,
+      "pct": 12.7,
+      "label": "Superior Court (S8)"
     },
     {
       "name": "S3",
@@ -393,7 +393,7 @@
     },
     {
       "name": "D1",
-      "count": 77,
+      "count": 78,
       "pct": 2.1,
       "label": "District Court (D1)"
     }
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1790,
+      "count": 1791,
       "pct": 42.4,
       "label": "Gross Misdemeanor"
     },
@@ -477,7 +477,7 @@
     {
       "name": "F",
       "count": 95,
-      "pct": 20.4
+      "pct": 20.5
     },
     {
       "name": "G",
@@ -486,8 +486,8 @@
     },
     {
       "name": "H",
-      "count": 25,
-      "pct": 5.4
+      "count": 24,
+      "pct": 5.2
     },
     {
       "name": "JDH",
@@ -508,14 +508,14 @@
   "releaseStatus": [
     {
       "name": "RELEASED",
-      "count": 296,
+      "count": 297,
       "pct": 100
     }
   ],
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2210,
+      "count": 2211,
       "pct": 52.2
     },
     {
@@ -530,9 +530,9 @@
     }
   ],
   "stay": {
-    "releasedCount": 297,
-    "medianDays": 2.3,
-    "meanDays": 29.3,
+    "releasedCount": 298,
+    "medianDays": 2.4,
+    "meanDays": 29.4,
     "buckets": [
       {
         "label": "< 1 day",
@@ -552,19 +552,19 @@
       },
       {
         "label": "1–3 months",
-        "count": 27
+        "count": 28
       },
       {
         "label": "3+ months",
         "count": 22
       }
     ],
-    "currentMedianDaysHeld": 49.3,
+    "currentMedianDaysHeld": 48.8,
     "currentLongestDaysHeld": 1046.3
   },
   "bond": {
     "withBond": 339,
-    "noBond": 150,
+    "noBond": 149,
     "medianBond": 25000,
     "maxBond": 10005000,
     "totalBond": 57904700
