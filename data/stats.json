@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T11:55:17",
+  "generatedAt": "2026-10-27T12:11:01",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 796,
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-27",
-      "booked": 5,
+      "booked": 6,
       "released": 10
     }
   ],
@@ -184,7 +184,7 @@
     {
       "name": "PROTECTION ORDER VIO RESIDENCE,WORKPLACE, DAYCARE",
       "count": 138,
-      "pct": 3.2
+      "pct": 3.1
     },
     {
       "name": "THEFT-3",
@@ -198,8 +198,8 @@
     },
     {
       "name": "ASSAULT-4",
-      "count": 89,
-      "pct": 2
+      "count": 90,
+      "pct": 2.1
     },
     {
       "name": "ASSAULT-2 -DV",
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "S9",
-      "count": 765,
+      "count": 767,
       "pct": 20.2,
       "label": "Superior Court (S9)"
     },
@@ -401,13 +401,13 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1832,
+      "count": 1833,
       "pct": 42,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
-      "count": 1041,
+      "count": 1042,
       "pct": 23.8,
       "label": "Class C Felony"
     },
@@ -516,11 +516,11 @@
     {
       "name": "NONE",
       "count": 2152,
-      "pct": 49.2
+      "pct": 49.1
     },
     {
       "name": "COMBINED",
-      "count": 1466,
+      "count": 1468,
       "pct": 33.5
     },
     {
