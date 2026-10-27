@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T12:55:16",
+  "generatedAt": "2026-10-27T13:55:20",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 796,
@@ -193,12 +193,12 @@
     },
     {
       "name": "HARASSMENT PREV CONV OR THREAT TO KILL",
-      "count": 112,
+      "count": 113,
       "pct": 2.6
     },
     {
       "name": "ASSAULT-4",
-      "count": 90,
+      "count": 91,
       "pct": 2.1
     },
     {
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "S9",
-      "count": 769,
-      "pct": 20.3,
+      "count": 776,
+      "pct": 20.5,
       "label": "Superior Court (S9)"
     },
     {
@@ -345,20 +345,20 @@
     },
     {
       "name": "S3",
-      "count": 453,
-      "pct": 12,
+      "count": 450,
+      "pct": 11.9,
       "label": "Superior Court (S3)"
     },
     {
       "name": "S12",
-      "count": 436,
-      "pct": 11.5,
+      "count": 445,
+      "pct": 11.7,
       "label": "Superior Court (S12)"
     },
     {
       "name": "S10",
-      "count": 347,
-      "pct": 9.2,
+      "count": 338,
+      "pct": 8.9,
       "label": "Superior Court (S10)"
     },
     {
@@ -381,7 +381,7 @@
     },
     {
       "name": "D5",
-      "count": 87,
+      "count": 88,
       "pct": 2.3,
       "label": "District Court (D5)"
     },
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1833,
+      "count": 1834,
       "pct": 42,
       "label": "Gross Misdemeanor"
     },
@@ -515,17 +515,17 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2152,
-      "pct": 49.1
+      "count": 2155,
+      "pct": 49.2
     },
     {
       "name": "COMBINED",
-      "count": 1468,
+      "count": 1467,
       "pct": 33.5
     },
     {
       "name": "BAIL BOND",
-      "count": 759,
+      "count": 758,
       "pct": 17.3
     }
   ],
@@ -559,15 +559,15 @@
         "count": 25
       }
     ],
-    "currentMedianDaysHeld": 55.5,
-    "currentLongestDaysHeld": 1047.5
+    "currentMedianDaysHeld": 55.6,
+    "currentLongestDaysHeld": 1047.6
   },
   "bond": {
     "withBond": 338,
     "noBond": 112,
     "medianBond": 27250,
     "maxBond": 10005000,
-    "totalBond": 59021700
+    "totalBond": 59022700
   },
   "chargesPerBooking": 5.5
 }
