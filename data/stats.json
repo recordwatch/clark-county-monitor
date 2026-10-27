@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-27T08:55:18",
+  "generatedAt": "2026-10-27T09:55:19",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 794,
     "bookingsObserved": 325,
-    "releasesObserved": 344,
-    "inCustody": 450,
+    "releasesObserved": 345,
+    "inCustody": 449,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-10-27",
       "booked": 4,
-      "released": 9
+      "released": 10
     }
   ],
   "topCharges": [
@@ -168,7 +168,7 @@
     },
     {
       "name": "ASSAULT-4 - DV",
-      "count": 207,
+      "count": 208,
       "pct": 4.8
     },
     {
@@ -178,7 +178,7 @@
     },
     {
       "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
-      "count": 143,
+      "count": 144,
       "pct": 3.3
     },
     {
@@ -193,8 +193,8 @@
     },
     {
       "name": "HARASSMENT PREV CONV OR THREAT TO KILL",
-      "count": 111,
-      "pct": 2.5
+      "count": 112,
+      "pct": 2.6
     },
     {
       "name": "ASSAULT-4",
@@ -238,7 +238,7 @@
     },
     {
       "name": "MALICIOUS MISCHIEF-3 - DV",
-      "count": 59,
+      "count": 60,
       "pct": 1.4
     },
     {
@@ -258,7 +258,7 @@
     },
     {
       "name": "UNLAWFUL IMPRISONMENT -DV",
-      "count": 51,
+      "count": 52,
       "pct": 1.2
     }
   ],
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "S9",
-      "count": 752,
-      "pct": 20,
+      "count": 763,
+      "pct": 20.2,
       "label": "Superior Court (S9)"
     },
     {
@@ -340,19 +340,19 @@
     {
       "name": "S8",
       "count": 465,
-      "pct": 12.4,
+      "pct": 12.3,
       "label": "Superior Court (S8)"
     },
     {
       "name": "S3",
-      "count": 458,
-      "pct": 12.2,
+      "count": 455,
+      "pct": 12.1,
       "label": "Superior Court (S3)"
     },
     {
       "name": "S12",
-      "count": 436,
-      "pct": 11.6,
+      "count": 435,
+      "pct": 11.5,
       "label": "Superior Court (S12)"
     },
     {
@@ -387,7 +387,7 @@
     },
     {
       "name": "D1",
-      "count": 78,
+      "count": 79,
       "pct": 2.1,
       "label": "District Court (D1)"
     },
@@ -401,13 +401,13 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1815,
-      "pct": 41.8,
+      "count": 1820,
+      "pct": 41.9,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
-      "count": 1038,
+      "count": 1039,
       "pct": 23.9,
       "label": "Class C Felony"
     },
@@ -461,8 +461,8 @@
     },
     {
       "name": "C",
-      "count": 39,
-      "pct": 9.2
+      "count": 38,
+      "pct": 8.9
     },
     {
       "name": "D",
@@ -472,7 +472,7 @@
     {
       "name": "E",
       "count": 98,
-      "pct": 23
+      "pct": 23.1
     },
     {
       "name": "F",
@@ -508,15 +508,15 @@
   "releaseStatus": [
     {
       "name": "RELEASED",
-      "count": 342,
+      "count": 343,
       "pct": 100
     }
   ],
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2124,
-      "pct": 48.8
+      "count": 2130,
+      "pct": 48.9
     },
     {
       "name": "COMBINED",
@@ -526,13 +526,13 @@
     {
       "name": "BAIL BOND",
       "count": 760,
-      "pct": 17.5
+      "pct": 17.4
     }
   ],
   "stay": {
-    "releasedCount": 343,
+    "releasedCount": 344,
     "medianDays": 2.5,
-    "meanDays": 26.8,
+    "meanDays": 27.1,
     "buckets": [
       {
         "label": "< 1 day",
@@ -556,18 +556,18 @@
       },
       {
         "label": "3+ months",
-        "count": 24
+        "count": 25
       }
     ],
     "currentMedianDaysHeld": 55.4,
     "currentLongestDaysHeld": 1047.4
   },
   "bond": {
-    "withBond": 340,
+    "withBond": 339,
     "noBond": 110,
-    "medianBond": 26500,
+    "medianBond": 27000,
     "maxBond": 10005000,
-    "totalBond": 59030700
+    "totalBond": 59025700
   },
   "chargesPerBooking": 5.5
 }
