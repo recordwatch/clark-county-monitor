@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-27T10:55:18",
+  "generatedAt": "2026-10-27T11:55:17",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 795,
-    "bookingsObserved": 326,
+    "bookingsTracked": 796,
+    "bookingsObserved": 327,
     "releasesObserved": 345,
-    "inCustody": 450,
+    "inCustody": 451,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,20 +156,20 @@
     },
     {
       "date": "2026-10-27",
-      "booked": 4,
+      "booked": 5,
       "released": 10
     }
   ],
   "topCharges": [
     {
       "name": "PROTECTION ORDER VIOLATION",
-      "count": 404,
-      "pct": 9.2
+      "count": 406,
+      "pct": 9.3
     },
     {
       "name": "ASSAULT-4 - DV",
       "count": 208,
-      "pct": 4.8
+      "pct": 4.7
     },
     {
       "name": "PROTECTION ORDER VIOL PREV CONVICTI",
@@ -277,8 +277,8 @@
     },
     {
       "name": "CLS",
-      "count": 59,
-      "pct": 7.4,
+      "count": 60,
+      "pct": 7.6,
       "label": "CLS"
     },
     {
@@ -333,8 +333,8 @@
     },
     {
       "name": "DARR",
-      "count": 538,
-      "pct": 14.2,
+      "count": 536,
+      "pct": 14.1,
       "label": "District Court (DARR)"
     },
     {
@@ -352,7 +352,7 @@
     {
       "name": "S12",
       "count": 433,
-      "pct": 11.5,
+      "pct": 11.4,
       "label": "Superior Court (S12)"
     },
     {
@@ -393,7 +393,7 @@
     },
     {
       "name": "D6",
-      "count": 55,
+      "count": 57,
       "pct": 1.5,
       "label": "District Court (D6)"
     }
@@ -401,26 +401,26 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1830,
+      "count": 1832,
       "pct": 42,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
-      "count": 1039,
+      "count": 1041,
       "pct": 23.8,
       "label": "Class C Felony"
     },
     {
       "name": "FB",
-      "count": 738,
-      "pct": 16.9,
+      "count": 742,
+      "pct": 17,
       "label": "Class B Felony"
     },
     {
       "name": "M",
       "count": 351,
-      "pct": 8.1,
+      "pct": 8,
       "label": "Misdemeanor"
     },
     {
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 10,
-      "pct": 2.3
+      "count": 11,
+      "pct": 2.6
     },
     {
       "name": "C",
@@ -477,7 +477,7 @@
     {
       "name": "F",
       "count": 92,
-      "pct": 21.6
+      "pct": 21.5
     },
     {
       "name": "G",
@@ -515,18 +515,18 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2142,
-      "pct": 49
+      "count": 2152,
+      "pct": 49.2
     },
     {
       "name": "COMBINED",
-      "count": 1467,
-      "pct": 33.6
+      "count": 1466,
+      "pct": 33.5
     },
     {
       "name": "BAIL BOND",
-      "count": 760,
-      "pct": 17.4
+      "count": 759,
+      "pct": 17.3
     }
   ],
   "stay": {
@@ -564,10 +564,10 @@
   },
   "bond": {
     "withBond": 339,
-    "noBond": 111,
+    "noBond": 112,
     "medianBond": 27000,
     "maxBond": 10005000,
-    "totalBond": 59025700
+    "totalBond": 59025200
   },
   "chargesPerBooking": 5.5
 }
