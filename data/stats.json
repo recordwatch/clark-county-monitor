@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T05:55:19",
+  "generatedAt": "2026-10-28T06:55:16",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 813,
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-28",
-      "booked": 4,
+      "booked": 5,
       "released": 1
     }
   ],
@@ -207,6 +207,11 @@
       "pct": 1.8
     },
     {
+      "name": "RESISTING ARREST",
+      "count": 72,
+      "pct": 1.6
+    },
+    {
       "name": "OBSTRUCT LAW ENFORCEMENT OFC",
       "count": 72,
       "pct": 1.6
@@ -218,11 +223,6 @@
     },
     {
       "name": "UNLAWFUL CAMPING",
-      "count": 72,
-      "pct": 1.6
-    },
-    {
-      "name": "RESISTING ARREST",
       "count": 72,
       "pct": 1.6
     },
@@ -559,8 +559,8 @@
         "count": 27
       }
     ],
-    "currentMedianDaysHeld": 55.2,
-    "currentLongestDaysHeld": 1048.2
+    "currentMedianDaysHeld": 54.3,
+    "currentLongestDaysHeld": 1048.3
   },
   "bond": {
     "withBond": 343,
