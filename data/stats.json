@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T23:55:18",
+  "generatedAt": "2026-10-28T00:55:18",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 808,
@@ -9,11 +9,6 @@
     "uniquePeople": 802
   },
   "bookingsByDay": [
-    {
-      "date": "2026-09-28",
-      "booked": 1,
-      "released": 0
-    },
     {
       "date": "2026-09-29",
       "booked": 5,
@@ -158,6 +153,11 @@
       "date": "2026-10-27",
       "booked": 18,
       "released": 17
+    },
+    {
+      "date": "2026-10-28",
+      "booked": 0,
+      "released": 0
     }
   ],
   "topCharges": [
@@ -188,7 +188,7 @@
     },
     {
       "name": "THEFT-3",
-      "count": 119,
+      "count": 120,
       "pct": 2.7
     },
     {
@@ -266,13 +266,13 @@
     {
       "name": "SO6",
       "count": 515,
-      "pct": 64,
+      "pct": 63.9,
       "label": "SO6"
     },
     {
       "name": "VPD",
-      "count": 164,
-      "pct": 20.4,
+      "count": 165,
+      "pct": 20.5,
       "label": "Vancouver Police"
     },
     {
@@ -333,8 +333,8 @@
     },
     {
       "name": "DARR",
-      "count": 539,
-      "pct": 14.1,
+      "count": 541,
+      "pct": 14.2,
       "label": "District Court (DARR)"
     },
     {
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1851,
+      "count": 1852,
       "pct": 42,
       "label": "Gross Misdemeanor"
     },
@@ -413,7 +413,7 @@
     },
     {
       "name": "FB",
-      "count": 745,
+      "count": 744,
       "pct": 16.9,
       "label": "Class B Felony"
     },
@@ -515,13 +515,13 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2094,
+      "count": 2096,
       "pct": 47.4
     },
     {
       "name": "COMBINED",
       "count": 1549,
-      "pct": 35.1
+      "pct": 35
     },
     {
       "name": "BAIL BOND",
@@ -567,7 +567,7 @@
     "noBond": 113,
     "medianBond": 27000,
     "maxBond": 10005000,
-    "totalBond": 59085950
+    "totalBond": 59081950
   },
   "chargesPerBooking": 5.5
 }
