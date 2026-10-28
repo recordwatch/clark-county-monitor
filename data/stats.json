@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T12:55:17",
+  "generatedAt": "2026-10-28T13:44:34",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 820,
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "S9",
-      "count": 604,
-      "pct": 16.3,
+      "count": 610,
+      "pct": 16.4,
       "label": "Superior Court (S9)"
     },
     {
@@ -345,8 +345,8 @@
     },
     {
       "name": "S3",
-      "count": 448,
-      "pct": 12.1,
+      "count": 442,
+      "pct": 11.9,
       "label": "Superior Court (S3)"
     },
     {
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 22,
-      "pct": 5.1
+      "count": 19,
+      "pct": 4.4
     },
     {
       "name": "C",
@@ -476,13 +476,13 @@
     },
     {
       "name": "F",
-      "count": 89,
-      "pct": 20.5
+      "count": 90,
+      "pct": 20.7
     },
     {
       "name": "G",
-      "count": 103,
-      "pct": 23.7
+      "count": 104,
+      "pct": 23.9
     },
     {
       "name": "H",
@@ -496,8 +496,8 @@
     },
     {
       "name": "M",
-      "count": 10,
-      "pct": 2.3
+      "count": 11,
+      "pct": 2.5
     },
     {
       "name": "SKAMANIA",
@@ -559,8 +559,8 @@
         "count": 28
       }
     ],
-    "currentMedianDaysHeld": 54.5,
-    "currentLongestDaysHeld": 1048.5
+    "currentMedianDaysHeld": 54.6,
+    "currentLongestDaysHeld": 1048.6
   },
   "bond": {
     "withBond": 339,
