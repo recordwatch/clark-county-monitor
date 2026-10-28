@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-28T14:55:16",
+  "generatedAt": "2026-10-28T15:55:19",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 824,
-    "bookingsObserved": 355,
+    "bookingsTracked": 826,
+    "bookingsObserved": 357,
     "releasesObserved": 361,
-    "inCustody": 463,
-    "uniquePeople": 817
+    "inCustody": 465,
+    "uniquePeople": 819
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-28",
-      "booked": 12,
+      "booked": 14,
       "released": 9
     }
   ],
@@ -193,7 +193,7 @@
     },
     {
       "name": "HARASSMENT PREV CONV OR THREAT TO KILL",
-      "count": 116,
+      "count": 117,
       "pct": 2.6
     },
     {
@@ -266,7 +266,7 @@
     {
       "name": "SO6",
       "count": 517,
-      "pct": 63.2,
+      "pct": 63.1,
       "label": "SO6"
     },
     {
@@ -327,13 +327,13 @@
   "courts": [
     {
       "name": "S9",
-      "count": 610,
-      "pct": 16.4,
+      "count": 622,
+      "pct": 16.7,
       "label": "Superior Court (S9)"
     },
     {
       "name": "DARR",
-      "count": 561,
+      "count": 562,
       "pct": 15.1,
       "label": "District Court (DARR)"
     },
@@ -407,7 +407,7 @@
     },
     {
       "name": "FC",
-      "count": 1058,
+      "count": 1059,
       "pct": 23.7,
       "label": "Class C Felony"
     },
@@ -419,8 +419,8 @@
     },
     {
       "name": "M",
-      "count": 372,
-      "pct": 8.3,
+      "count": 373,
+      "pct": 8.4,
       "label": "Misdemeanor"
     },
     {
@@ -451,48 +451,48 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 15,
-      "pct": 3.4
+      "count": 16,
+      "pct": 3.6
     },
     {
       "name": "B",
-      "count": 20,
-      "pct": 4.5
+      "count": 21,
+      "pct": 4.7
     },
     {
       "name": "C",
       "count": 38,
-      "pct": 8.6
+      "pct": 8.5
     },
     {
       "name": "D",
       "count": 30,
-      "pct": 6.8
+      "pct": 6.7
     },
     {
       "name": "E",
       "count": 102,
-      "pct": 23
+      "pct": 22.9
     },
     {
       "name": "F",
       "count": 92,
-      "pct": 20.8
+      "pct": 20.7
     },
     {
       "name": "G",
       "count": 104,
-      "pct": 23.5
+      "pct": 23.4
     },
     {
       "name": "H",
       "count": 22,
-      "pct": 5
+      "pct": 4.9
     },
     {
       "name": "JDH",
       "count": 2,
-      "pct": 0.5
+      "pct": 0.4
     },
     {
       "name": "M",
@@ -525,7 +525,7 @@
     },
     {
       "name": "BAIL BOND",
-      "count": 781,
+      "count": 782,
       "pct": 17.5
     }
   ],
@@ -559,15 +559,15 @@
         "count": 28
       }
     ],
-    "currentMedianDaysHeld": 54.6,
-    "currentLongestDaysHeld": 1048.6
+    "currentMedianDaysHeld": 53.7,
+    "currentLongestDaysHeld": 1048.7
   },
   "bond": {
-    "withBond": 340,
-    "noBond": 123,
+    "withBond": 341,
+    "noBond": 124,
     "medianBond": 25000,
     "maxBond": 10005000,
-    "totalBond": 58813950
+    "totalBond": 58814450
   },
   "chargesPerBooking": 5.4
 }
