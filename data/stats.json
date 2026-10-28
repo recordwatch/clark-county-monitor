@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T19:55:17",
+  "generatedAt": "2026-10-27T20:55:18",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 806,
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-27",
-      "booked": 15,
+      "booked": 16,
       "released": 15
     }
   ],
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "SO6",
-      "count": 514,
-      "pct": 64.1,
+      "count": 515,
+      "pct": 64.2,
       "label": "SO6"
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "CLS",
-      "count": 61,
-      "pct": 7.6,
+      "count": 60,
+      "pct": 7.5,
       "label": "CLS"
     },
     {
@@ -327,20 +327,20 @@
   "courts": [
     {
       "name": "S9",
-      "count": 702,
-      "pct": 18.4,
+      "count": 687,
+      "pct": 18.1,
       "label": "Superior Court (S9)"
     },
     {
       "name": "DARR",
       "count": 543,
-      "pct": 14.2,
+      "pct": 14.3,
       "label": "District Court (DARR)"
     },
     {
       "name": "S8",
       "count": 463,
-      "pct": 12.1,
+      "pct": 12.2,
       "label": "Superior Court (S8)"
     },
     {
@@ -351,14 +351,14 @@
     },
     {
       "name": "S12",
-      "count": 446,
-      "pct": 11.7,
+      "count": 449,
+      "pct": 11.8,
       "label": "Superior Court (S12)"
     },
     {
       "name": "S10",
       "count": 417,
-      "pct": 10.9,
+      "pct": 11,
       "label": "Superior Court (S10)"
     },
     {
@@ -515,17 +515,17 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2088,
-      "pct": 47.4
+      "count": 2092,
+      "pct": 47.5
     },
     {
       "name": "COMBINED",
-      "count": 1546,
-      "pct": 35.1
+      "count": 1540,
+      "pct": 35
     },
     {
       "name": "BAIL BOND",
-      "count": 769,
+      "count": 771,
       "pct": 17.5
     }
   ],
@@ -559,15 +559,15 @@
         "count": 26
       }
     ],
-    "currentMedianDaysHeld": 54.8,
-    "currentLongestDaysHeld": 1047.8
+    "currentMedianDaysHeld": 54.9,
+    "currentLongestDaysHeld": 1047.9
   },
   "bond": {
-    "withBond": 342,
-    "noBond": 114,
-    "medianBond": 25625,
+    "withBond": 343,
+    "noBond": 113,
+    "medianBond": 26000,
     "maxBond": 10005000,
-    "totalBond": 59033950
+    "totalBond": 59078950
   },
   "chargesPerBooking": 5.5
 }
