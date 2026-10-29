@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-28T20:55:21",
+  "generatedAt": "2026-10-28T21:55:20",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 831,
-    "bookingsObserved": 362,
+    "bookingsTracked": 832,
+    "bookingsObserved": 363,
     "releasesObserved": 368,
-    "inCustody": 463,
-    "uniquePeople": 824
+    "inCustody": 464,
+    "uniquePeople": 825
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-28",
-      "booked": 23,
+      "booked": 24,
       "released": 16
     }
   ],
@@ -168,7 +168,7 @@
     },
     {
       "name": "ASSAULT-4 - DV",
-      "count": 216,
+      "count": 217,
       "pct": 4.8
     },
     {
@@ -258,27 +258,27 @@
     },
     {
       "name": "UNLAWFUL IMPRISONMENT -DV",
-      "count": 52,
+      "count": 53,
       "pct": 1.2
     }
   ],
   "topAgencies": [
     {
       "name": "SO6",
-      "count": 519,
+      "count": 520,
       "pct": 62.7,
       "label": "SO6"
     },
     {
       "name": "VPD",
       "count": 178,
-      "pct": 21.5,
+      "pct": 21.4,
       "label": "Vancouver Police"
     },
     {
       "name": "CLS",
-      "count": 65,
-      "pct": 7.9,
+      "count": 66,
+      "pct": 8,
       "label": "CLS"
     },
     {
@@ -333,14 +333,14 @@
     },
     {
       "name": "DARR",
-      "count": 565,
-      "pct": 15.1,
+      "count": 563,
+      "pct": 15,
       "label": "District Court (DARR)"
     },
     {
       "name": "S12",
-      "count": 506,
-      "pct": 13.5,
+      "count": 502,
+      "pct": 13.4,
       "label": "Superior Court (S12)"
     },
     {
@@ -352,13 +352,13 @@
     {
       "name": "S10",
       "count": 410,
-      "pct": 11,
+      "pct": 10.9,
       "label": "Superior Court (S10)"
     },
     {
       "name": "S8",
-      "count": 387,
-      "pct": 10.3,
+      "count": 392,
+      "pct": 10.5,
       "label": "Superior Court (S8)"
     },
     {
@@ -382,7 +382,7 @@
     {
       "name": "D5",
       "count": 88,
-      "pct": 2.4,
+      "pct": 2.3,
       "label": "District Court (D5)"
     },
     {
@@ -407,8 +407,8 @@
     },
     {
       "name": "FC",
-      "count": 1063,
-      "pct": 23.7,
+      "count": 1066,
+      "pct": 23.8,
       "label": "Class C Felony"
     },
     {
@@ -419,7 +419,7 @@
     },
     {
       "name": "M",
-      "count": 371,
+      "count": 372,
       "pct": 8.3,
       "label": "Misdemeanor"
     },
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 21,
-      "pct": 4.7
+      "count": 22,
+      "pct": 5
     },
     {
       "name": "C",
@@ -472,22 +472,22 @@
     {
       "name": "E",
       "count": 101,
-      "pct": 22.8
+      "pct": 22.7
     },
     {
       "name": "F",
       "count": 93,
-      "pct": 21
+      "pct": 20.9
     },
     {
       "name": "G",
       "count": 104,
-      "pct": 23.5
+      "pct": 23.4
     },
     {
       "name": "H",
-      "count": 21,
-      "pct": 4.7
+      "count": 22,
+      "pct": 5
     },
     {
       "name": "JDH",
@@ -496,8 +496,8 @@
     },
     {
       "name": "M",
-      "count": 10,
-      "pct": 2.3
+      "count": 9,
+      "pct": 2
     },
     {
       "name": "SKAMANIA",
@@ -515,17 +515,17 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2288,
-      "pct": 50.9
+      "count": 2300,
+      "pct": 51.1
     },
     {
       "name": "COMBINED",
-      "count": 1415,
-      "pct": 31.5
+      "count": 1411,
+      "pct": 31.4
     },
     {
       "name": "BAIL BOND",
-      "count": 788,
+      "count": 786,
       "pct": 17.5
     }
   ],
@@ -564,10 +564,10 @@
   },
   "bond": {
     "withBond": 339,
-    "noBond": 124,
-    "medianBond": 25250,
+    "noBond": 125,
+    "medianBond": 25000,
     "maxBond": 10005000,
-    "totalBond": 58838200
+    "totalBond": 58628200
   },
   "chargesPerBooking": 5.4
 }
