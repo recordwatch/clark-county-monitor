@@ -1,19 +1,14 @@
 {
-  "generatedAt": "2026-10-28T23:55:17",
+  "generatedAt": "2026-10-29T00:55:18",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 834,
-    "bookingsObserved": 365,
+    "bookingsTracked": 835,
+    "bookingsObserved": 366,
     "releasesObserved": 370,
-    "inCustody": 464,
-    "uniquePeople": 826
+    "inCustody": 465,
+    "uniquePeople": 827
   },
   "bookingsByDay": [
-    {
-      "date": "2026-09-29",
-      "booked": 5,
-      "released": 0
-    },
     {
       "date": "2026-09-30",
       "booked": 4,
@@ -158,6 +153,11 @@
       "date": "2026-10-28",
       "booked": 26,
       "released": 18
+    },
+    {
+      "date": "2026-10-29",
+      "booked": 1,
+      "released": 0
     }
   ],
   "topCharges": [
@@ -178,7 +178,7 @@
     },
     {
       "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
-      "count": 149,
+      "count": 148,
       "pct": 3.3
     },
     {
@@ -266,7 +266,7 @@
     {
       "name": "SO6",
       "count": 524,
-      "pct": 63.1,
+      "pct": 63,
       "label": "SO6"
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "CLS",
-      "count": 63,
-      "pct": 7.6,
+      "count": 64,
+      "pct": 7.7,
       "label": "CLS"
     },
     {
@@ -327,32 +327,32 @@
   "courts": [
     {
       "name": "S9",
-      "count": 612,
+      "count": 613,
       "pct": 16.4,
       "label": "Superior Court (S9)"
     },
     {
       "name": "DARR",
-      "count": 565,
-      "pct": 15.1,
+      "count": 570,
+      "pct": 15.2,
       "label": "District Court (DARR)"
     },
     {
       "name": "S12",
-      "count": 476,
-      "pct": 12.8,
+      "count": 473,
+      "pct": 12.7,
       "label": "Superior Court (S12)"
     },
     {
       "name": "S3",
       "count": 450,
-      "pct": 12.1,
+      "pct": 12,
       "label": "Superior Court (S3)"
     },
     {
       "name": "S8",
-      "count": 411,
-      "pct": 11,
+      "count": 414,
+      "pct": 11.1,
       "label": "Superior Court (S8)"
     },
     {
@@ -401,25 +401,25 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1888,
+      "count": 1890,
       "pct": 42,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
       "count": 1067,
-      "pct": 23.8,
+      "pct": 23.7,
       "label": "Class C Felony"
     },
     {
       "name": "FB",
-      "count": 752,
+      "count": 753,
       "pct": 16.7,
       "label": "Class B Felony"
     },
     {
       "name": "M",
-      "count": 372,
+      "count": 375,
       "pct": 8.3,
       "label": "Misdemeanor"
     },
@@ -452,27 +452,27 @@
     {
       "name": "A",
       "count": 14,
-      "pct": 3.2
+      "pct": 3.1
     },
     {
       "name": "B",
-      "count": 23,
-      "pct": 5.2
+      "count": 22,
+      "pct": 4.9
     },
     {
       "name": "C",
-      "count": 38,
-      "pct": 8.6
+      "count": 39,
+      "pct": 8.8
     },
     {
       "name": "D",
       "count": 30,
-      "pct": 6.8
+      "pct": 6.7
     },
     {
       "name": "E",
       "count": 99,
-      "pct": 22.3
+      "pct": 22.2
     },
     {
       "name": "F",
@@ -486,8 +486,8 @@
     },
     {
       "name": "H",
-      "count": 22,
-      "pct": 5
+      "count": 23,
+      "pct": 5.2
     },
     {
       "name": "JDH",
@@ -497,7 +497,7 @@
     {
       "name": "M",
       "count": 10,
-      "pct": 2.3
+      "pct": 2.2
     },
     {
       "name": "SKAMANIA",
@@ -515,18 +515,18 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2321,
-      "pct": 51.6
+      "count": 2322,
+      "pct": 51.5
     },
     {
       "name": "COMBINED",
-      "count": 1395,
+      "count": 1398,
       "pct": 31
     },
     {
       "name": "BAIL BOND",
-      "count": 785,
-      "pct": 17.4
+      "count": 787,
+      "pct": 17.5
     }
   ],
   "stay": {
@@ -563,11 +563,11 @@
     "currentLongestDaysHeld": 1049
   },
   "bond": {
-    "withBond": 337,
+    "withBond": 338,
     "noBond": 127,
     "medianBond": 25000,
     "maxBond": 10005000,
-    "totalBond": 58100700
+    "totalBond": 58102700
   },
   "chargesPerBooking": 5.4
 }
