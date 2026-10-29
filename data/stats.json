@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T23:43:08",
+  "generatedAt": "2026-10-28T23:55:17",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 834,
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "SO6",
-      "count": 523,
-      "pct": 62.9,
+      "count": 524,
+      "pct": 63.1,
       "label": "SO6"
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "CLS",
-      "count": 64,
-      "pct": 7.7,
+      "count": 63,
+      "pct": 7.6,
       "label": "CLS"
     },
     {
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "S9",
-      "count": 611,
+      "count": 612,
       "pct": 16.4,
       "label": "Superior Court (S9)"
     },
@@ -515,17 +515,17 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2323,
+      "count": 2321,
       "pct": 51.6
     },
     {
       "name": "COMBINED",
-      "count": 1394,
+      "count": 1395,
       "pct": 31
     },
     {
       "name": "BAIL BOND",
-      "count": 784,
+      "count": 785,
       "pct": 17.4
     }
   ],
@@ -567,7 +567,7 @@
     "noBond": 127,
     "medianBond": 25000,
     "maxBond": 10005000,
-    "totalBond": 58090700
+    "totalBond": 58100700
   },
   "chargesPerBooking": 5.4
 }
