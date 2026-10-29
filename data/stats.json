@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-29T07:55:17",
+  "generatedAt": "2026-10-29T08:55:18",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 838,
-    "bookingsObserved": 369,
+    "bookingsTracked": 839,
+    "bookingsObserved": 370,
     "releasesObserved": 371,
-    "inCustody": 467,
-    "uniquePeople": 830
+    "inCustody": 468,
+    "uniquePeople": 831
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-29",
-      "booked": 4,
+      "booked": 5,
       "released": 1
     }
   ],
@@ -212,14 +212,14 @@
       "pct": 1.7
     },
     {
-      "name": "OBSTRUCT LAW ENFORCEMENT OFC",
+      "name": "CONTROLLED SUBSTANCE KNOWINGLY POSSESS",
       "count": 75,
       "pct": 1.7
     },
     {
-      "name": "CONTROLLED SUBSTANCE KNOWINGLY POSSESS",
-      "count": 74,
-      "pct": 1.6
+      "name": "OBSTRUCT LAW ENFORCEMENT OFC",
+      "count": 75,
+      "pct": 1.7
     },
     {
       "name": "RESISTING ARREST",
@@ -266,19 +266,19 @@
     {
       "name": "SO6",
       "count": 525,
-      "pct": 62.8,
+      "pct": 62.7,
       "label": "SO6"
     },
     {
       "name": "VPD",
-      "count": 179,
-      "pct": 21.4,
+      "count": 180,
+      "pct": 21.5,
       "label": "Vancouver Police"
     },
     {
       "name": "CLS",
       "count": 64,
-      "pct": 7.7,
+      "pct": 7.6,
       "label": "CLS"
     },
     {
@@ -333,8 +333,8 @@
     },
     {
       "name": "DARR",
-      "count": 575,
-      "pct": 15.3,
+      "count": 576,
+      "pct": 15.4,
       "label": "District Court (DARR)"
     },
     {
@@ -401,13 +401,13 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1893,
+      "count": 1894,
       "pct": 42,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
-      "count": 1067,
+      "count": 1068,
       "pct": 23.7,
       "label": "Class C Felony"
     },
@@ -452,12 +452,12 @@
     {
       "name": "A",
       "count": 15,
-      "pct": 3.4
+      "pct": 3.3
     },
     {
       "name": "B",
-      "count": 18,
-      "pct": 4
+      "count": 19,
+      "pct": 4.2
     },
     {
       "name": "C",
@@ -477,12 +477,12 @@
     {
       "name": "F",
       "count": 96,
-      "pct": 21.5
+      "pct": 21.4
     },
     {
       "name": "G",
       "count": 105,
-      "pct": 23.5
+      "pct": 23.4
     },
     {
       "name": "H",
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2329,
+      "count": 2331,
       "pct": 51.6
     },
     {
@@ -559,12 +559,12 @@
         "count": 28
       }
     ],
-    "currentMedianDaysHeld": 53.8,
-    "currentLongestDaysHeld": 1049.3
+    "currentMedianDaysHeld": 53.4,
+    "currentLongestDaysHeld": 1049.4
   },
   "bond": {
     "withBond": 339,
-    "noBond": 128,
+    "noBond": 129,
     "medianBond": 25000,
     "maxBond": 10005000,
     "totalBond": 58104700
