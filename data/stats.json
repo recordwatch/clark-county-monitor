@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-29T12:23:53",
+  "generatedAt": "2026-10-29T12:55:16",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 844,
-    "bookingsObserved": 375,
+    "bookingsTracked": 845,
+    "bookingsObserved": 376,
     "releasesObserved": 378,
-    "inCustody": 466,
-    "uniquePeople": 836
+    "inCustody": 467,
+    "uniquePeople": 837
   },
   "bookingsByDay": [
     {
@@ -163,7 +163,7 @@
   "topCharges": [
     {
       "name": "PROTECTION ORDER VIOLATION",
-      "count": 412,
+      "count": 413,
       "pct": 9.1
     },
     {
@@ -333,8 +333,8 @@
     },
     {
       "name": "DARR",
-      "count": 581,
-      "pct": 15.4,
+      "count": 582,
+      "pct": 15.5,
       "label": "District Court (DARR)"
     },
     {
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1900,
+      "count": 1901,
       "pct": 42,
       "label": "Gross Misdemeanor"
     },
@@ -515,8 +515,8 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2340,
-      "pct": 51.6
+      "count": 2341,
+      "pct": 51.7
     },
     {
       "name": "COMBINED",
@@ -564,7 +564,7 @@
   },
   "bond": {
     "withBond": 337,
-    "noBond": 129,
+    "noBond": 130,
     "medianBond": 25000,
     "maxBond": 10005000,
     "totalBond": 58055200
