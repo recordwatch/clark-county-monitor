@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-29T02:55:16",
+  "generatedAt": "2026-10-29T03:55:16",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 836,
-    "bookingsObserved": 367,
+    "bookingsTracked": 837,
+    "bookingsObserved": 368,
     "releasesObserved": 370,
-    "inCustody": 466,
-    "uniquePeople": 828
+    "inCustody": 467,
+    "uniquePeople": 829
   },
   "bookingsByDay": [
     {
@@ -178,7 +178,7 @@
     },
     {
       "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
-      "count": 148,
+      "count": 149,
       "pct": 3.3
     },
     {
@@ -266,13 +266,13 @@
     {
       "name": "SO6",
       "count": 524,
-      "pct": 62.9,
+      "pct": 62.8,
       "label": "SO6"
     },
     {
       "name": "VPD",
-      "count": 178,
-      "pct": 21.4,
+      "count": 179,
+      "pct": 21.5,
       "label": "Vancouver Police"
     },
     {
@@ -333,7 +333,7 @@
     },
     {
       "name": "DARR",
-      "count": 572,
+      "count": 573,
       "pct": 15.3,
       "label": "District Court (DARR)"
     },
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1892,
+      "count": 1893,
       "pct": 42.1,
       "label": "Gross Misdemeanor"
     },
@@ -525,7 +525,7 @@
     },
     {
       "name": "BAIL BOND",
-      "count": 788,
+      "count": 789,
       "pct": 17.5
     }
   ],
@@ -559,15 +559,15 @@
         "count": 28
       }
     ],
-    "currentMedianDaysHeld": 53.6,
-    "currentLongestDaysHeld": 1049.1
+    "currentMedianDaysHeld": 53.7,
+    "currentLongestDaysHeld": 1049.2
   },
   "bond": {
-    "withBond": 339,
+    "withBond": 340,
     "noBond": 127,
     "medianBond": 25000,
     "maxBond": 10005000,
-    "totalBond": 58104700
+    "totalBond": 58105700
   },
   "chargesPerBooking": 5.4
 }
