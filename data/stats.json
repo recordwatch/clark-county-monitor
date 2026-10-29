@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-28T17:34:37",
+  "generatedAt": "2026-10-28T17:55:17",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 828,
-    "bookingsObserved": 359,
-    "releasesObserved": 362,
+    "bookingsTracked": 829,
+    "bookingsObserved": 360,
+    "releasesObserved": 363,
     "inCustody": 466,
-    "uniquePeople": 821
+    "uniquePeople": 822
   },
   "bookingsByDay": [
     {
@@ -157,7 +157,7 @@
     {
       "date": "2026-10-28",
       "booked": 19,
-      "released": 10
+      "released": 11
     }
   ],
   "topCharges": [
@@ -219,7 +219,7 @@
     {
       "name": "CONTROLLED SUBSTANCE KNOWINGLY POSSESS",
       "count": 74,
-      "pct": 1.7
+      "pct": 1.6
     },
     {
       "name": "RESISTING ARREST",
@@ -271,8 +271,8 @@
     },
     {
       "name": "VPD",
-      "count": 177,
-      "pct": 21.5,
+      "count": 178,
+      "pct": 21.6,
       "label": "Vancouver Police"
     },
     {
@@ -333,8 +333,8 @@
     },
     {
       "name": "DARR",
-      "count": 564,
-      "pct": 15.1,
+      "count": 559,
+      "pct": 15,
       "label": "District Court (DARR)"
     },
     {
@@ -363,8 +363,8 @@
     },
     {
       "name": "D3",
-      "count": 116,
-      "pct": 3.1,
+      "count": 121,
+      "pct": 3.2,
       "label": "District Court (D3)"
     },
     {
@@ -413,7 +413,7 @@
     },
     {
       "name": "FB",
-      "count": 751,
+      "count": 752,
       "pct": 16.8,
       "label": "Class B Felony"
     },
@@ -508,35 +508,35 @@
   "releaseStatus": [
     {
       "name": "RELEASED",
-      "count": 360,
+      "count": 361,
       "pct": 100
     }
   ],
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2279,
-      "pct": 50.9
+      "count": 2283,
+      "pct": 51
     },
     {
       "name": "COMBINED",
-      "count": 1414,
-      "pct": 31.6
+      "count": 1413,
+      "pct": 31.5
     },
     {
       "name": "BAIL BOND",
-      "count": 786,
+      "count": 784,
       "pct": 17.5
     }
   ],
   "stay": {
-    "releasedCount": 361,
+    "releasedCount": 362,
     "medianDays": 2.6,
-    "meanDays": 27.5,
+    "meanDays": 27.4,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 58
+        "count": 59
       },
       {
         "label": "1–3 days",
@@ -563,11 +563,11 @@
     "currentLongestDaysHeld": 1048.7
   },
   "bond": {
-    "withBond": 342,
-    "noBond": 124,
+    "withBond": 340,
+    "noBond": 126,
     "medianBond": 25000,
     "maxBond": 10005000,
-    "totalBond": 58814450
+    "totalBond": 58804950
   },
   "chargesPerBooking": 5.4
 }
