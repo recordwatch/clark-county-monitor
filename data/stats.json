@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-29T06:55:04",
+  "generatedAt": "2026-10-29T07:55:17",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 837,
-    "bookingsObserved": 368,
+    "bookingsTracked": 838,
+    "bookingsObserved": 369,
     "releasesObserved": 371,
-    "inCustody": 466,
-    "uniquePeople": 829
+    "inCustody": 467,
+    "uniquePeople": 830
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-29",
-      "booked": 3,
+      "booked": 4,
       "released": 1
     }
   ],
@@ -239,7 +239,12 @@
     {
       "name": "MALICIOUS MISCHIEF-3 - DV",
       "count": 61,
-      "pct": 1.4
+      "pct": 1.3
+    },
+    {
+      "name": "POSSESS DEPICTIONS OF A MINOR 1 ENGAGED IN SEXUALLY EXPLICIT CONDUCT",
+      "count": 59,
+      "pct": 1.3
     },
     {
       "name": "SEXUAL EXPLOITATION OF A MINOR PHOTOGRAPH/LIVE PERFORMANCE",
@@ -252,11 +257,6 @@
       "pct": 1.2
     },
     {
-      "name": "POSSESS DEPICTIONS OF A MINOR 1 ENGAGED IN SEXUALLY EXPLICIT CONDUCT",
-      "count": 55,
-      "pct": 1.2
-    },
-    {
       "name": "UNLAWFUL IMPRISONMENT -DV",
       "count": 53,
       "pct": 1.2
@@ -265,7 +265,7 @@
   "topAgencies": [
     {
       "name": "SO6",
-      "count": 524,
+      "count": 525,
       "pct": 62.8,
       "label": "SO6"
     },
@@ -327,26 +327,26 @@
   "courts": [
     {
       "name": "S9",
-      "count": 607,
-      "pct": 16.2,
+      "count": 617,
+      "pct": 16.5,
       "label": "Superior Court (S9)"
     },
     {
       "name": "DARR",
       "count": 575,
-      "pct": 15.4,
+      "pct": 15.3,
       "label": "District Court (DARR)"
     },
     {
       "name": "S3",
-      "count": 491,
-      "pct": 13.1,
+      "count": 486,
+      "pct": 13,
       "label": "Superior Court (S3)"
     },
     {
       "name": "S12",
-      "count": 430,
-      "pct": 11.5,
+      "count": 425,
+      "pct": 11.3,
       "label": "Superior Court (S12)"
     },
     {
@@ -358,7 +358,7 @@
     {
       "name": "S10",
       "count": 410,
-      "pct": 11,
+      "pct": 10.9,
       "label": "Superior Court (S10)"
     },
     {
@@ -382,7 +382,7 @@
     {
       "name": "D5",
       "count": 88,
-      "pct": 2.4,
+      "pct": 2.3,
       "label": "District Court (D5)"
     },
     {
@@ -402,7 +402,7 @@
     {
       "name": "GM",
       "count": 1893,
-      "pct": 42.1,
+      "pct": 42,
       "label": "Gross Misdemeanor"
     },
     {
@@ -413,8 +413,8 @@
     },
     {
       "name": "FB",
-      "count": 753,
-      "pct": 16.7,
+      "count": 758,
+      "pct": 16.8,
       "label": "Class B Felony"
     },
     {
@@ -451,8 +451,8 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 14,
-      "pct": 3.1
+      "count": 15,
+      "pct": 3.4
     },
     {
       "name": "B",
@@ -467,12 +467,12 @@
     {
       "name": "D",
       "count": 31,
-      "pct": 7
+      "pct": 6.9
     },
     {
       "name": "E",
       "count": 99,
-      "pct": 22.2
+      "pct": 22.1
     },
     {
       "name": "F",
@@ -487,7 +487,7 @@
     {
       "name": "H",
       "count": 23,
-      "pct": 5.2
+      "pct": 5.1
     },
     {
       "name": "JDH",
@@ -515,8 +515,8 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2324,
-      "pct": 51.5
+      "count": 2329,
+      "pct": 51.6
     },
     {
       "name": "COMBINED",
@@ -564,7 +564,7 @@
   },
   "bond": {
     "withBond": 339,
-    "noBond": 127,
+    "noBond": 128,
     "medianBond": 25000,
     "maxBond": 10005000,
     "totalBond": 58104700
