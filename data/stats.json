@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T00:55:19",
+  "generatedAt": "2026-10-30T01:56:07",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 863,
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "S9",
-      "count": 626,
+      "count": 628,
       "pct": 16.5,
       "label": "Superior Court (S9)"
     },
@@ -419,7 +419,7 @@
     },
     {
       "name": "M",
-      "count": 391,
+      "count": 393,
       "pct": 8.6,
       "label": "Misdemeanor"
     },
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2371,
+      "count": 2373,
       "pct": 51.8
     },
     {
@@ -559,8 +559,8 @@
         "count": 29
       }
     ],
-    "currentMedianDaysHeld": 52.5,
-    "currentLongestDaysHeld": 1050
+    "currentMedianDaysHeld": 52.1,
+    "currentLongestDaysHeld": 1050.1
   },
   "bond": {
     "withBond": 338,
