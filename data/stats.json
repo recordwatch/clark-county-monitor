@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-29T19:49:48",
+  "generatedAt": "2026-10-29T19:55:15",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 857,
     "bookingsObserved": 388,
-    "releasesObserved": 386,
-    "inCustody": 471,
+    "releasesObserved": 387,
+    "inCustody": 470,
     "uniquePeople": 849
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-10-29",
       "booked": 23,
-      "released": 16
+      "released": 17
     }
   ],
   "topCharges": [
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "S9",
-      "count": 645,
+      "count": 643,
       "pct": 17,
       "label": "Superior Court (S9)"
     },
@@ -345,7 +345,7 @@
     },
     {
       "name": "S12",
-      "count": 423,
+      "count": 425,
       "pct": 11.2,
       "label": "Superior Court (S12)"
     },
@@ -452,12 +452,12 @@
     {
       "name": "A",
       "count": 16,
-      "pct": 3.5
+      "pct": 3.6
     },
     {
       "name": "B",
-      "count": 26,
-      "pct": 5.8
+      "count": 25,
+      "pct": 5.6
     },
     {
       "name": "C",
@@ -472,12 +472,12 @@
     {
       "name": "E",
       "count": 98,
-      "pct": 21.7
+      "pct": 21.8
     },
     {
       "name": "F",
       "count": 94,
-      "pct": 20.8
+      "pct": 20.9
     },
     {
       "name": "G",
@@ -508,35 +508,35 @@
   "releaseStatus": [
     {
       "name": "RELEASED",
-      "count": 384,
+      "count": 385,
       "pct": 100
     }
   ],
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2359,
+      "count": 2361,
       "pct": 51.8
     },
     {
       "name": "COMBINED",
-      "count": 1404,
+      "count": 1403,
       "pct": 30.8
     },
     {
       "name": "BAIL BOND",
-      "count": 795,
+      "count": 794,
       "pct": 17.4
     }
   ],
   "stay": {
-    "releasedCount": 385,
+    "releasedCount": 386,
     "medianDays": 2.5,
-    "meanDays": 26.6,
+    "meanDays": 26.5,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 67
+        "count": 68
       },
       {
         "label": "1–3 days",
@@ -564,10 +564,10 @@
   },
   "bond": {
     "withBond": 340,
-    "noBond": 131,
+    "noBond": 130,
     "medianBond": 25000,
     "maxBond": 10005000,
-    "totalBond": 58389825
+    "totalBond": 58389325
   },
   "chargesPerBooking": 5.3
 }
