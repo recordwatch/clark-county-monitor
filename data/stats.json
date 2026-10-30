@@ -1,19 +1,14 @@
 {
-  "generatedAt": "2026-10-29T23:55:18",
+  "generatedAt": "2026-10-30T00:55:19",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 862,
-    "bookingsObserved": 393,
+    "bookingsTracked": 863,
+    "bookingsObserved": 394,
     "releasesObserved": 392,
-    "inCustody": 470,
-    "uniquePeople": 854
+    "inCustody": 471,
+    "uniquePeople": 855
   },
   "bookingsByDay": [
-    {
-      "date": "2026-09-30",
-      "booked": 4,
-      "released": 0
-    },
     {
       "date": "2026-10-01",
       "booked": 10,
@@ -156,8 +151,13 @@
     },
     {
       "date": "2026-10-29",
-      "booked": 27,
+      "booked": 28,
       "released": 22
+    },
+    {
+      "date": "2026-10-30",
+      "booked": 1,
+      "released": 0
     }
   ],
   "topCharges": [
@@ -277,8 +277,8 @@
     },
     {
       "name": "CLS",
-      "count": 73,
-      "pct": 8.5,
+      "count": 74,
+      "pct": 8.6,
       "label": "CLS"
     },
     {
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "S9",
-      "count": 624,
-      "pct": 16.4,
+      "count": 626,
+      "pct": 16.5,
       "label": "Superior Court (S9)"
     },
     {
@@ -339,7 +339,7 @@
     },
     {
       "name": "S3",
-      "count": 493,
+      "count": 495,
       "pct": 13,
       "label": "Superior Court (S3)"
     },
@@ -425,7 +425,7 @@
     },
     {
       "name": "FA",
-      "count": 310,
+      "count": 312,
       "pct": 6.8,
       "label": "Class A Felony"
     },
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 26,
-      "pct": 5.8
+      "count": 27,
+      "pct": 6
     },
     {
       "name": "C",
@@ -472,7 +472,7 @@
     {
       "name": "E",
       "count": 98,
-      "pct": 21.8
+      "pct": 21.7
     },
     {
       "name": "F",
@@ -515,18 +515,18 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2366,
-      "pct": 51.7
+      "count": 2371,
+      "pct": 51.8
     },
     {
       "name": "COMBINED",
-      "count": 1416,
+      "count": 1414,
       "pct": 30.9
     },
     {
       "name": "BAIL BOND",
-      "count": 795,
-      "pct": 17.4
+      "count": 794,
+      "pct": 17.3
     }
   ],
   "stay": {
@@ -559,15 +559,15 @@
         "count": 29
       }
     ],
-    "currentMedianDaysHeld": 53.5,
+    "currentMedianDaysHeld": 52.5,
     "currentLongestDaysHeld": 1050
   },
   "bond": {
-    "withBond": 339,
-    "noBond": 131,
-    "medianBond": 25000,
+    "withBond": 338,
+    "noBond": 133,
+    "medianBond": 25125,
     "maxBond": 10005000,
-    "totalBond": 58486725
+    "totalBond": 58485725
   },
   "chargesPerBooking": 5.3
 }
