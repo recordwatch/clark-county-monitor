@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T05:55:18",
+  "generatedAt": "2026-10-30T06:55:18",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 866,
@@ -413,7 +413,7 @@
     },
     {
       "name": "FB",
-      "count": 767,
+      "count": 769,
       "pct": 16.8,
       "label": "Class B Felony"
     },
@@ -451,13 +451,13 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 14,
-      "pct": 3.1
+      "count": 15,
+      "pct": 3.3
     },
     {
       "name": "B",
-      "count": 25,
-      "pct": 5.5
+      "count": 24,
+      "pct": 5.3
     },
     {
       "name": "C",
@@ -515,13 +515,13 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2374,
+      "count": 2376,
       "pct": 51.7
     },
     {
       "name": "COMBINED",
       "count": 1421,
-      "pct": 31
+      "pct": 30.9
     },
     {
       "name": "BAIL BOND",
@@ -559,8 +559,8 @@
         "count": 29
       }
     ],
-    "currentMedianDaysHeld": 52.2,
-    "currentLongestDaysHeld": 1050.2
+    "currentMedianDaysHeld": 52.3,
+    "currentLongestDaysHeld": 1050.3
   },
   "bond": {
     "withBond": 340,
