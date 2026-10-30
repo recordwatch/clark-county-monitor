@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-30T09:55:19",
+  "generatedAt": "2026-10-30T10:55:30",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 867,
-    "bookingsObserved": 398,
+    "bookingsTracked": 868,
+    "bookingsObserved": 399,
     "releasesObserved": 405,
-    "inCustody": 462,
-    "uniquePeople": 859
+    "inCustody": 463,
+    "uniquePeople": 860
   },
   "bookingsByDay": [
     {
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "S9",
-      "count": 627,
-      "pct": 16.4,
+      "count": 637,
+      "pct": 16.7,
       "label": "Superior Court (S9)"
     },
     {
@@ -339,8 +339,8 @@
     },
     {
       "name": "S3",
-      "count": 495,
-      "pct": 13,
+      "count": 492,
+      "pct": 12.9,
       "label": "Superior Court (S3)"
     },
     {
@@ -413,7 +413,7 @@
     },
     {
       "name": "FB",
-      "count": 770,
+      "count": 771,
       "pct": 16.8,
       "label": "Class B Felony"
     },
@@ -559,15 +559,15 @@
         "count": 35
       }
     ],
-    "currentMedianDaysHeld": 52.4,
-    "currentLongestDaysHeld": 1050.4
+    "currentMedianDaysHeld": 52.5,
+    "currentLongestDaysHeld": 1050.5
   },
   "bond": {
     "withBond": 337,
-    "noBond": 125,
+    "noBond": 126,
     "medianBond": 27000,
     "maxBond": 10005000,
-    "totalBond": 59480475
+    "totalBond": 58580475
   },
   "chargesPerBooking": 5.3
 }
