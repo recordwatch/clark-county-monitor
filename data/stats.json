@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T08:55:16",
+  "generatedAt": "2026-10-30T09:30:06",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 867,
@@ -203,8 +203,8 @@
     },
     {
       "name": "ASSAULT-2 -DV",
-      "count": 80,
-      "pct": 1.7
+      "count": 81,
+      "pct": 1.8
     },
     {
       "name": "UNLAWFUL CAMPING",
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "S9",
-      "count": 626,
+      "count": 627,
       "pct": 16.4,
       "label": "Superior Court (S9)"
     },
@@ -413,7 +413,7 @@
     },
     {
       "name": "FB",
-      "count": 769,
+      "count": 770,
       "pct": 16.8,
       "label": "Class B Felony"
     },
@@ -437,8 +437,8 @@
     },
     {
       "name": "O",
-      "count": 34,
-      "pct": 0.7,
+      "count": 35,
+      "pct": 0.8,
       "label": "O"
     },
     {
@@ -515,8 +515,8 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2376,
-      "pct": 51.7
+      "count": 2378,
+      "pct": 51.8
     },
     {
       "name": "COMBINED",
