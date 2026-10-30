@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T02:55:17",
+  "generatedAt": "2026-10-30T03:55:20",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 863,
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "S9",
-      "count": 625,
-      "pct": 16.4,
+      "count": 627,
+      "pct": 16.5,
       "label": "Superior Court (S9)"
     },
     {
@@ -559,8 +559,8 @@
         "count": 29
       }
     ],
-    "currentMedianDaysHeld": 52.1,
-    "currentLongestDaysHeld": 1050.1
+    "currentMedianDaysHeld": 52.2,
+    "currentLongestDaysHeld": 1050.2
   },
   "bond": {
     "withBond": 338,
