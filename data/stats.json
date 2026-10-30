@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-30T13:55:17",
+  "generatedAt": "2026-10-30T13:59:54",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 869,
-    "bookingsObserved": 400,
+    "bookingsTracked": 870,
+    "bookingsObserved": 401,
     "releasesObserved": 406,
-    "inCustody": 463,
-    "uniquePeople": 861
+    "inCustody": 464,
+    "uniquePeople": 862
   },
   "bookingsByDay": [
     {
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "S9",
-      "count": 653,
-      "pct": 17.1,
+      "count": 656,
+      "pct": 17.2,
       "label": "Superior Court (S9)"
     },
     {
@@ -351,8 +351,8 @@
     },
     {
       "name": "S8",
-      "count": 412,
-      "pct": 10.8,
+      "count": 409,
+      "pct": 10.7,
       "label": "Superior Court (S8)"
     },
     {
@@ -564,7 +564,7 @@
   },
   "bond": {
     "withBond": 340,
-    "noBond": 123,
+    "noBond": 124,
     "medianBond": 25125,
     "maxBond": 10005000,
     "totalBond": 58602975
