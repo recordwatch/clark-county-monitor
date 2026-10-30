@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T01:56:07",
+  "generatedAt": "2026-10-30T02:32:16",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 863,
@@ -345,8 +345,8 @@
     },
     {
       "name": "S12",
-      "count": 435,
-      "pct": 11.4,
+      "count": 437,
+      "pct": 11.5,
       "label": "Superior Court (S12)"
     },
     {
@@ -456,13 +456,13 @@
     },
     {
       "name": "B",
-      "count": 27,
-      "pct": 6
+      "count": 22,
+      "pct": 4.9
     },
     {
       "name": "C",
-      "count": 38,
-      "pct": 8.4
+      "count": 39,
+      "pct": 8.6
     },
     {
       "name": "D",
@@ -476,13 +476,13 @@
     },
     {
       "name": "F",
-      "count": 96,
-      "pct": 21.3
+      "count": 99,
+      "pct": 22
     },
     {
       "name": "G",
-      "count": 100,
-      "pct": 22.2
+      "count": 101,
+      "pct": 22.4
     },
     {
       "name": "H",
@@ -515,17 +515,17 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2373,
+      "count": 2371,
       "pct": 51.8
     },
     {
       "name": "COMBINED",
-      "count": 1414,
+      "count": 1417,
       "pct": 30.9
     },
     {
       "name": "BAIL BOND",
-      "count": 794,
+      "count": 793,
       "pct": 17.3
     }
   ],
@@ -567,7 +567,7 @@
     "noBond": 133,
     "medianBond": 25125,
     "maxBond": 10005000,
-    "totalBond": 58485725
+    "totalBond": 58481475
   },
   "chargesPerBooking": 5.3
 }
