@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-30T17:55:16",
+  "generatedAt": "2026-10-30T18:55:18",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 872,
-    "bookingsObserved": 403,
-    "releasesObserved": 412,
-    "inCustody": 460,
-    "uniquePeople": 863
+    "bookingsTracked": 873,
+    "bookingsObserved": 404,
+    "releasesObserved": 415,
+    "inCustody": 458,
+    "uniquePeople": 864
   },
   "bookingsByDay": [
     {
@@ -156,8 +156,8 @@
     },
     {
       "date": "2026-10-30",
-      "booked": 9,
-      "released": 20
+      "booked": 11,
+      "released": 23
     }
   ],
   "topCharges": [
@@ -203,7 +203,7 @@
     },
     {
       "name": "ASSAULT-2 -DV",
-      "count": 81,
+      "count": 82,
       "pct": 1.8
     },
     {
@@ -213,8 +213,8 @@
     },
     {
       "name": "OBSTRUCT LAW ENFORCEMENT OFC",
-      "count": 76,
-      "pct": 1.6
+      "count": 77,
+      "pct": 1.7
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOWINGLY POSSESS",
@@ -266,7 +266,7 @@
     {
       "name": "SO6",
       "count": 536,
-      "pct": 61.9,
+      "pct": 61.8,
       "label": "SO6"
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "CLS",
-      "count": 74,
-      "pct": 8.5,
+      "count": 75,
+      "pct": 8.7,
       "label": "CLS"
     },
     {
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "S9",
-      "count": 658,
-      "pct": 17.2,
+      "count": 651,
+      "pct": 17,
       "label": "Superior Court (S9)"
     },
     {
@@ -345,8 +345,8 @@
     },
     {
       "name": "S12",
-      "count": 441,
-      "pct": 11.5,
+      "count": 444,
+      "pct": 11.6,
       "label": "Superior Court (S12)"
     },
     {
@@ -357,7 +357,7 @@
     },
     {
       "name": "S10",
-      "count": 404,
+      "count": 408,
       "pct": 10.6,
       "label": "Superior Court (S10)"
     },
@@ -401,19 +401,19 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1930,
+      "count": 1931,
       "pct": 42,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
-      "count": 1084,
+      "count": 1086,
       "pct": 23.6,
       "label": "Class C Felony"
     },
     {
       "name": "FB",
-      "count": 772,
+      "count": 773,
       "pct": 16.8,
       "label": "Class B Felony"
     },
@@ -451,13 +451,13 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 14,
-      "pct": 3.2
+      "count": 15,
+      "pct": 3.4
     },
     {
       "name": "B",
-      "count": 17,
-      "pct": 3.9
+      "count": 16,
+      "pct": 3.6
     },
     {
       "name": "C",
@@ -471,18 +471,18 @@
     },
     {
       "name": "E",
-      "count": 95,
-      "pct": 21.5
+      "count": 94,
+      "pct": 21.4
     },
     {
       "name": "F",
-      "count": 100,
-      "pct": 22.7
+      "count": 99,
+      "pct": 22.6
     },
     {
       "name": "G",
       "count": 99,
-      "pct": 22.4
+      "pct": 22.6
     },
     {
       "name": "H",
@@ -497,7 +497,7 @@
     {
       "name": "M",
       "count": 9,
-      "pct": 2
+      "pct": 2.1
     },
     {
       "name": "SKAMANIA",
@@ -508,39 +508,39 @@
   "releaseStatus": [
     {
       "name": "RELEASED",
-      "count": 410,
+      "count": 413,
       "pct": 100
     }
   ],
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2398,
+      "count": 2401,
       "pct": 52
     },
     {
       "name": "COMBINED",
-      "count": 1418,
+      "count": 1420,
       "pct": 30.8
     },
     {
       "name": "BAIL BOND",
-      "count": 793,
+      "count": 792,
       "pct": 17.2
     }
   ],
   "stay": {
-    "releasedCount": 411,
+    "releasedCount": 414,
     "medianDays": 2.6,
-    "meanDays": 29.2,
+    "meanDays": 29,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 71
+        "count": 72
       },
       {
         "label": "1–3 days",
-        "count": 162
+        "count": 164
       },
       {
         "label": "3–7 days",
@@ -559,15 +559,15 @@
         "count": 35
       }
     ],
-    "currentMedianDaysHeld": 52.7,
-    "currentLongestDaysHeld": 1050.7
+    "currentMedianDaysHeld": 53.8,
+    "currentLongestDaysHeld": 1050.8
   },
   "bond": {
-    "withBond": 332,
-    "noBond": 128,
-    "medianBond": 26125,
+    "withBond": 331,
+    "noBond": 127,
+    "medianBond": 25250,
     "maxBond": 10005000,
-    "totalBond": 58294475
+    "totalBond": 58284975
   },
   "chargesPerBooking": 5.3
 }
