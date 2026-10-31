@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T05:55:16",
+  "generatedAt": "2026-10-31T06:15:49",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 884,
@@ -168,8 +168,8 @@
     },
     {
       "name": "ASSAULT-4 - DV",
-      "count": 229,
-      "pct": 4.9
+      "count": 230,
+      "pct": 5
     },
     {
       "name": "PROTECTION ORDER VIOL PREV CONVICTI",
@@ -266,7 +266,7 @@
     {
       "name": "SO6",
       "count": 543,
-      "pct": 61.8,
+      "pct": 61.7,
       "label": "SO6"
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "CLS",
-      "count": 74,
-      "pct": 8.4,
+      "count": 75,
+      "pct": 8.5,
       "label": "CLS"
     },
     {
@@ -333,7 +333,7 @@
     },
     {
       "name": "DARR",
-      "count": 608,
+      "count": 609,
       "pct": 15.8,
       "label": "District Court (DARR)"
     },
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2395,
+      "count": 2396,
       "pct": 51.7
     },
     {
@@ -559,8 +559,8 @@
         "count": 35
       }
     ],
-    "currentMedianDaysHeld": 55.2,
-    "currentLongestDaysHeld": 1051.2
+    "currentMedianDaysHeld": 55.3,
+    "currentLongestDaysHeld": 1051.3
   },
   "bond": {
     "withBond": 332,
