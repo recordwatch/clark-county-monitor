@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-31T00:55:18",
+  "generatedAt": "2026-10-31T01:55:19",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 880,
-    "bookingsObserved": 411,
-    "releasesObserved": 428,
+    "bookingsTracked": 881,
+    "bookingsObserved": 412,
+    "releasesObserved": 429,
     "inCustody": 452,
-    "uniquePeople": 871
+    "uniquePeople": 872
   },
   "bookingsByDay": [
     {
@@ -156,8 +156,8 @@
     },
     {
       "date": "2026-10-31",
-      "booked": 2,
-      "released": 0
+      "booked": 3,
+      "released": 1
     }
   ],
   "topCharges": [
@@ -266,7 +266,7 @@
     {
       "name": "SO6",
       "count": 543,
-      "pct": 62.1,
+      "pct": 62,
       "label": "SO6"
     },
     {
@@ -278,13 +278,13 @@
     {
       "name": "CLS",
       "count": 74,
-      "pct": 8.5,
+      "pct": 8.4,
       "label": "CLS"
     },
     {
       "name": "WSP",
-      "count": 22,
-      "pct": 2.5,
+      "count": 23,
+      "pct": 2.6,
       "label": "Washington State Patrol"
     },
     {
@@ -333,7 +333,7 @@
     },
     {
       "name": "DARR",
-      "count": 602,
+      "count": 603,
       "pct": 15.7,
       "label": "District Court (DARR)"
     },
@@ -357,8 +357,8 @@
     },
     {
       "name": "S10",
-      "count": 412,
-      "pct": 10.7,
+      "count": 414,
+      "pct": 10.8,
       "label": "Superior Court (S10)"
     },
     {
@@ -401,14 +401,14 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1945,
-      "pct": 42.1,
+      "count": 1946,
+      "pct": 42.2,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
       "count": 1087,
-      "pct": 23.6,
+      "pct": 23.5,
       "label": "Class C Felony"
     },
     {
@@ -508,7 +508,7 @@
   "releaseStatus": [
     {
       "name": "RELEASED",
-      "count": 426,
+      "count": 427,
       "pct": 100
     }
   ],
@@ -525,18 +525,18 @@
     },
     {
       "name": "BAIL BOND",
-      "count": 803,
+      "count": 804,
       "pct": 17.4
     }
   ],
   "stay": {
-    "releasedCount": 427,
+    "releasedCount": 428,
     "medianDays": 2.6,
     "meanDays": 28.3,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 74
+        "count": 75
       },
       {
         "label": "1–3 days",
@@ -559,8 +559,8 @@
         "count": 35
       }
     ],
-    "currentMedianDaysHeld": 55,
-    "currentLongestDaysHeld": 1051
+    "currentMedianDaysHeld": 55.1,
+    "currentLongestDaysHeld": 1051.1
   },
   "bond": {
     "withBond": 333,
