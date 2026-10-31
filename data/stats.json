@@ -1,19 +1,14 @@
 {
-  "generatedAt": "2026-10-30T23:55:17",
+  "generatedAt": "2026-10-31T00:55:18",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 879,
-    "bookingsObserved": 410,
+    "bookingsTracked": 880,
+    "bookingsObserved": 411,
     "releasesObserved": 428,
-    "inCustody": 451,
-    "uniquePeople": 870
+    "inCustody": 452,
+    "uniquePeople": 871
   },
   "bookingsByDay": [
-    {
-      "date": "2026-10-01",
-      "booked": 10,
-      "released": 0
-    },
     {
       "date": "2026-10-02",
       "booked": 6,
@@ -158,6 +153,11 @@
       "date": "2026-10-30",
       "booked": 16,
       "released": 36
+    },
+    {
+      "date": "2026-10-31",
+      "booked": 2,
+      "released": 0
     }
   ],
   "topCharges": [
@@ -178,7 +178,7 @@
     },
     {
       "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
-      "count": 152,
+      "count": 153,
       "pct": 3.3
     },
     {
@@ -271,7 +271,7 @@
     },
     {
       "name": "VPD",
-      "count": 184,
+      "count": 185,
       "pct": 21.1,
       "label": "Vancouver Police"
     },
@@ -333,14 +333,14 @@
     },
     {
       "name": "DARR",
-      "count": 601,
-      "pct": 15.6,
+      "count": 602,
+      "pct": 15.7,
       "label": "District Court (DARR)"
     },
     {
       "name": "S3",
       "count": 498,
-      "pct": 13,
+      "pct": 12.9,
       "label": "Superior Court (S3)"
     },
     {
@@ -357,7 +357,7 @@
     },
     {
       "name": "S10",
-      "count": 410,
+      "count": 412,
       "pct": 10.7,
       "label": "Superior Court (S10)"
     },
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1944,
+      "count": 1945,
       "pct": 42.1,
       "label": "Gross Misdemeanor"
     },
@@ -414,7 +414,7 @@
     {
       "name": "FB",
       "count": 773,
-      "pct": 16.8,
+      "pct": 16.7,
       "label": "Class B Felony"
     },
     {
@@ -525,8 +525,8 @@
     },
     {
       "name": "BAIL BOND",
-      "count": 802,
-      "pct": 17.3
+      "count": 803,
+      "pct": 17.4
     }
   ],
   "stay": {
@@ -559,15 +559,15 @@
         "count": 35
       }
     ],
-    "currentMedianDaysHeld": 55.5,
+    "currentMedianDaysHeld": 55,
     "currentLongestDaysHeld": 1051
   },
   "bond": {
-    "withBond": 332,
+    "withBond": 333,
     "noBond": 119,
-    "medianBond": 26125,
+    "medianBond": 25250,
     "maxBond": 10005000,
-    "totalBond": 58346475
+    "totalBond": 58347475
   },
   "chargesPerBooking": 5.3
 }
