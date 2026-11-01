@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-01T04:55:16",
+  "generatedAt": "2026-11-01T05:55:16",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 897,
-    "bookingsObserved": 428,
+    "bookingsTracked": 899,
+    "bookingsObserved": 430,
     "releasesObserved": 434,
-    "inCustody": 463,
-    "uniquePeople": 888
+    "inCustody": 465,
+    "uniquePeople": 890
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-01",
-      "booked": 6,
+      "booked": 7,
       "released": 0
     }
   ],
@@ -178,8 +178,8 @@
     },
     {
       "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
-      "count": 155,
-      "pct": 3.3
+      "count": 157,
+      "pct": 3.4
     },
     {
       "name": "PROTECTION ORDER VIO RESIDENCE,WORKPLACE, DAYCARE",
@@ -266,19 +266,19 @@
     {
       "name": "SO6",
       "count": 543,
-      "pct": 60.8,
+      "pct": 60.7,
       "label": "SO6"
     },
     {
       "name": "VPD",
-      "count": 195,
-      "pct": 21.8,
+      "count": 196,
+      "pct": 21.9,
       "label": "Vancouver Police"
     },
     {
       "name": "CLS",
       "count": 80,
-      "pct": 9,
+      "pct": 8.9,
       "label": "CLS"
     },
     {
@@ -300,16 +300,16 @@
       "label": "VCA"
     },
     {
+      "name": "RPD",
+      "count": 6,
+      "pct": 0.7,
+      "label": "RPD"
+    },
+    {
       "name": "WGP",
       "count": 6,
       "pct": 0.7,
       "label": "WGP"
-    },
-    {
-      "name": "RPD",
-      "count": 5,
-      "pct": 0.6,
-      "label": "RPD"
     },
     {
       "name": "CKP",
@@ -333,7 +333,7 @@
     },
     {
       "name": "DARR",
-      "count": 621,
+      "count": 623,
       "pct": 16,
       "label": "District Court (DARR)"
     },
@@ -346,7 +346,7 @@
     {
       "name": "S12",
       "count": 444,
-      "pct": 11.5,
+      "pct": 11.4,
       "label": "Superior Court (S12)"
     },
     {
@@ -401,26 +401,26 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1963,
+      "count": 1969,
       "pct": 42.3,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
-      "count": 1094,
-      "pct": 23.6,
+      "count": 1096,
+      "pct": 23.5,
       "label": "Class C Felony"
     },
     {
       "name": "FB",
       "count": 774,
-      "pct": 16.7,
+      "pct": 16.6,
       "label": "Class B Felony"
     },
     {
       "name": "M",
-      "count": 397,
-      "pct": 8.5,
+      "count": 398,
+      "pct": 8.6,
       "label": "Misdemeanor"
     },
     {
@@ -456,13 +456,13 @@
     },
     {
       "name": "B",
-      "count": 16,
-      "pct": 3.6
+      "count": 18,
+      "pct": 4
     },
     {
       "name": "C",
       "count": 42,
-      "pct": 9.5
+      "pct": 9.4
     },
     {
       "name": "D",
@@ -472,7 +472,7 @@
     {
       "name": "E",
       "count": 95,
-      "pct": 21.4
+      "pct": 21.3
     },
     {
       "name": "F",
@@ -482,7 +482,7 @@
     {
       "name": "G",
       "count": 103,
-      "pct": 23.2
+      "pct": 23.1
     },
     {
       "name": "H",
@@ -515,13 +515,13 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2408,
-      "pct": 51.7
+      "count": 2417,
+      "pct": 51.8
     },
     {
       "name": "COMBINED",
       "count": 1438,
-      "pct": 30.9
+      "pct": 30.8
     },
     {
       "name": "BAIL BOND",
@@ -564,7 +564,7 @@
   },
   "bond": {
     "withBond": 337,
-    "noBond": 126,
+    "noBond": 128,
     "medianBond": 25000,
     "maxBond": 10005000,
     "totalBond": 58383475
