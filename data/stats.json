@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T17:55:17",
+  "generatedAt": "2026-10-31T18:55:18",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 888,
@@ -333,8 +333,8 @@
     },
     {
       "name": "DARR",
-      "count": 611,
-      "pct": 15.8,
+      "count": 612,
+      "pct": 15.9,
       "label": "District Court (DARR)"
     },
     {
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2399,
+      "count": 2401,
       "pct": 51.7
     },
     {
@@ -525,7 +525,7 @@
     },
     {
       "name": "BAIL BOND",
-      "count": 806,
+      "count": 807,
       "pct": 17.4
     }
   ],
@@ -559,8 +559,8 @@
         "count": 35
       }
     ],
-    "currentMedianDaysHeld": 55.2,
-    "currentLongestDaysHeld": 1051.7
+    "currentMedianDaysHeld": 54.8,
+    "currentLongestDaysHeld": 1051.8
   },
   "bond": {
     "withBond": 333,
