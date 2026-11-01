@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T02:55:18",
+  "generatedAt": "2026-11-01T03:38:32",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 896,
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 16,
-      "pct": 3.6
+      "count": 15,
+      "pct": 3.4
     },
     {
       "name": "C",
@@ -496,8 +496,8 @@
     },
     {
       "name": "M",
-      "count": 10,
-      "pct": 2.3
+      "count": 11,
+      "pct": 2.5
     },
     {
       "name": "SKAMANIA",
@@ -559,8 +559,8 @@
         "count": 35
       }
     ],
-    "currentMedianDaysHeld": 53.1,
-    "currentLongestDaysHeld": 1052.1
+    "currentMedianDaysHeld": 53.2,
+    "currentLongestDaysHeld": 1052.2
   },
   "bond": {
     "withBond": 337,
