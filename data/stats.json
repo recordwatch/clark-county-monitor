@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T11:55:18",
+  "generatedAt": "2026-11-01T12:55:18",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 904,
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-01",
-      "booked": 12,
+      "booked": 13,
       "released": 3
     }
   ],
@@ -168,7 +168,7 @@
     },
     {
       "name": "ASSAULT-4 - DV",
-      "count": 234,
+      "count": 235,
       "pct": 5
     },
     {
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1980,
+      "count": 1981,
       "pct": 42.4,
       "label": "Gross Misdemeanor"
     },
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2428,
+      "count": 2429,
       "pct": 51.9
     },
     {
