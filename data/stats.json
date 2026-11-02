@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T05:55:19",
+  "generatedAt": "2026-11-02T06:55:18",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 915,
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-02",
-      "booked": 1,
+      "booked": 2,
       "released": 0
     }
   ],
@@ -312,16 +312,16 @@
       "label": "WGP"
     },
     {
+      "name": "TRB",
+      "count": 4,
+      "pct": 0.4,
+      "label": "TRB"
+    },
+    {
       "name": "OTH",
       "count": 4,
       "pct": 0.4,
       "label": "OTH"
-    },
-    {
-      "name": "CKP",
-      "count": 4,
-      "pct": 0.4,
-      "label": "CKP"
     }
   ],
   "courts": [
@@ -559,8 +559,8 @@
         "count": 35
       }
     ],
-    "currentMedianDaysHeld": 53.2,
-    "currentLongestDaysHeld": 1053.2
+    "currentMedianDaysHeld": 53.3,
+    "currentLongestDaysHeld": 1053.3
   },
   "bond": {
     "withBond": 343,
