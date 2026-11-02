@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-01T17:55:16",
+  "generatedAt": "2026-11-01T18:55:16",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 909,
-    "bookingsObserved": 440,
+    "bookingsTracked": 910,
+    "bookingsObserved": 441,
     "releasesObserved": 438,
-    "inCustody": 471,
-    "uniquePeople": 900
+    "inCustody": 472,
+    "uniquePeople": 901
   },
   "bookingsByDay": [
     {
@@ -156,14 +156,14 @@
     },
     {
       "date": "2026-11-01",
-      "booked": 18,
+      "booked": 19,
       "released": 4
     }
   ],
   "topCharges": [
     {
       "name": "PROTECTION ORDER VIOLATION",
-      "count": 432,
+      "count": 433,
       "pct": 9.2
     },
     {
@@ -266,7 +266,7 @@
     {
       "name": "SO6",
       "count": 543,
-      "pct": 60.1,
+      "pct": 60,
       "label": "SO6"
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "CLS",
-      "count": 84,
-      "pct": 9.3,
+      "count": 85,
+      "pct": 9.4,
       "label": "CLS"
     },
     {
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 635,
+      "count": 636,
       "pct": 16.2,
       "label": "District Court (DARR)"
     },
@@ -401,13 +401,13 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1987,
+      "count": 1988,
       "pct": 42.4,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
-      "count": 1096,
+      "count": 1097,
       "pct": 23.4,
       "label": "Class C Felony"
     },
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 24,
-      "pct": 5.3
+      "count": 25,
+      "pct": 5.5
     },
     {
       "name": "C",
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2438,
+      "count": 2439,
       "pct": 51.9
     },
     {
@@ -525,7 +525,7 @@
     },
     {
       "name": "BAIL BOND",
-      "count": 819,
+      "count": 820,
       "pct": 17.4
     }
   ],
@@ -559,15 +559,15 @@
         "count": 35
       }
     ],
-    "currentMedianDaysHeld": 53.7,
-    "currentLongestDaysHeld": 1052.7
+    "currentMedianDaysHeld": 53.8,
+    "currentLongestDaysHeld": 1052.8
   },
   "bond": {
-    "withBond": 339,
+    "withBond": 340,
     "noBond": 132,
     "medianBond": 25000,
     "maxBond": 10005000,
-    "totalBond": 58392475
+    "totalBond": 58392975
   },
   "chargesPerBooking": 5.2
 }
