@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T11:55:20",
+  "generatedAt": "2026-11-02T12:55:27",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 919,
@@ -327,13 +327,13 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 655,
+      "count": 656,
       "pct": 16.6,
       "label": "District Court (DARR)"
     },
     {
       "name": "S9",
-      "count": 614,
+      "count": 612,
       "pct": 15.5,
       "label": "Superior Court (S9)"
     },
@@ -345,21 +345,21 @@
     },
     {
       "name": "S10",
-      "count": 449,
-      "pct": 11.4,
+      "count": 457,
+      "pct": 11.6,
       "label": "Superior Court (S10)"
     },
     {
-      "name": "S12",
-      "count": 444,
-      "pct": 11.2,
-      "label": "Superior Court (S12)"
+      "name": "S8",
+      "count": 446,
+      "pct": 11.3,
+      "label": "Superior Court (S8)"
     },
     {
-      "name": "S8",
+      "name": "S12",
       "count": 441,
       "pct": 11.2,
-      "label": "Superior Court (S8)"
+      "label": "Superior Court (S12)"
     },
     {
       "name": "D3",
@@ -419,7 +419,7 @@
     },
     {
       "name": "M",
-      "count": 415,
+      "count": 416,
       "pct": 8.8,
       "label": "Misdemeanor"
     },
@@ -520,8 +520,8 @@
     },
     {
       "name": "COMBINED",
-      "count": 1450,
-      "pct": 30.6
+      "count": 1451,
+      "pct": 30.7
     },
     {
       "name": "BAIL BOND",
