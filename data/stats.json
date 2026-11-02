@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-01T22:55:18",
+  "generatedAt": "2026-11-01T23:55:25",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 912,
-    "bookingsObserved": 443,
+    "bookingsTracked": 913,
+    "bookingsObserved": 444,
     "releasesObserved": 438,
-    "inCustody": 474,
-    "uniquePeople": 903
+    "inCustody": 475,
+    "uniquePeople": 904
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-01",
-      "booked": 21,
+      "booked": 22,
       "released": 4
     }
   ],
@@ -168,8 +168,8 @@
     },
     {
       "name": "ASSAULT-4 - DV",
-      "count": 238,
-      "pct": 5
+      "count": 239,
+      "pct": 5.1
     },
     {
       "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
@@ -203,7 +203,7 @@
     },
     {
       "name": "ASSAULT-2 -DV",
-      "count": 84,
+      "count": 85,
       "pct": 1.8
     },
     {
@@ -266,7 +266,7 @@
     {
       "name": "SO6",
       "count": 544,
-      "pct": 59.9,
+      "pct": 59.8,
       "label": "SO6"
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "CLS",
-      "count": 87,
-      "pct": 9.6,
+      "count": 88,
+      "pct": 9.7,
       "label": "CLS"
     },
     {
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 643,
+      "count": 644,
       "pct": 16.4,
       "label": "District Court (DARR)"
     },
@@ -401,19 +401,19 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1996,
+      "count": 1997,
       "pct": 42.5,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
       "count": 1097,
-      "pct": 23.4,
+      "pct": 23.3,
       "label": "Class C Felony"
     },
     {
       "name": "FB",
-      "count": 780,
+      "count": 781,
       "pct": 16.6,
       "label": "Class B Felony"
     },
@@ -456,13 +456,13 @@
     },
     {
       "name": "B",
-      "count": 24,
-      "pct": 5.3
+      "count": 25,
+      "pct": 5.5
     },
     {
       "name": "C",
       "count": 43,
-      "pct": 9.5
+      "pct": 9.4
     },
     {
       "name": "D",
@@ -482,7 +482,7 @@
     {
       "name": "G",
       "count": 105,
-      "pct": 23.1
+      "pct": 23
     },
     {
       "name": "H",
@@ -515,18 +515,18 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2440,
+      "count": 2442,
       "pct": 51.8
     },
     {
       "name": "COMBINED",
       "count": 1444,
-      "pct": 30.7
+      "pct": 30.6
     },
     {
       "name": "BAIL BOND",
       "count": 827,
-      "pct": 17.6
+      "pct": 17.5
     }
   ],
   "stay": {
@@ -564,7 +564,7 @@
   },
   "bond": {
     "withBond": 342,
-    "noBond": 132,
+    "noBond": 133,
     "medianBond": 25000,
     "maxBond": 10005000,
     "totalBond": 58427175
