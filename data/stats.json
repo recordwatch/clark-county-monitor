@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T16:55:19",
+  "generatedAt": "2026-11-01T17:12:20",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 909,
@@ -208,7 +208,7 @@
     },
     {
       "name": "UNLAWFUL CAMPING",
-      "count": 80,
+      "count": 82,
       "pct": 1.7
     },
     {
@@ -271,8 +271,8 @@
     },
     {
       "name": "VPD",
-      "count": 198,
-      "pct": 21.9,
+      "count": 199,
+      "pct": 22,
       "label": "Vancouver Police"
     },
     {
@@ -327,14 +327,14 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 629,
-      "pct": 16.1,
+      "count": 635,
+      "pct": 16.2,
       "label": "District Court (DARR)"
     },
     {
       "name": "S9",
       "count": 628,
-      "pct": 16.1,
+      "pct": 16,
       "label": "Superior Court (S9)"
     },
     {
@@ -419,8 +419,8 @@
     },
     {
       "name": "M",
-      "count": 402,
-      "pct": 8.6,
+      "count": 406,
+      "pct": 8.7,
       "label": "Misdemeanor"
     },
     {
@@ -520,12 +520,12 @@
     },
     {
       "name": "COMBINED",
-      "count": 1438,
-      "pct": 30.6
+      "count": 1442,
+      "pct": 30.7
     },
     {
       "name": "BAIL BOND",
-      "count": 817,
+      "count": 819,
       "pct": 17.4
     }
   ],
@@ -563,11 +563,11 @@
     "currentLongestDaysHeld": 1052.7
   },
   "bond": {
-    "withBond": 338,
-    "noBond": 133,
+    "withBond": 339,
+    "noBond": 132,
     "medianBond": 25000,
     "maxBond": 10005000,
-    "totalBond": 58391475
+    "totalBond": 58392475
   },
   "chargesPerBooking": 5.2
 }
