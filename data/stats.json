@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-01T19:55:16",
+  "generatedAt": "2026-11-01T20:55:16",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 910,
-    "bookingsObserved": 441,
+    "bookingsTracked": 912,
+    "bookingsObserved": 443,
     "releasesObserved": 438,
-    "inCustody": 472,
-    "uniquePeople": 901
+    "inCustody": 474,
+    "uniquePeople": 903
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-01",
-      "booked": 19,
+      "booked": 21,
       "released": 4
     }
   ],
@@ -169,11 +169,11 @@
     {
       "name": "ASSAULT-4 - DV",
       "count": 238,
-      "pct": 5.1
+      "pct": 5
     },
     {
       "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
-      "count": 159,
+      "count": 160,
       "pct": 3.4
     },
     {
@@ -188,13 +188,13 @@
     },
     {
       "name": "THEFT-3",
-      "count": 127,
+      "count": 129,
       "pct": 2.7
     },
     {
       "name": "HARASSMENT PREV CONV OR THREAT TO KILL",
       "count": 120,
-      "pct": 2.6
+      "pct": 2.5
     },
     {
       "name": "ASSAULT-4",
@@ -213,17 +213,17 @@
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOWINGLY POSSESS",
-      "count": 78,
+      "count": 79,
       "pct": 1.7
     },
     {
       "name": "OBSTRUCT LAW ENFORCEMENT OFC",
-      "count": 78,
+      "count": 79,
       "pct": 1.7
     },
     {
       "name": "RESISTING ARREST",
-      "count": 72,
+      "count": 73,
       "pct": 1.5
     },
     {
@@ -265,26 +265,26 @@
   "topAgencies": [
     {
       "name": "SO6",
-      "count": 543,
+      "count": 544,
       "pct": 60,
       "label": "SO6"
     },
     {
       "name": "VPD",
       "count": 199,
-      "pct": 22,
+      "pct": 21.9,
       "label": "Vancouver Police"
     },
     {
       "name": "CLS",
-      "count": 85,
-      "pct": 9.4,
+      "count": 86,
+      "pct": 9.5,
       "label": "CLS"
     },
     {
       "name": "WSP",
       "count": 24,
-      "pct": 2.7,
+      "pct": 2.6,
       "label": "Washington State Patrol"
     },
     {
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 636,
-      "pct": 16.2,
+      "count": 642,
+      "pct": 16.3,
       "label": "District Court (DARR)"
     },
     {
@@ -352,13 +352,13 @@
     {
       "name": "S8",
       "count": 426,
-      "pct": 10.9,
+      "pct": 10.8,
       "label": "Superior Court (S8)"
     },
     {
       "name": "S10",
       "count": 414,
-      "pct": 10.6,
+      "pct": 10.5,
       "label": "Superior Court (S10)"
     },
     {
@@ -401,8 +401,8 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 1988,
-      "pct": 42.4,
+      "count": 1995,
+      "pct": 42.5,
       "label": "Gross Misdemeanor"
     },
     {
@@ -413,13 +413,13 @@
     },
     {
       "name": "FB",
-      "count": 779,
+      "count": 780,
       "pct": 16.6,
       "label": "Class B Felony"
     },
     {
       "name": "M",
-      "count": 406,
+      "count": 407,
       "pct": 8.7,
       "label": "Misdemeanor"
     },
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 23,
-      "pct": 5.1
+      "count": 24,
+      "pct": 5.3
     },
     {
       "name": "C",
@@ -467,27 +467,27 @@
     {
       "name": "D",
       "count": 32,
-      "pct": 7.1
+      "pct": 7
     },
     {
       "name": "E",
       "count": 96,
-      "pct": 21.2
+      "pct": 21.1
     },
     {
       "name": "F",
       "count": 98,
-      "pct": 21.6
+      "pct": 21.5
     },
     {
       "name": "G",
       "count": 105,
-      "pct": 23.2
+      "pct": 23.1
     },
     {
       "name": "H",
-      "count": 24,
-      "pct": 5.3
+      "count": 25,
+      "pct": 5.5
     },
     {
       "name": "JDH",
@@ -516,17 +516,17 @@
     {
       "name": "NONE",
       "count": 2439,
-      "pct": 51.9
+      "pct": 51.8
     },
     {
       "name": "COMBINED",
-      "count": 1442,
-      "pct": 30.7
+      "count": 1443,
+      "pct": 30.6
     },
     {
       "name": "BAIL BOND",
-      "count": 820,
-      "pct": 17.4
+      "count": 828,
+      "pct": 17.6
     }
   ],
   "stay": {
@@ -559,15 +559,15 @@
         "count": 35
       }
     ],
-    "currentMedianDaysHeld": 53.3,
-    "currentLongestDaysHeld": 1052.8
+    "currentMedianDaysHeld": 53.4,
+    "currentLongestDaysHeld": 1052.9
   },
   "bond": {
-    "withBond": 340,
+    "withBond": 342,
     "noBond": 132,
     "medianBond": 25000,
     "maxBond": 10005000,
-    "totalBond": 58392975
+    "totalBond": 58428175
   },
   "chargesPerBooking": 5.2
 }
