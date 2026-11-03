@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T22:55:18",
+  "generatedAt": "2026-11-02T23:05:55",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 925,
@@ -375,21 +375,21 @@
     },
     {
       "name": "D2",
-      "count": 112,
-      "pct": 2.8,
+      "count": 114,
+      "pct": 2.9,
       "label": "District Court (D2)"
-    },
-    {
-      "name": "D5",
-      "count": 86,
-      "pct": 2.2,
-      "label": "District Court (D5)"
     },
     {
       "name": "D1",
       "count": 86,
       "pct": 2.2,
       "label": "District Court (D1)"
+    },
+    {
+      "name": "D5",
+      "count": 84,
+      "pct": 2.1,
+      "label": "District Court (D5)"
     },
     {
       "name": "D6",
