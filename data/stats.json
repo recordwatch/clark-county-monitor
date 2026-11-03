@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T14:55:18",
+  "generatedAt": "2026-11-03T15:55:21",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 938,
@@ -183,7 +183,7 @@
     },
     {
       "name": "THEFT-3",
-      "count": 139,
+      "count": 141,
       "pct": 2.9
     },
     {
@@ -209,7 +209,7 @@
     {
       "name": "UNLAWFUL CAMPING",
       "count": 84,
-      "pct": 1.8
+      "pct": 1.7
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOWINGLY POSSESS",
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 660,
+      "count": 662,
       "pct": 16.5,
       "label": "District Court (DARR)"
     },
@@ -345,8 +345,8 @@
     },
     {
       "name": "S10",
-      "count": 490,
-      "pct": 12.2,
+      "count": 491,
+      "pct": 12.3,
       "label": "Superior Court (S10)"
     },
     {
@@ -357,7 +357,7 @@
     },
     {
       "name": "S12",
-      "count": 422,
+      "count": 421,
       "pct": 10.5,
       "label": "Superior Court (S12)"
     },
@@ -401,8 +401,8 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2039,
-      "pct": 42.6,
+      "count": 2041,
+      "pct": 42.7,
       "label": "Gross Misdemeanor"
     },
     {
@@ -419,7 +419,7 @@
     },
     {
       "name": "M",
-      "count": 422,
+      "count": 421,
       "pct": 8.8,
       "label": "Misdemeanor"
     },
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 24,
-      "pct": 5.5
+      "count": 21,
+      "pct": 4.8
     },
     {
       "name": "C",
@@ -471,13 +471,13 @@
     },
     {
       "name": "E",
-      "count": 94,
-      "pct": 21.5
+      "count": 95,
+      "pct": 21.7
     },
     {
       "name": "F",
-      "count": 98,
-      "pct": 22.4
+      "count": 100,
+      "pct": 22.8
     },
     {
       "name": "G",
@@ -520,13 +520,13 @@
     },
     {
       "name": "COMBINED",
-      "count": 1460,
+      "count": 1459,
       "pct": 30.4
     },
     {
       "name": "BAIL BOND",
-      "count": 831,
-      "pct": 17.3
+      "count": 833,
+      "pct": 17.4
     }
   ],
   "stay": {
@@ -559,15 +559,15 @@
         "count": 37
       }
     ],
-    "currentMedianDaysHeld": 55.6,
-    "currentLongestDaysHeld": 1054.6
+    "currentMedianDaysHeld": 55.7,
+    "currentLongestDaysHeld": 1054.7
   },
   "bond": {
     "withBond": 333,
     "noBond": 123,
     "medianBond": 25250,
     "maxBond": 10005000,
-    "totalBond": 58177025
+    "totalBond": 58179025
   },
   "chargesPerBooking": 5.1
 }
