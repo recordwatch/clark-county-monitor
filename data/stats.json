@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T05:55:18",
+  "generatedAt": "2026-11-03T06:55:19",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 930,
@@ -163,12 +163,12 @@
   "topCharges": [
     {
       "name": "PROTECTION ORDER VIOLATION",
-      "count": 435,
-      "pct": 9.1
+      "count": 437,
+      "pct": 9.2
     },
     {
       "name": "ASSAULT-4 - DV",
-      "count": 243,
+      "count": 244,
       "pct": 5.1
     },
     {
@@ -369,8 +369,8 @@
     },
     {
       "name": "D4",
-      "count": 124,
-      "pct": 3.1,
+      "count": 126,
+      "pct": 3.2,
       "label": "District Court (D4)"
     },
     {
@@ -393,15 +393,15 @@
     },
     {
       "name": "D6",
-      "count": 65,
-      "pct": 1.6,
+      "count": 66,
+      "pct": 1.7,
       "label": "District Court (D6)"
     }
   ],
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2019,
+      "count": 2022,
       "pct": 42.5,
       "label": "Gross Misdemeanor"
     },
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2482,
+      "count": 2485,
       "pct": 52.1
     },
     {
@@ -559,8 +559,8 @@
         "count": 36
       }
     ],
-    "currentMedianDaysHeld": 55.2,
-    "currentLongestDaysHeld": 1054.2
+    "currentMedianDaysHeld": 55.3,
+    "currentLongestDaysHeld": 1054.3
   },
   "bond": {
     "withBond": 336,
