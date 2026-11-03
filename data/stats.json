@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T01:55:15",
+  "generatedAt": "2026-11-03T02:55:19",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 927,
@@ -344,16 +344,16 @@
       "label": "Superior Court (S3)"
     },
     {
+      "name": "S10",
+      "count": 463,
+      "pct": 11.7,
+      "label": "Superior Court (S10)"
+    },
+    {
       "name": "S8",
       "count": 459,
       "pct": 11.6,
       "label": "Superior Court (S8)"
-    },
-    {
-      "name": "S10",
-      "count": 457,
-      "pct": 11.5,
-      "label": "Superior Court (S10)"
     },
     {
       "name": "S12",
@@ -407,7 +407,7 @@
     },
     {
       "name": "FC",
-      "count": 1103,
+      "count": 1104,
       "pct": 23.3,
       "label": "Class C Felony"
     },
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 19,
-      "pct": 4.3
+      "count": 18,
+      "pct": 4.1
     },
     {
       "name": "C",
@@ -501,8 +501,8 @@
     },
     {
       "name": "M",
-      "count": 8,
-      "pct": 1.8
+      "count": 9,
+      "pct": 2.1
     },
     {
       "name": "SKAMANIA",
@@ -520,7 +520,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2471,
+      "count": 2472,
       "pct": 52
     },
     {
@@ -564,7 +564,7 @@
         "count": 36
       }
     ],
-    "currentMedianDaysHeld": 55.6,
+    "currentMedianDaysHeld": 55.1,
     "currentLongestDaysHeld": 1054.1
   },
   "bond": {
