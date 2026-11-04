@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-04T08:55:18",
+  "generatedAt": "2026-11-04T09:55:19",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 952,
     "bookingsObserved": 483,
-    "releasesObserved": 500,
-    "inCustody": 452,
+    "releasesObserved": 502,
+    "inCustody": 450,
     "uniquePeople": 940
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-11-04",
       "booked": 8,
-      "released": 4
+      "released": 6
     }
   ],
   "topCharges": [
@@ -333,14 +333,14 @@
     },
     {
       "name": "S9",
-      "count": 592,
-      "pct": 14.7,
+      "count": 590,
+      "pct": 14.6,
       "label": "Superior Court (S9)"
     },
     {
       "name": "S10",
-      "count": 515,
-      "pct": 12.7,
+      "count": 516,
+      "pct": 12.8,
       "label": "Superior Court (S10)"
     },
     {
@@ -351,8 +351,8 @@
     },
     {
       "name": "S8",
-      "count": 461,
-      "pct": 11.4,
+      "count": 463,
+      "pct": 11.5,
       "label": "Superior Court (S8)"
     },
     {
@@ -457,32 +457,32 @@
     {
       "name": "B",
       "count": 23,
-      "pct": 5.3
+      "pct": 5.4
     },
     {
       "name": "C",
-      "count": 34,
-      "pct": 7.8
+      "count": 33,
+      "pct": 7.7
     },
     {
       "name": "D",
-      "count": 35,
-      "pct": 8.1
+      "count": 34,
+      "pct": 7.9
     },
     {
       "name": "E",
-      "count": 95,
-      "pct": 21.9
+      "count": 93,
+      "pct": 21.7
     },
     {
       "name": "F",
       "count": 98,
-      "pct": 22.6
+      "pct": 22.8
     },
     {
       "name": "G",
       "count": 100,
-      "pct": 23
+      "pct": 23.3
     },
     {
       "name": "H",
@@ -496,8 +496,8 @@
     },
     {
       "name": "M",
-      "count": 9,
-      "pct": 2.1
+      "count": 8,
+      "pct": 1.9
     },
     {
       "name": "SKAMANIA",
@@ -508,7 +508,7 @@
   "releaseStatus": [
     {
       "name": "RELEASED",
-      "count": 498,
+      "count": 500,
       "pct": 100
     }
   ],
@@ -530,8 +530,8 @@
     }
   ],
   "stay": {
-    "releasedCount": 499,
-    "medianDays": 2.6,
+    "releasedCount": 501,
+    "medianDays": 2.7,
     "meanDays": 27.6,
     "buckets": [
       {
@@ -544,7 +544,7 @@
       },
       {
         "label": "3–7 days",
-        "count": 70
+        "count": 72
       },
       {
         "label": "1–4 weeks",
@@ -559,12 +559,12 @@
         "count": 41
       }
     ],
-    "currentMedianDaysHeld": 55.9,
+    "currentMedianDaysHeld": 56.4,
     "currentLongestDaysHeld": 1055.4
   },
   "bond": {
     "withBond": 324,
-    "noBond": 128,
+    "noBond": 126,
     "medianBond": 30000,
     "maxBond": 10005000,
     "totalBond": 58060325
