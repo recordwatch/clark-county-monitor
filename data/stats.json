@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-04T01:55:22",
+  "generatedAt": "2026-11-04T03:55:20",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 949,
-    "bookingsObserved": 480,
+    "bookingsTracked": 950,
+    "bookingsObserved": 481,
     "releasesObserved": 497,
-    "inCustody": 452,
-    "uniquePeople": 937
+    "inCustody": 453,
+    "uniquePeople": 938
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-04",
-      "booked": 4,
+      "booked": 6,
       "released": 1
     }
   ],
@@ -173,7 +173,7 @@
     },
     {
       "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
-      "count": 162,
+      "count": 163,
       "pct": 3.4
     },
     {
@@ -294,6 +294,12 @@
       "label": "BGP"
     },
     {
+      "name": "RPD",
+      "count": 7,
+      "pct": 0.7,
+      "label": "RPD"
+    },
+    {
       "name": "VCA",
       "count": 7,
       "pct": 0.7,
@@ -304,12 +310,6 @@
       "count": 6,
       "pct": 0.6,
       "label": "CKP"
-    },
-    {
-      "name": "RPD",
-      "count": 6,
-      "pct": 0.6,
-      "label": "RPD"
     },
     {
       "name": "WGP",
@@ -339,8 +339,8 @@
     },
     {
       "name": "S10",
-      "count": 510,
-      "pct": 12.6,
+      "count": 512,
+      "pct": 12.7,
       "label": "Superior Court (S10)"
     },
     {
@@ -351,8 +351,8 @@
     },
     {
       "name": "S8",
-      "count": 454,
-      "pct": 11.3,
+      "count": 452,
+      "pct": 11.2,
       "label": "Superior Court (S8)"
     },
     {
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2055,
+      "count": 2056,
       "pct": 42.7,
       "label": "Gross Misdemeanor"
     },
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 23,
-      "pct": 5.3
+      "count": 24,
+      "pct": 5.5
     },
     {
       "name": "C",
@@ -477,7 +477,7 @@
     {
       "name": "F",
       "count": 99,
-      "pct": 22.8
+      "pct": 22.7
     },
     {
       "name": "G",
@@ -487,7 +487,7 @@
     {
       "name": "H",
       "count": 22,
-      "pct": 5.1
+      "pct": 5
     },
     {
       "name": "JDH",
@@ -515,13 +515,13 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2534,
+      "count": 2535,
       "pct": 52.5
     },
     {
       "name": "COMBINED",
       "count": 1461,
-      "pct": 30.3
+      "pct": 30.2
     },
     {
       "name": "BAIL BOND",
@@ -559,12 +559,12 @@
         "count": 41
       }
     ],
-    "currentMedianDaysHeld": 56.1,
-    "currentLongestDaysHeld": 1055.1
+    "currentMedianDaysHeld": 56.2,
+    "currentLongestDaysHeld": 1055.2
   },
   "bond": {
     "withBond": 324,
-    "noBond": 128,
+    "noBond": 129,
     "medianBond": 30000,
     "maxBond": 10005000,
     "totalBond": 58055575
