@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T08:48:32",
+  "generatedAt": "2026-11-04T08:55:18",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 952,
@@ -333,13 +333,13 @@
     },
     {
       "name": "S9",
-      "count": 598,
-      "pct": 14.8,
+      "count": 592,
+      "pct": 14.7,
       "label": "Superior Court (S9)"
     },
     {
       "name": "S10",
-      "count": 514,
+      "count": 515,
       "pct": 12.7,
       "label": "Superior Court (S10)"
     },
@@ -351,8 +351,8 @@
     },
     {
       "name": "S8",
-      "count": 455,
-      "pct": 11.3,
+      "count": 461,
+      "pct": 11.4,
       "label": "Superior Court (S8)"
     },
     {
@@ -437,7 +437,7 @@
     },
     {
       "name": "O",
-      "count": 35,
+      "count": 36,
       "pct": 0.7,
       "label": "O"
     },
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2539,
+      "count": 2540,
       "pct": 52.5
     },
     {
@@ -559,7 +559,7 @@
         "count": 41
       }
     ],
-    "currentMedianDaysHeld": 56.4,
+    "currentMedianDaysHeld": 55.9,
     "currentLongestDaysHeld": 1055.4
   },
   "bond": {
