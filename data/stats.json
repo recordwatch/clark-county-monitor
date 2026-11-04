@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-04T00:32:22",
+  "generatedAt": "2026-11-04T00:55:17",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 946,
-    "bookingsObserved": 477,
-    "releasesObserved": 496,
+    "bookingsTracked": 947,
+    "bookingsObserved": 478,
+    "releasesObserved": 497,
     "inCustody": 450,
-    "uniquePeople": 934
+    "uniquePeople": 935
   },
   "bookingsByDay": [
     {
@@ -156,8 +156,8 @@
     },
     {
       "date": "2026-11-04",
-      "booked": 1,
-      "released": 0
+      "booked": 2,
+      "released": 1
     }
   ],
   "topCharges": [
@@ -339,7 +339,7 @@
     },
     {
       "name": "S10",
-      "count": 505,
+      "count": 503,
       "pct": 12.5,
       "label": "Superior Court (S10)"
     },
@@ -351,8 +351,8 @@
     },
     {
       "name": "S8",
-      "count": 452,
-      "pct": 11.2,
+      "count": 456,
+      "pct": 11.3,
       "label": "Superior Court (S8)"
     },
     {
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 20,
-      "pct": 4.6
+      "count": 21,
+      "pct": 4.8
     },
     {
       "name": "C",
@@ -472,7 +472,7 @@
     {
       "name": "E",
       "count": 94,
-      "pct": 21.8
+      "pct": 21.7
     },
     {
       "name": "F",
@@ -482,7 +482,7 @@
     {
       "name": "G",
       "count": 101,
-      "pct": 23.4
+      "pct": 23.3
     },
     {
       "name": "H",
@@ -508,7 +508,7 @@
   "releaseStatus": [
     {
       "name": "RELEASED",
-      "count": 494,
+      "count": 495,
       "pct": 100
     }
   ],
@@ -530,13 +530,13 @@
     }
   ],
   "stay": {
-    "releasedCount": 495,
+    "releasedCount": 496,
     "medianDays": 2.6,
-    "meanDays": 27.7,
+    "meanDays": 27.6,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 82
+        "count": 83
       },
       {
         "label": "1–3 days",
@@ -563,11 +563,11 @@
     "currentLongestDaysHeld": 1055
   },
   "bond": {
-    "withBond": 326,
-    "noBond": 124,
+    "withBond": 325,
+    "noBond": 125,
     "medianBond": 30000,
     "maxBond": 10005000,
-    "totalBond": 58298075
+    "totalBond": 58295575
   },
   "chargesPerBooking": 5.1
 }
