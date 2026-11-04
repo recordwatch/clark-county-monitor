@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-04T14:55:19",
+  "generatedAt": "2026-11-04T15:55:19",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 956,
-    "bookingsObserved": 487,
+    "bookingsTracked": 958,
+    "bookingsObserved": 489,
     "releasesObserved": 508,
-    "inCustody": 448,
-    "uniquePeople": 943
+    "inCustody": 450,
+    "uniquePeople": 945
   },
   "bookingsByDay": [
     {
@@ -156,14 +156,14 @@
     },
     {
       "date": "2026-11-04",
-      "booked": 12,
+      "booked": 14,
       "released": 12
     }
   ],
   "topCharges": [
     {
       "name": "PROTECTION ORDER VIOLATION",
-      "count": 440,
+      "count": 442,
       "pct": 9.1
     },
     {
@@ -208,7 +208,7 @@
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOWINGLY POSSESS",
-      "count": 86,
+      "count": 87,
       "pct": 1.8
     },
     {
@@ -243,7 +243,7 @@
     },
     {
       "name": "POSSESS DEPICTIONS OF A MINOR 1 ENGAGED IN SEXUALLY EXPLICIT CONDUCT",
-      "count": 59,
+      "count": 60,
       "pct": 1.2
     },
     {
@@ -266,7 +266,7 @@
     {
       "name": "SO6",
       "count": 561,
-      "pct": 58.9,
+      "pct": 58.8,
       "label": "SO6"
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "CLS",
-      "count": 87,
-      "pct": 9.1,
+      "count": 88,
+      "pct": 9.2,
       "label": "CLS"
     },
     {
@@ -318,23 +318,23 @@
       "label": "CKP"
     },
     {
-      "name": "OTH",
+      "name": "CMP",
       "count": 5,
       "pct": 0.5,
-      "label": "OTH"
+      "label": "CMP"
     }
   ],
   "courts": [
     {
       "name": "DARR",
-      "count": 667,
-      "pct": 16.5,
+      "count": 658,
+      "pct": 16.3,
       "label": "District Court (DARR)"
     },
     {
       "name": "S9",
       "count": 577,
-      "pct": 14.2,
+      "pct": 14.3,
       "label": "Superior Court (S9)"
     },
     {
@@ -363,8 +363,8 @@
     },
     {
       "name": "D4",
-      "count": 130,
-      "pct": 3.2,
+      "count": 132,
+      "pct": 3.3,
       "label": "District Court (D4)"
     },
     {
@@ -401,25 +401,25 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2065,
+      "count": 2067,
       "pct": 42.7,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
-      "count": 1120,
+      "count": 1121,
       "pct": 23.2,
       "label": "Class C Felony"
     },
     {
       "name": "FB",
       "count": 796,
-      "pct": 16.5,
+      "pct": 16.4,
       "label": "Class B Felony"
     },
     {
       "name": "M",
-      "count": 425,
+      "count": 426,
       "pct": 8.8,
       "label": "Misdemeanor"
     },
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 20,
-      "pct": 4.7
+      "count": 19,
+      "pct": 4.4
     },
     {
       "name": "C",
@@ -466,23 +466,23 @@
     },
     {
       "name": "D",
-      "count": 34,
-      "pct": 7.9
+      "count": 35,
+      "pct": 8.1
     },
     {
       "name": "E",
       "count": 95,
-      "pct": 22.2
+      "pct": 22.1
     },
     {
       "name": "F",
       "count": 95,
-      "pct": 22.2
+      "pct": 22.1
     },
     {
       "name": "G",
       "count": 102,
-      "pct": 23.8
+      "pct": 23.7
     },
     {
       "name": "H",
@@ -496,8 +496,8 @@
     },
     {
       "name": "M",
-      "count": 8,
-      "pct": 1.9
+      "count": 10,
+      "pct": 2.3
     },
     {
       "name": "SKAMANIA",
@@ -515,8 +515,8 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2552,
-      "pct": 52.6
+      "count": 2556,
+      "pct": 52.7
     },
     {
       "name": "COMBINED",
@@ -559,15 +559,15 @@
         "count": 41
       }
     ],
-    "currentMedianDaysHeld": 56.6,
-    "currentLongestDaysHeld": 1055.6
+    "currentMedianDaysHeld": 56.7,
+    "currentLongestDaysHeld": 1055.7
   },
   "bond": {
     "withBond": 322,
-    "noBond": 126,
+    "noBond": 128,
     "medianBond": 30000,
     "maxBond": 10005000,
-    "totalBond": 57771325
+    "totalBond": 57767325
   },
   "chargesPerBooking": 5.1
 }
