@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-03T20:55:17",
+  "generatedAt": "2026-11-03T21:55:18",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 942,
     "bookingsObserved": 473,
-    "releasesObserved": 492,
-    "inCustody": 450,
+    "releasesObserved": 496,
+    "inCustody": 446,
     "uniquePeople": 930
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-11-03",
       "booked": 16,
-      "released": 20
+      "released": 24
     }
   ],
   "topCharges": [
@@ -271,8 +271,8 @@
     },
     {
       "name": "VPD",
-      "count": 211,
-      "pct": 22.5,
+      "count": 210,
+      "pct": 22.4,
       "label": "Vancouver Police"
     },
     {
@@ -300,6 +300,12 @@
       "label": "VCA"
     },
     {
+      "name": "CKP",
+      "count": 6,
+      "pct": 0.6,
+      "label": "CKP"
+    },
+    {
       "name": "RPD",
       "count": 6,
       "pct": 0.6,
@@ -310,12 +316,6 @@
       "count": 6,
       "pct": 0.6,
       "label": "WGP"
-    },
-    {
-      "name": "CKP",
-      "count": 5,
-      "pct": 0.5,
-      "label": "CKP"
     },
     {
       "name": "OCW",
@@ -351,8 +351,8 @@
     },
     {
       "name": "S8",
-      "count": 448,
-      "pct": 11.1,
+      "count": 452,
+      "pct": 11.2,
       "label": "Superior Court (S8)"
     },
     {
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 22,
-      "pct": 5.1
+      "count": 16,
+      "pct": 3.7
     },
     {
       "name": "C",
@@ -466,33 +466,33 @@
     },
     {
       "name": "D",
-      "count": 33,
-      "pct": 7.6
+      "count": 35,
+      "pct": 8.2
     },
     {
       "name": "E",
-      "count": 95,
-      "pct": 22
+      "count": 94,
+      "pct": 21.9
     },
     {
       "name": "F",
-      "count": 98,
-      "pct": 22.7
+      "count": 99,
+      "pct": 23.1
     },
     {
       "name": "G",
       "count": 101,
-      "pct": 23.4
+      "pct": 23.5
     },
     {
       "name": "H",
-      "count": 21,
-      "pct": 4.9
+      "count": 23,
+      "pct": 5.4
     },
     {
       "name": "JDH",
-      "count": 3,
-      "pct": 0.7
+      "count": 2,
+      "pct": 0.5
     },
     {
       "name": "M",
@@ -508,7 +508,7 @@
   "releaseStatus": [
     {
       "name": "RELEASED",
-      "count": 490,
+      "count": 494,
       "pct": 100
     }
   ],
@@ -530,9 +530,9 @@
     }
   ],
   "stay": {
-    "releasedCount": 491,
+    "releasedCount": 495,
     "medianDays": 2.6,
-    "meanDays": 27.2,
+    "meanDays": 27.7,
     "buckets": [
       {
         "label": "< 1 day",
@@ -540,11 +540,11 @@
       },
       {
         "label": "1–3 days",
-        "count": 198
+        "count": 199
       },
       {
         "label": "3–7 days",
-        "count": 68
+        "count": 69
       },
       {
         "label": "1–4 weeks",
@@ -556,18 +556,18 @@
       },
       {
         "label": "3+ months",
-        "count": 39
+        "count": 41
       }
     ],
     "currentMedianDaysHeld": 55.9,
     "currentLongestDaysHeld": 1054.9
   },
   "bond": {
-    "withBond": 326,
-    "noBond": 124,
+    "withBond": 323,
+    "noBond": 123,
     "medianBond": 30000,
     "maxBond": 10005000,
-    "totalBond": 58099875
+    "totalBond": 58035575
   },
   "chargesPerBooking": 5.1
 }
