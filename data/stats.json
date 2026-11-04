@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T09:55:19",
+  "generatedAt": "2026-11-04T10:55:19",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 952,
@@ -224,7 +224,7 @@
     {
       "name": "RESISTING ARREST",
       "count": 75,
-      "pct": 1.6
+      "pct": 1.5
     },
     {
       "name": "MALICIOUS MISCHIEF-3 - DV",
@@ -333,26 +333,26 @@
     },
     {
       "name": "S9",
-      "count": 590,
-      "pct": 14.6,
+      "count": 586,
+      "pct": 14.5,
       "label": "Superior Court (S9)"
     },
     {
       "name": "S10",
-      "count": 516,
+      "count": 518,
       "pct": 12.8,
       "label": "Superior Court (S10)"
     },
     {
       "name": "S3",
-      "count": 503,
-      "pct": 12.5,
+      "count": 501,
+      "pct": 12.4,
       "label": "Superior Court (S3)"
     },
     {
       "name": "S8",
-      "count": 463,
-      "pct": 11.5,
+      "count": 469,
+      "pct": 11.6,
       "label": "Superior Court (S8)"
     },
     {
@@ -407,13 +407,13 @@
     },
     {
       "name": "FC",
-      "count": 1116,
-      "pct": 23.1,
+      "count": 1117,
+      "pct": 23.2,
       "label": "Class C Felony"
     },
     {
       "name": "FB",
-      "count": 795,
+      "count": 796,
       "pct": 16.5,
       "label": "Class B Felony"
     },
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2540,
+      "count": 2542,
       "pct": 52.5
     },
     {
@@ -559,8 +559,8 @@
         "count": 41
       }
     ],
-    "currentMedianDaysHeld": 56.4,
-    "currentLongestDaysHeld": 1055.4
+    "currentMedianDaysHeld": 56.5,
+    "currentLongestDaysHeld": 1055.5
   },
   "bond": {
     "withBond": 324,
