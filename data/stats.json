@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-05T10:55:19",
+  "generatedAt": "2026-11-05T11:55:17",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 982,
-    "bookingsObserved": 513,
+    "bookingsTracked": 984,
+    "bookingsObserved": 515,
     "releasesObserved": 531,
-    "inCustody": 451,
-    "uniquePeople": 968
+    "inCustody": 453,
+    "uniquePeople": 970
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-05",
-      "booked": 14,
+      "booked": 16,
       "released": 6
     }
   ],
@@ -183,8 +183,8 @@
     },
     {
       "name": "THEFT-3",
-      "count": 145,
-      "pct": 2.9
+      "count": 146,
+      "pct": 3
     },
     {
       "name": "PROTECTION ORDER VIO RESIDENCE,WORKPLACE, DAYCARE",
@@ -203,7 +203,7 @@
     },
     {
       "name": "ASSAULT-2 -DV",
-      "count": 87,
+      "count": 89,
       "pct": 1.8
     },
     {
@@ -266,7 +266,7 @@
     {
       "name": "SO6",
       "count": 574,
-      "pct": 58.8,
+      "pct": 58.6,
       "label": "SO6"
     },
     {
@@ -289,8 +289,8 @@
     },
     {
       "name": "WGP",
-      "count": 8,
-      "pct": 0.8,
+      "count": 10,
+      "pct": 1,
       "label": "WGP"
     },
     {
@@ -327,20 +327,20 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 661,
+      "count": 662,
       "pct": 16.1,
       "label": "District Court (DARR)"
     },
     {
       "name": "S9",
       "count": 597,
-      "pct": 14.6,
+      "pct": 14.5,
       "label": "Superior Court (S9)"
     },
     {
       "name": "S10",
-      "count": 562,
-      "pct": 13.7,
+      "count": 570,
+      "pct": 13.9,
       "label": "Superior Court (S10)"
     },
     {
@@ -350,16 +350,16 @@
       "label": "Superior Court (S3)"
     },
     {
-      "name": "S12",
-      "count": 425,
-      "pct": 10.4,
-      "label": "Superior Court (S12)"
-    },
-    {
       "name": "S8",
       "count": 425,
       "pct": 10.4,
       "label": "Superior Court (S8)"
+    },
+    {
+      "name": "S12",
+      "count": 420,
+      "pct": 10.2,
+      "label": "Superior Court (S12)"
     },
     {
       "name": "D4",
@@ -401,19 +401,19 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2101,
-      "pct": 42.9,
+      "count": 2102,
+      "pct": 42.8,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
       "count": 1140,
-      "pct": 23.3,
+      "pct": 23.2,
       "label": "Class C Felony"
     },
     {
       "name": "FB",
-      "count": 797,
+      "count": 801,
       "pct": 16.3,
       "label": "Class B Felony"
     },
@@ -451,18 +451,18 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 9,
-      "pct": 2.1
+      "count": 8,
+      "pct": 1.8
     },
     {
       "name": "B",
-      "count": 26,
-      "pct": 6
+      "count": 25,
+      "pct": 5.8
     },
     {
       "name": "C",
-      "count": 31,
-      "pct": 7.2
+      "count": 33,
+      "pct": 7.6
     },
     {
       "name": "D",
@@ -472,22 +472,22 @@
     {
       "name": "E",
       "count": 94,
-      "pct": 21.8
+      "pct": 21.7
     },
     {
       "name": "F",
       "count": 97,
-      "pct": 22.5
+      "pct": 22.4
     },
     {
       "name": "G",
-      "count": 99,
-      "pct": 22.9
+      "count": 103,
+      "pct": 23.7
     },
     {
       "name": "H",
       "count": 21,
-      "pct": 4.9
+      "pct": 4.8
     },
     {
       "name": "JDH",
@@ -496,8 +496,8 @@
     },
     {
       "name": "M",
-      "count": 10,
-      "pct": 2.3
+      "count": 8,
+      "pct": 1.8
     },
     {
       "name": "SKAMANIA",
@@ -515,8 +515,8 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2592,
-      "pct": 52.7
+      "count": 2596,
+      "pct": 52.8
     },
     {
       "name": "COMBINED",
@@ -525,7 +525,7 @@
     },
     {
       "name": "BAIL BOND",
-      "count": 858,
+      "count": 859,
       "pct": 17.5
     }
   ],
@@ -563,11 +563,11 @@
     "currentLongestDaysHeld": 1056.5
   },
   "bond": {
-    "withBond": 322,
-    "noBond": 129,
-    "medianBond": 27750,
+    "withBond": 323,
+    "noBond": 130,
+    "medianBond": 27500,
     "maxBond": 10005000,
-    "totalBond": 57717475
+    "totalBond": 57717975
   },
   "chargesPerBooking": 5
 }
