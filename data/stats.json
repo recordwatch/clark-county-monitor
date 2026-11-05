@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-05T03:55:18",
+  "generatedAt": "2026-11-05T04:55:20",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 979,
-    "bookingsObserved": 510,
+    "bookingsTracked": 980,
+    "bookingsObserved": 511,
     "releasesObserved": 525,
-    "inCustody": 454,
-    "uniquePeople": 965
+    "inCustody": 455,
+    "uniquePeople": 966
   },
   "bookingsByDay": [
     {
@@ -214,7 +214,7 @@
     {
       "name": "OBSTRUCT LAW ENFORCEMENT OFC",
       "count": 86,
-      "pct": 1.8
+      "pct": 1.7
     },
     {
       "name": "UNLAWFUL CAMPING",
@@ -401,14 +401,14 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2097,
+      "count": 2098,
       "pct": 42.8,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
       "count": 1139,
-      "pct": 23.3,
+      "pct": 23.2,
       "label": "Class C Felony"
     },
     {
@@ -456,13 +456,13 @@
     },
     {
       "name": "B",
-      "count": 28,
-      "pct": 6.4
+      "count": 27,
+      "pct": 6.2
     },
     {
       "name": "C",
-      "count": 30,
-      "pct": 6.9
+      "count": 31,
+      "pct": 7.1
     },
     {
       "name": "D",
@@ -559,12 +559,12 @@
         "count": 41
       }
     ],
-    "currentMedianDaysHeld": 57.2,
+    "currentMedianDaysHeld": 56.2,
     "currentLongestDaysHeld": 1056.2
   },
   "bond": {
     "withBond": 322,
-    "noBond": 132,
+    "noBond": 133,
     "medianBond": 29000,
     "maxBond": 10005000,
     "totalBond": 57791475
