@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-05T08:55:19",
+  "generatedAt": "2026-11-05T09:55:20",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 981,
-    "bookingsObserved": 512,
+    "bookingsTracked": 982,
+    "bookingsObserved": 513,
     "releasesObserved": 530,
-    "inCustody": 451,
-    "uniquePeople": 967
+    "inCustody": 452,
+    "uniquePeople": 968
   },
   "bookingsByDay": [
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "CLS",
-      "count": 90,
-      "pct": 9.2,
+      "count": 91,
+      "pct": 9.3,
       "label": "CLS"
     },
     {
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 661,
+      "count": 662,
       "pct": 16.1,
       "label": "District Court (DARR)"
     },
@@ -339,8 +339,8 @@
     },
     {
       "name": "S10",
-      "count": 524,
-      "pct": 12.8,
+      "count": 534,
+      "pct": 13,
       "label": "Superior Court (S10)"
     },
     {
@@ -351,19 +351,19 @@
     },
     {
       "name": "S8",
-      "count": 447,
-      "pct": 10.9,
+      "count": 439,
+      "pct": 10.7,
       "label": "Superior Court (S8)"
     },
     {
       "name": "S12",
-      "count": 424,
+      "count": 422,
       "pct": 10.3,
       "label": "Superior Court (S12)"
     },
     {
       "name": "D4",
-      "count": 148,
+      "count": 149,
       "pct": 3.6,
       "label": "District Court (D4)"
     },
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2099,
+      "count": 2100,
       "pct": 42.8,
       "label": "Gross Misdemeanor"
     },
@@ -419,7 +419,7 @@
     },
     {
       "name": "M",
-      "count": 435,
+      "count": 436,
       "pct": 8.9,
       "label": "Misdemeanor"
     },
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2591,
+      "count": 2592,
       "pct": 52.7
     },
     {
@@ -525,8 +525,8 @@
     },
     {
       "name": "BAIL BOND",
-      "count": 856,
-      "pct": 17.4
+      "count": 858,
+      "pct": 17.5
     }
   ],
   "stay": {
@@ -563,11 +563,11 @@
     "currentLongestDaysHeld": 1056.4
   },
   "bond": {
-    "withBond": 322,
+    "withBond": 323,
     "noBond": 129,
-    "medianBond": 29000,
+    "medianBond": 28000,
     "maxBond": 10005000,
-    "totalBond": 57796475
+    "totalBond": 57802475
   },
   "chargesPerBooking": 5
 }
