@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-05T12:55:19",
+  "generatedAt": "2026-11-05T13:55:20",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 985,
-    "bookingsObserved": 516,
+    "bookingsTracked": 987,
+    "bookingsObserved": 518,
     "releasesObserved": 531,
-    "inCustody": 454,
-    "uniquePeople": 971
+    "inCustody": 456,
+    "uniquePeople": 973
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-05",
-      "booked": 17,
+      "booked": 19,
       "released": 6
     }
   ],
@@ -173,7 +173,7 @@
     },
     {
       "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
-      "count": 168,
+      "count": 169,
       "pct": 3.4
     },
     {
@@ -183,7 +183,7 @@
     },
     {
       "name": "THEFT-3",
-      "count": 147,
+      "count": 148,
       "pct": 3
     },
     {
@@ -266,25 +266,25 @@
     {
       "name": "SO6",
       "count": 574,
-      "pct": 58.6,
+      "pct": 58.5,
       "label": "SO6"
     },
     {
       "name": "VPD",
-      "count": 221,
+      "count": 222,
       "pct": 22.6,
       "label": "Vancouver Police"
     },
     {
       "name": "CLS",
-      "count": 92,
-      "pct": 9.4,
+      "count": 93,
+      "pct": 9.5,
       "label": "CLS"
     },
     {
       "name": "WSP",
       "count": 27,
-      "pct": 2.8,
+      "pct": 2.7,
       "label": "Washington State Patrol"
     },
     {
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 664,
-      "pct": 16.2,
+      "count": 669,
+      "pct": 16.3,
       "label": "District Court (DARR)"
     },
     {
@@ -339,14 +339,14 @@
     },
     {
       "name": "S10",
-      "count": 578,
-      "pct": 14.1,
+      "count": 595,
+      "pct": 14.5,
       "label": "Superior Court (S10)"
     },
     {
       "name": "S3",
-      "count": 501,
-      "pct": 12.2,
+      "count": 496,
+      "pct": 12.1,
       "label": "Superior Court (S3)"
     },
     {
@@ -357,8 +357,8 @@
     },
     {
       "name": "S12",
-      "count": 415,
-      "pct": 10.1,
+      "count": 410,
+      "pct": 10,
       "label": "Superior Court (S12)"
     },
     {
@@ -401,8 +401,8 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2103,
-      "pct": 42.8,
+      "count": 2107,
+      "pct": 42.9,
       "label": "Gross Misdemeanor"
     },
     {
@@ -419,14 +419,14 @@
     },
     {
       "name": "M",
-      "count": 435,
+      "count": 436,
       "pct": 8.9,
       "label": "Misdemeanor"
     },
     {
       "name": "FA",
       "count": 317,
-      "pct": 6.5,
+      "pct": 6.4,
       "label": "Class A Felony"
     },
     {
@@ -451,8 +451,8 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 9,
-      "pct": 2.1
+      "count": 10,
+      "pct": 2.3
     },
     {
       "name": "B",
@@ -472,17 +472,17 @@
     {
       "name": "E",
       "count": 93,
-      "pct": 21.4
+      "pct": 21.3
     },
     {
       "name": "F",
       "count": 97,
-      "pct": 22.3
+      "pct": 22.2
     },
     {
       "name": "G",
       "count": 103,
-      "pct": 23.7
+      "pct": 23.6
     },
     {
       "name": "H",
@@ -516,17 +516,17 @@
     {
       "name": "NONE",
       "count": 2599,
-      "pct": 52.8
+      "pct": 52.7
     },
     {
       "name": "COMBINED",
-      "count": 1466,
+      "count": 1468,
       "pct": 29.8
     },
     {
       "name": "BAIL BOND",
-      "count": 859,
-      "pct": 17.4
+      "count": 862,
+      "pct": 17.5
     }
   ],
   "stay": {
@@ -559,15 +559,15 @@
         "count": 42
       }
     ],
-    "currentMedianDaysHeld": 55.5,
-    "currentLongestDaysHeld": 1056.5
+    "currentMedianDaysHeld": 55.1,
+    "currentLongestDaysHeld": 1056.6
   },
   "bond": {
-    "withBond": 323,
+    "withBond": 325,
     "noBond": 131,
-    "medianBond": 27500,
+    "medianBond": 27000,
     "maxBond": 10005000,
-    "totalBond": 57717975
+    "totalBond": 57723475
   },
   "chargesPerBooking": 5
 }
