@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T08:55:17",
+  "generatedAt": "2026-11-06T09:55:17",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1007,
@@ -202,13 +202,13 @@
       "pct": 2.1
     },
     {
-      "name": "ASSAULT-2 -DV",
+      "name": "CONTROLLED SUBSTANCE KNOWINGLY POSSESS",
       "count": 90,
       "pct": 1.8
     },
     {
-      "name": "CONTROLLED SUBSTANCE KNOWINGLY POSSESS",
-      "count": 89,
+      "name": "ASSAULT-2 -DV",
+      "count": 90,
       "pct": 1.8
     },
     {
@@ -228,7 +228,7 @@
     },
     {
       "name": "FUGITIVE",
-      "count": 70,
+      "count": 69,
       "pct": 1.4
     },
     {
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "SO6",
-      "count": 582,
-      "pct": 58.1,
+      "count": 583,
+      "pct": 58.2,
       "label": "SO6"
     },
     {
@@ -327,14 +327,14 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 680,
-      "pct": 16.4,
+      "count": 679,
+      "pct": 16.3,
       "label": "District Court (DARR)"
     },
     {
       "name": "S9",
       "count": 622,
-      "pct": 15,
+      "pct": 14.9,
       "label": "Superior Court (S9)"
     },
     {
@@ -345,8 +345,8 @@
     },
     {
       "name": "S3",
-      "count": 508,
-      "pct": 12.2,
+      "count": 511,
+      "pct": 12.3,
       "label": "Superior Court (S3)"
     },
     {
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2133,
+      "count": 2134,
       "pct": 43,
       "label": "Gross Misdemeanor"
     },
@@ -413,7 +413,7 @@
     },
     {
       "name": "FB",
-      "count": 810,
+      "count": 811,
       "pct": 16.3,
       "label": "Class B Felony"
     },
@@ -431,7 +431,7 @@
     },
     {
       "name": "H",
-      "count": 70,
+      "count": 69,
       "pct": 1.4,
       "label": "H"
     },
@@ -451,8 +451,8 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 11,
-      "pct": 2.5
+      "count": 12,
+      "pct": 2.7
     },
     {
       "name": "B",
@@ -481,8 +481,8 @@
     },
     {
       "name": "G",
-      "count": 103,
-      "pct": 23.5
+      "count": 102,
+      "pct": 23.2
     },
     {
       "name": "H",
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2636,
+      "count": 2638,
       "pct": 53
     },
     {
