@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-05T21:55:17",
+  "generatedAt": "2026-11-05T22:55:17",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 994,
-    "bookingsObserved": 525,
+    "bookingsTracked": 996,
+    "bookingsObserved": 527,
     "releasesObserved": 545,
-    "inCustody": 449,
-    "uniquePeople": 979
+    "inCustody": 451,
+    "uniquePeople": 981
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-05",
-      "booked": 26,
+      "booked": 27,
       "released": 20
     }
   ],
@@ -168,7 +168,7 @@
     },
     {
       "name": "ASSAULT-4 - DV",
-      "count": 256,
+      "count": 257,
       "pct": 5.2
     },
     {
@@ -193,7 +193,7 @@
     },
     {
       "name": "HARASSMENT PREV CONV OR THREAT TO KILL",
-      "count": 125,
+      "count": 126,
       "pct": 2.5
     },
     {
@@ -202,12 +202,12 @@
       "pct": 2.1
     },
     {
-      "name": "CONTROLLED SUBSTANCE KNOWINGLY POSSESS",
-      "count": 89,
+      "name": "ASSAULT-2 -DV",
+      "count": 90,
       "pct": 1.8
     },
     {
-      "name": "ASSAULT-2 -DV",
+      "name": "CONTROLLED SUBSTANCE KNOWINGLY POSSESS",
       "count": 89,
       "pct": 1.8
     },
@@ -244,7 +244,7 @@
     {
       "name": "POSSESS DEPICTIONS OF A MINOR 1 ENGAGED IN SEXUALLY EXPLICIT CONDUCT",
       "count": 62,
-      "pct": 1.3
+      "pct": 1.2
     },
     {
       "name": "ASSAULT-2",
@@ -266,13 +266,13 @@
     {
       "name": "SO6",
       "count": 575,
-      "pct": 58.1,
+      "pct": 58,
       "label": "SO6"
     },
     {
       "name": "VPD",
-      "count": 227,
-      "pct": 23,
+      "count": 229,
+      "pct": 23.1,
       "label": "Vancouver Police"
     },
     {
@@ -333,14 +333,14 @@
     },
     {
       "name": "S9",
-      "count": 596,
-      "pct": 14.4,
+      "count": 610,
+      "pct": 14.7,
       "label": "Superior Court (S9)"
     },
     {
       "name": "S10",
-      "count": 594,
-      "pct": 14.4,
+      "count": 563,
+      "pct": 13.6,
       "label": "Superior Court (S10)"
     },
     {
@@ -351,8 +351,8 @@
     },
     {
       "name": "S8",
-      "count": 429,
-      "pct": 10.4,
+      "count": 449,
+      "pct": 10.8,
       "label": "Superior Court (S8)"
     },
     {
@@ -401,19 +401,19 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2121,
+      "count": 2122,
       "pct": 42.9,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
-      "count": 1147,
+      "count": 1148,
       "pct": 23.2,
       "label": "Class C Felony"
     },
     {
       "name": "FB",
-      "count": 807,
+      "count": 808,
       "pct": 16.3,
       "label": "Class B Felony"
     },
@@ -456,13 +456,13 @@
     },
     {
       "name": "B",
-      "count": 26,
-      "pct": 6
+      "count": 28,
+      "pct": 6.5
     },
     {
       "name": "C",
       "count": 33,
-      "pct": 7.7
+      "pct": 7.6
     },
     {
       "name": "D",
@@ -471,23 +471,23 @@
     },
     {
       "name": "E",
-      "count": 92,
-      "pct": 21.4
+      "count": 93,
+      "pct": 21.5
     },
     {
       "name": "F",
-      "count": 96,
-      "pct": 22.3
+      "count": 95,
+      "pct": 22
     },
     {
       "name": "G",
       "count": 101,
-      "pct": 23.5
+      "pct": 23.4
     },
     {
       "name": "H",
       "count": 20,
-      "pct": 4.7
+      "pct": 4.6
     },
     {
       "name": "JDH",
@@ -515,12 +515,12 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2633,
+      "count": 2635,
       "pct": 53.1
     },
     {
       "name": "COMBINED",
-      "count": 1467,
+      "count": 1468,
       "pct": 29.6
     },
     {
@@ -559,15 +559,15 @@
         "count": 42
       }
     ],
-    "currentMedianDaysHeld": 57.4,
-    "currentLongestDaysHeld": 1056.9
+    "currentMedianDaysHeld": 57,
+    "currentLongestDaysHeld": 1057
   },
   "bond": {
-    "withBond": 316,
-    "noBond": 133,
+    "withBond": 317,
+    "noBond": 134,
     "medianBond": 30000,
     "maxBond": 10005000,
-    "totalBond": 57703475
+    "totalBond": 57701475
   },
   "chargesPerBooking": 5
 }
