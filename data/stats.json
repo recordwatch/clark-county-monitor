@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T11:49:48",
+  "generatedAt": "2026-11-06T11:55:16",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1009,
@@ -339,14 +339,14 @@
     },
     {
       "name": "S10",
-      "count": 547,
-      "pct": 13.1,
+      "count": 556,
+      "pct": 13.3,
       "label": "Superior Court (S10)"
     },
     {
       "name": "S3",
-      "count": 511,
-      "pct": 12.3,
+      "count": 504,
+      "pct": 12.1,
       "label": "Superior Court (S3)"
     },
     {
