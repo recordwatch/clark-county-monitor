@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-06T06:55:19",
+  "generatedAt": "2026-11-06T07:55:19",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1006,
-    "bookingsObserved": 537,
-    "releasesObserved": 547,
+    "bookingsTracked": 1007,
+    "bookingsObserved": 538,
+    "releasesObserved": 548,
     "inCustody": 459,
-    "uniquePeople": 990
+    "uniquePeople": 991
   },
   "bookingsByDay": [
     {
@@ -156,8 +156,8 @@
     },
     {
       "date": "2026-11-06",
-      "booked": 10,
-      "released": 1
+      "booked": 11,
+      "released": 2
     }
   ],
   "topCharges": [
@@ -265,7 +265,7 @@
   "topAgencies": [
     {
       "name": "SO6",
-      "count": 581,
+      "count": 582,
       "pct": 58.1,
       "label": "SO6"
     },
@@ -333,14 +333,14 @@
     },
     {
       "name": "S9",
-      "count": 618,
+      "count": 619,
       "pct": 14.9,
       "label": "Superior Court (S9)"
     },
     {
       "name": "S10",
-      "count": 537,
-      "pct": 12.9,
+      "count": 540,
+      "pct": 13,
       "label": "Superior Court (S10)"
     },
     {
@@ -413,7 +413,7 @@
     },
     {
       "name": "FB",
-      "count": 809,
+      "count": 810,
       "pct": 16.3,
       "label": "Class B Felony"
     },
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 25,
-      "pct": 5.7
+      "count": 26,
+      "pct": 5.9
     },
     {
       "name": "C",
@@ -486,8 +486,8 @@
     },
     {
       "name": "H",
-      "count": 20,
-      "pct": 4.6
+      "count": 19,
+      "pct": 4.3
     },
     {
       "name": "JDH",
@@ -508,7 +508,7 @@
   "releaseStatus": [
     {
       "name": "RELEASED",
-      "count": 545,
+      "count": 546,
       "pct": 100
     }
   ],
@@ -525,14 +525,14 @@
     },
     {
       "name": "BAIL BOND",
-      "count": 862,
+      "count": 863,
       "pct": 17.3
     }
   ],
   "stay": {
-    "releasedCount": 546,
+    "releasedCount": 547,
     "medianDays": 2.6,
-    "meanDays": 26.2,
+    "meanDays": 26.4,
     "buckets": [
       {
         "label": "< 1 day",
@@ -556,18 +556,18 @@
       },
       {
         "label": "3+ months",
-        "count": 42
+        "count": 43
       }
     ],
-    "currentMedianDaysHeld": 54.3,
+    "currentMedianDaysHeld": 53.8,
     "currentLongestDaysHeld": 1057.3
   },
   "bond": {
-    "withBond": 320,
-    "noBond": 139,
+    "withBond": 321,
+    "noBond": 138,
     "medianBond": 30000,
     "maxBond": 10005000,
-    "totalBond": 57748975
+    "totalBond": 57763975
   },
   "chargesPerBooking": 4.9
 }
