@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-06T01:55:17",
+  "generatedAt": "2026-11-06T02:55:18",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1002,
-    "bookingsObserved": 533,
+    "bookingsTracked": 1003,
+    "bookingsObserved": 534,
     "releasesObserved": 546,
-    "inCustody": 456,
-    "uniquePeople": 987
+    "inCustody": 457,
+    "uniquePeople": 988
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-06",
-      "booked": 6,
+      "booked": 7,
       "released": 0
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "PROTECTION ORDER VIOLATION",
       "count": 455,
-      "pct": 9.2
+      "pct": 9.1
     },
     {
       "name": "ASSAULT-4 - DV",
@@ -266,12 +266,12 @@
     {
       "name": "SO6",
       "count": 580,
-      "pct": 58.2,
+      "pct": 58.1,
       "label": "SO6"
     },
     {
       "name": "VPD",
-      "count": 228,
+      "count": 229,
       "pct": 22.9,
       "label": "Vancouver Police"
     },
@@ -327,20 +327,20 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 674,
-      "pct": 16.2,
+      "count": 675,
+      "pct": 16.3,
       "label": "District Court (DARR)"
     },
     {
       "name": "S9",
-      "count": 610,
-      "pct": 14.7,
+      "count": 616,
+      "pct": 14.8,
       "label": "Superior Court (S9)"
     },
     {
       "name": "S10",
-      "count": 553,
-      "pct": 13.3,
+      "count": 547,
+      "pct": 13.2,
       "label": "Superior Court (S10)"
     },
     {
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2128,
+      "count": 2129,
       "pct": 42.9,
       "label": "Gross Misdemeanor"
     },
@@ -456,13 +456,13 @@
     },
     {
       "name": "B",
-      "count": 27,
-      "pct": 6.2
+      "count": 22,
+      "pct": 5
     },
     {
       "name": "C",
-      "count": 33,
-      "pct": 7.6
+      "count": 36,
+      "pct": 8.2
     },
     {
       "name": "D",
@@ -471,18 +471,18 @@
     },
     {
       "name": "E",
-      "count": 95,
-      "pct": 21.7
+      "count": 97,
+      "pct": 22.1
     },
     {
       "name": "F",
       "count": 96,
-      "pct": 22
+      "pct": 21.9
     },
     {
       "name": "G",
       "count": 103,
-      "pct": 23.6
+      "pct": 23.5
     },
     {
       "name": "H",
@@ -496,8 +496,8 @@
     },
     {
       "name": "M",
-      "count": 8,
-      "pct": 1.8
+      "count": 9,
+      "pct": 2.1
     },
     {
       "name": "SKAMANIA",
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2638,
+      "count": 2639,
       "pct": 53.1
     },
     {
@@ -559,12 +559,12 @@
         "count": 42
       }
     ],
-    "currentMedianDaysHeld": 56.1,
+    "currentMedianDaysHeld": 55.1,
     "currentLongestDaysHeld": 1057.1
   },
   "bond": {
     "withBond": 318,
-    "noBond": 138,
+    "noBond": 139,
     "medianBond": 30000,
     "maxBond": 10005000,
     "totalBond": 57802475
