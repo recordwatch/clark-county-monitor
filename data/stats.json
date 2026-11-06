@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-06T05:55:19",
+  "generatedAt": "2026-11-06T06:55:19",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1006,
     "bookingsObserved": 537,
-    "releasesObserved": 546,
-    "inCustody": 460,
+    "releasesObserved": 547,
+    "inCustody": 459,
     "uniquePeople": 990
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-11-06",
       "booked": 10,
-      "released": 0
+      "released": 1
     }
   ],
   "topCharges": [
@@ -333,8 +333,8 @@
     },
     {
       "name": "S9",
-      "count": 616,
-      "pct": 14.8,
+      "count": 618,
+      "pct": 14.9,
       "label": "Superior Court (S9)"
     },
     {
@@ -466,28 +466,28 @@
     },
     {
       "name": "D",
-      "count": 35,
-      "pct": 7.9
+      "count": 34,
+      "pct": 7.7
     },
     {
       "name": "E",
-      "count": 97,
-      "pct": 22
+      "count": 96,
+      "pct": 21.9
     },
     {
       "name": "F",
       "count": 96,
-      "pct": 21.8
+      "pct": 21.9
     },
     {
       "name": "G",
       "count": 103,
-      "pct": 23.4
+      "pct": 23.5
     },
     {
       "name": "H",
       "count": 20,
-      "pct": 4.5
+      "pct": 4.6
     },
     {
       "name": "JDH",
@@ -497,7 +497,7 @@
     {
       "name": "M",
       "count": 9,
-      "pct": 2
+      "pct": 2.1
     },
     {
       "name": "SKAMANIA",
@@ -508,7 +508,7 @@
   "releaseStatus": [
     {
       "name": "RELEASED",
-      "count": 544,
+      "count": 545,
       "pct": 100
     }
   ],
@@ -530,8 +530,8 @@
     }
   ],
   "stay": {
-    "releasedCount": 545,
-    "medianDays": 2.5,
+    "releasedCount": 546,
+    "medianDays": 2.6,
     "meanDays": 26.2,
     "buckets": [
       {
@@ -548,7 +548,7 @@
       },
       {
         "label": "1–4 weeks",
-        "count": 60
+        "count": 61
       },
       {
         "label": "1–3 months",
@@ -559,15 +559,15 @@
         "count": 42
       }
     ],
-    "currentMedianDaysHeld": 53.7,
-    "currentLongestDaysHeld": 1057.2
+    "currentMedianDaysHeld": 54.3,
+    "currentLongestDaysHeld": 1057.3
   },
   "bond": {
-    "withBond": 321,
+    "withBond": 320,
     "noBond": 139,
     "medianBond": 30000,
     "maxBond": 10005000,
-    "totalBond": 57823975
+    "totalBond": 57748975
   },
   "chargesPerBooking": 4.9
 }
