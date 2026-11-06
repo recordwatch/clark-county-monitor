@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T11:55:16",
+  "generatedAt": "2026-11-06T12:55:19",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1009,
@@ -168,8 +168,8 @@
     },
     {
       "name": "ASSAULT-4 - DV",
-      "count": 261,
-      "pct": 5.2
+      "count": 263,
+      "pct": 5.3
     },
     {
       "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
@@ -327,20 +327,20 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 684,
+      "count": 686,
       "pct": 16.4,
       "label": "District Court (DARR)"
     },
     {
       "name": "S9",
-      "count": 622,
+      "count": 620,
       "pct": 14.9,
       "label": "Superior Court (S9)"
     },
     {
       "name": "S10",
-      "count": 556,
-      "pct": 13.3,
+      "count": 559,
+      "pct": 13.4,
       "label": "Superior Court (S10)"
     },
     {
@@ -401,14 +401,14 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2141,
-      "pct": 43,
+      "count": 2143,
+      "pct": 43.1,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
       "count": 1152,
-      "pct": 23.2,
+      "pct": 23.1,
       "label": "Class C Felony"
     },
     {
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2645,
+      "count": 2647,
       "pct": 53
     },
     {
