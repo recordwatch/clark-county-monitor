@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-06T15:55:17",
+  "generatedAt": "2026-11-06T16:55:16",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1012,
     "bookingsObserved": 543,
-    "releasesObserved": 555,
-    "inCustody": 457,
+    "releasesObserved": 556,
+    "inCustody": 456,
     "uniquePeople": 996
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-11-06",
       "booked": 15,
-      "released": 9
+      "released": 10
     }
   ],
   "topCharges": [
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 689,
-      "pct": 16.4,
+      "count": 684,
+      "pct": 16.3,
       "label": "District Court (DARR)"
     },
     {
@@ -381,14 +381,14 @@
     },
     {
       "name": "D1",
-      "count": 98,
-      "pct": 2.3,
+      "count": 100,
+      "pct": 2.4,
       "label": "District Court (D1)"
     },
     {
       "name": "D5",
-      "count": 85,
-      "pct": 2,
+      "count": 87,
+      "pct": 2.1,
       "label": "District Court (D5)"
     },
     {
@@ -402,7 +402,7 @@
     {
       "name": "GM",
       "count": 2151,
-      "pct": 43.1,
+      "pct": 43,
       "label": "Gross Misdemeanor"
     },
     {
@@ -419,7 +419,7 @@
     },
     {
       "name": "M",
-      "count": 440,
+      "count": 442,
       "pct": 8.8,
       "label": "Misdemeanor"
     },
@@ -461,8 +461,8 @@
     },
     {
       "name": "C",
-      "count": 36,
-      "pct": 8.2
+      "count": 34,
+      "pct": 7.8
     },
     {
       "name": "D",
@@ -472,17 +472,17 @@
     {
       "name": "E",
       "count": 96,
-      "pct": 21.9
+      "pct": 22
     },
     {
       "name": "F",
       "count": 97,
-      "pct": 22.1
+      "pct": 22.2
     },
     {
       "name": "G",
       "count": 103,
-      "pct": 23.5
+      "pct": 23.6
     },
     {
       "name": "H",
@@ -496,8 +496,8 @@
     },
     {
       "name": "M",
-      "count": 9,
-      "pct": 2.1
+      "count": 10,
+      "pct": 2.3
     },
     {
       "name": "SKAMANIA",
@@ -508,14 +508,14 @@
   "releaseStatus": [
     {
       "name": "RELEASED",
-      "count": 553,
+      "count": 554,
       "pct": 100
     }
   ],
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2659,
+      "count": 2660,
       "pct": 53.1
     },
     {
@@ -530,9 +530,9 @@
     }
   ],
   "stay": {
-    "releasedCount": 554,
+    "releasedCount": 555,
     "medianDays": 2.6,
-    "meanDays": 29.7,
+    "meanDays": 29.6,
     "buckets": [
       {
         "label": "< 1 day",
@@ -540,7 +540,7 @@
       },
       {
         "label": "1–3 days",
-        "count": 215
+        "count": 216
       },
       {
         "label": "3–7 days",
@@ -564,7 +564,7 @@
   },
   "bond": {
     "withBond": 323,
-    "noBond": 134,
+    "noBond": 133,
     "medianBond": 30000,
     "maxBond": 10005000,
     "totalBond": 57784075
