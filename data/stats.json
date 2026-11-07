@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-07T13:55:18",
+  "generatedAt": "2026-11-07T14:55:17",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1037,
-    "bookingsObserved": 568,
+    "bookingsTracked": 1038,
+    "bookingsObserved": 569,
     "releasesObserved": 578,
-    "inCustody": 459,
-    "uniquePeople": 1018
+    "inCustody": 460,
+    "uniquePeople": 1019
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-07",
-      "booked": 17,
+      "booked": 18,
       "released": 4
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "PROTECTION ORDER VIOLATION",
       "count": 465,
-      "pct": 9.1
+      "pct": 9
     },
     {
       "name": "ASSAULT-4 - DV",
@@ -253,8 +253,8 @@
     },
     {
       "name": "DWS 3 -DRIVE W/LICENSE SUSP OR REVOKED-3 OR REVOKED LIC OR PRIVILEGE",
-      "count": 58,
-      "pct": 1.1
+      "count": 60,
+      "pct": 1.2
     },
     {
       "name": "BURGLARY-2",
@@ -271,8 +271,8 @@
     },
     {
       "name": "VPD",
-      "count": 232,
-      "pct": 22.5,
+      "count": 233,
+      "pct": 22.6,
       "label": "Vancouver Police"
     },
     {
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 699,
-      "pct": 16.2,
+      "count": 702,
+      "pct": 16.3,
       "label": "District Court (DARR)"
     },
     {
@@ -402,7 +402,7 @@
     {
       "name": "GM",
       "count": 2200,
-      "pct": 43,
+      "pct": 42.9,
       "label": "Gross Misdemeanor"
     },
     {
@@ -419,8 +419,8 @@
     },
     {
       "name": "M",
-      "count": 453,
-      "pct": 8.8,
+      "count": 456,
+      "pct": 8.9,
       "label": "Misdemeanor"
     },
     {
@@ -456,13 +456,13 @@
     },
     {
       "name": "B",
-      "count": 30,
-      "pct": 6.8
+      "count": 21,
+      "pct": 4.8
     },
     {
       "name": "C",
-      "count": 35,
-      "pct": 8
+      "count": 36,
+      "pct": 8.2
     },
     {
       "name": "D",
@@ -481,13 +481,13 @@
     },
     {
       "name": "G",
-      "count": 100,
-      "pct": 22.8
+      "count": 107,
+      "pct": 24.3
     },
     {
       "name": "H",
-      "count": 17,
-      "pct": 3.9
+      "count": 18,
+      "pct": 4.1
     },
     {
       "name": "JDH",
@@ -496,8 +496,8 @@
     },
     {
       "name": "M",
-      "count": 8,
-      "pct": 1.8
+      "count": 9,
+      "pct": 2
     },
     {
       "name": "SKAMANIA",
@@ -520,13 +520,13 @@
     },
     {
       "name": "COMBINED",
-      "count": 1542,
+      "count": 1543,
       "pct": 30.1
     },
     {
       "name": "BAIL BOND",
-      "count": 899,
-      "pct": 17.5
+      "count": 901,
+      "pct": 17.6
     }
   ],
   "stay": {
@@ -563,11 +563,11 @@
     "currentLongestDaysHeld": 1058.6
   },
   "bond": {
-    "withBond": 329,
+    "withBond": 330,
     "noBond": 130,
     "medianBond": 30000,
     "maxBond": 10005000,
-    "totalBond": 58328675
+    "totalBond": 58329675
   },
   "chargesPerBooking": 5
 }
