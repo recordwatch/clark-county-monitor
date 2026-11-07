@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T08:55:18",
+  "generatedAt": "2026-11-07T08:56:36",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1031,
@@ -393,7 +393,7 @@
     },
     {
       "name": "SARR",
-      "count": 84,
+      "count": 85,
       "pct": 2,
       "label": "Superior Court (SARR)"
     }
@@ -413,7 +413,7 @@
     },
     {
       "name": "FB",
-      "count": 821,
+      "count": 822,
       "pct": 16.1,
       "label": "Class B Felony"
     },
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2685,
+      "count": 2686,
       "pct": 52.5
     },
     {
@@ -526,7 +526,7 @@
     {
       "name": "BAIL BOND",
       "count": 893,
-      "pct": 17.5
+      "pct": 17.4
     }
   ],
   "stay": {
