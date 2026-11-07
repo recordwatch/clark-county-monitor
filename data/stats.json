@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-06T18:55:18",
+  "generatedAt": "2026-11-06T19:55:16",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1015,
     "bookingsObserved": 546,
-    "releasesObserved": 560,
-    "inCustody": 455,
+    "releasesObserved": 565,
+    "inCustody": 450,
     "uniquePeople": 998
   },
   "bookingsByDay": [
@@ -157,13 +157,13 @@
     {
       "date": "2026-11-06",
       "booked": 17,
-      "released": 14
+      "released": 19
     }
   ],
   "topCharges": [
     {
       "name": "PROTECTION ORDER VIOLATION",
-      "count": 457,
+      "count": 459,
       "pct": 9.1
     },
     {
@@ -198,7 +198,7 @@
     },
     {
       "name": "ASSAULT-4",
-      "count": 105,
+      "count": 106,
       "pct": 2.1
     },
     {
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "SO6",
-      "count": 585,
-      "pct": 58,
+      "count": 586,
+      "pct": 58.1,
       "label": "SO6"
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "CLS",
-      "count": 95,
-      "pct": 9.4,
+      "count": 94,
+      "pct": 9.3,
       "label": "CLS"
     },
     {
@@ -327,14 +327,14 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 687,
-      "pct": 16.4,
+      "count": 682,
+      "pct": 16.2,
       "label": "District Court (DARR)"
     },
     {
       "name": "S9",
       "count": 619,
-      "pct": 14.8,
+      "pct": 14.7,
       "label": "Superior Court (S9)"
     },
     {
@@ -363,7 +363,7 @@
     },
     {
       "name": "D4",
-      "count": 149,
+      "count": 153,
       "pct": 3.6,
       "label": "District Court (D4)"
     },
@@ -381,8 +381,8 @@
     },
     {
       "name": "D1",
-      "count": 100,
-      "pct": 2.4,
+      "count": 105,
+      "pct": 2.5,
       "label": "District Court (D1)"
     },
     {
@@ -401,14 +401,14 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2153,
-      "pct": 43,
+      "count": 2157,
+      "pct": 43.1,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
       "count": 1159,
-      "pct": 23.2,
+      "pct": 23.1,
       "label": "Class C Felony"
     },
     {
@@ -456,38 +456,38 @@
     },
     {
       "name": "B",
-      "count": 23,
-      "pct": 5.3
+      "count": 21,
+      "pct": 4.9
     },
     {
       "name": "C",
       "count": 33,
-      "pct": 7.6
+      "pct": 7.7
     },
     {
       "name": "D",
       "count": 34,
-      "pct": 7.8
+      "pct": 7.9
     },
     {
       "name": "E",
       "count": 93,
-      "pct": 21.4
+      "pct": 21.6
     },
     {
       "name": "F",
-      "count": 99,
+      "count": 98,
       "pct": 22.8
     },
     {
       "name": "G",
-      "count": 103,
+      "count": 102,
       "pct": 23.7
     },
     {
       "name": "H",
-      "count": 19,
-      "pct": 4.4
+      "count": 18,
+      "pct": 4.2
     },
     {
       "name": "JDH",
@@ -508,15 +508,15 @@
   "releaseStatus": [
     {
       "name": "RELEASED",
-      "count": 558,
+      "count": 563,
       "pct": 100
     }
   ],
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2663,
-      "pct": 53.1
+      "count": 2668,
+      "pct": 53.2
     },
     {
       "name": "COMBINED",
@@ -525,22 +525,22 @@
     },
     {
       "name": "BAIL BOND",
-      "count": 871,
-      "pct": 17.4
+      "count": 870,
+      "pct": 17.3
     }
   ],
   "stay": {
-    "releasedCount": 559,
-    "medianDays": 2.6,
-    "meanDays": 29.4,
+    "releasedCount": 564,
+    "medianDays": 2.5,
+    "meanDays": 29.2,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 99
+        "count": 101
       },
       {
         "label": "1–3 days",
-        "count": 218
+        "count": 221
       },
       {
         "label": "3–7 days",
@@ -559,15 +559,15 @@
         "count": 47
       }
     ],
-    "currentMedianDaysHeld": 52.8,
+    "currentMedianDaysHeld": 53.3,
     "currentLongestDaysHeld": 1057.8
   },
   "bond": {
-    "withBond": 322,
-    "noBond": 133,
+    "withBond": 320,
+    "noBond": 130,
     "medianBond": 30000,
     "maxBond": 10005000,
-    "totalBond": 58167575
+    "totalBond": 58142575
   },
   "chargesPerBooking": 4.9
 }
