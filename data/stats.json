@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-06T21:55:17",
+  "generatedAt": "2026-11-06T22:55:16",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1018,
-    "bookingsObserved": 549,
-    "releasesObserved": 572,
-    "inCustody": 446,
-    "uniquePeople": 1001
+    "bookingsTracked": 1019,
+    "bookingsObserved": 550,
+    "releasesObserved": 574,
+    "inCustody": 445,
+    "uniquePeople": 1002
   },
   "bookingsByDay": [
     {
@@ -156,8 +156,8 @@
     },
     {
       "date": "2026-11-06",
-      "booked": 19,
-      "released": 26
+      "booked": 21,
+      "released": 28
     }
   ],
   "topCharges": [
@@ -168,8 +168,8 @@
     },
     {
       "name": "ASSAULT-4 - DV",
-      "count": 265,
-      "pct": 5.2
+      "count": 266,
+      "pct": 5.3
     },
     {
       "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
@@ -183,7 +183,7 @@
     },
     {
       "name": "THEFT-3",
-      "count": 149,
+      "count": 151,
       "pct": 3
     },
     {
@@ -247,25 +247,25 @@
       "pct": 1.2
     },
     {
-      "name": "ASSAULT-2",
+      "name": "BURGLARY-2",
       "count": 57,
       "pct": 1.1
     },
     {
-      "name": "BURGLARY-2",
-      "count": 56,
+      "name": "DWS 3 -DRIVE W/LICENSE SUSP OR REVOKED-3 OR REVOKED LIC OR PRIVILEGE",
+      "count": 57,
       "pct": 1.1
     },
     {
-      "name": "SEXUAL EXPLOITATION OF A MINOR PHOTOGRAPH/LIVE PERFORMANCE",
-      "count": 56,
+      "name": "ASSAULT-2",
+      "count": 57,
       "pct": 1.1
     }
   ],
   "topAgencies": [
     {
       "name": "SO6",
-      "count": 590,
+      "count": 591,
       "pct": 58.3,
       "label": "SO6"
     },
@@ -327,14 +327,14 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 684,
-      "pct": 16.2,
+      "count": 688,
+      "pct": 16.3,
       "label": "District Court (DARR)"
     },
     {
       "name": "S9",
       "count": 619,
-      "pct": 14.7,
+      "pct": 14.6,
       "label": "Superior Court (S9)"
     },
     {
@@ -345,7 +345,7 @@
     },
     {
       "name": "S3",
-      "count": 523,
+      "count": 526,
       "pct": 12.4,
       "label": "Superior Court (S3)"
     },
@@ -358,7 +358,7 @@
     {
       "name": "S12",
       "count": 429,
-      "pct": 10.2,
+      "pct": 10.1,
       "label": "Superior Court (S12)"
     },
     {
@@ -401,32 +401,32 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2170,
+      "count": 2175,
       "pct": 43.1,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
       "count": 1172,
-      "pct": 23.3,
+      "pct": 23.2,
       "label": "Class C Felony"
     },
     {
       "name": "FB",
-      "count": 812,
+      "count": 813,
       "pct": 16.1,
       "label": "Class B Felony"
     },
     {
       "name": "M",
-      "count": 446,
+      "count": 448,
       "pct": 8.9,
       "label": "Misdemeanor"
     },
     {
       "name": "FA",
       "count": 320,
-      "pct": 6.4,
+      "pct": 6.3,
       "label": "Class A Felony"
     },
     {
@@ -456,18 +456,18 @@
     },
     {
       "name": "B",
-      "count": 21,
-      "pct": 4.9
+      "count": 22,
+      "pct": 5.2
     },
     {
       "name": "C",
       "count": 33,
-      "pct": 7.7
+      "pct": 7.8
     },
     {
       "name": "D",
-      "count": 34,
-      "pct": 8
+      "count": 33,
+      "pct": 7.8
     },
     {
       "name": "E",
@@ -482,7 +482,7 @@
     {
       "name": "G",
       "count": 101,
-      "pct": 23.7
+      "pct": 23.8
     },
     {
       "name": "H",
@@ -496,8 +496,8 @@
     },
     {
       "name": "M",
-      "count": 10,
-      "pct": 2.3
+      "count": 9,
+      "pct": 2.1
     },
     {
       "name": "SKAMANIA",
@@ -508,35 +508,35 @@
   "releaseStatus": [
     {
       "name": "RELEASED",
-      "count": 570,
+      "count": 572,
       "pct": 100
     }
   ],
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2673,
-      "pct": 53
+      "count": 2674,
+      "pct": 52.9
     },
     {
       "name": "COMBINED",
-      "count": 1497,
+      "count": 1500,
       "pct": 29.7
     },
     {
       "name": "BAIL BOND",
-      "count": 875,
-      "pct": 17.3
+      "count": 879,
+      "pct": 17.4
     }
   ],
   "stay": {
-    "releasedCount": 571,
+    "releasedCount": 573,
     "medianDays": 2.5,
     "meanDays": 28.9,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 103
+        "count": 104
       },
       {
         "label": "1–3 days",
@@ -552,22 +552,22 @@
       },
       {
         "label": "1–3 months",
-        "count": 58
+        "count": 59
       },
       {
         "label": "3+ months",
         "count": 47
       }
     ],
-    "currentMedianDaysHeld": 55.9,
-    "currentLongestDaysHeld": 1057.9
+    "currentMedianDaysHeld": 55.5,
+    "currentLongestDaysHeld": 1058
   },
   "bond": {
     "withBond": 320,
-    "noBond": 126,
+    "noBond": 125,
     "medianBond": 30000,
     "maxBond": 10005000,
-    "totalBond": 58184575
+    "totalBond": 58154775
   },
   "chargesPerBooking": 5
 }
