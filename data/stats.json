@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-07T03:55:19",
+  "generatedAt": "2026-11-07T04:55:17",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1026,
-    "bookingsObserved": 557,
+    "bookingsTracked": 1027,
+    "bookingsObserved": 558,
     "releasesObserved": 574,
-    "inCustody": 452,
-    "uniquePeople": 1008
+    "inCustody": 453,
+    "uniquePeople": 1009
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-07",
-      "booked": 6,
+      "booked": 7,
       "released": 0
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "PROTECTION ORDER VIOLATION",
       "count": 463,
-      "pct": 9.1
+      "pct": 9
     },
     {
       "name": "ASSAULT-4 - DV",
@@ -271,8 +271,8 @@
     },
     {
       "name": "VPD",
-      "count": 230,
-      "pct": 22.5,
+      "count": 231,
+      "pct": 22.6,
       "label": "Vancouver Police"
     },
     {
@@ -393,7 +393,7 @@
     },
     {
       "name": "SARR",
-      "count": 80,
+      "count": 82,
       "pct": 1.9,
       "label": "Superior Court (SARR)"
     }
@@ -413,8 +413,8 @@
     },
     {
       "name": "FB",
-      "count": 817,
-      "pct": 16,
+      "count": 819,
+      "pct": 16.1,
       "label": "Class B Felony"
     },
     {
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 23,
-      "pct": 5.3
+      "count": 24,
+      "pct": 5.5
     },
     {
       "name": "C",
@@ -472,7 +472,7 @@
     {
       "name": "E",
       "count": 95,
-      "pct": 22
+      "pct": 21.9
     },
     {
       "name": "F",
@@ -482,7 +482,7 @@
     {
       "name": "G",
       "count": 101,
-      "pct": 23.4
+      "pct": 23.3
     },
     {
       "name": "H",
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2681,
+      "count": 2683,
       "pct": 52.5
     },
     {
@@ -526,7 +526,7 @@
     {
       "name": "BAIL BOND",
       "count": 892,
-      "pct": 17.5
+      "pct": 17.4
     }
   ],
   "stay": {
@@ -564,7 +564,7 @@
   },
   "bond": {
     "withBond": 326,
-    "noBond": 126,
+    "noBond": 127,
     "medianBond": 30000,
     "maxBond": 10005000,
     "totalBond": 58295275
