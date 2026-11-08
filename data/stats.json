@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-08T00:56:17",
+  "generatedAt": "2026-11-08T01:55:51",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1042,
-    "bookingsObserved": 573,
+    "bookingsTracked": 1043,
+    "bookingsObserved": 574,
     "releasesObserved": 582,
-    "inCustody": 460,
-    "uniquePeople": 1022
+    "inCustody": 461,
+    "uniquePeople": 1023
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-08",
-      "booked": 2,
+      "booked": 3,
       "released": 0
     }
   ],
@@ -168,7 +168,7 @@
     },
     {
       "name": "ASSAULT-4 - DV",
-      "count": 267,
+      "count": 268,
       "pct": 5.2
     },
     {
@@ -294,6 +294,12 @@
       "label": "WGP"
     },
     {
+      "name": "BGP",
+      "count": 8,
+      "pct": 0.8,
+      "label": "BGP"
+    },
+    {
       "name": "VCA",
       "count": 8,
       "pct": 0.8,
@@ -304,12 +310,6 @@
       "count": 8,
       "pct": 0.8,
       "label": "RPD"
-    },
-    {
-      "name": "BGP",
-      "count": 7,
-      "pct": 0.7,
-      "label": "BGP"
     },
     {
       "name": "CMP",
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 715,
-      "pct": 16.5,
+      "count": 716,
+      "pct": 16.6,
       "label": "District Court (DARR)"
     },
     {
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2212,
+      "count": 2213,
       "pct": 43.1,
       "label": "Gross Misdemeanor"
     },
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 21,
-      "pct": 4.8
+      "count": 22,
+      "pct": 5
     },
     {
       "name": "C",
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2695,
+      "count": 2696,
       "pct": 52.3
     },
     {
@@ -559,12 +559,12 @@
         "count": 48
       }
     ],
-    "currentMedianDaysHeld": 53,
-    "currentLongestDaysHeld": 1059
+    "currentMedianDaysHeld": 53.1,
+    "currentLongestDaysHeld": 1059.1
   },
   "bond": {
     "withBond": 332,
-    "noBond": 128,
+    "noBond": 129,
     "medianBond": 29000,
     "maxBond": 10005000,
     "totalBond": 58332675
