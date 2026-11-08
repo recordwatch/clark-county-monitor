@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T15:55:18",
+  "generatedAt": "2026-11-07T16:09:25",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1038,
@@ -163,8 +163,8 @@
   "topCharges": [
     {
       "name": "PROTECTION ORDER VIOLATION",
-      "count": 465,
-      "pct": 9
+      "count": 466,
+      "pct": 9.1
     },
     {
       "name": "ASSAULT-4 - DV",
@@ -266,13 +266,13 @@
     {
       "name": "SO6",
       "count": 601,
-      "pct": 58.3,
+      "pct": 58.2,
       "label": "SO6"
     },
     {
       "name": "VPD",
-      "count": 233,
-      "pct": 22.6,
+      "count": 234,
+      "pct": 22.7,
       "label": "Vancouver Police"
     },
     {
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 702,
+      "count": 703,
       "pct": 16.3,
       "label": "District Court (DARR)"
     },
@@ -364,7 +364,7 @@
     {
       "name": "D4",
       "count": 153,
-      "pct": 3.6,
+      "pct": 3.5,
       "label": "District Court (D4)"
     },
     {
@@ -387,8 +387,8 @@
     },
     {
       "name": "SARR",
-      "count": 95,
-      "pct": 2.2,
+      "count": 97,
+      "pct": 2.3,
       "label": "Superior Court (SARR)"
     },
     {
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2200,
+      "count": 2201,
       "pct": 42.9,
       "label": "Gross Misdemeanor"
     },
@@ -419,7 +419,7 @@
     },
     {
       "name": "M",
-      "count": 456,
+      "count": 455,
       "pct": 8.9,
       "label": "Misdemeanor"
     },
@@ -520,12 +520,12 @@
     },
     {
       "name": "COMBINED",
-      "count": 1543,
+      "count": 1545,
       "pct": 30.1
     },
     {
       "name": "BAIL BOND",
-      "count": 901,
+      "count": 902,
       "pct": 17.6
     }
   ],
@@ -563,11 +563,11 @@
     "currentLongestDaysHeld": 1058.7
   },
   "bond": {
-    "withBond": 329,
-    "noBond": 130,
+    "withBond": 330,
+    "noBond": 129,
     "medianBond": 30000,
     "maxBond": 10005000,
-    "totalBond": 58326175
+    "totalBond": 58337175
   },
   "chargesPerBooking": 5
 }
