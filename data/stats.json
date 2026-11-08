@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-08T13:55:18",
+  "generatedAt": "2026-11-08T14:38:36",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1050,
-    "bookingsObserved": 581,
+    "bookingsTracked": 1051,
+    "bookingsObserved": 582,
     "releasesObserved": 585,
-    "inCustody": 465,
-    "uniquePeople": 1030
+    "inCustody": 466,
+    "uniquePeople": 1031
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-08",
-      "booked": 10,
+      "booked": 11,
       "released": 3
     }
   ],
@@ -178,7 +178,7 @@
     },
     {
       "name": "PROTECTION ORDER VIOL PREV CONVICTI",
-      "count": 160,
+      "count": 161,
       "pct": 3.1
     },
     {
@@ -266,13 +266,13 @@
     {
       "name": "SO6",
       "count": 603,
-      "pct": 57.8,
+      "pct": 57.7,
       "label": "SO6"
     },
     {
       "name": "VPD",
-      "count": 240,
-      "pct": 23,
+      "count": 241,
+      "pct": 23.1,
       "label": "Vancouver Police"
     },
     {
@@ -328,7 +328,7 @@
     {
       "name": "DARR",
       "count": 728,
-      "pct": 16.8,
+      "pct": 16.7,
       "label": "District Court (DARR)"
     },
     {
@@ -374,16 +374,16 @@
       "label": "District Court (D3)"
     },
     {
+      "name": "SARR",
+      "count": 110,
+      "pct": 2.5,
+      "label": "Superior Court (SARR)"
+    },
+    {
       "name": "D2",
       "count": 109,
       "pct": 2.5,
       "label": "District Court (D2)"
-    },
-    {
-      "name": "SARR",
-      "count": 108,
-      "pct": 2.5,
-      "label": "Superior Court (SARR)"
     },
     {
       "name": "D1",
@@ -407,13 +407,13 @@
     },
     {
       "name": "FC",
-      "count": 1215,
-      "pct": 23.5,
+      "count": 1216,
+      "pct": 23.6,
       "label": "Class C Felony"
     },
     {
       "name": "FB",
-      "count": 824,
+      "count": 825,
       "pct": 16,
       "label": "Class B Felony"
     },
@@ -457,7 +457,7 @@
     {
       "name": "B",
       "count": 27,
-      "pct": 6.1
+      "pct": 6
     },
     {
       "name": "C",
@@ -477,7 +477,7 @@
     {
       "name": "F",
       "count": 103,
-      "pct": 23.1
+      "pct": 23
     },
     {
       "name": "G",
@@ -496,8 +496,8 @@
     },
     {
       "name": "M",
-      "count": 8,
-      "pct": 1.8
+      "count": 9,
+      "pct": 2
     },
     {
       "name": "SKAMANIA",
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2704,
+      "count": 2706,
       "pct": 52.3
     },
     {
@@ -564,7 +564,7 @@
   },
   "bond": {
     "withBond": 334,
-    "noBond": 131,
+    "noBond": 132,
     "medianBond": 28750,
     "maxBond": 10005000,
     "totalBond": 58365175
