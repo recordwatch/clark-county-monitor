@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T17:55:17",
+  "generatedAt": "2026-11-08T18:20:09",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1053,
@@ -248,7 +248,7 @@
     },
     {
       "name": "DWS 3 -DRIVE W/LICENSE SUSP OR REVOKED-3 OR REVOKED LIC OR PRIVILEGE",
-      "count": 62,
+      "count": 63,
       "pct": 1.2
     },
     {
@@ -407,7 +407,7 @@
     },
     {
       "name": "FC",
-      "count": 1216,
+      "count": 1215,
       "pct": 23.5,
       "label": "Class C Felony"
     },
@@ -419,7 +419,7 @@
     },
     {
       "name": "M",
-      "count": 459,
+      "count": 460,
       "pct": 8.9,
       "label": "Misdemeanor"
     },
@@ -559,8 +559,8 @@
         "count": 48
       }
     ],
-    "currentMedianDaysHeld": 51.7,
-    "currentLongestDaysHeld": 1059.7
+    "currentMedianDaysHeld": 51.8,
+    "currentLongestDaysHeld": 1059.8
   },
   "bond": {
     "withBond": 335,
