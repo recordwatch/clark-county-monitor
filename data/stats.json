@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T08:55:22",
+  "generatedAt": "2026-11-09T09:55:19",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1063,
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-09",
-      "booked": 5,
+      "booked": 6,
       "released": 1
     }
   ],
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 742,
-      "pct": 16.9,
+      "count": 743,
+      "pct": 17,
       "label": "District Court (DARR)"
     },
     {
@@ -339,8 +339,8 @@
     },
     {
       "name": "S3",
-      "count": 546,
-      "pct": 12.5,
+      "count": 608,
+      "pct": 13.9,
       "label": "Superior Court (S3)"
     },
     {
@@ -374,12 +374,6 @@
       "label": "District Court (D3)"
     },
     {
-      "name": "SARR",
-      "count": 118,
-      "pct": 2.7,
-      "label": "Superior Court (SARR)"
-    },
-    {
       "name": "D2",
       "count": 109,
       "pct": 2.5,
@@ -396,12 +390,18 @@
       "count": 88,
       "pct": 2,
       "label": "District Court (D5)"
+    },
+    {
+      "name": "D6",
+      "count": 74,
+      "pct": 1.7,
+      "label": "District Court (D6)"
     }
   ],
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2244,
+      "count": 2245,
       "pct": 43.2,
       "label": "Gross Misdemeanor"
     },
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2730,
+      "count": 2731,
       "pct": 52.4
     },
     {
@@ -567,7 +567,7 @@
     "noBond": 135,
     "medianBond": 27500,
     "maxBond": 10005000,
-    "totalBond": 58378275
+    "totalBond": 58400775
   },
   "chargesPerBooking": 4.9
 }
