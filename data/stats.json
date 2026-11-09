@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-09T00:55:18",
+  "generatedAt": "2026-11-09T01:55:17",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1060,
-    "bookingsObserved": 591,
+    "bookingsTracked": 1061,
+    "bookingsObserved": 592,
     "releasesObserved": 588,
-    "inCustody": 472,
-    "uniquePeople": 1040
+    "inCustody": 473,
+    "uniquePeople": 1041
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-09",
-      "booked": 1,
+      "booked": 4,
       "released": 0
     }
   ],
@@ -189,7 +189,7 @@
     {
       "name": "PROTECTION ORDER VIO RESIDENCE,WORKPLACE, DAYCARE",
       "count": 138,
-      "pct": 2.7
+      "pct": 2.6
     },
     {
       "name": "HARASSMENT PREV CONV OR THREAT TO KILL",
@@ -198,8 +198,8 @@
     },
     {
       "name": "ASSAULT-4",
-      "count": 111,
-      "pct": 2.1
+      "count": 113,
+      "pct": 2.2
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOWINGLY POSSESS",
@@ -253,7 +253,7 @@
     },
     {
       "name": "POSSESS DEPICTIONS OF A MINOR 1 ENGAGED IN SEXUALLY EXPLICIT CONDUCT",
-      "count": 62,
+      "count": 63,
       "pct": 1.2
     },
     {
@@ -266,19 +266,19 @@
     {
       "name": "SO6",
       "count": 603,
-      "pct": 57.3,
+      "pct": 57.2,
       "label": "SO6"
     },
     {
       "name": "VPD",
       "count": 247,
-      "pct": 23.5,
+      "pct": 23.4,
       "label": "Vancouver Police"
     },
     {
       "name": "CLS",
-      "count": 100,
-      "pct": 9.5,
+      "count": 101,
+      "pct": 9.6,
       "label": "CLS"
     },
     {
@@ -327,14 +327,14 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 737,
+      "count": 739,
       "pct": 16.9,
       "label": "District Court (DARR)"
     },
     {
       "name": "S9",
       "count": 623,
-      "pct": 14.3,
+      "pct": 14.2,
       "label": "Superior Court (S9)"
     },
     {
@@ -358,7 +358,7 @@
     {
       "name": "S12",
       "count": 435,
-      "pct": 10,
+      "pct": 9.9,
       "label": "Superior Court (S12)"
     },
     {
@@ -375,8 +375,8 @@
     },
     {
       "name": "SARR",
-      "count": 123,
-      "pct": 2.8,
+      "count": 125,
+      "pct": 2.9,
       "label": "Superior Court (SARR)"
     },
     {
@@ -401,8 +401,8 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2238,
-      "pct": 43.1,
+      "count": 2240,
+      "pct": 43.2,
       "label": "Gross Misdemeanor"
     },
     {
@@ -413,7 +413,7 @@
     },
     {
       "name": "FB",
-      "count": 830,
+      "count": 832,
       "pct": 16,
       "label": "Class B Felony"
     },
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 25,
-      "pct": 5.5
+      "count": 26,
+      "pct": 5.7
     },
     {
       "name": "C",
@@ -472,17 +472,17 @@
     {
       "name": "E",
       "count": 100,
-      "pct": 22.1
+      "pct": 22
     },
     {
       "name": "F",
       "count": 104,
-      "pct": 23
+      "pct": 22.9
     },
     {
       "name": "G",
       "count": 104,
-      "pct": 23
+      "pct": 22.9
     },
     {
       "name": "H",
@@ -515,17 +515,17 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2720,
+      "count": 2722,
       "pct": 52.3
     },
     {
       "name": "COMBINED",
-      "count": 1557,
+      "count": 1558,
       "pct": 30
     },
     {
       "name": "BAIL BOND",
-      "count": 920,
+      "count": 921,
       "pct": 17.7
     }
   ],
@@ -559,15 +559,15 @@
         "count": 48
       }
     ],
-    "currentMedianDaysHeld": 51,
-    "currentLongestDaysHeld": 1060
+    "currentMedianDaysHeld": 49.6,
+    "currentLongestDaysHeld": 1060.1
   },
   "bond": {
-    "withBond": 338,
+    "withBond": 339,
     "noBond": 134,
     "medianBond": 27500,
     "maxBond": 10005000,
-    "totalBond": 58385775
+    "totalBond": 58388275
   },
   "chargesPerBooking": 4.9
 }
