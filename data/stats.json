@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-08T20:55:17",
+  "generatedAt": "2026-11-08T21:55:29",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1054,
-    "bookingsObserved": 585,
+    "bookingsTracked": 1055,
+    "bookingsObserved": 586,
     "releasesObserved": 587,
-    "inCustody": 467,
-    "uniquePeople": 1034
+    "inCustody": 468,
+    "uniquePeople": 1035
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-08",
-      "booked": 14,
+      "booked": 15,
       "released": 5
     }
   ],
@@ -233,7 +233,7 @@
     },
     {
       "name": "FUGITIVE",
-      "count": 71,
+      "count": 72,
       "pct": 1.4
     },
     {
@@ -266,7 +266,7 @@
     {
       "name": "SO6",
       "count": 603,
-      "pct": 57.6,
+      "pct": 57.5,
       "label": "SO6"
     },
     {
@@ -278,7 +278,7 @@
     {
       "name": "CLS",
       "count": 100,
-      "pct": 9.6,
+      "pct": 9.5,
       "label": "CLS"
     },
     {
@@ -375,8 +375,8 @@
     },
     {
       "name": "SARR",
-      "count": 112,
-      "pct": 2.6,
+      "count": 116,
+      "pct": 2.7,
       "label": "Superior Court (SARR)"
     },
     {
@@ -413,7 +413,7 @@
     },
     {
       "name": "FB",
-      "count": 826,
+      "count": 829,
       "pct": 16,
       "label": "Class B Felony"
     },
@@ -431,7 +431,7 @@
     },
     {
       "name": "H",
-      "count": 71,
+      "count": 72,
       "pct": 1.4,
       "label": "H"
     },
@@ -452,12 +452,12 @@
     {
       "name": "A",
       "count": 11,
-      "pct": 2.5
+      "pct": 2.4
     },
     {
       "name": "B",
-      "count": 20,
-      "pct": 4.5
+      "count": 21,
+      "pct": 4.7
     },
     {
       "name": "C",
@@ -476,13 +476,13 @@
     },
     {
       "name": "F",
-      "count": 103,
-      "pct": 23
+      "count": 104,
+      "pct": 23.2
     },
     {
       "name": "G",
-      "count": 105,
-      "pct": 23.4
+      "count": 104,
+      "pct": 23.2
     },
     {
       "name": "H",
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2710,
+      "count": 2714,
       "pct": 52.3
     },
     {
@@ -526,7 +526,7 @@
     {
       "name": "BAIL BOND",
       "count": 915,
-      "pct": 17.7
+      "pct": 17.6
     }
   ],
   "stay": {
@@ -564,7 +564,7 @@
   },
   "bond": {
     "withBond": 336,
-    "noBond": 131,
+    "noBond": 132,
     "medianBond": 27750,
     "maxBond": 10005000,
     "totalBond": 58369675
