@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-09T06:55:17",
+  "generatedAt": "2026-11-09T07:55:19",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1061,
-    "bookingsObserved": 592,
+    "bookingsTracked": 1062,
+    "bookingsObserved": 593,
     "releasesObserved": 588,
-    "inCustody": 473,
-    "uniquePeople": 1041
+    "inCustody": 474,
+    "uniquePeople": 1042
   },
   "bookingsByDay": [
     {
@@ -168,8 +168,8 @@
     },
     {
       "name": "ASSAULT-4 - DV",
-      "count": 272,
-      "pct": 5.2
+      "count": 274,
+      "pct": 5.3
     },
     {
       "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
@@ -193,12 +193,12 @@
     },
     {
       "name": "HARASSMENT PREV CONV OR THREAT TO KILL",
-      "count": 132,
-      "pct": 2.5
+      "count": 133,
+      "pct": 2.6
     },
     {
       "name": "ASSAULT-4",
-      "count": 113,
+      "count": 114,
       "pct": 2.2
     },
     {
@@ -266,13 +266,13 @@
     {
       "name": "SO6",
       "count": 603,
-      "pct": 57.2,
+      "pct": 57.1,
       "label": "SO6"
     },
     {
       "name": "VPD",
-      "count": 248,
-      "pct": 23.5,
+      "count": 249,
+      "pct": 23.6,
       "label": "Vancouver Police"
     },
     {
@@ -327,26 +327,26 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 741,
+      "count": 742,
       "pct": 16.9,
       "label": "District Court (DARR)"
     },
     {
       "name": "S9",
-      "count": 623,
+      "count": 624,
       "pct": 14.2,
       "label": "Superior Court (S9)"
     },
     {
       "name": "S10",
-      "count": 541,
-      "pct": 12.4,
+      "count": 540,
+      "pct": 12.3,
       "label": "Superior Court (S10)"
     },
     {
       "name": "S3",
-      "count": 535,
-      "pct": 12.2,
+      "count": 539,
+      "pct": 12.3,
       "label": "Superior Court (S3)"
     },
     {
@@ -369,14 +369,14 @@
     },
     {
       "name": "D3",
-      "count": 132,
-      "pct": 3,
+      "count": 134,
+      "pct": 3.1,
       "label": "District Court (D3)"
     },
     {
       "name": "SARR",
-      "count": 125,
-      "pct": 2.9,
+      "count": 121,
+      "pct": 2.8,
       "label": "Superior Court (SARR)"
     },
     {
@@ -393,7 +393,7 @@
     },
     {
       "name": "D5",
-      "count": 87,
+      "count": 88,
       "pct": 2,
       "label": "District Court (D5)"
     }
@@ -401,13 +401,13 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2240,
+      "count": 2243,
       "pct": 43.2,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
-      "count": 1219,
+      "count": 1220,
       "pct": 23.5,
       "label": "Class C Felony"
     },
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 25,
-      "pct": 5.5
+      "count": 26,
+      "pct": 5.7
     },
     {
       "name": "C",
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2724,
+      "count": 2729,
       "pct": 52.4
     },
     {
@@ -525,7 +525,7 @@
     },
     {
       "name": "BAIL BOND",
-      "count": 921,
+      "count": 920,
       "pct": 17.7
     }
   ],
@@ -564,10 +564,10 @@
   },
   "bond": {
     "withBond": 339,
-    "noBond": 134,
+    "noBond": 135,
     "medianBond": 27500,
     "maxBond": 10005000,
-    "totalBond": 58388275
+    "totalBond": 58378275
   },
   "chargesPerBooking": 4.9
 }
