@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-09T12:55:18",
+  "generatedAt": "2026-11-09T13:55:19",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1066,
-    "bookingsObserved": 597,
+    "bookingsTracked": 1067,
+    "bookingsObserved": 598,
     "releasesObserved": 593,
-    "inCustody": 473,
-    "uniquePeople": 1046
+    "inCustody": 474,
+    "uniquePeople": 1047
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-09",
-      "booked": 9,
+      "booked": 10,
       "released": 5
     }
   ],
@@ -173,7 +173,7 @@
     },
     {
       "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
-      "count": 188,
+      "count": 189,
       "pct": 3.6
     },
     {
@@ -198,7 +198,7 @@
     },
     {
       "name": "ASSAULT-4",
-      "count": 114,
+      "count": 116,
       "pct": 2.2
     },
     {
@@ -266,7 +266,7 @@
     {
       "name": "SO6",
       "count": 604,
-      "pct": 57,
+      "pct": 56.9,
       "label": "SO6"
     },
     {
@@ -294,16 +294,16 @@
       "label": "WGP"
     },
     {
+      "name": "VCA",
+      "count": 9,
+      "pct": 0.8,
+      "label": "VCA"
+    },
+    {
       "name": "BGP",
       "count": 8,
       "pct": 0.8,
       "label": "BGP"
-    },
-    {
-      "name": "VCA",
-      "count": 8,
-      "pct": 0.8,
-      "label": "VCA"
     },
     {
       "name": "RPD",
@@ -327,14 +327,14 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 752,
+      "count": 754,
       "pct": 17.1,
       "label": "District Court (DARR)"
     },
     {
       "name": "S3",
-      "count": 657,
-      "pct": 14.9,
+      "count": 672,
+      "pct": 15.2,
       "label": "Superior Court (S3)"
     },
     {
@@ -357,8 +357,8 @@
     },
     {
       "name": "S12",
-      "count": 435,
-      "pct": 9.9,
+      "count": 432,
+      "pct": 9.8,
       "label": "Superior Court (S12)"
     },
     {
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2262,
+      "count": 2265,
       "pct": 43.3,
       "label": "Gross Misdemeanor"
     },
@@ -419,7 +419,7 @@
     },
     {
       "name": "M",
-      "count": 464,
+      "count": 467,
       "pct": 8.9,
       "label": "Misdemeanor"
     },
@@ -451,13 +451,13 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 10,
-      "pct": 2.2
+      "count": 9,
+      "pct": 2
     },
     {
       "name": "B",
-      "count": 29,
-      "pct": 6.4
+      "count": 28,
+      "pct": 6.1
     },
     {
       "name": "C",
@@ -471,18 +471,18 @@
     },
     {
       "name": "E",
-      "count": 100,
-      "pct": 22
+      "count": 102,
+      "pct": 22.4
     },
     {
       "name": "F",
-      "count": 105,
-      "pct": 23.1
+      "count": 106,
+      "pct": 23.2
     },
     {
       "name": "G",
-      "count": 102,
-      "pct": 22.5
+      "count": 103,
+      "pct": 22.6
     },
     {
       "name": "H",
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2753,
+      "count": 2759,
       "pct": 52.6
     },
     {
@@ -559,15 +559,15 @@
         "count": 49
       }
     ],
-    "currentMedianDaysHeld": 49.5,
-    "currentLongestDaysHeld": 1060.5
+    "currentMedianDaysHeld": 49.6,
+    "currentLongestDaysHeld": 1060.6
   },
   "bond": {
     "withBond": 336,
-    "noBond": 137,
+    "noBond": 138,
     "medianBond": 27750,
     "maxBond": 10005000,
-    "totalBond": 58123025
+    "totalBond": 58118525
   },
   "chargesPerBooking": 4.9
 }
