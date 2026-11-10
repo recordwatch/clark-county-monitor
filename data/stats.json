@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T02:55:18",
+  "generatedAt": "2026-11-10T03:30:13",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1081,
@@ -332,16 +332,16 @@
       "label": "District Court (DARR)"
     },
     {
+      "name": "S3",
+      "count": 645,
+      "pct": 14.5,
+      "label": "Superior Court (S3)"
+    },
+    {
       "name": "S9",
       "count": 637,
       "pct": 14.3,
       "label": "Superior Court (S9)"
-    },
-    {
-      "name": "S3",
-      "count": 635,
-      "pct": 14.2,
-      "label": "Superior Court (S3)"
     },
     {
       "name": "S10",
@@ -559,7 +559,7 @@
         "count": 50
       }
     ],
-    "currentMedianDaysHeld": 53.6,
+    "currentMedianDaysHeld": 52.6,
     "currentLongestDaysHeld": 1061.1
   },
   "bond": {
