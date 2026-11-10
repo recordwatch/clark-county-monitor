@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-10T03:55:21",
+  "generatedAt": "2026-11-10T04:55:20",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1081,
-    "bookingsObserved": 612,
+    "bookingsTracked": 1082,
+    "bookingsObserved": 613,
     "releasesObserved": 619,
-    "inCustody": 462,
-    "uniquePeople": 1061
+    "inCustody": 463,
+    "uniquePeople": 1062
   },
   "bookingsByDay": [
     {
@@ -408,7 +408,7 @@
     {
       "name": "FC",
       "count": 1232,
-      "pct": 23.3,
+      "pct": 23.2,
       "label": "Class C Felony"
     },
     {
@@ -419,7 +419,7 @@
     },
     {
       "name": "M",
-      "count": 480,
+      "count": 481,
       "pct": 9.1,
       "label": "Misdemeanor"
     },
@@ -456,28 +456,28 @@
     },
     {
       "name": "B",
-      "count": 19,
-      "pct": 4.3
+      "count": 20,
+      "pct": 4.5
     },
     {
       "name": "C",
       "count": 38,
-      "pct": 8.6
+      "pct": 8.5
     },
     {
       "name": "D",
       "count": 34,
-      "pct": 7.7
+      "pct": 7.6
     },
     {
       "name": "E",
       "count": 98,
-      "pct": 22.1
+      "pct": 22
     },
     {
       "name": "F",
       "count": 106,
-      "pct": 23.9
+      "pct": 23.8
     },
     {
       "name": "G",
@@ -492,7 +492,7 @@
     {
       "name": "JDH",
       "count": 2,
-      "pct": 0.5
+      "pct": 0.4
     },
     {
       "name": "M",
@@ -564,7 +564,7 @@
   },
   "bond": {
     "withBond": 331,
-    "noBond": 131,
+    "noBond": 132,
     "medianBond": 30000,
     "maxBond": 10005000,
     "totalBond": 59129175
