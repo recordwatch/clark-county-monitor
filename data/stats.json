@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T16:55:18",
+  "generatedAt": "2026-11-09T17:55:19",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1073,
@@ -327,14 +327,14 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 761,
-      "pct": 17.2,
+      "count": 757,
+      "pct": 17.1,
       "label": "District Court (DARR)"
     },
     {
       "name": "S3",
-      "count": 673,
-      "pct": 15.2,
+      "count": 675,
+      "pct": 15.3,
       "label": "Superior Court (S3)"
     },
     {
@@ -387,7 +387,7 @@
     },
     {
       "name": "D5",
-      "count": 88,
+      "count": 89,
       "pct": 2,
       "label": "District Court (D5)"
     },
@@ -402,19 +402,19 @@
     {
       "name": "GM",
       "count": 2272,
-      "pct": 43.3,
+      "pct": 43.2,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
       "count": 1232,
-      "pct": 23.5,
+      "pct": 23.4,
       "label": "Class C Felony"
     },
     {
       "name": "FB",
-      "count": 837,
-      "pct": 15.9,
+      "count": 839,
+      "pct": 16,
       "label": "Class B Felony"
     },
     {
@@ -426,7 +426,7 @@
     {
       "name": "FA",
       "count": 323,
-      "pct": 6.2,
+      "pct": 6.1,
       "label": "Class A Felony"
     },
     {
@@ -471,8 +471,8 @@
     },
     {
       "name": "E",
-      "count": 102,
-      "pct": 22.1
+      "count": 103,
+      "pct": 22.3
     },
     {
       "name": "F",
@@ -481,8 +481,8 @@
     },
     {
       "name": "G",
-      "count": 103,
-      "pct": 22.3
+      "count": 102,
+      "pct": 22.1
     },
     {
       "name": "H",
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2781,
+      "count": 2783,
       "pct": 52.8
     },
     {
