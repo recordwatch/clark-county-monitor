@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T05:55:22",
+  "generatedAt": "2026-11-10T06:55:18",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1082,
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2305,
+      "count": 2306,
       "pct": 43.5,
       "label": "Gross Misdemeanor"
     },
@@ -559,8 +559,8 @@
         "count": 50
       }
     ],
-    "currentMedianDaysHeld": 52.2,
-    "currentLongestDaysHeld": 1061.2
+    "currentMedianDaysHeld": 52.3,
+    "currentLongestDaysHeld": 1061.3
   },
   "bond": {
     "withBond": 331,
