@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T06:55:18",
+  "generatedAt": "2026-11-11T07:55:17",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1106,
@@ -266,7 +266,7 @@
     {
       "name": "SO6",
       "count": 626,
-      "pct": 57,
+      "pct": 56.9,
       "label": "SO6"
     },
     {
@@ -278,7 +278,7 @@
     {
       "name": "CLS",
       "count": 105,
-      "pct": 9.6,
+      "pct": 9.5,
       "label": "CLS"
     },
     {
@@ -319,15 +319,15 @@
     },
     {
       "name": "CMP",
-      "count": 6,
-      "pct": 0.5,
+      "count": 7,
+      "pct": 0.6,
       "label": "CMP"
     }
   ],
   "courts": [
     {
       "name": "DARR",
-      "count": 747,
+      "count": 748,
       "pct": 16.5,
       "label": "District Court (DARR)"
     },
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2808,
+      "count": 2809,
       "pct": 52.1
     },
     {
