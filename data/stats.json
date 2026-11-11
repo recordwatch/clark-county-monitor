@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T16:08:48",
+  "generatedAt": "2026-11-10T16:55:17",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1095,
@@ -198,7 +198,7 @@
     },
     {
       "name": "ASSAULT-4",
-      "count": 122,
+      "count": 123,
       "pct": 2.3
     },
     {
@@ -257,7 +257,7 @@
       "pct": 1.2
     },
     {
-      "name": "ASSAULT-2",
+      "name": "FIREARM POSSESSION UNLAWFUL-2",
       "count": 58,
       "pct": 1.1
     }
@@ -401,19 +401,19 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2320,
+      "count": 2321,
       "pct": 43.5,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
-      "count": 1245,
+      "count": 1246,
       "pct": 23.4,
       "label": "Class C Felony"
     },
     {
       "name": "FB",
-      "count": 841,
+      "count": 840,
       "pct": 15.8,
       "label": "Class B Felony"
     },
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 20,
-      "pct": 4.4
+      "count": 19,
+      "pct": 4.2
     },
     {
       "name": "C",
@@ -466,8 +466,8 @@
     },
     {
       "name": "D",
-      "count": 34,
-      "pct": 7.5
+      "count": 35,
+      "pct": 7.8
     },
     {
       "name": "E",
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2784,
+      "count": 2785,
       "pct": 52.1
     },
     {
