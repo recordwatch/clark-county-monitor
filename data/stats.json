@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-11T11:55:19",
+  "generatedAt": "2026-11-11T12:58:05",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1112,
-    "bookingsObserved": 643,
+    "bookingsTracked": 1113,
+    "bookingsObserved": 644,
     "releasesObserved": 641,
-    "inCustody": 471,
-    "uniquePeople": 1092
+    "inCustody": 472,
+    "uniquePeople": 1093
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-11",
-      "booked": 11,
+      "booked": 13,
       "released": 5
     }
   ],
@@ -271,7 +271,7 @@
     },
     {
       "name": "VPD",
-      "count": 260,
+      "count": 261,
       "pct": 23.6,
       "label": "Vancouver Police"
     },
@@ -339,19 +339,19 @@
     },
     {
       "name": "S9",
-      "count": 643,
-      "pct": 14.2,
+      "count": 657,
+      "pct": 14.5,
       "label": "Superior Court (S9)"
     },
     {
       "name": "S10",
-      "count": 549,
-      "pct": 12.1,
+      "count": 538,
+      "pct": 11.8,
       "label": "Superior Court (S10)"
     },
     {
       "name": "S8",
-      "count": 465,
+      "count": 462,
       "pct": 10.2,
       "label": "Superior Court (S8)"
     },
@@ -413,7 +413,7 @@
     },
     {
       "name": "FB",
-      "count": 845,
+      "count": 846,
       "pct": 15.7,
       "label": "Class B Felony"
     },
@@ -456,38 +456,38 @@
     },
     {
       "name": "B",
-      "count": 18,
-      "pct": 4
+      "count": 20,
+      "pct": 4.4
     },
     {
       "name": "C",
       "count": 36,
-      "pct": 8
+      "pct": 7.9
     },
     {
       "name": "D",
-      "count": 34,
-      "pct": 7.5
+      "count": 35,
+      "pct": 7.7
     },
     {
       "name": "E",
       "count": 100,
-      "pct": 22.1
+      "pct": 22
     },
     {
       "name": "F",
-      "count": 106,
-      "pct": 23.5
+      "count": 105,
+      "pct": 23.1
     },
     {
       "name": "G",
       "count": 100,
-      "pct": 22.1
+      "pct": 22
     },
     {
       "name": "H",
       "count": 22,
-      "pct": 4.9
+      "pct": 4.8
     },
     {
       "name": "JDH",
@@ -497,7 +497,7 @@
     {
       "name": "M",
       "count": 12,
-      "pct": 2.7
+      "pct": 2.6
     },
     {
       "name": "SKAMANIA",
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2817,
+      "count": 2818,
       "pct": 52.2
     },
     {
@@ -559,12 +559,12 @@
         "count": 51
       }
     ],
-    "currentMedianDaysHeld": 51,
+    "currentMedianDaysHeld": 50.5,
     "currentLongestDaysHeld": 1062.5
   },
   "bond": {
     "withBond": 332,
-    "noBond": 139,
+    "noBond": 140,
     "medianBond": 30000,
     "maxBond": 10005000,
     "totalBond": 58897225
