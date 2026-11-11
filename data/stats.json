@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T15:55:19",
+  "generatedAt": "2026-11-10T16:08:48",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1095,
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 739,
-      "pct": 16.5,
+      "count": 734,
+      "pct": 16.4,
       "label": "District Court (DARR)"
     },
     {
@@ -387,33 +387,33 @@
     },
     {
       "name": "D5",
-      "count": 93,
-      "pct": 2.1,
+      "count": 97,
+      "pct": 2.2,
       "label": "District Court (D5)"
     },
     {
       "name": "D6",
-      "count": 74,
-      "pct": 1.7,
+      "count": 71,
+      "pct": 1.6,
       "label": "District Court (D6)"
     }
   ],
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2319,
+      "count": 2320,
       "pct": 43.5,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
-      "count": 1244,
-      "pct": 23.3,
+      "count": 1245,
+      "pct": 23.4,
       "label": "Class C Felony"
     },
     {
       "name": "FB",
-      "count": 843,
+      "count": 841,
       "pct": 15.8,
       "label": "Class B Felony"
     },
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2782,
+      "count": 2784,
       "pct": 52.1
     },
     {
@@ -525,7 +525,7 @@
     },
     {
       "name": "BAIL BOND",
-      "count": 930,
+      "count": 928,
       "pct": 17.4
     }
   ],
@@ -563,11 +563,11 @@
     "currentLongestDaysHeld": 1061.7
   },
   "bond": {
-    "withBond": 332,
-    "noBond": 137,
+    "withBond": 331,
+    "noBond": 138,
     "medianBond": 30000,
     "maxBond": 10005000,
-    "totalBond": 59253175
+    "totalBond": 59223175
   },
   "chargesPerBooking": 4.9
 }
