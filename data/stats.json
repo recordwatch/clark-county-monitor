@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-11T03:55:17",
+  "generatedAt": "2026-11-11T04:55:16",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1105,
-    "bookingsObserved": 636,
+    "bookingsTracked": 1106,
+    "bookingsObserved": 637,
     "releasesObserved": 637,
-    "inCustody": 468,
-    "uniquePeople": 1085
+    "inCustody": 469,
+    "uniquePeople": 1086
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-11",
-      "booked": 6,
+      "booked": 7,
       "released": 1
     }
   ],
@@ -168,7 +168,7 @@
     },
     {
       "name": "ASSAULT-4 - DV",
-      "count": 281,
+      "count": 282,
       "pct": 5.2
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "CLS",
-      "count": 104,
-      "pct": 9.5,
+      "count": 105,
+      "pct": 9.6,
       "label": "CLS"
     },
     {
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 746,
+      "count": 747,
       "pct": 16.5,
       "label": "District Court (DARR)"
     },
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2350,
+      "count": 2351,
       "pct": 43.7,
       "label": "Gross Misdemeanor"
     },
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 20,
-      "pct": 4.4
+      "count": 21,
+      "pct": 4.7
     },
     {
       "name": "C",
@@ -477,7 +477,7 @@
     {
       "name": "F",
       "count": 107,
-      "pct": 23.8
+      "pct": 23.7
     },
     {
       "name": "G",
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2807,
+      "count": 2808,
       "pct": 52.1
     },
     {
@@ -564,7 +564,7 @@
   },
   "bond": {
     "withBond": 331,
-    "noBond": 137,
+    "noBond": 138,
     "medianBond": 30000,
     "maxBond": 10005000,
     "totalBond": 58880725
