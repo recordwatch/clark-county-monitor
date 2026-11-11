@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-11T14:55:17",
+  "generatedAt": "2026-11-11T15:55:19",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1113,
-    "bookingsObserved": 644,
+    "bookingsTracked": 1114,
+    "bookingsObserved": 645,
     "releasesObserved": 642,
-    "inCustody": 471,
-    "uniquePeople": 1093
+    "inCustody": 472,
+    "uniquePeople": 1094
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-11",
-      "booked": 13,
+      "booked": 14,
       "released": 6
     }
   ],
@@ -265,7 +265,7 @@
   "topAgencies": [
     {
       "name": "SO6",
-      "count": 626,
+      "count": 627,
       "pct": 56.7,
       "label": "SO6"
     },
@@ -327,13 +327,13 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 760,
+      "count": 761,
       "pct": 16.7,
       "label": "District Court (DARR)"
     },
     {
       "name": "S3",
-      "count": 686,
+      "count": 687,
       "pct": 15.1,
       "label": "Superior Court (S3)"
     },
@@ -357,7 +357,7 @@
     },
     {
       "name": "S12",
-      "count": 434,
+      "count": 433,
       "pct": 9.5,
       "label": "Superior Court (S12)"
     },
@@ -401,13 +401,13 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2357,
+      "count": 2358,
       "pct": 43.7,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
-      "count": 1261,
+      "count": 1264,
       "pct": 23.4,
       "label": "Class C Felony"
     },
@@ -462,7 +462,7 @@
     {
       "name": "C",
       "count": 37,
-      "pct": 8.2
+      "pct": 8.1
     },
     {
       "name": "D",
@@ -471,23 +471,23 @@
     },
     {
       "name": "E",
-      "count": 101,
-      "pct": 22.3
+      "count": 102,
+      "pct": 22.5
     },
     {
       "name": "F",
       "count": 106,
-      "pct": 23.4
+      "pct": 23.3
     },
     {
       "name": "G",
       "count": 101,
-      "pct": 22.3
+      "pct": 22.2
     },
     {
       "name": "H",
       "count": 22,
-      "pct": 4.9
+      "pct": 4.8
     },
     {
       "name": "JDH",
@@ -525,8 +525,8 @@
     },
     {
       "name": "BAIL BOND",
-      "count": 946,
-      "pct": 17.5
+      "count": 950,
+      "pct": 17.6
     }
   ],
   "stay": {
@@ -559,15 +559,15 @@
         "count": 51
       }
     ],
-    "currentMedianDaysHeld": 50.6,
-    "currentLongestDaysHeld": 1062.6
+    "currentMedianDaysHeld": 50.7,
+    "currentLongestDaysHeld": 1062.7
   },
   "bond": {
-    "withBond": 332,
+    "withBond": 333,
     "noBond": 139,
     "medianBond": 30000,
     "maxBond": 10005000,
-    "totalBond": 58897225
+    "totalBond": 58928225
   },
   "chargesPerBooking": 4.9
 }
