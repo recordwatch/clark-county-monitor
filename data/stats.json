@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T01:55:17",
+  "generatedAt": "2026-11-11T02:55:17",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1103,
@@ -333,8 +333,8 @@
     },
     {
       "name": "S3",
-      "count": 653,
-      "pct": 14.4,
+      "count": 657,
+      "pct": 14.5,
       "label": "Superior Court (S3)"
     },
     {
@@ -451,8 +451,8 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 11,
-      "pct": 2.5
+      "count": 12,
+      "pct": 2.7
     },
     {
       "name": "B",
@@ -471,8 +471,8 @@
     },
     {
       "name": "E",
-      "count": 100,
-      "pct": 22.3
+      "count": 99,
+      "pct": 22.1
     },
     {
       "name": "F",
