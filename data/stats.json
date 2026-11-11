@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T13:42:38",
+  "generatedAt": "2026-11-11T13:55:18",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1113,
@@ -163,7 +163,7 @@
   "topCharges": [
     {
       "name": "PROTECTION ORDER VIOLATION",
-      "count": 506,
+      "count": 511,
       "pct": 9.4
     },
     {
@@ -179,17 +179,17 @@
     {
       "name": "THEFT-3",
       "count": 165,
-      "pct": 3.1
+      "pct": 3
     },
     {
       "name": "PROTECTION ORDER VIOL PREV CONVICTI",
       "count": 165,
-      "pct": 3.1
+      "pct": 3
     },
     {
       "name": "PROTECTION ORDER VIO RESIDENCE,WORKPLACE, DAYCARE",
       "count": 138,
-      "pct": 2.6
+      "pct": 2.5
     },
     {
       "name": "HARASSMENT PREV CONV OR THREAT TO KILL",
@@ -333,14 +333,14 @@
     },
     {
       "name": "S3",
-      "count": 669,
-      "pct": 14.7,
+      "count": 680,
+      "pct": 15,
       "label": "Superior Court (S3)"
     },
     {
       "name": "S9",
-      "count": 657,
-      "pct": 14.5,
+      "count": 651,
+      "pct": 14.3,
       "label": "Superior Court (S9)"
     },
     {
@@ -407,13 +407,13 @@
     },
     {
       "name": "FC",
-      "count": 1255,
-      "pct": 23.3,
+      "count": 1261,
+      "pct": 23.4,
       "label": "Class C Felony"
     },
     {
       "name": "FB",
-      "count": 846,
+      "count": 845,
       "pct": 15.7,
       "label": "Class B Felony"
     },
@@ -461,8 +461,8 @@
     },
     {
       "name": "C",
-      "count": 36,
-      "pct": 7.9
+      "count": 37,
+      "pct": 8.2
     },
     {
       "name": "D",
@@ -496,8 +496,8 @@
     },
     {
       "name": "M",
-      "count": 12,
-      "pct": 2.6
+      "count": 11,
+      "pct": 2.4
     },
     {
       "name": "SKAMANIA",
@@ -516,7 +516,7 @@
     {
       "name": "NONE",
       "count": 2818,
-      "pct": 52.2
+      "pct": 52.1
     },
     {
       "name": "COMBINED",
@@ -525,8 +525,8 @@
     },
     {
       "name": "BAIL BOND",
-      "count": 941,
-      "pct": 17.4
+      "count": 946,
+      "pct": 17.5
     }
   ],
   "stay": {
