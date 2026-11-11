@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T13:55:18",
+  "generatedAt": "2026-11-11T14:55:17",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1113,
@@ -333,20 +333,20 @@
     },
     {
       "name": "S3",
-      "count": 680,
-      "pct": 15,
+      "count": 686,
+      "pct": 15.1,
       "label": "Superior Court (S3)"
     },
     {
       "name": "S9",
-      "count": 651,
-      "pct": 14.3,
+      "count": 658,
+      "pct": 14.5,
       "label": "Superior Court (S9)"
     },
     {
       "name": "S10",
-      "count": 538,
-      "pct": 11.8,
+      "count": 531,
+      "pct": 11.7,
       "label": "Superior Court (S10)"
     },
     {
@@ -357,8 +357,8 @@
     },
     {
       "name": "S12",
-      "count": 440,
-      "pct": 9.7,
+      "count": 434,
+      "pct": 9.5,
       "label": "Superior Court (S12)"
     },
     {
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 20,
-      "pct": 4.4
+      "count": 19,
+      "pct": 4.2
     },
     {
       "name": "C",
@@ -471,8 +471,8 @@
     },
     {
       "name": "E",
-      "count": 100,
-      "pct": 22.1
+      "count": 101,
+      "pct": 22.3
     },
     {
       "name": "F",
@@ -481,8 +481,8 @@
     },
     {
       "name": "G",
-      "count": 100,
-      "pct": 22.1
+      "count": 101,
+      "pct": 22.3
     },
     {
       "name": "H",
@@ -496,8 +496,8 @@
     },
     {
       "name": "M",
-      "count": 11,
-      "pct": 2.4
+      "count": 10,
+      "pct": 2.2
     },
     {
       "name": "SKAMANIA",
