@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T18:55:17",
+  "generatedAt": "2026-11-10T19:55:18",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1097,
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-10",
-      "booked": 18,
+      "booked": 19,
       "released": 7
     }
   ],
@@ -178,7 +178,7 @@
     },
     {
       "name": "PROTECTION ORDER VIOL PREV CONVICTI",
-      "count": 164,
+      "count": 165,
       "pct": 3.1
     },
     {
@@ -194,7 +194,7 @@
     {
       "name": "HARASSMENT PREV CONV OR THREAT TO KILL",
       "count": 137,
-      "pct": 2.6
+      "pct": 2.5
     },
     {
       "name": "ASSAULT-4",
@@ -327,14 +327,14 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 739,
-      "pct": 16.4,
+      "count": 734,
+      "pct": 16.3,
       "label": "District Court (DARR)"
     },
     {
       "name": "S3",
-      "count": 655,
-      "pct": 14.5,
+      "count": 657,
+      "pct": 14.6,
       "label": "Superior Court (S3)"
     },
     {
@@ -345,8 +345,8 @@
     },
     {
       "name": "S10",
-      "count": 552,
-      "pct": 12.2,
+      "count": 553,
+      "pct": 12.3,
       "label": "Superior Court (S10)"
     },
     {
@@ -393,8 +393,8 @@
     },
     {
       "name": "D6",
-      "count": 72,
-      "pct": 1.6,
+      "count": 77,
+      "pct": 1.7,
       "label": "District Court (D6)"
     }
   ],
@@ -407,13 +407,13 @@
     },
     {
       "name": "FC",
-      "count": 1247,
-      "pct": 23.3,
+      "count": 1251,
+      "pct": 23.4,
       "label": "Class C Felony"
     },
     {
       "name": "FB",
-      "count": 842,
+      "count": 841,
       "pct": 15.7,
       "label": "Class B Felony"
     },
@@ -515,18 +515,18 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2806,
+      "count": 2807,
       "pct": 52.3
     },
     {
       "name": "COMBINED",
-      "count": 1629,
+      "count": 1630,
       "pct": 30.4
     },
     {
       "name": "BAIL BOND",
-      "count": 931,
-      "pct": 17.3
+      "count": 932,
+      "pct": 17.4
     }
   ],
   "stay": {
