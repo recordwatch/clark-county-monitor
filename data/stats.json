@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-10T17:55:17",
+  "generatedAt": "2026-11-10T18:55:17",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1095,
-    "bookingsObserved": 626,
+    "bookingsTracked": 1097,
+    "bookingsObserved": 628,
     "releasesObserved": 626,
-    "inCustody": 469,
-    "uniquePeople": 1075
+    "inCustody": 471,
+    "uniquePeople": 1077
   },
   "bookingsByDay": [
     {
@@ -156,19 +156,19 @@
     },
     {
       "date": "2026-11-10",
-      "booked": 17,
+      "booked": 18,
       "released": 7
     }
   ],
   "topCharges": [
     {
       "name": "PROTECTION ORDER VIOLATION",
-      "count": 496,
-      "pct": 9.3
+      "count": 504,
+      "pct": 9.4
     },
     {
       "name": "ASSAULT-4 - DV",
-      "count": 279,
+      "count": 281,
       "pct": 5.2
     },
     {
@@ -183,7 +183,7 @@
     },
     {
       "name": "THEFT-3",
-      "count": 160,
+      "count": 162,
       "pct": 3
     },
     {
@@ -193,12 +193,12 @@
     },
     {
       "name": "HARASSMENT PREV CONV OR THREAT TO KILL",
-      "count": 136,
-      "pct": 2.5
+      "count": 137,
+      "pct": 2.6
     },
     {
       "name": "ASSAULT-4",
-      "count": 123,
+      "count": 124,
       "pct": 2.3
     },
     {
@@ -208,27 +208,27 @@
     },
     {
       "name": "OBSTRUCT LAW ENFORCEMENT OFC",
-      "count": 91,
+      "count": 92,
       "pct": 1.7
     },
     {
       "name": "UNLAWFUL CAMPING",
-      "count": 91,
+      "count": 92,
       "pct": 1.7
     },
     {
       "name": "ASSAULT-2 -DV",
-      "count": 89,
+      "count": 90,
       "pct": 1.7
     },
     {
       "name": "RESISTING ARREST",
-      "count": 78,
+      "count": 79,
       "pct": 1.5
     },
     {
       "name": "ASSAULT-3",
-      "count": 73,
+      "count": 74,
       "pct": 1.4
     },
     {
@@ -244,12 +244,12 @@
     {
       "name": "THEFT-2",
       "count": 67,
-      "pct": 1.3
+      "pct": 1.2
     },
     {
       "name": "DWS 3 -DRIVE W/LICENSE SUSP OR REVOKED-3 OR REVOKED LIC OR PRIVILEGE",
       "count": 67,
-      "pct": 1.3
+      "pct": 1.2
     },
     {
       "name": "POSSESS DEPICTIONS OF A MINOR 1 ENGAGED IN SEXUALLY EXPLICIT CONDUCT",
@@ -257,7 +257,7 @@
       "pct": 1.2
     },
     {
-      "name": "FIREARM POSSESSION UNLAWFUL-2",
+      "name": "BURGLARY-2",
       "count": 58,
       "pct": 1.1
     }
@@ -265,20 +265,20 @@
   "topAgencies": [
     {
       "name": "SO6",
-      "count": 623,
+      "count": 624,
       "pct": 57.2,
       "label": "SO6"
     },
     {
       "name": "VPD",
-      "count": 252,
-      "pct": 23.1,
+      "count": 254,
+      "pct": 23.3,
       "label": "Vancouver Police"
     },
     {
       "name": "CLS",
       "count": 103,
-      "pct": 9.5,
+      "pct": 9.4,
       "label": "CLS"
     },
     {
@@ -320,45 +320,45 @@
     {
       "name": "CMP",
       "count": 6,
-      "pct": 0.6,
+      "pct": 0.5,
       "label": "CMP"
     }
   ],
   "courts": [
     {
       "name": "DARR",
-      "count": 735,
+      "count": 739,
       "pct": 16.4,
       "label": "District Court (DARR)"
     },
     {
       "name": "S3",
-      "count": 645,
-      "pct": 14.4,
+      "count": 655,
+      "pct": 14.5,
       "label": "Superior Court (S3)"
     },
     {
       "name": "S9",
       "count": 637,
-      "pct": 14.2,
+      "pct": 14.1,
       "label": "Superior Court (S9)"
     },
     {
       "name": "S10",
       "count": 552,
-      "pct": 12.3,
+      "pct": 12.2,
       "label": "Superior Court (S10)"
     },
     {
       "name": "S8",
       "count": 460,
-      "pct": 10.3,
+      "pct": 10.2,
       "label": "Superior Court (S8)"
     },
     {
       "name": "S12",
       "count": 433,
-      "pct": 9.7,
+      "pct": 9.6,
       "label": "Superior Court (S12)"
     },
     {
@@ -401,43 +401,43 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2322,
-      "pct": 43.5,
+      "count": 2337,
+      "pct": 43.6,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
-      "count": 1245,
+      "count": 1247,
       "pct": 23.3,
       "label": "Class C Felony"
     },
     {
       "name": "FB",
-      "count": 840,
-      "pct": 15.8,
+      "count": 842,
+      "pct": 15.7,
       "label": "Class B Felony"
     },
     {
       "name": "M",
-      "count": 483,
+      "count": 485,
       "pct": 9.1,
       "label": "Misdemeanor"
     },
     {
       "name": "FA",
       "count": 323,
-      "pct": 6.1,
+      "pct": 6,
       "label": "Class A Felony"
     },
     {
       "name": "H",
       "count": 72,
-      "pct": 1.4,
+      "pct": 1.3,
       "label": "H"
     },
     {
       "name": "O",
-      "count": 38,
+      "count": 39,
       "pct": 0.7,
       "label": "O"
     },
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 20,
-      "pct": 4.4
+      "count": 22,
+      "pct": 4.9
     },
     {
       "name": "C",
@@ -467,22 +467,22 @@
     {
       "name": "D",
       "count": 35,
-      "pct": 7.8
+      "pct": 7.7
     },
     {
       "name": "E",
       "count": 99,
-      "pct": 22
+      "pct": 21.9
     },
     {
       "name": "F",
       "count": 105,
-      "pct": 23.3
+      "pct": 23.2
     },
     {
       "name": "G",
       "count": 99,
-      "pct": 22
+      "pct": 21.9
     },
     {
       "name": "H",
@@ -502,7 +502,7 @@
     {
       "name": "SKAMANIA",
       "count": 7,
-      "pct": 1.6
+      "pct": 1.5
     }
   ],
   "releaseStatus": [
@@ -515,18 +515,18 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2786,
-      "pct": 52.2
+      "count": 2806,
+      "pct": 52.3
     },
     {
       "name": "COMBINED",
-      "count": 1628,
-      "pct": 30.5
+      "count": 1629,
+      "pct": 30.4
     },
     {
       "name": "BAIL BOND",
-      "count": 928,
-      "pct": 17.4
+      "count": 931,
+      "pct": 17.3
     }
   ],
   "stay": {
@@ -559,15 +559,15 @@
         "count": 50
       }
     ],
-    "currentMedianDaysHeld": 50.7,
-    "currentLongestDaysHeld": 1061.7
+    "currentMedianDaysHeld": 50.8,
+    "currentLongestDaysHeld": 1061.8
   },
   "bond": {
-    "withBond": 331,
+    "withBond": 333,
     "noBond": 138,
     "medianBond": 30000,
     "maxBond": 10005000,
-    "totalBond": 59223175
+    "totalBond": 59228175
   },
   "chargesPerBooking": 4.9
 }
