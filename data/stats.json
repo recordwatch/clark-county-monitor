@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T16:55:17",
+  "generatedAt": "2026-11-10T17:55:17",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1095,
@@ -183,7 +183,7 @@
     },
     {
       "name": "THEFT-3",
-      "count": 159,
+      "count": 160,
       "pct": 3
     },
     {
@@ -193,8 +193,8 @@
     },
     {
       "name": "HARASSMENT PREV CONV OR THREAT TO KILL",
-      "count": 137,
-      "pct": 2.6
+      "count": 136,
+      "pct": 2.5
     },
     {
       "name": "ASSAULT-4",
@@ -203,7 +203,7 @@
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOWINGLY POSSESS",
-      "count": 94,
+      "count": 95,
       "pct": 1.8
     },
     {
@@ -327,14 +327,14 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 734,
+      "count": 735,
       "pct": 16.4,
       "label": "District Court (DARR)"
     },
     {
       "name": "S3",
-      "count": 655,
-      "pct": 14.6,
+      "count": 645,
+      "pct": 14.4,
       "label": "Superior Court (S3)"
     },
     {
@@ -351,8 +351,8 @@
     },
     {
       "name": "S8",
-      "count": 451,
-      "pct": 10.1,
+      "count": 460,
+      "pct": 10.3,
       "label": "Superior Court (S8)"
     },
     {
@@ -393,7 +393,7 @@
     },
     {
       "name": "D6",
-      "count": 71,
+      "count": 72,
       "pct": 1.6,
       "label": "District Court (D6)"
     }
@@ -401,14 +401,14 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2321,
+      "count": 2322,
       "pct": 43.5,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
-      "count": 1246,
-      "pct": 23.4,
+      "count": 1245,
+      "pct": 23.3,
       "label": "Class C Felony"
     },
     {
@@ -456,13 +456,13 @@
     },
     {
       "name": "B",
-      "count": 19,
-      "pct": 4.2
+      "count": 20,
+      "pct": 4.4
     },
     {
       "name": "C",
-      "count": 39,
-      "pct": 8.6
+      "count": 38,
+      "pct": 8.4
     },
     {
       "name": "D",
@@ -515,8 +515,8 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2785,
-      "pct": 52.1
+      "count": 2786,
+      "pct": 52.2
     },
     {
       "name": "COMBINED",
