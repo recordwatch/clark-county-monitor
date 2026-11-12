@@ -1,19 +1,14 @@
 {
-  "generatedAt": "2026-11-11T23:55:18",
+  "generatedAt": "2026-11-12T00:55:18",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1119,
-    "bookingsObserved": 650,
+    "bookingsTracked": 1120,
+    "bookingsObserved": 651,
     "releasesObserved": 645,
-    "inCustody": 474,
-    "uniquePeople": 1099
+    "inCustody": 475,
+    "uniquePeople": 1100
   },
   "bookingsByDay": [
-    {
-      "date": "2026-10-13",
-      "booked": 13,
-      "released": 19
-    },
     {
       "date": "2026-10-14",
       "booked": 27,
@@ -158,13 +153,18 @@
       "date": "2026-11-11",
       "booked": 18,
       "released": 9
+    },
+    {
+      "date": "2026-11-12",
+      "booked": 0,
+      "released": 0
     }
   ],
   "topCharges": [
     {
       "name": "PROTECTION ORDER VIOLATION",
-      "count": 523,
-      "pct": 9.6
+      "count": 534,
+      "pct": 9.8
     },
     {
       "name": "ASSAULT-4 - DV",
@@ -219,12 +219,12 @@
     {
       "name": "ASSAULT-2 -DV",
       "count": 90,
-      "pct": 1.7
+      "pct": 1.6
     },
     {
       "name": "RESISTING ARREST",
       "count": 79,
-      "pct": 1.5
+      "pct": 1.4
     },
     {
       "name": "ASSAULT-3",
@@ -232,12 +232,12 @@
       "pct": 1.4
     },
     {
-      "name": "MALICIOUS MISCHIEF-3 - DV",
-      "count": 72,
+      "name": "FUGITIVE",
+      "count": 73,
       "pct": 1.3
     },
     {
-      "name": "FUGITIVE",
+      "name": "MALICIOUS MISCHIEF-3 - DV",
       "count": 72,
       "pct": 1.3
     },
@@ -327,20 +327,20 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 777,
-      "pct": 17,
+      "count": 788,
+      "pct": 17.2,
       "label": "District Court (DARR)"
     },
     {
       "name": "S3",
-      "count": 689,
+      "count": 693,
       "pct": 15.1,
       "label": "Superior Court (S3)"
     },
     {
       "name": "S9",
       "count": 661,
-      "pct": 14.5,
+      "pct": 14.4,
       "label": "Superior Court (S9)"
     },
     {
@@ -358,7 +358,7 @@
     {
       "name": "S12",
       "count": 432,
-      "pct": 9.5,
+      "pct": 9.4,
       "label": "Superior Court (S12)"
     },
     {
@@ -376,7 +376,7 @@
     {
       "name": "D1",
       "count": 135,
-      "pct": 3,
+      "pct": 2.9,
       "label": "District Court (D1)"
     },
     {
@@ -401,26 +401,26 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2380,
-      "pct": 43.9,
+      "count": 2385,
+      "pct": 43.8,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
-      "count": 1265,
+      "count": 1266,
       "pct": 23.3,
       "label": "Class C Felony"
     },
     {
       "name": "FB",
-      "count": 847,
+      "count": 848,
       "pct": 15.6,
       "label": "Class B Felony"
     },
     {
       "name": "M",
-      "count": 487,
-      "pct": 9,
+      "count": 494,
+      "pct": 9.1,
       "label": "Misdemeanor"
     },
     {
@@ -431,7 +431,7 @@
     },
     {
       "name": "H",
-      "count": 72,
+      "count": 73,
       "pct": 1.3,
       "label": "H"
     },
@@ -443,7 +443,7 @@
     },
     {
       "name": "AD",
-      "count": 10,
+      "count": 9,
       "pct": 0.2,
       "label": "AD"
     }
@@ -452,12 +452,12 @@
     {
       "name": "A",
       "count": 13,
-      "pct": 2.9
+      "pct": 2.8
     },
     {
       "name": "B",
-      "count": 19,
-      "pct": 4.2
+      "count": 20,
+      "pct": 4.4
     },
     {
       "name": "C",
@@ -477,12 +477,12 @@
     {
       "name": "F",
       "count": 107,
-      "pct": 23.5
+      "pct": 23.4
     },
     {
       "name": "G",
       "count": 98,
-      "pct": 21.5
+      "pct": 21.4
     },
     {
       "name": "H",
@@ -520,17 +520,17 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2834,
-      "pct": 52.1
+      "count": 2835,
+      "pct": 52
     },
     {
       "name": "COMBINED",
-      "count": 1649,
-      "pct": 30.3
+      "count": 1660,
+      "pct": 30.5
     },
     {
       "name": "BAIL BOND",
-      "count": 954,
+      "count": 953,
       "pct": 17.5
     }
   ],
@@ -569,10 +569,10 @@
   },
   "bond": {
     "withBond": 334,
-    "noBond": 140,
-    "medianBond": 30000,
+    "noBond": 141,
+    "medianBond": 29250,
     "maxBond": 10005000,
-    "totalBond": 58953725
+    "totalBond": 58913725
   },
   "chargesPerBooking": 4.9
 }
