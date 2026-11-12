@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-12T00:55:18",
+  "generatedAt": "2026-11-12T01:55:17",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1120,
-    "bookingsObserved": 651,
+    "bookingsTracked": 1121,
+    "bookingsObserved": 652,
     "releasesObserved": 645,
-    "inCustody": 475,
+    "inCustody": 476,
     "uniquePeople": 1100
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-12",
-      "booked": 0,
+      "booked": 2,
       "released": 0
     }
   ],
@@ -173,7 +173,7 @@
     },
     {
       "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
-      "count": 198,
+      "count": 199,
       "pct": 3.6
     },
     {
@@ -243,7 +243,7 @@
     },
     {
       "name": "THEFT-2",
-      "count": 67,
+      "count": 68,
       "pct": 1.2
     },
     {
@@ -271,8 +271,8 @@
     },
     {
       "name": "VPD",
-      "count": 264,
-      "pct": 23.7,
+      "count": 265,
+      "pct": 23.8,
       "label": "Vancouver Police"
     },
     {
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 788,
+      "count": 789,
       "pct": 17.2,
       "label": "District Court (DARR)"
     },
@@ -401,13 +401,13 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2385,
+      "count": 2386,
       "pct": 43.8,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
-      "count": 1266,
+      "count": 1268,
       "pct": 23.3,
       "label": "Class C Felony"
     },
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 20,
-      "pct": 4.4
+      "count": 21,
+      "pct": 4.6
     },
     {
       "name": "C",
@@ -467,12 +467,12 @@
     {
       "name": "D",
       "count": 35,
-      "pct": 7.7
+      "pct": 7.6
     },
     {
       "name": "E",
       "count": 104,
-      "pct": 22.8
+      "pct": 22.7
     },
     {
       "name": "F",
@@ -525,12 +525,12 @@
     },
     {
       "name": "COMBINED",
-      "count": 1660,
+      "count": 1661,
       "pct": 30.5
     },
     {
       "name": "BAIL BOND",
-      "count": 953,
+      "count": 955,
       "pct": 17.5
     }
   ],
@@ -564,15 +564,15 @@
         "count": 51
       }
     ],
-    "currentMedianDaysHeld": 51,
-    "currentLongestDaysHeld": 1063
+    "currentMedianDaysHeld": 51.1,
+    "currentLongestDaysHeld": 1063.1
   },
   "bond": {
-    "withBond": 334,
+    "withBond": 335,
     "noBond": 141,
-    "medianBond": 29250,
+    "medianBond": 28500,
     "maxBond": 10005000,
-    "totalBond": 58913725
+    "totalBond": 58916725
   },
   "chargesPerBooking": 4.9
 }
