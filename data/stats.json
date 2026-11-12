@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-12T10:55:18",
+  "generatedAt": "2026-11-12T11:55:19",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1129,
-    "bookingsObserved": 660,
+    "bookingsTracked": 1130,
+    "bookingsObserved": 661,
     "releasesObserved": 655,
-    "inCustody": 474,
-    "uniquePeople": 1107
+    "inCustody": 475,
+    "uniquePeople": 1108
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-12",
-      "booked": 10,
+      "booked": 11,
       "released": 10
     }
   ],
@@ -265,7 +265,7 @@
   "topAgencies": [
     {
       "name": "SO6",
-      "count": 628,
+      "count": 629,
       "pct": 56,
       "label": "SO6"
     },
@@ -407,14 +407,14 @@
     },
     {
       "name": "FC",
-      "count": 1269,
+      "count": 1271,
       "pct": 23.3,
       "label": "Class C Felony"
     },
     {
       "name": "FB",
-      "count": 848,
-      "pct": 15.5,
+      "count": 849,
+      "pct": 15.6,
       "label": "Class B Felony"
     },
     {
@@ -437,7 +437,7 @@
     },
     {
       "name": "O",
-      "count": 39,
+      "count": 40,
       "pct": 0.7,
       "label": "O"
     },
@@ -520,13 +520,13 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2848,
+      "count": 2852,
       "pct": 52.1
     },
     {
       "name": "COMBINED",
       "count": 1660,
-      "pct": 30.4
+      "pct": 30.3
     },
     {
       "name": "BAIL BOND",
@@ -569,7 +569,7 @@
   },
   "bond": {
     "withBond": 330,
-    "noBond": 144,
+    "noBond": 145,
     "medianBond": 29250,
     "maxBond": 10005000,
     "totalBond": 58774225
