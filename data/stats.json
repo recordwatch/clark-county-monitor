@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-12T11:55:19",
+  "generatedAt": "2026-11-12T12:55:19",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1130,
-    "bookingsObserved": 661,
+    "bookingsTracked": 1131,
+    "bookingsObserved": 662,
     "releasesObserved": 655,
-    "inCustody": 475,
+    "inCustody": 476,
     "uniquePeople": 1108
   },
   "bookingsByDay": [
@@ -163,8 +163,8 @@
   "topCharges": [
     {
       "name": "PROTECTION ORDER VIOLATION",
-      "count": 534,
-      "pct": 9.8
+      "count": 523,
+      "pct": 9.6
     },
     {
       "name": "ASSAULT-4 - DV",
@@ -173,7 +173,7 @@
     },
     {
       "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
-      "count": 202,
+      "count": 203,
       "pct": 3.7
     },
     {
@@ -183,8 +183,8 @@
     },
     {
       "name": "PROTECTION ORDER VIOL PREV CONVICTI",
-      "count": 166,
-      "pct": 3
+      "count": 167,
+      "pct": 3.1
     },
     {
       "name": "PROTECTION ORDER VIO RESIDENCE,WORKPLACE, DAYCARE",
@@ -327,26 +327,26 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 792,
-      "pct": 17.2,
+      "count": 782,
+      "pct": 17,
       "label": "District Court (DARR)"
     },
     {
       "name": "S3",
-      "count": 704,
-      "pct": 15.3,
+      "count": 710,
+      "pct": 15.5,
       "label": "Superior Court (S3)"
     },
     {
       "name": "S9",
       "count": 655,
-      "pct": 14.2,
+      "pct": 14.3,
       "label": "Superior Court (S9)"
     },
     {
       "name": "S10",
       "count": 531,
-      "pct": 11.5,
+      "pct": 11.6,
       "label": "Superior Court (S10)"
     },
     {
@@ -401,13 +401,13 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2395,
+      "count": 2392,
       "pct": 43.9,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
-      "count": 1271,
+      "count": 1272,
       "pct": 23.3,
       "label": "Class C Felony"
     },
@@ -419,8 +419,8 @@
     },
     {
       "name": "M",
-      "count": 495,
-      "pct": 9.1,
+      "count": 488,
+      "pct": 9,
       "label": "Misdemeanor"
     },
     {
@@ -452,37 +452,37 @@
     {
       "name": "A",
       "count": 13,
-      "pct": 2.9
+      "pct": 2.8
     },
     {
       "name": "B",
-      "count": 28,
-      "pct": 6.1
+      "count": 30,
+      "pct": 6.6
     },
     {
       "name": "C",
       "count": 35,
-      "pct": 7.7
+      "pct": 7.6
     },
     {
       "name": "D",
       "count": 35,
-      "pct": 7.7
+      "pct": 7.6
     },
     {
       "name": "E",
       "count": 103,
-      "pct": 22.6
+      "pct": 22.5
     },
     {
       "name": "F",
       "count": 107,
-      "pct": 23.5
+      "pct": 23.4
     },
     {
       "name": "G",
       "count": 94,
-      "pct": 20.6
+      "pct": 20.5
     },
     {
       "name": "H",
@@ -521,12 +521,12 @@
     {
       "name": "NONE",
       "count": 2852,
-      "pct": 52.1
+      "pct": 52.2
     },
     {
       "name": "COMBINED",
-      "count": 1660,
-      "pct": 30.3
+      "count": 1650,
+      "pct": 30.2
     },
     {
       "name": "BAIL BOND",
@@ -569,7 +569,7 @@
   },
   "bond": {
     "withBond": 330,
-    "noBond": 145,
+    "noBond": 146,
     "medianBond": 29250,
     "maxBond": 10005000,
     "totalBond": 58774225
