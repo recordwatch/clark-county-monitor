@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-12T09:55:20",
+  "generatedAt": "2026-11-12T10:40:50",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1128,
-    "bookingsObserved": 659,
-    "releasesObserved": 654,
+    "bookingsTracked": 1129,
+    "bookingsObserved": 660,
+    "releasesObserved": 655,
     "inCustody": 474,
-    "uniquePeople": 1106
+    "uniquePeople": 1107
   },
   "bookingsByDay": [
     {
@@ -156,8 +156,8 @@
     },
     {
       "date": "2026-11-12",
-      "booked": 9,
-      "released": 9
+      "booked": 10,
+      "released": 10
     }
   ],
   "topCharges": [
@@ -173,7 +173,7 @@
     },
     {
       "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
-      "count": 201,
+      "count": 202,
       "pct": 3.7
     },
     {
@@ -202,13 +202,13 @@
       "pct": 2.3
     },
     {
-      "name": "CONTROLLED SUBSTANCE KNOWINGLY POSSESS",
+      "name": "OBSTRUCT LAW ENFORCEMENT OFC",
       "count": 95,
       "pct": 1.7
     },
     {
-      "name": "OBSTRUCT LAW ENFORCEMENT OFC",
-      "count": 94,
+      "name": "CONTROLLED SUBSTANCE KNOWINGLY POSSESS",
+      "count": 95,
       "pct": 1.7
     },
     {
@@ -283,8 +283,8 @@
     },
     {
       "name": "WSP",
-      "count": 36,
-      "pct": 3.2,
+      "count": 37,
+      "pct": 3.3,
       "label": "Washington State Patrol"
     },
     {
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 794,
-      "pct": 17.3,
+      "count": 793,
+      "pct": 17.2,
       "label": "District Court (DARR)"
     },
     {
@@ -346,13 +346,13 @@
     {
       "name": "S10",
       "count": 531,
-      "pct": 11.6,
+      "pct": 11.5,
       "label": "Superior Court (S10)"
     },
     {
       "name": "S8",
       "count": 462,
-      "pct": 10.1,
+      "pct": 10,
       "label": "Superior Court (S8)"
     },
     {
@@ -369,8 +369,8 @@
     },
     {
       "name": "D3",
-      "count": 148,
-      "pct": 3.2,
+      "count": 150,
+      "pct": 3.3,
       "label": "District Court (D3)"
     },
     {
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2392,
+      "count": 2395,
       "pct": 43.9,
       "label": "Gross Misdemeanor"
     },
@@ -414,7 +414,7 @@
     {
       "name": "FB",
       "count": 848,
-      "pct": 15.6,
+      "pct": 15.5,
       "label": "Class B Felony"
     },
     {
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 27,
-      "pct": 5.9
+      "count": 28,
+      "pct": 6.1
     },
     {
       "name": "C",
@@ -481,8 +481,8 @@
     },
     {
       "name": "G",
-      "count": 95,
-      "pct": 20.8
+      "count": 94,
+      "pct": 20.6
     },
     {
       "name": "H",
@@ -513,14 +513,14 @@
   "releaseStatus": [
     {
       "name": "RELEASED",
-      "count": 651,
+      "count": 652,
       "pct": 100
     }
   ],
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2845,
+      "count": 2848,
       "pct": 52.1
     },
     {
@@ -535,13 +535,13 @@
     }
   ],
   "stay": {
-    "releasedCount": 653,
+    "releasedCount": 654,
     "medianDays": 2.5,
     "meanDays": 28.2,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 122
+        "count": 123
       },
       {
         "label": "1–3 days",
