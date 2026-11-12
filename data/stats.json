@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-12T14:55:20",
+  "generatedAt": "2026-11-12T15:55:17",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1134,
-    "bookingsObserved": 665,
+    "bookingsTracked": 1135,
+    "bookingsObserved": 666,
     "releasesObserved": 655,
-    "inCustody": 479,
-    "uniquePeople": 1110
+    "inCustody": 480,
+    "uniquePeople": 1111
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-12",
-      "booked": 15,
+      "booked": 16,
       "released": 10
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "PROTECTION ORDER VIOLATION",
       "count": 523,
-      "pct": 9.6
+      "pct": 9.5
     },
     {
       "name": "ASSAULT-4 - DV",
@@ -173,7 +173,7 @@
     },
     {
       "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
-      "count": 203,
+      "count": 204,
       "pct": 3.7
     },
     {
@@ -271,8 +271,8 @@
     },
     {
       "name": "VPD",
-      "count": 268,
-      "pct": 23.8,
+      "count": 269,
+      "pct": 23.9,
       "label": "Vancouver Police"
     },
     {
@@ -333,8 +333,8 @@
     },
     {
       "name": "S3",
-      "count": 715,
-      "pct": 15.5,
+      "count": 729,
+      "pct": 15.8,
       "label": "Superior Court (S3)"
     },
     {
@@ -345,14 +345,14 @@
     },
     {
       "name": "S10",
-      "count": 531,
-      "pct": 11.5,
+      "count": 521,
+      "pct": 11.3,
       "label": "Superior Court (S10)"
     },
     {
       "name": "S8",
-      "count": 454,
-      "pct": 9.9,
+      "count": 450,
+      "pct": 9.8,
       "label": "Superior Court (S8)"
     },
     {
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2396,
+      "count": 2397,
       "pct": 43.9,
       "label": "Gross Misdemeanor"
     },
@@ -456,13 +456,13 @@
     },
     {
       "name": "B",
-      "count": 30,
-      "pct": 6.5
+      "count": 31,
+      "pct": 6.7
     },
     {
       "name": "C",
-      "count": 36,
-      "pct": 7.8
+      "count": 35,
+      "pct": 7.6
     },
     {
       "name": "D",
@@ -472,7 +472,7 @@
     {
       "name": "E",
       "count": 105,
-      "pct": 22.8
+      "pct": 22.7
     },
     {
       "name": "F",
@@ -481,13 +481,13 @@
     },
     {
       "name": "G",
-      "count": 97,
-      "pct": 21
+      "count": 98,
+      "pct": 21.2
     },
     {
       "name": "H",
       "count": 21,
-      "pct": 4.6
+      "pct": 4.5
     },
     {
       "name": "JDH",
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2854,
+      "count": 2855,
       "pct": 52.2
     },
     {
@@ -559,12 +559,12 @@
         "count": 52
       }
     ],
-    "currentMedianDaysHeld": 50.6,
-    "currentLongestDaysHeld": 1063.6
+    "currentMedianDaysHeld": 50.7,
+    "currentLongestDaysHeld": 1063.7
   },
   "bond": {
     "withBond": 332,
-    "noBond": 147,
+    "noBond": 148,
     "medianBond": 29250,
     "maxBond": 10005000,
     "totalBond": 58826725
