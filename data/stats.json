@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-11T18:39:57",
+  "generatedAt": "2026-11-11T18:55:18",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1116,
-    "bookingsObserved": 647,
+    "bookingsTracked": 1117,
+    "bookingsObserved": 648,
     "releasesObserved": 642,
-    "inCustody": 474,
-    "uniquePeople": 1096
+    "inCustody": 475,
+    "uniquePeople": 1097
   },
   "bookingsByDay": [
     {
@@ -156,14 +156,14 @@
     },
     {
       "date": "2026-11-11",
-      "booked": 15,
+      "booked": 16,
       "released": 6
     }
   ],
   "topCharges": [
     {
       "name": "PROTECTION ORDER VIOLATION",
-      "count": 521,
+      "count": 523,
       "pct": 9.6
     },
     {
@@ -173,7 +173,7 @@
     },
     {
       "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
-      "count": 197,
+      "count": 198,
       "pct": 3.6
     },
     {
@@ -266,7 +266,7 @@
     {
       "name": "SO6",
       "count": 627,
-      "pct": 56.5,
+      "pct": 56.4,
       "label": "SO6"
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "CLS",
-      "count": 107,
-      "pct": 9.6,
+      "count": 108,
+      "pct": 9.7,
       "label": "CLS"
     },
     {
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 770,
+      "count": 773,
       "pct": 16.9,
       "label": "District Court (DARR)"
     },
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2373,
+      "count": 2376,
       "pct": 43.8,
       "label": "Gross Misdemeanor"
     },
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2830,
+      "count": 2832,
       "pct": 52.1
     },
     {
@@ -525,7 +525,7 @@
     },
     {
       "name": "BAIL BOND",
-      "count": 954,
+      "count": 955,
       "pct": 17.6
     }
   ],
@@ -563,11 +563,11 @@
     "currentLongestDaysHeld": 1062.8
   },
   "bond": {
-    "withBond": 335,
+    "withBond": 336,
     "noBond": 139,
     "medianBond": 30000,
     "maxBond": 10005000,
-    "totalBond": 58975725
+    "totalBond": 58976725
   },
   "chargesPerBooking": 4.9
 }
