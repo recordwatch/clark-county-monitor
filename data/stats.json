@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T05:55:17",
+  "generatedAt": "2026-11-12T06:55:17",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1124,
@@ -271,8 +271,8 @@
     },
     {
       "name": "VPD",
-      "count": 266,
-      "pct": 23.8,
+      "count": 267,
+      "pct": 23.9,
       "label": "Vancouver Police"
     },
     {
@@ -520,8 +520,8 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2838,
-      "pct": 52
+      "count": 2842,
+      "pct": 52.1
     },
     {
       "name": "COMBINED",
@@ -564,8 +564,8 @@
         "count": 51
       }
     ],
-    "currentMedianDaysHeld": 51.2,
-    "currentLongestDaysHeld": 1063.2
+    "currentMedianDaysHeld": 51.3,
+    "currentLongestDaysHeld": 1063.3
   },
   "bond": {
     "withBond": 335,
