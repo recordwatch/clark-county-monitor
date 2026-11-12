@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-12T02:36:05",
+  "generatedAt": "2026-11-12T02:55:19",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1122,
-    "bookingsObserved": 653,
+    "bookingsTracked": 1123,
+    "bookingsObserved": 654,
     "releasesObserved": 645,
-    "inCustody": 477,
+    "inCustody": 478,
     "uniquePeople": 1101
   },
   "bookingsByDay": [
@@ -163,7 +163,7 @@
   "topCharges": [
     {
       "name": "PROTECTION ORDER VIOLATION",
-      "count": 534,
+      "count": 535,
       "pct": 9.8
     },
     {
@@ -271,7 +271,7 @@
     },
     {
       "name": "VPD",
-      "count": 265,
+      "count": 266,
       "pct": 23.8,
       "label": "Vancouver Police"
     },
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 791,
-      "pct": 17.2,
+      "count": 792,
+      "pct": 17.3,
       "label": "District Court (DARR)"
     },
     {
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2387,
+      "count": 2388,
       "pct": 43.8,
       "label": "Gross Misdemeanor"
     },
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 21,
-      "pct": 4.6
+      "count": 22,
+      "pct": 4.8
     },
     {
       "name": "C",
@@ -477,7 +477,7 @@
     {
       "name": "F",
       "count": 107,
-      "pct": 23.4
+      "pct": 23.3
     },
     {
       "name": "G",
@@ -520,7 +520,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2835,
+      "count": 2836,
       "pct": 52
     },
     {
@@ -569,7 +569,7 @@
   },
   "bond": {
     "withBond": 336,
-    "noBond": 141,
+    "noBond": 142,
     "medianBond": 28250,
     "maxBond": 10005000,
     "totalBond": 58919725
