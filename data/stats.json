@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T15:55:19",
+  "generatedAt": "2026-11-11T16:55:19",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1114,
@@ -173,7 +173,7 @@
     },
     {
       "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
-      "count": 196,
+      "count": 197,
       "pct": 3.6
     },
     {
@@ -266,7 +266,7 @@
     {
       "name": "SO6",
       "count": 627,
-      "pct": 56.7,
+      "pct": 56.6,
       "label": "SO6"
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "CLS",
-      "count": 105,
-      "pct": 9.5,
+      "count": 106,
+      "pct": 9.6,
       "label": "CLS"
     },
     {
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2358,
+      "count": 2359,
       "pct": 43.7,
       "label": "Gross Misdemeanor"
     },
@@ -414,7 +414,7 @@
     {
       "name": "FB",
       "count": 845,
-      "pct": 15.7,
+      "pct": 15.6,
       "label": "Class B Felony"
     },
     {
@@ -471,8 +471,8 @@
     },
     {
       "name": "E",
-      "count": 102,
-      "pct": 22.5
+      "count": 103,
+      "pct": 22.7
     },
     {
       "name": "F",
@@ -481,8 +481,8 @@
     },
     {
       "name": "G",
-      "count": 101,
-      "pct": 22.2
+      "count": 100,
+      "pct": 22
     },
     {
       "name": "H",
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2818,
+      "count": 2819,
       "pct": 52.1
     },
     {
