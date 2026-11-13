@@ -293,7 +293,7 @@
     "cfn": "254126",
     "name": "SALYUK, YEVGENIY V",
     "bookedAt": "2026-11-12",
-    "location": "E",
+    "location": "G",
     "scheduledRelease": "2026-11-13",
     "topCharge": "DUI -GM- DRIVING UNDER THE INFLUENCE",
     "charges": [
@@ -336,9 +336,9 @@
         "chargeNumber": "1",
         "class": "FB",
         "agency": "CLS",
-        "court": "SARR",
+        "court": "S3",
         "courtDate": "2026-11-13T13:30:00",
-        "caseNumber": "2019-1-01061-06",
+        "caseNumber": "19-1-01061-06",
         "bailType": "NONE",
         "bailAmount": null,
         "releaseType": null
@@ -349,9 +349,9 @@
         "chargeNumber": "2",
         "class": "FB",
         "agency": "CLS",
-        "court": "SARR",
+        "court": "S3",
         "courtDate": "2026-11-13T13:30:00",
-        "caseNumber": "2019-1-01061-06",
+        "caseNumber": "19-1-01061-06",
         "bailType": "NONE",
         "bailAmount": null,
         "releaseType": null
@@ -359,7 +359,7 @@
     ],
     "bondTotal": null,
     "arrestingAgency": "CLS",
-    "chargesCheckedAt": "2026-11-12T14:55:20",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-11-12T14:55:20",
     "releasedAt": null,
@@ -772,7 +772,7 @@
     ],
     "bondTotal": null,
     "arrestingAgency": "VPD",
-    "chargesCheckedAt": "2026-11-12T14:55:20",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-11-12T08:55:17",
     "releasedAt": null,
@@ -1154,11 +1154,11 @@
     "bondTotal": null,
     "arrestingAgency": "VPD",
     "chargesCheckedAt": "2026-11-12T17:55:16",
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-11T23:55:18",
-    "releasedAt": null,
-    "releaseStatus": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-12T20:13:00",
+    "releaseStatus": "RELEASED",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1849,11 +1849,11 @@
     "bondTotal": null,
     "arrestingAgency": "CLS",
     "chargesCheckedAt": "2026-11-12T16:55:17",
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-11T03:55:17",
-    "releasedAt": null,
-    "releaseStatus": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-12T20:13:00",
+    "releaseStatus": "RELEASED",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1954,11 +1954,11 @@
     "bondTotal": null,
     "arrestingAgency": "VPD",
     "chargesCheckedAt": "2026-11-12T15:55:17",
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-11T01:55:17",
-    "releasedAt": null,
-    "releaseStatus": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-12T19:54:00",
+    "releaseStatus": "RELEASED",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1987,11 +1987,11 @@
     "bondTotal": null,
     "arrestingAgency": "VPD",
     "chargesCheckedAt": "2026-11-12T14:55:20",
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-11T00:55:15",
-    "releasedAt": null,
-    "releaseStatus": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-12T19:54:00",
+    "releaseStatus": "RELEASED",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -2053,11 +2053,11 @@
     "bondTotal": null,
     "arrestingAgency": "CLS",
     "chargesCheckedAt": "2026-11-12T13:55:18",
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-10T23:55:17",
-    "releasedAt": null,
-    "releaseStatus": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-12T20:32:00",
+    "releaseStatus": "RELEASED",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -2269,11 +2269,11 @@
     "bondTotal": 2500,
     "arrestingAgency": "VPD",
     "chargesCheckedAt": "2026-11-12T14:55:20",
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-10T18:55:17",
-    "releasedAt": null,
-    "releaseStatus": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-12T20:40:00",
+    "releaseStatus": "RELEASED",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -2366,7 +2366,7 @@
     ],
     "bondTotal": null,
     "arrestingAgency": "VPD",
-    "chargesCheckedAt": "2026-11-12T14:55:20",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-11-10T18:55:17",
     "releasedAt": null,
@@ -2867,17 +2867,30 @@
         "chargeNumber": "1",
         "class": "M",
         "agency": "CLS",
-        "court": "DARR",
-        "courtDate": "2026-11-12T12:30:00",
+        "court": "D6",
+        "courtDate": "2026-12-16T08:30:00",
         "caseNumber": "T00500006",
         "bailType": "NONE",
         "bailAmount": null,
-        "releaseType": null
+        "releaseType": "PTR"
+      },
+      {
+        "description": "HARASSMENT - DV",
+        "rcw": "9A.46.020(2)(A)",
+        "chargeNumber": "2",
+        "class": "GM",
+        "agency": "CLS",
+        "court": "D6",
+        "courtDate": "2026-12-16T08:30:00",
+        "caseNumber": "T00500006",
+        "bailType": "NONE",
+        "bailAmount": null,
+        "releaseType": "PTR"
       }
     ],
     "bondTotal": null,
     "arrestingAgency": "CLS",
-    "chargesCheckedAt": "2026-11-12T13:55:18",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-11-10T11:55:19",
     "releasedAt": null,
@@ -2950,11 +2963,11 @@
     "bondTotal": 10000,
     "arrestingAgency": "CLS",
     "chargesCheckedAt": "2026-11-12T13:55:18",
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-10T11:55:19",
-    "releasedAt": null,
-    "releaseStatus": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-12T19:54:00",
+    "releaseStatus": "RELEASED",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -2977,7 +2990,7 @@
         "caseNumber": "5A0228758",
         "bailType": "NONE",
         "bailAmount": null,
-        "releaseType": null
+        "releaseType": "TS"
       },
       {
         "description": "THEFT-3",
@@ -2990,7 +3003,7 @@
         "caseNumber": "5A0627161",
         "bailType": "NONE",
         "bailAmount": null,
-        "releaseType": null
+        "releaseType": "TS"
       },
       {
         "description": "CONTROLLED SUBSTANCE KNOWINGLY POSSESS",
@@ -3003,12 +3016,12 @@
         "caseNumber": "5A0627161",
         "bailType": "NONE",
         "bailAmount": null,
-        "releaseType": null
+        "releaseType": "TS"
       }
     ],
     "bondTotal": null,
     "arrestingAgency": "VPD",
-    "chargesCheckedAt": "2026-11-12T13:55:18",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-11-10T11:55:19",
     "releasedAt": null,
@@ -3075,11 +3088,11 @@
     "bondTotal": null,
     "arrestingAgency": "CLS",
     "chargesCheckedAt": "2026-11-12T17:55:16",
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-10T09:55:18",
-    "releasedAt": null,
-    "releaseStatus": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-12T20:13:00",
+    "releaseStatus": "RELEASED",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -5075,7 +5088,7 @@
     ],
     "bondTotal": 25000,
     "arrestingAgency": "SO6",
-    "chargesCheckedAt": "2026-11-12T14:55:20",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-11-08T04:55:16",
     "releasedAt": null,
@@ -5344,7 +5357,7 @@
     "cfn": "155459",
     "name": "SMALLS, ANTHONY LAVERNE",
     "bookedAt": "2026-11-08",
-    "location": "B",
+    "location": "G",
     "scheduledRelease": null,
     "topCharge": "BURGLARY-1",
     "charges": [
@@ -5606,7 +5619,7 @@
     ],
     "bondTotal": 1000,
     "arrestingAgency": "VPD",
-    "chargesCheckedAt": "2026-11-12T13:55:18",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-11-07T14:55:17",
     "releasedAt": null,
@@ -5974,7 +5987,7 @@
     ],
     "bondTotal": 15000,
     "arrestingAgency": "SO6",
-    "chargesCheckedAt": "2026-11-12T13:55:18",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-11-07T07:55:18",
     "releasedAt": null,
@@ -6125,7 +6138,7 @@
     ],
     "bondTotal": 20000,
     "arrestingAgency": "SO6",
-    "chargesCheckedAt": "2026-11-12T14:55:20",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-11-07T04:55:17",
     "releasedAt": null,
@@ -6299,17 +6312,17 @@
         "chargeNumber": "3",
         "class": "GM",
         "agency": "VPD",
-        "court": "DARR",
-        "courtDate": "2026-11-12T12:30:00",
+        "court": "D6",
+        "courtDate": "2026-12-16T08:30:00",
         "caseNumber": "T00341627",
         "bailType": "NONE",
         "bailAmount": null,
-        "releaseType": "IO"
+        "releaseType": "PTR"
       }
     ],
     "bondTotal": 25000,
     "arrestingAgency": "SO6",
-    "chargesCheckedAt": "2026-11-12T13:55:18",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-11-07T01:55:17",
     "releasedAt": null,
@@ -7009,7 +7022,7 @@
     ],
     "bondTotal": null,
     "arrestingAgency": "SO6",
-    "chargesCheckedAt": "2026-11-12T13:55:18",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-11-06T18:55:18",
     "releasedAt": null,
@@ -7070,7 +7083,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "BAIL BOND",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "THEFT-2",
@@ -7083,7 +7096,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "THEFT-2",
@@ -7096,7 +7109,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "POSSESS STOLEN PROPERTY-2",
@@ -7109,7 +7122,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "VEHICLE PROWLING-2",
@@ -7122,7 +7135,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "MALICIOUS MISCHIEF-2",
@@ -7135,7 +7148,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "THEFT-3",
@@ -7161,7 +7174,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "THEFT-2",
@@ -7174,7 +7187,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "THEFT-2",
@@ -7187,7 +7200,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "POSSESS STOLEN PROPERTY-2",
@@ -7200,7 +7213,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "VEHICLE PROWLING-2",
@@ -7213,7 +7226,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "MALICIOUS MISCHIEF-2",
@@ -7226,7 +7239,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "IDENTITY THEFT-2",
@@ -7239,7 +7252,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "THEFT-2",
@@ -7252,7 +7265,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "THEFT-2",
@@ -7265,7 +7278,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "POSSESS STOLEN PROPERTY-2",
@@ -7278,7 +7291,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "VEHICLE PROWLING-2",
@@ -7291,7 +7304,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "MALICIOUS MISCHIEF-2",
@@ -7304,7 +7317,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "IDENTITY THEFT-2",
@@ -7317,7 +7330,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "THEFT-2",
@@ -7330,7 +7343,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "THEFT-2",
@@ -7343,7 +7356,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "POSSESS STOLEN PROPERTY-2",
@@ -7356,7 +7369,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "VEHICLE PROWLING-2",
@@ -7369,7 +7382,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "IDENTITY THEFT-2",
@@ -7382,7 +7395,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "THEFT-1",
@@ -7395,7 +7408,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "THEFT-2",
@@ -7408,7 +7421,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "POSSESS STOLEN PROPERTY-2",
@@ -7421,7 +7434,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "VEHICLE PROWLING-2",
@@ -7434,7 +7447,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "MALICIOUS MISCHIEF-2",
@@ -7447,7 +7460,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "IDENTITY THEFT-2",
@@ -7460,7 +7473,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "THEFT-2",
@@ -7473,7 +7486,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "THEFT-2",
@@ -7486,7 +7499,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "POSSESS STOLEN PROPERTY-2",
@@ -7499,7 +7512,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "VEHICLE PROWLING-2",
@@ -7512,7 +7525,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "MALICIOUS MISCHIEF-2",
@@ -7525,7 +7538,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "IDENTITY THEFT-2",
@@ -7538,7 +7551,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "THEFT-2",
@@ -7551,7 +7564,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "THEFT-2",
@@ -7564,7 +7577,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "POSSESS STOLEN PROPERTY-2",
@@ -7577,7 +7590,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "VEHICLE PROWLING-2",
@@ -7590,7 +7603,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "MALICIOUS MISCHIEF-2",
@@ -7603,7 +7616,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "IDENTITY THEFT-2",
@@ -7616,7 +7629,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "THEFT-2",
@@ -7629,7 +7642,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "THEFT-2",
@@ -7642,7 +7655,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "POSSESS STOLEN PROPERTY-2",
@@ -7655,7 +7668,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "VEHICLE PROWLING-2",
@@ -7668,7 +7681,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "MALICIOUS MISCHIEF-2",
@@ -7681,7 +7694,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "IDENTITY THEFT-2",
@@ -7694,7 +7707,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "THEFT-2",
@@ -7707,7 +7720,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "THEFT-2",
@@ -7720,7 +7733,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "POSSESS STOLEN PROPERTY-2",
@@ -7733,7 +7746,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "MALICIOUS MISCHIEF-2",
@@ -7746,7 +7759,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "IDENTITY THEFT-1",
@@ -7759,7 +7772,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "THEFT-2",
@@ -7772,7 +7785,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "THEFT-2",
@@ -7785,7 +7798,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "POSSESS STOLEN PROPERTY-2",
@@ -7798,7 +7811,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "VEHICLE PROWLING-2",
@@ -7811,7 +7824,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "MALICIOUS MISCHIEF-2",
@@ -7824,7 +7837,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "IDENTITY THEFT-2",
@@ -7837,7 +7850,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "THEFT-2",
@@ -7850,7 +7863,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "THEFT-2",
@@ -7863,7 +7876,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "POSSESS STOLEN PROPERTY-2",
@@ -7876,7 +7889,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "VEHICLE PROWLING-2",
@@ -7889,7 +7902,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "MALICIOUS MISCHIEF-2",
@@ -7902,7 +7915,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "VEHICLE PROWLING-2",
@@ -7915,7 +7928,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "VEHICLE PROWLING-2",
@@ -7928,7 +7941,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "MALICIOUS MISCHIEF-2",
@@ -7941,7 +7954,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "POSSESS STOLEN PROPERTY-2",
@@ -7954,7 +7967,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "POSSESS STOLEN PROPERTY-2",
@@ -7967,7 +7980,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "POSSESS STOLEN PROPERTY-2",
@@ -7980,7 +7993,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "THEFT-2",
@@ -7993,7 +8006,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "THEFT-2",
@@ -8006,7 +8019,7 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
       },
       {
         "description": "POSSESSION OF ANOTHERS IDENTIFICATION",
@@ -8019,12 +8032,25 @@
         "caseNumber": "26-1-02627-06",
         "bailType": "COMBINED",
         "bailAmount": 27500,
-        "releaseType": null
+        "releaseType": "PTR-BB"
+      },
+      {
+        "description": "THEFT-3",
+        "rcw": "9A.56.050(2)",
+        "chargeNumber": "78",
+        "class": "GM",
+        "agency": "WGP",
+        "court": "WVARR",
+        "courtDate": "2026-11-12T14:00:00",
+        "caseNumber": "4A0259286",
+        "bailType": "NONE",
+        "bailAmount": null,
+        "releaseType": "TS"
       }
     ],
     "bondTotal": 28500,
     "arrestingAgency": "SO6",
-    "chargesCheckedAt": "2026-11-12T13:55:18",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-11-06T15:55:17",
     "releasedAt": null,
@@ -8109,7 +8135,7 @@
     ],
     "bondTotal": 5500,
     "arrestingAgency": "SO6",
-    "chargesCheckedAt": "2026-11-12T13:55:18",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-11-06T14:55:18",
     "releasedAt": null,
@@ -22860,7 +22886,7 @@
     "cfn": "254979",
     "name": "SADEWASSER, ANGUS CLYDE",
     "bookedAt": "2026-10-24",
-    "location": "G",
+    "location": "D",
     "scheduledRelease": null,
     "topCharge": "HARASSMENT PREV CONV OR THREAT TO KILL",
     "charges": [
@@ -23411,7 +23437,7 @@
     ],
     "bondTotal": 15000,
     "arrestingAgency": "SO6",
-    "chargesCheckedAt": "2026-11-12T13:55:18",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-10-24T06:27:35",
     "releasedAt": null,
@@ -25778,11 +25804,11 @@
         "chargeNumber": "5",
         "class": "FB",
         "agency": "SO6",
-        "court": "S3",
-        "courtDate": "2026-11-12T13:30:00",
+        "court": "S8",
+        "courtDate": "2026-12-29T09:00:00",
         "caseNumber": "26-1-01912-06",
         "bailType": "BAIL BOND",
-        "bailAmount": 150000,
+        "bailAmount": 100000,
         "releaseType": null
       },
       {
@@ -25791,11 +25817,11 @@
         "chargeNumber": "6",
         "class": "FB",
         "agency": "SO6",
-        "court": "S3",
-        "courtDate": "2026-11-12T13:30:00",
+        "court": "S8",
+        "courtDate": "2026-12-29T09:00:00",
         "caseNumber": "26-1-01912-06",
         "bailType": "COMBINED",
-        "bailAmount": 150000,
+        "bailAmount": 100000,
         "releaseType": null
       },
       {
@@ -25804,11 +25830,11 @@
         "chargeNumber": "7",
         "class": "FC",
         "agency": "SO6",
-        "court": "S3",
-        "courtDate": "2026-11-12T13:30:00",
+        "court": "S8",
+        "courtDate": "2026-12-29T09:00:00",
         "caseNumber": "26-1-01912-06",
         "bailType": "COMBINED",
-        "bailAmount": 150000,
+        "bailAmount": 100000,
         "releaseType": null
       },
       {
@@ -25817,11 +25843,11 @@
         "chargeNumber": "8",
         "class": "FC",
         "agency": "SO6",
-        "court": "S3",
-        "courtDate": "2026-11-12T13:30:00",
+        "court": "S8",
+        "courtDate": "2026-12-29T09:00:00",
         "caseNumber": "26-1-01912-06",
         "bailType": "COMBINED",
-        "bailAmount": 150000,
+        "bailAmount": 100000,
         "releaseType": null
       },
       {
@@ -25848,7 +25874,7 @@
         "caseNumber": "T00448055",
         "bailType": "NONE",
         "bailAmount": null,
-        "releaseType": null
+        "releaseType": "DS"
       },
       {
         "description": "PROTECTION ORDER VIOLATION",
@@ -25861,7 +25887,7 @@
         "caseNumber": "T00448055",
         "bailType": "NONE",
         "bailAmount": null,
-        "releaseType": null
+        "releaseType": "DS"
       },
       {
         "description": "PROTECTION ORDER VIOLATION",
@@ -25874,7 +25900,7 @@
         "caseNumber": "T00448055",
         "bailType": "NONE",
         "bailAmount": null,
-        "releaseType": null
+        "releaseType": "DS"
       },
       {
         "description": "PROTECTION ORDER VIOLATION",
@@ -25887,7 +25913,7 @@
         "caseNumber": "T00448055",
         "bailType": "NONE",
         "bailAmount": null,
-        "releaseType": null
+        "releaseType": "DS"
       },
       {
         "description": "PROTECTION ORDER VIOLATION",
@@ -25900,12 +25926,77 @@
         "caseNumber": "T00448055",
         "bailType": "NONE",
         "bailAmount": null,
+        "releaseType": "DS"
+      },
+      {
+        "description": "PROTECTION ORDER VIOLATION",
+        "rcw": "7.105.450(1)",
+        "chargeNumber": "15",
+        "class": "GM",
+        "agency": "SO6",
+        "court": "S8",
+        "courtDate": "2026-12-29T09:00:00",
+        "caseNumber": "26-1-01912-06",
+        "bailType": "COMBINED",
+        "bailAmount": 100000,
+        "releaseType": null
+      },
+      {
+        "description": "PROTECTION ORDER VIOLATION",
+        "rcw": "7.105.450(1)",
+        "chargeNumber": "16",
+        "class": "GM",
+        "agency": "SO6",
+        "court": "S8",
+        "courtDate": "2026-12-29T09:00:00",
+        "caseNumber": "26-1-01912-06",
+        "bailType": "COMBINED",
+        "bailAmount": 100000,
+        "releaseType": null
+      },
+      {
+        "description": "PROTECTION ORDER VIOLATION",
+        "rcw": "7.105.450(1)",
+        "chargeNumber": "17",
+        "class": "GM",
+        "agency": "SO6",
+        "court": "S8",
+        "courtDate": "2026-12-29T09:00:00",
+        "caseNumber": "26-1-01912-06",
+        "bailType": "COMBINED",
+        "bailAmount": 100000,
+        "releaseType": null
+      },
+      {
+        "description": "PROTECTION ORDER VIOLATION",
+        "rcw": "7.105.450(1)",
+        "chargeNumber": "18",
+        "class": "GM",
+        "agency": "SO6",
+        "court": "S8",
+        "courtDate": "2026-12-29T09:00:00",
+        "caseNumber": "26-1-01912-06",
+        "bailType": "COMBINED",
+        "bailAmount": 100000,
+        "releaseType": null
+      },
+      {
+        "description": "PROTECTION ORDER VIOLATION",
+        "rcw": "7.105.450(1)",
+        "chargeNumber": "19",
+        "class": "GM",
+        "agency": "SO6",
+        "court": "S8",
+        "courtDate": "2026-12-29T09:00:00",
+        "caseNumber": "26-1-01912-06",
+        "bailType": "COMBINED",
+        "bailAmount": 100000,
         "releaseType": null
       }
     ],
-    "bondTotal": 460000,
+    "bondTotal": 410000,
     "arrestingAgency": "SO6",
-    "chargesCheckedAt": "2026-11-12T13:55:18",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-10-23T22:55:15",
     "releasedAt": null,
@@ -26095,7 +26186,7 @@
     ],
     "bondTotal": 10000,
     "arrestingAgency": "SO6",
-    "chargesCheckedAt": "2026-11-12T13:55:18",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-10-23T21:52:43",
     "releasedAt": null,
@@ -26376,7 +26467,7 @@
     ],
     "bondTotal": 150000,
     "arrestingAgency": "SO6",
-    "chargesCheckedAt": "2026-11-12T13:55:18",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-10-23T17:55:18",
     "releasedAt": null,
@@ -26755,7 +26846,7 @@
     ],
     "bondTotal": 32000,
     "arrestingAgency": "SO6",
-    "chargesCheckedAt": "2026-11-12T13:55:18",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-10-23T14:55:17",
     "releasedAt": null,
@@ -27490,7 +27581,7 @@
     ],
     "bondTotal": 51000,
     "arrestingAgency": "VPD",
-    "chargesCheckedAt": "2026-11-12T13:55:18",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-10-23T00:55:16",
     "releasedAt": null,
@@ -27536,7 +27627,7 @@
     ],
     "bondTotal": 20000,
     "arrestingAgency": "SO6",
-    "chargesCheckedAt": "2026-11-12T13:55:18",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-10-22T21:55:16",
     "releasedAt": null,
@@ -35853,7 +35944,7 @@
     ],
     "bondTotal": 2500,
     "arrestingAgency": "SO6",
-    "chargesCheckedAt": "2026-11-12T13:55:18",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-10-16T18:55:16",
     "releasedAt": null,
@@ -38794,7 +38885,7 @@
         "class": "FA",
         "agency": "SO6",
         "court": "S3",
-        "courtDate": "2026-11-12T09:00:00",
+        "courtDate": "2026-11-20T09:00:00",
         "caseNumber": "26-1-01435-06",
         "bailType": "BAIL BOND",
         "bailAmount": 10000,
@@ -38820,7 +38911,7 @@
         "class": "FC",
         "agency": "SO6",
         "court": "S3",
-        "courtDate": "2026-11-12T09:00:00",
+        "courtDate": "2026-11-20T09:00:00",
         "caseNumber": "26-1-01435-06",
         "bailType": "COMBINED",
         "bailAmount": 10000,
@@ -38833,7 +38924,7 @@
         "class": "GM",
         "agency": "SO6",
         "court": "S3",
-        "courtDate": "2026-11-12T09:00:00",
+        "courtDate": "2026-11-20T09:00:00",
         "caseNumber": "26-1-01435-06",
         "bailType": "COMBINED",
         "bailAmount": 10000,
@@ -38846,7 +38937,7 @@
         "class": "GM",
         "agency": "SO6",
         "court": "S3",
-        "courtDate": "2026-11-12T09:00:00",
+        "courtDate": "2026-11-20T09:00:00",
         "caseNumber": "26-1-01435-06",
         "bailType": "COMBINED",
         "bailAmount": 10000,
@@ -38868,7 +38959,7 @@
     ],
     "bondTotal": 10500,
     "arrestingAgency": "SO6",
-    "chargesCheckedAt": "2026-11-12T13:55:18",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-10-14T17:55:16",
     "releasedAt": null,
@@ -40350,7 +40441,7 @@
     ],
     "bondTotal": 15000,
     "arrestingAgency": "SO6",
-    "chargesCheckedAt": "2026-11-12T13:55:18",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-10-13T16:55:17",
     "releasedAt": null,
@@ -46762,7 +46853,7 @@
     ],
     "bondTotal": 40000,
     "arrestingAgency": "SO6",
-    "chargesCheckedAt": "2026-11-12T13:55:18",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-10-10T18:32:10",
     "releasedAt": null,
@@ -46834,7 +46925,7 @@
     ],
     "bondTotal": null,
     "arrestingAgency": "SO6",
-    "chargesCheckedAt": "2026-11-12T13:55:18",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-10-10T18:32:10",
     "releasedAt": null,
@@ -47031,7 +47122,7 @@
     ],
     "bondTotal": 5000,
     "arrestingAgency": "SO6",
-    "chargesCheckedAt": "2026-11-12T13:55:18",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-10-10T18:32:10",
     "releasedAt": null,
@@ -47103,7 +47194,7 @@
     ],
     "bondTotal": 600000,
     "arrestingAgency": "SO6",
-    "chargesCheckedAt": "2026-11-12T13:55:18",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-10-10T18:32:10",
     "releasedAt": null,
@@ -47287,7 +47378,7 @@
     ],
     "bondTotal": 5000,
     "arrestingAgency": "SO6",
-    "chargesCheckedAt": "2026-11-12T13:55:18",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-10-10T18:32:10",
     "releasedAt": null,
@@ -47535,7 +47626,7 @@
     ],
     "bondTotal": 200000,
     "arrestingAgency": "SO6",
-    "chargesCheckedAt": "2026-11-12T13:55:18",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-10-10T18:32:10",
     "releasedAt": null,
@@ -47738,7 +47829,7 @@
     ],
     "bondTotal": null,
     "arrestingAgency": "VPD",
-    "chargesCheckedAt": "2026-11-12T13:55:18",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-10-10T18:32:10",
     "releasedAt": null,
@@ -47843,7 +47934,7 @@
     ],
     "bondTotal": 5000,
     "arrestingAgency": "SO6",
-    "chargesCheckedAt": "2026-11-12T13:55:18",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-10-10T18:32:10",
     "releasedAt": null,
@@ -50751,7 +50842,7 @@
     ],
     "bondTotal": 20000,
     "arrestingAgency": "SO6",
-    "chargesCheckedAt": "2026-11-12T13:55:18",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-10-10T18:32:10",
     "releasedAt": null,
@@ -50784,7 +50875,7 @@
     ],
     "bondTotal": null,
     "arrestingAgency": "SO6",
-    "chargesCheckedAt": "2026-11-12T13:55:18",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-10-10T18:32:10",
     "releasedAt": null,
@@ -55321,7 +55412,7 @@
     ],
     "bondTotal": null,
     "arrestingAgency": "SO6",
-    "chargesCheckedAt": "2026-11-12T13:55:18",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-10-10T18:32:10",
     "releasedAt": null,
@@ -55627,7 +55718,7 @@
     ],
     "bondTotal": 5000,
     "arrestingAgency": "SO6",
-    "chargesCheckedAt": "2026-11-12T13:55:18",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-10-10T18:32:10",
     "releasedAt": null,
@@ -58597,7 +58688,7 @@
     ],
     "bondTotal": 15000,
     "arrestingAgency": "SO6",
-    "chargesCheckedAt": "2026-11-12T13:55:18",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-10-10T18:32:10",
     "releasedAt": null,
@@ -58721,7 +58812,7 @@
     ],
     "bondTotal": 10000,
     "arrestingAgency": "SO6",
-    "chargesCheckedAt": "2026-11-12T13:55:18",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-10-10T18:32:10",
     "releasedAt": null,
@@ -61773,7 +61864,7 @@
     ],
     "bondTotal": 10000,
     "arrestingAgency": "SO6",
-    "chargesCheckedAt": "2026-11-12T13:55:18",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-10-10T18:32:10",
     "releasedAt": null,
@@ -62009,7 +62100,7 @@
     ],
     "bondTotal": null,
     "arrestingAgency": "VCA",
-    "chargesCheckedAt": "2026-11-12T13:55:18",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-10-10T18:32:10",
     "releasedAt": null,
@@ -62088,7 +62179,7 @@
     ],
     "bondTotal": null,
     "arrestingAgency": "SO6",
-    "chargesCheckedAt": "2026-11-12T13:55:18",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-10-10T18:32:10",
     "releasedAt": null,
@@ -62186,7 +62277,7 @@
     ],
     "bondTotal": 1000000,
     "arrestingAgency": "SO6",
-    "chargesCheckedAt": "2026-11-12T13:55:18",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-10-10T18:32:10",
     "releasedAt": null,
@@ -62310,7 +62401,7 @@
     ],
     "bondTotal": 25000,
     "arrestingAgency": "SO6",
-    "chargesCheckedAt": "2026-11-12T13:55:18",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-10-10T18:32:10",
     "releasedAt": null,
@@ -70841,7 +70932,7 @@
     "cfn": "254652",
     "name": "RAMIREZ SANTOS, EDUARDO A",
     "bookedAt": "2026-07-14",
-    "location": "E",
+    "location": "G",
     "scheduledRelease": null,
     "topCharge": "THEFT OF A MOTOR VEHICLE",
     "charges": [
@@ -82462,7 +82553,7 @@
     ],
     "bondTotal": 50000,
     "arrestingAgency": "VPD",
-    "chargesCheckedAt": "2026-11-12T13:55:18",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-10-10T18:32:10",
     "releasedAt": null,
@@ -82495,7 +82586,7 @@
     ],
     "bondTotal": null,
     "arrestingAgency": "SO6",
-    "chargesCheckedAt": "2026-11-12T13:55:18",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-10-10T18:32:10",
     "releasedAt": null,
@@ -82587,7 +82678,7 @@
     ],
     "bondTotal": 35000,
     "arrestingAgency": "SO6",
-    "chargesCheckedAt": "2026-11-12T13:55:18",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-10-10T18:32:10",
     "releasedAt": null,
@@ -82776,7 +82867,7 @@
     ],
     "bondTotal": 25000,
     "arrestingAgency": "VPD",
-    "chargesCheckedAt": "2026-11-12T13:55:18",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-10-10T18:32:10",
     "releasedAt": null,
@@ -82874,7 +82965,7 @@
     ],
     "bondTotal": 5000,
     "arrestingAgency": "VPD",
-    "chargesCheckedAt": "2026-11-12T13:55:18",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-10-10T18:32:10",
     "releasedAt": null,
@@ -82972,7 +83063,7 @@
     ],
     "bondTotal": 10000,
     "arrestingAgency": "SO6",
-    "chargesCheckedAt": "2026-11-12T13:55:18",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-10-10T18:32:10",
     "releasedAt": null,
@@ -83168,7 +83259,7 @@
     ],
     "bondTotal": 100000,
     "arrestingAgency": "SO6",
-    "chargesCheckedAt": "2026-11-12T13:55:18",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-10-10T18:32:10",
     "releasedAt": null,
@@ -83279,7 +83370,7 @@
     ],
     "bondTotal": 20250,
     "arrestingAgency": "SO6",
-    "chargesCheckedAt": "2026-11-12T13:55:18",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-10-10T18:32:10",
     "releasedAt": null,
@@ -83325,7 +83416,7 @@
     ],
     "bondTotal": 210000,
     "arrestingAgency": "SO6",
-    "chargesCheckedAt": "2026-11-12T13:55:18",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-10-10T18:32:10",
     "releasedAt": null,
@@ -83716,7 +83807,7 @@
     ],
     "bondTotal": 195000,
     "arrestingAgency": "SO6",
-    "chargesCheckedAt": "2026-11-12T13:55:18",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-10-10T18:32:10",
     "releasedAt": null,
@@ -83931,7 +84022,7 @@
     ],
     "bondTotal": 300000,
     "arrestingAgency": "SO6",
-    "chargesCheckedAt": "2026-11-12T13:55:18",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-10-10T18:32:10",
     "releasedAt": null,
@@ -83964,7 +84055,7 @@
     ],
     "bondTotal": null,
     "arrestingAgency": "SO6",
-    "chargesCheckedAt": "2026-11-12T13:55:18",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-10-10T18:32:10",
     "releasedAt": null,
@@ -84108,7 +84199,7 @@
     ],
     "bondTotal": null,
     "arrestingAgency": "SO6",
-    "chargesCheckedAt": "2026-11-12T13:55:18",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-10-10T18:32:10",
     "releasedAt": null,
@@ -84167,7 +84258,7 @@
     ],
     "bondTotal": 2000000,
     "arrestingAgency": "SO6",
-    "chargesCheckedAt": "2026-11-12T13:55:18",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-10-10T18:32:10",
     "releasedAt": null,
@@ -84408,7 +84499,7 @@
     ],
     "bondTotal": 55000,
     "arrestingAgency": "SO6",
-    "chargesCheckedAt": "2026-11-12T13:55:18",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-10-10T18:32:10",
     "releasedAt": null,
@@ -84480,7 +84571,7 @@
     ],
     "bondTotal": null,
     "arrestingAgency": "SO6",
-    "chargesCheckedAt": "2026-11-12T13:55:18",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-10-10T18:32:10",
     "releasedAt": null,
@@ -93849,7 +93940,7 @@
     ],
     "bondTotal": 350000,
     "arrestingAgency": "SO6",
-    "chargesCheckedAt": "2026-11-12T13:55:18",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-10-10T18:32:10",
     "releasedAt": null,
@@ -93999,7 +94090,7 @@
     ],
     "bondTotal": 175100,
     "arrestingAgency": "SO6",
-    "chargesCheckedAt": "2026-11-12T13:55:18",
+    "chargesCheckedAt": "2026-11-12T20:55:17",
     "status": "in_custody",
     "firstSeen": "2026-10-10T18:32:10",
     "releasedAt": null,
