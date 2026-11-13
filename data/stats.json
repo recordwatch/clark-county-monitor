@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-13T12:55:17",
+  "generatedAt": "2026-11-13T13:55:19",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1157,
     "bookingsObserved": 688,
-    "releasesObserved": 687,
-    "inCustody": 470,
+    "releasesObserved": 688,
+    "inCustody": 469,
     "uniquePeople": 1133
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-11-13",
       "booked": 12,
-      "released": 13
+      "released": 14
     }
   ],
   "topCharges": [
@@ -174,7 +174,7 @@
     {
       "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
       "count": 214,
-      "pct": 3.9
+      "pct": 3.8
     },
     {
       "name": "THEFT-3",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "SO6",
-      "count": 642,
-      "pct": 55.9,
+      "count": 643,
+      "pct": 56,
       "label": "SO6"
     },
     {
@@ -278,7 +278,7 @@
     {
       "name": "CLS",
       "count": 112,
-      "pct": 9.8,
+      "pct": 9.7,
       "label": "CLS"
     },
     {
@@ -333,7 +333,7 @@
     },
     {
       "name": "S3",
-      "count": 708,
+      "count": 707,
       "pct": 15.1,
       "label": "Superior Court (S3)"
     },
@@ -407,7 +407,7 @@
     },
     {
       "name": "FC",
-      "count": 1285,
+      "count": 1286,
       "pct": 23.2,
       "label": "Class C Felony"
     },
@@ -451,13 +451,13 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 8,
-      "pct": 1.8
+      "count": 9,
+      "pct": 2
     },
     {
       "name": "B",
-      "count": 31,
-      "pct": 6.9
+      "count": 22,
+      "pct": 4.9
     },
     {
       "name": "C",
@@ -466,23 +466,23 @@
     },
     {
       "name": "D",
-      "count": 35,
-      "pct": 7.8
+      "count": 36,
+      "pct": 8
     },
     {
       "name": "E",
-      "count": 103,
-      "pct": 22.9
+      "count": 104,
+      "pct": 23.2
     },
     {
       "name": "F",
-      "count": 106,
-      "pct": 23.6
+      "count": 107,
+      "pct": 23.8
     },
     {
       "name": "G",
-      "count": 97,
-      "pct": 21.6
+      "count": 98,
+      "pct": 21.8
     },
     {
       "name": "H",
@@ -496,8 +496,8 @@
     },
     {
       "name": "M",
-      "count": 8,
-      "pct": 1.8
+      "count": 11,
+      "pct": 2.4
     },
     {
       "name": "SKAMANIA",
@@ -508,19 +508,19 @@
   "releaseStatus": [
     {
       "name": "RELEASED",
-      "count": 683,
+      "count": 684,
       "pct": 100
     }
   ],
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2887,
+      "count": 2889,
       "pct": 52
     },
     {
       "name": "COMBINED",
-      "count": 1690,
+      "count": 1689,
       "pct": 30.4
     },
     {
@@ -530,7 +530,7 @@
     }
   ],
   "stay": {
-    "releasedCount": 686,
+    "releasedCount": 687,
     "medianDays": 2.4,
     "meanDays": 28.1,
     "buckets": [
@@ -548,7 +548,7 @@
       },
       {
         "label": "1–4 weeks",
-        "count": 74
+        "count": 75
       },
       {
         "label": "1–3 months",
@@ -559,15 +559,15 @@
         "count": 55
       }
     ],
-    "currentMedianDaysHeld": 51.5,
-    "currentLongestDaysHeld": 1064.5
+    "currentMedianDaysHeld": 51.6,
+    "currentLongestDaysHeld": 1064.6
   },
   "bond": {
-    "withBond": 332,
+    "withBond": 331,
     "noBond": 138,
-    "medianBond": 29000,
+    "medianBond": 28000,
     "maxBond": 10005000,
-    "totalBond": 58937075
+    "totalBond": 58861575
   },
   "chargesPerBooking": 4.8
 }
