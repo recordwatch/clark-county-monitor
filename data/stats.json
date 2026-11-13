@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-13T04:55:17",
+  "generatedAt": "2026-11-13T05:51:20",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1147,
-    "bookingsObserved": 678,
+    "bookingsTracked": 1148,
+    "bookingsObserved": 679,
     "releasesObserved": 674,
-    "inCustody": 473,
-    "uniquePeople": 1123
+    "inCustody": 474,
+    "uniquePeople": 1124
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-13",
-      "booked": 4,
+      "booked": 5,
       "released": 0
     }
   ],
@@ -218,8 +218,8 @@
     },
     {
       "name": "ASSAULT-2 -DV",
-      "count": 91,
-      "pct": 1.6
+      "count": 92,
+      "pct": 1.7
     },
     {
       "name": "RESISTING ARREST",
@@ -277,7 +277,7 @@
     },
     {
       "name": "CLS",
-      "count": 109,
+      "count": 110,
       "pct": 9.6,
       "label": "CLS"
     },
@@ -352,13 +352,13 @@
     {
       "name": "S8",
       "count": 477,
-      "pct": 10.3,
+      "pct": 10.2,
       "label": "Superior Court (S8)"
     },
     {
       "name": "S12",
       "count": 449,
-      "pct": 9.7,
+      "pct": 9.6,
       "label": "Superior Court (S12)"
     },
     {
@@ -402,18 +402,18 @@
     {
       "name": "GM",
       "count": 2434,
-      "pct": 44.2,
+      "pct": 44.1,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
-      "count": 1277,
+      "count": 1278,
       "pct": 23.2,
       "label": "Class C Felony"
     },
     {
       "name": "FB",
-      "count": 854,
+      "count": 855,
       "pct": 15.5,
       "label": "Class B Felony"
     },
@@ -472,7 +472,7 @@
     {
       "name": "E",
       "count": 105,
-      "pct": 23.1
+      "pct": 23
     },
     {
       "name": "F",
@@ -482,12 +482,17 @@
     {
       "name": "G",
       "count": 99,
-      "pct": 21.8
+      "pct": 21.7
     },
     {
       "name": "H",
       "count": 20,
       "pct": 4.4
+    },
+    {
+      "name": "IR",
+      "count": 1,
+      "pct": 0.2
     },
     {
       "name": "JDH",
@@ -515,7 +520,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2863,
+      "count": 2865,
       "pct": 51.8
     },
     {
@@ -564,7 +569,7 @@
   },
   "bond": {
     "withBond": 335,
-    "noBond": 138,
+    "noBond": 139,
     "medianBond": 28000,
     "maxBond": 10005000,
     "totalBond": 59000075
