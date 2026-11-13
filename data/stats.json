@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T05:51:20",
+  "generatedAt": "2026-11-13T05:55:19",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1148,
@@ -243,7 +243,7 @@
     },
     {
       "name": "THEFT-2",
-      "count": 70,
+      "count": 71,
       "pct": 1.3
     },
     {
@@ -266,13 +266,13 @@
     {
       "name": "SO6",
       "count": 641,
-      "pct": 56.2,
+      "pct": 56.1,
       "label": "SO6"
     },
     {
       "name": "VPD",
-      "count": 268,
-      "pct": 23.5,
+      "count": 269,
+      "pct": 23.6,
       "label": "Vancouver Police"
     },
     {
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 781,
+      "count": 782,
       "pct": 16.8,
       "label": "District Court (DARR)"
     },
@@ -407,7 +407,7 @@
     },
     {
       "name": "FC",
-      "count": 1278,
+      "count": 1281,
       "pct": 23.2,
       "label": "Class C Felony"
     },
@@ -520,17 +520,17 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2865,
-      "pct": 51.8
+      "count": 2871,
+      "pct": 51.9
     },
     {
       "name": "COMBINED",
-      "count": 1691,
-      "pct": 30.6
+      "count": 1687,
+      "pct": 30.5
     },
     {
       "name": "BAIL BOND",
-      "count": 971,
+      "count": 972,
       "pct": 17.6
     }
   ],
@@ -568,11 +568,11 @@
     "currentLongestDaysHeld": 1064.2
   },
   "bond": {
-    "withBond": 335,
-    "noBond": 139,
-    "medianBond": 28000,
+    "withBond": 336,
+    "noBond": 138,
+    "medianBond": 27750,
     "maxBond": 10005000,
-    "totalBond": 59000075
+    "totalBond": 58997075
   },
   "chargesPerBooking": 4.8
 }
