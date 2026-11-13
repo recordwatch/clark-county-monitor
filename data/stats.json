@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T00:55:19",
+  "generatedAt": "2026-11-13T01:55:16",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1147,
@@ -248,7 +248,7 @@
     },
     {
       "name": "DWS 3 -DRIVE W/LICENSE SUSP OR REVOKED-3 OR REVOKED LIC OR PRIVILEGE",
-      "count": 67,
+      "count": 68,
       "pct": 1.2
     },
     {
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "SO6",
-      "count": 639,
+      "count": 640,
       "pct": 56.1,
       "label": "SO6"
     },
     {
       "name": "VPD",
-      "count": 270,
-      "pct": 23.7,
+      "count": 269,
+      "pct": 23.6,
       "label": "Vancouver Police"
     },
     {
@@ -327,14 +327,14 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 780,
+      "count": 781,
       "pct": 16.8,
       "label": "District Court (DARR)"
     },
     {
       "name": "S3",
-      "count": 684,
-      "pct": 14.7,
+      "count": 691,
+      "pct": 14.9,
       "label": "Superior Court (S3)"
     },
     {
@@ -419,13 +419,13 @@
     },
     {
       "name": "M",
-      "count": 497,
+      "count": 498,
       "pct": 9,
       "label": "Misdemeanor"
     },
     {
       "name": "FA",
-      "count": 326,
+      "count": 328,
       "pct": 5.9,
       "label": "Class A Felony"
     },
@@ -456,13 +456,13 @@
     },
     {
       "name": "B",
-      "count": 27,
-      "pct": 5.9
+      "count": 26,
+      "pct": 5.7
     },
     {
       "name": "C",
-      "count": 36,
-      "pct": 7.9
+      "count": 37,
+      "pct": 8.1
     },
     {
       "name": "D",
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2867,
+      "count": 2869,
       "pct": 51.9
     },
     {
@@ -525,8 +525,8 @@
     },
     {
       "name": "BAIL BOND",
-      "count": 969,
-      "pct": 17.5
+      "count": 970,
+      "pct": 17.6
     }
   ],
   "stay": {
@@ -559,15 +559,15 @@
         "count": 52
       }
     ],
-    "currentMedianDaysHeld": 52,
-    "currentLongestDaysHeld": 1064
+    "currentMedianDaysHeld": 52.1,
+    "currentLongestDaysHeld": 1064.1
   },
   "bond": {
     "withBond": 334,
     "noBond": 139,
     "medianBond": 29000,
     "maxBond": 10005000,
-    "totalBond": 58971075
+    "totalBond": 58980075
   },
   "chargesPerBooking": 4.8
 }
