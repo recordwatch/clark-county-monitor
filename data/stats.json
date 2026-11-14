@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T23:48:26",
+  "generatedAt": "2026-11-13T23:55:17",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1168,
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "SO6",
-      "count": 648,
-      "pct": 55.8,
+      "count": 649,
+      "pct": 55.9,
       "label": "SO6"
     },
     {
@@ -283,7 +283,7 @@
     },
     {
       "name": "WSP",
-      "count": 40,
+      "count": 39,
       "pct": 3.4,
       "label": "Washington State Patrol"
     },
@@ -339,13 +339,13 @@
     },
     {
       "name": "S9",
-      "count": 647,
+      "count": 646,
       "pct": 13.7,
       "label": "Superior Court (S9)"
     },
     {
       "name": "S10",
-      "count": 555,
+      "count": 556,
       "pct": 11.8,
       "label": "Superior Court (S10)"
     },
@@ -515,17 +515,17 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2916,
-      "pct": 52.2
+      "count": 2909,
+      "pct": 52
     },
     {
       "name": "COMBINED",
-      "count": 1695,
-      "pct": 30.3
+      "count": 1701,
+      "pct": 30.4
     },
     {
       "name": "BAIL BOND",
-      "count": 978,
+      "count": 979,
       "pct": 17.5
     }
   ],
@@ -563,11 +563,11 @@
     "currentLongestDaysHeld": 1065
   },
   "bond": {
-    "withBond": 329,
-    "noBond": 133,
+    "withBond": 330,
+    "noBond": 132,
     "medianBond": 30000,
     "maxBond": 10005000,
-    "totalBond": 58952675
+    "totalBond": 58982675
   },
   "chargesPerBooking": 4.8
 }
