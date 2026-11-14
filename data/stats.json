@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-14T08:55:18",
+  "generatedAt": "2026-11-14T09:55:19",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1173,
-    "bookingsObserved": 704,
+    "bookingsTracked": 1174,
+    "bookingsObserved": 705,
     "releasesObserved": 710,
-    "inCustody": 463,
-    "uniquePeople": 1146
+    "inCustody": 464,
+    "uniquePeople": 1147
   },
   "bookingsByDay": [
     {
@@ -223,8 +223,8 @@
     },
     {
       "name": "RESISTING ARREST",
-      "count": 81,
-      "pct": 1.4
+      "count": 82,
+      "pct": 1.5
     },
     {
       "name": "MALICIOUS MISCHIEF-3 - DV",
@@ -257,7 +257,7 @@
       "pct": 1.2
     },
     {
-      "name": "ASSAULT-2",
+      "name": "IGNITION INTERLOCK VIOL-NOTATION ON DR REC-VERIFY INTERLOCK",
       "count": 61,
       "pct": 1.1
     }
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2477,
+      "count": 2479,
       "pct": 44.3,
       "label": "Gross Misdemeanor"
     },
@@ -419,7 +419,7 @@
     },
     {
       "name": "M",
-      "count": 503,
+      "count": 504,
       "pct": 9,
       "label": "Misdemeanor"
     },
@@ -451,8 +451,8 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 9,
-      "pct": 2
+      "count": 10,
+      "pct": 2.3
     },
     {
       "name": "B",
@@ -564,7 +564,7 @@
   },
   "bond": {
     "withBond": 332,
-    "noBond": 131,
+    "noBond": 132,
     "medianBond": 30000,
     "maxBond": 10005000,
     "totalBond": 59077675
