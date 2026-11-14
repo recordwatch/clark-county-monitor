@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T06:43:54",
+  "generatedAt": "2026-11-14T06:55:16",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1171,
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2472,
+      "count": 2474,
       "pct": 44.2,
       "label": "Gross Misdemeanor"
     },
@@ -413,8 +413,8 @@
     },
     {
       "name": "FB",
-      "count": 864,
-      "pct": 15.5,
+      "count": 862,
+      "pct": 15.4,
       "label": "Class B Felony"
     },
     {
