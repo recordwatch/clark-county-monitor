@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T16:55:17",
+  "generatedAt": "2026-11-13T17:14:01",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1160,
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-13",
-      "booked": 14,
+      "booked": 15,
       "released": 18
     }
   ],
@@ -168,7 +168,7 @@
     },
     {
       "name": "ASSAULT-4 - DV",
-      "count": 290,
+      "count": 291,
       "pct": 5.2
     },
     {
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 794,
-      "pct": 16.9,
+      "count": 788,
+      "pct": 16.8,
       "label": "District Court (DARR)"
     },
     {
@@ -381,7 +381,7 @@
     },
     {
       "name": "D2",
-      "count": 112,
+      "count": 113,
       "pct": 2.4,
       "label": "District Court (D2)"
     },
@@ -515,18 +515,18 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2894,
-      "pct": 52
+      "count": 2899,
+      "pct": 52.1
     },
     {
       "name": "COMBINED",
-      "count": 1691,
+      "count": 1690,
       "pct": 30.4
     },
     {
       "name": "BAIL BOND",
-      "count": 978,
-      "pct": 17.6
+      "count": 974,
+      "pct": 17.5
     }
   ],
   "stay": {
@@ -559,15 +559,15 @@
         "count": 55
       }
     ],
-    "currentMedianDaysHeld": 52.7,
+    "currentMedianDaysHeld": 52.2,
     "currentLongestDaysHeld": 1064.7
   },
   "bond": {
-    "withBond": 332,
-    "noBond": 136,
-    "medianBond": 27750,
+    "withBond": 331,
+    "noBond": 137,
+    "medianBond": 28000,
     "maxBond": 10005000,
-    "totalBond": 58850575
+    "totalBond": 58845275
   },
   "chargesPerBooking": 4.8
 }
