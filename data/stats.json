@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T17:14:01",
+  "generatedAt": "2026-11-13T17:55:16",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1160,
@@ -203,7 +203,7 @@
     },
     {
       "name": "OBSTRUCT LAW ENFORCEMENT OFC",
-      "count": 98,
+      "count": 99,
       "pct": 1.8
     },
     {
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 788,
-      "pct": 16.8,
+      "count": 784,
+      "pct": 16.7,
       "label": "District Court (DARR)"
     },
     {
@@ -386,22 +386,22 @@
       "label": "District Court (D2)"
     },
     {
+      "name": "D6",
+      "count": 96,
+      "pct": 2,
+      "label": "District Court (D6)"
+    },
+    {
       "name": "D5",
       "count": 93,
       "pct": 2,
       "label": "District Court (D5)"
-    },
-    {
-      "name": "D6",
-      "count": 90,
-      "pct": 1.9,
-      "label": "District Court (D6)"
     }
   ],
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2449,
+      "count": 2451,
       "pct": 44.1,
       "label": "Gross Misdemeanor"
     },
@@ -471,8 +471,8 @@
     },
     {
       "name": "E",
-      "count": 103,
-      "pct": 23
+      "count": 102,
+      "pct": 22.8
     },
     {
       "name": "F",
@@ -481,8 +481,8 @@
     },
     {
       "name": "G",
-      "count": 96,
-      "pct": 21.4
+      "count": 97,
+      "pct": 21.7
     },
     {
       "name": "H",
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2899,
+      "count": 2901,
       "pct": 52.1
     },
     {
