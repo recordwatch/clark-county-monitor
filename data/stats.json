@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-14T07:55:16",
+  "generatedAt": "2026-11-14T08:55:18",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1172,
-    "bookingsObserved": 703,
-    "releasesObserved": 709,
+    "bookingsTracked": 1173,
+    "bookingsObserved": 704,
+    "releasesObserved": 710,
     "inCustody": 463,
-    "uniquePeople": 1145
+    "uniquePeople": 1146
   },
   "bookingsByDay": [
     {
@@ -156,8 +156,8 @@
     },
     {
       "date": "2026-11-14",
-      "booked": 4,
-      "released": 3
+      "booked": 5,
+      "released": 4
     }
   ],
   "topCharges": [
@@ -168,7 +168,7 @@
     },
     {
       "name": "ASSAULT-4 - DV",
-      "count": 293,
+      "count": 294,
       "pct": 5.2
     },
     {
@@ -228,7 +228,7 @@
     },
     {
       "name": "MALICIOUS MISCHIEF-3 - DV",
-      "count": 74,
+      "count": 75,
       "pct": 1.3
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "CLS",
-      "count": 112,
-      "pct": 9.6,
+      "count": 113,
+      "pct": 9.7,
       "label": "CLS"
     },
     {
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 784,
+      "count": 786,
       "pct": 16.6,
       "label": "District Court (DARR)"
     },
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2475,
+      "count": 2477,
       "pct": 44.3,
       "label": "Gross Misdemeanor"
     },
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 21,
-      "pct": 4.7
+      "count": 20,
+      "pct": 4.5
     },
     {
       "name": "C",
@@ -481,8 +481,8 @@
     },
     {
       "name": "G",
-      "count": 97,
-      "pct": 21.9
+      "count": 98,
+      "pct": 22.1
     },
     {
       "name": "H",
@@ -508,14 +508,14 @@
   "releaseStatus": [
     {
       "name": "RELEASED",
-      "count": 705,
+      "count": 706,
       "pct": 100
     }
   ],
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2920,
+      "count": 2922,
       "pct": 52.1
     },
     {
@@ -526,17 +526,17 @@
     {
       "name": "BAIL BOND",
       "count": 984,
-      "pct": 17.6
+      "pct": 17.5
     }
   ],
   "stay": {
-    "releasedCount": 708,
+    "releasedCount": 709,
     "medianDays": 2.4,
     "meanDays": 27.3,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 135
+        "count": 136
       },
       {
         "label": "1–3 days",
@@ -559,8 +559,8 @@
         "count": 55
       }
     ],
-    "currentMedianDaysHeld": 53.3,
-    "currentLongestDaysHeld": 1065.3
+    "currentMedianDaysHeld": 53.4,
+    "currentLongestDaysHeld": 1065.4
   },
   "bond": {
     "withBond": 332,
