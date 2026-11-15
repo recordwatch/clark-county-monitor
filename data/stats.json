@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-14T16:55:17",
+  "generatedAt": "2026-11-14T17:55:16",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1177,
-    "bookingsObserved": 708,
+    "bookingsTracked": 1178,
+    "bookingsObserved": 709,
     "releasesObserved": 711,
-    "inCustody": 466,
-    "uniquePeople": 1150
+    "inCustody": 467,
+    "uniquePeople": 1151
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-14",
-      "booked": 8,
+      "booked": 9,
       "released": 5
     }
   ],
@@ -168,12 +168,12 @@
     },
     {
       "name": "ASSAULT-4 - DV",
-      "count": 295,
+      "count": 296,
       "pct": 5.3
     },
     {
       "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
-      "count": 218,
+      "count": 219,
       "pct": 3.9
     },
     {
@@ -248,7 +248,7 @@
     },
     {
       "name": "DWS 3 -DRIVE W/LICENSE SUSP OR REVOKED-3 OR REVOKED LIC OR PRIVILEGE",
-      "count": 69,
+      "count": 70,
       "pct": 1.2
     },
     {
@@ -258,7 +258,7 @@
     },
     {
       "name": "IGNITION INTERLOCK VIOL-NOTATION ON DR REC-VERIFY INTERLOCK",
-      "count": 61,
+      "count": 62,
       "pct": 1.1
     }
   ],
@@ -277,7 +277,7 @@
     },
     {
       "name": "CLS",
-      "count": 114,
+      "count": 115,
       "pct": 9.8,
       "label": "CLS"
     },
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 787,
-      "pct": 16.6,
+      "count": 795,
+      "pct": 16.8,
       "label": "District Court (DARR)"
     },
     {
@@ -340,7 +340,7 @@
     {
       "name": "S9",
       "count": 656,
-      "pct": 13.9,
+      "pct": 13.8,
       "label": "Superior Court (S9)"
     },
     {
@@ -401,8 +401,8 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2481,
-      "pct": 44.3,
+      "count": 2488,
+      "pct": 44.4,
       "label": "Gross Misdemeanor"
     },
     {
@@ -419,7 +419,7 @@
     },
     {
       "name": "M",
-      "count": 504,
+      "count": 505,
       "pct": 9,
       "label": "Misdemeanor"
     },
@@ -456,13 +456,13 @@
     },
     {
       "name": "B",
-      "count": 11,
-      "pct": 2.5
+      "count": 12,
+      "pct": 2.7
     },
     {
       "name": "C",
       "count": 40,
-      "pct": 9
+      "pct": 8.9
     },
     {
       "name": "D",
@@ -472,7 +472,7 @@
     {
       "name": "E",
       "count": 103,
-      "pct": 23.1
+      "pct": 23
     },
     {
       "name": "F",
@@ -515,8 +515,8 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2925,
-      "pct": 52.1
+      "count": 2933,
+      "pct": 52.2
     },
     {
       "name": "COMBINED",
@@ -564,7 +564,7 @@
   },
   "bond": {
     "withBond": 332,
-    "noBond": 134,
+    "noBond": 135,
     "medianBond": 30000,
     "maxBond": 10005000,
     "totalBond": 59077675
