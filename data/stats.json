@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-15T04:27:35",
+  "generatedAt": "2026-11-15T04:55:16",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1188,
-    "bookingsObserved": 719,
-    "releasesObserved": 711,
-    "inCustody": 477,
-    "uniquePeople": 1160
+    "bookingsTracked": 1190,
+    "bookingsObserved": 721,
+    "releasesObserved": 712,
+    "inCustody": 478,
+    "uniquePeople": 1162
   },
   "bookingsByDay": [
     {
@@ -157,13 +157,13 @@
     {
       "date": "2026-11-15",
       "booked": 4,
-      "released": 0
+      "released": 1
     }
   ],
   "topCharges": [
     {
       "name": "PROTECTION ORDER VIOLATION",
-      "count": 542,
+      "count": 543,
       "pct": 9.6
     },
     {
@@ -242,14 +242,14 @@
       "pct": 1.3
     },
     {
-      "name": "THEFT-2",
+      "name": "DWS 3 -DRIVE W/LICENSE SUSP OR REVOKED-3 OR REVOKED LIC OR PRIVILEGE",
       "count": 71,
       "pct": 1.3
     },
     {
-      "name": "DWS 3 -DRIVE W/LICENSE SUSP OR REVOKED-3 OR REVOKED LIC OR PRIVILEGE",
-      "count": 70,
-      "pct": 1.2
+      "name": "THEFT-2",
+      "count": 71,
+      "pct": 1.3
     },
     {
       "name": "POSSESS DEPICTIONS OF A MINOR 1 ENGAGED IN SEXUALLY EXPLICIT CONDUCT",
@@ -258,7 +258,7 @@
     },
     {
       "name": "IGNITION INTERLOCK VIOL-NOTATION ON DR REC-VERIFY INTERLOCK",
-      "count": 62,
+      "count": 63,
       "pct": 1.1
     }
   ],
@@ -277,8 +277,8 @@
     },
     {
       "name": "CLS",
-      "count": 117,
-      "pct": 9.9,
+      "count": 118,
+      "pct": 10,
       "label": "CLS"
     },
     {
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2502,
+      "count": 2504,
       "pct": 44.4,
       "label": "Gross Misdemeanor"
     },
@@ -413,13 +413,13 @@
     },
     {
       "name": "FB",
-      "count": 864,
+      "count": 865,
       "pct": 15.3,
       "label": "Class B Felony"
     },
     {
       "name": "M",
-      "count": 505,
+      "count": 506,
       "pct": 9,
       "label": "Misdemeanor"
     },
@@ -456,13 +456,13 @@
     },
     {
       "name": "B",
-      "count": 15,
-      "pct": 3.3
+      "count": 17,
+      "pct": 3.7
     },
     {
       "name": "C",
       "count": 40,
-      "pct": 8.8
+      "pct": 8.7
     },
     {
       "name": "D",
@@ -472,17 +472,17 @@
     {
       "name": "E",
       "count": 103,
-      "pct": 22.6
+      "pct": 22.5
     },
     {
       "name": "F",
       "count": 108,
-      "pct": 23.7
+      "pct": 23.6
     },
     {
       "name": "G",
       "count": 100,
-      "pct": 21.9
+      "pct": 21.8
     },
     {
       "name": "H",
@@ -497,7 +497,7 @@
     {
       "name": "M",
       "count": 8,
-      "pct": 1.8
+      "pct": 1.7
     },
     {
       "name": "SKAMANIA",
@@ -508,14 +508,14 @@
   "releaseStatus": [
     {
       "name": "RELEASED",
-      "count": 706,
+      "count": 707,
       "pct": 100
     }
   ],
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2948,
+      "count": 2950,
       "pct": 52.3
     },
     {
@@ -530,13 +530,13 @@
     }
   ],
   "stay": {
-    "releasedCount": 710,
-    "medianDays": 2.4,
-    "meanDays": 27.3,
+    "releasedCount": 711,
+    "medianDays": 2.3,
+    "meanDays": 27.2,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 137
+        "count": 138
       },
       {
         "label": "1–3 days",
@@ -563,11 +563,11 @@
     "currentLongestDaysHeld": 1066.2
   },
   "bond": {
-    "withBond": 336,
-    "noBond": 141,
-    "medianBond": 29000,
+    "withBond": 335,
+    "noBond": 143,
+    "medianBond": 30000,
     "maxBond": 10005000,
-    "totalBond": 59032675
+    "totalBond": 59031675
   },
   "chargesPerBooking": 4.8
 }
