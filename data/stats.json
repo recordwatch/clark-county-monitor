@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T20:35:33",
+  "generatedAt": "2026-11-14T20:55:16",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1180,
@@ -187,13 +187,13 @@
       "pct": 3
     },
     {
-      "name": "PROTECTION ORDER VIO RESIDENCE,WORKPLACE, DAYCARE",
-      "count": 138,
-      "pct": 2.4
+      "name": "HARASSMENT PREV CONV OR THREAT TO KILL",
+      "count": 141,
+      "pct": 2.5
     },
     {
-      "name": "HARASSMENT PREV CONV OR THREAT TO KILL",
-      "count": 137,
+      "name": "PROTECTION ORDER VIO RESIDENCE,WORKPLACE, DAYCARE",
+      "count": 138,
       "pct": 2.4
     },
     {
@@ -334,7 +334,7 @@
     {
       "name": "S3",
       "count": 700,
-      "pct": 14.8,
+      "pct": 14.7,
       "label": "Superior Court (S3)"
     },
     {
@@ -358,7 +358,7 @@
     {
       "name": "S12",
       "count": 463,
-      "pct": 9.8,
+      "pct": 9.7,
       "label": "Superior Court (S12)"
     },
     {
@@ -407,8 +407,8 @@
     },
     {
       "name": "FC",
-      "count": 1292,
-      "pct": 23,
+      "count": 1296,
+      "pct": 23.1,
       "label": "Class C Felony"
     },
     {
@@ -515,13 +515,13 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2939,
-      "pct": 52.2
+      "count": 2943,
+      "pct": 52.3
     },
     {
       "name": "COMBINED",
       "count": 1703,
-      "pct": 30.3
+      "pct": 30.2
     },
     {
       "name": "BAIL BOND",
