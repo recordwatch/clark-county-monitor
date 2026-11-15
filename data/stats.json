@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T10:55:25",
+  "generatedAt": "2026-11-15T11:02:04",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1190,
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2950,
+      "count": 2951,
       "pct": 52.3
     },
     {
