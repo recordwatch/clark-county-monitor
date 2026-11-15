@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T11:02:04",
+  "generatedAt": "2026-11-15T11:55:19",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1190,
@@ -271,8 +271,8 @@
     },
     {
       "name": "VPD",
-      "count": 281,
-      "pct": 23.8,
+      "count": 282,
+      "pct": 23.9,
       "label": "Vancouver Police"
     },
     {
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 803,
+      "count": 804,
       "pct": 16.9,
       "label": "District Court (DARR)"
     },
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2951,
+      "count": 2952,
       "pct": 52.3
     },
     {
