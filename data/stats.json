@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-16T14:55:16",
+  "generatedAt": "2026-11-16T15:55:24",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1211,
-    "bookingsObserved": 742,
+    "bookingsTracked": 1217,
+    "bookingsObserved": 748,
     "releasesObserved": 721,
-    "inCustody": 490,
-    "uniquePeople": 1179
+    "inCustody": 496,
+    "uniquePeople": 1185
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-16",
-      "booked": 12,
+      "booked": 13,
       "released": 9
     }
   ],
@@ -168,12 +168,12 @@
     },
     {
       "name": "ASSAULT-4 - DV",
-      "count": 301,
+      "count": 302,
       "pct": 5.3
     },
     {
       "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
-      "count": 225,
+      "count": 226,
       "pct": 3.9
     },
     {
@@ -183,7 +183,7 @@
     },
     {
       "name": "THEFT-3",
-      "count": 169,
+      "count": 170,
       "pct": 3
     },
     {
@@ -198,7 +198,7 @@
     },
     {
       "name": "ASSAULT-4",
-      "count": 132,
+      "count": 133,
       "pct": 2.3
     },
     {
@@ -208,12 +208,12 @@
     },
     {
       "name": "UNLAWFUL CAMPING",
-      "count": 98,
+      "count": 100,
       "pct": 1.7
     },
     {
       "name": "ASSAULT-2 -DV",
-      "count": 97,
+      "count": 98,
       "pct": 1.7
     },
     {
@@ -223,7 +223,7 @@
     },
     {
       "name": "RESISTING ARREST",
-      "count": 84,
+      "count": 85,
       "pct": 1.5
     },
     {
@@ -266,19 +266,19 @@
     {
       "name": "SO6",
       "count": 650,
-      "pct": 54.1,
+      "pct": 53.9,
       "label": "SO6"
     },
     {
       "name": "VPD",
-      "count": 290,
-      "pct": 24.1,
+      "count": 293,
+      "pct": 24.3,
       "label": "Vancouver Police"
     },
     {
       "name": "CLS",
-      "count": 123,
-      "pct": 10.2,
+      "count": 124,
+      "pct": 10.3,
       "label": "CLS"
     },
     {
@@ -300,16 +300,16 @@
       "label": "VCA"
     },
     {
+      "name": "RPD",
+      "count": 13,
+      "pct": 1.1,
+      "label": "RPD"
+    },
+    {
       "name": "WGP",
       "count": 12,
       "pct": 1,
       "label": "WGP"
-    },
-    {
-      "name": "RPD",
-      "count": 12,
-      "pct": 1,
-      "label": "RPD"
     },
     {
       "name": "BGP",
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 830,
+      "count": 832,
       "pct": 17.2,
       "label": "District Court (DARR)"
     },
@@ -351,8 +351,8 @@
     },
     {
       "name": "S12",
-      "count": 530,
-      "pct": 11,
+      "count": 538,
+      "pct": 11.1,
       "label": "Superior Court (S12)"
     },
     {
@@ -387,8 +387,8 @@
     },
     {
       "name": "D6",
-      "count": 98,
-      "pct": 2,
+      "count": 99,
+      "pct": 2.1,
       "label": "District Court (D6)"
     },
     {
@@ -401,32 +401,32 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2524,
+      "count": 2529,
       "pct": 44.3,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
-      "count": 1310,
+      "count": 1312,
       "pct": 23,
       "label": "Class C Felony"
     },
     {
       "name": "FB",
-      "count": 875,
+      "count": 877,
       "pct": 15.4,
       "label": "Class B Felony"
     },
     {
       "name": "M",
-      "count": 518,
+      "count": 521,
       "pct": 9.1,
       "label": "Misdemeanor"
     },
     {
       "name": "FA",
       "count": 339,
-      "pct": 6,
+      "pct": 5.9,
       "label": "Class A Felony"
     },
     {
@@ -451,43 +451,43 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 12,
-      "pct": 2.5
+      "count": 10,
+      "pct": 2.1
     },
     {
       "name": "B",
-      "count": 21,
-      "pct": 4.5
+      "count": 24,
+      "pct": 5
     },
     {
       "name": "C",
-      "count": 42,
-      "pct": 8.9
+      "count": 43,
+      "pct": 9
     },
     {
       "name": "D",
-      "count": 38,
-      "pct": 8.1
+      "count": 39,
+      "pct": 8.2
     },
     {
       "name": "E",
       "count": 106,
-      "pct": 22.5
+      "pct": 22.3
     },
     {
       "name": "F",
       "count": 108,
-      "pct": 22.9
+      "pct": 22.7
     },
     {
       "name": "G",
-      "count": 103,
-      "pct": 21.9
+      "count": 105,
+      "pct": 22.1
     },
     {
       "name": "H",
       "count": 21,
-      "pct": 4.5
+      "pct": 4.4
     },
     {
       "name": "JDH",
@@ -515,18 +515,18 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2991,
+      "count": 2995,
       "pct": 52.5
     },
     {
       "name": "COMBINED",
       "count": 1710,
-      "pct": 30
+      "pct": 29.9
     },
     {
       "name": "BAIL BOND",
-      "count": 998,
-      "pct": 17.5
+      "count": 1005,
+      "pct": 17.6
     }
   ],
   "stay": {
@@ -559,15 +559,15 @@
         "count": 56
       }
     ],
-    "currentMedianDaysHeld": 47.6,
-    "currentLongestDaysHeld": 1067.6
+    "currentMedianDaysHeld": 47.7,
+    "currentLongestDaysHeld": 1067.7
   },
   "bond": {
-    "withBond": 340,
-    "noBond": 150,
-    "medianBond": 27250,
+    "withBond": 344,
+    "noBond": 152,
+    "medianBond": 25125,
     "maxBond": 10005000,
-    "totalBond": 59014675
+    "totalBond": 59030175
   },
   "chargesPerBooking": 4.7
 }
