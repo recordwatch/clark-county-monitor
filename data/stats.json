@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T12:46:50",
+  "generatedAt": "2026-11-16T12:55:20",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1210,
@@ -163,8 +163,8 @@
   "topCharges": [
     {
       "name": "PROTECTION ORDER VIOLATION",
-      "count": 546,
-      "pct": 9.6
+      "count": 544,
+      "pct": 9.5
     },
     {
       "name": "ASSAULT-4 - DV",
@@ -333,7 +333,7 @@
     },
     {
       "name": "S3",
-      "count": 695,
+      "count": 693,
       "pct": 14.4,
       "label": "Superior Court (S3)"
     },
@@ -351,8 +351,8 @@
     },
     {
       "name": "S12",
-      "count": 503,
-      "pct": 10.4,
+      "count": 506,
+      "pct": 10.5,
       "label": "Superior Court (S12)"
     },
     {
@@ -401,13 +401,13 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2524,
+      "count": 2523,
       "pct": 44.3,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
-      "count": 1309,
+      "count": 1310,
       "pct": 23,
       "label": "Class C Felony"
     },
@@ -559,7 +559,7 @@
         "count": 56
       }
     ],
-    "currentMedianDaysHeld": 48.5,
+    "currentMedianDaysHeld": 47.5,
     "currentLongestDaysHeld": 1067.5
   },
   "bond": {
