@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T14:55:18",
+  "generatedAt": "2026-11-17T15:55:17",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1230,
@@ -156,14 +156,14 @@
     },
     {
       "date": "2026-11-17",
-      "booked": 8,
+      "booked": 9,
       "released": 5
     }
   ],
   "topCharges": [
     {
       "name": "PROTECTION ORDER VIOLATION",
-      "count": 549,
+      "count": 551,
       "pct": 9.5
     },
     {
@@ -218,7 +218,7 @@
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOWINGLY POSSESS",
-      "count": 97,
+      "count": 98,
       "pct": 1.7
     },
     {
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 837,
-      "pct": 17.1,
+      "count": 830,
+      "pct": 17,
       "label": "District Court (DARR)"
     },
     {
@@ -345,8 +345,8 @@
     },
     {
       "name": "S12",
-      "count": 590,
-      "pct": 12.1,
+      "count": 589,
+      "pct": 12,
       "label": "Superior Court (S12)"
     },
     {
@@ -370,13 +370,13 @@
     {
       "name": "D3",
       "count": 154,
-      "pct": 3.2,
+      "pct": 3.1,
       "label": "District Court (D3)"
     },
     {
       "name": "D1",
-      "count": 138,
-      "pct": 2.8,
+      "count": 141,
+      "pct": 2.9,
       "label": "District Court (D1)"
     },
     {
@@ -401,8 +401,8 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2559,
-      "pct": 44.3,
+      "count": 2562,
+      "pct": 44.4,
       "label": "Gross Misdemeanor"
     },
     {
@@ -451,13 +451,13 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 13,
-      "pct": 2.8
+      "count": 12,
+      "pct": 2.6
     },
     {
       "name": "B",
-      "count": 21,
-      "pct": 4.5
+      "count": 22,
+      "pct": 4.8
     },
     {
       "name": "C",
@@ -515,8 +515,8 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2988,
-      "pct": 51.7
+      "count": 2991,
+      "pct": 51.8
     },
     {
       "name": "COMBINED",
@@ -526,7 +526,7 @@
     {
       "name": "BAIL BOND",
       "count": 1031,
-      "pct": 17.9
+      "pct": 17.8
     }
   ],
   "stay": {
@@ -559,8 +559,8 @@
         "count": 56
       }
     ],
-    "currentMedianDaysHeld": 50.6,
-    "currentLongestDaysHeld": 1068.6
+    "currentMedianDaysHeld": 49.7,
+    "currentLongestDaysHeld": 1068.7
   },
   "bond": {
     "withBond": 351,
