@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-17T04:55:18",
+  "generatedAt": "2026-11-17T05:55:17",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1225,
-    "bookingsObserved": 756,
+    "bookingsTracked": 1226,
+    "bookingsObserved": 757,
     "releasesObserved": 744,
-    "inCustody": 481,
-    "uniquePeople": 1193
+    "inCustody": 482,
+    "uniquePeople": 1194
   },
   "bookingsByDay": [
     {
@@ -173,8 +173,8 @@
     },
     {
       "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
-      "count": 226,
-      "pct": 3.9
+      "count": 228,
+      "pct": 4
     },
     {
       "name": "PROTECTION ORDER VIOL PREV CONVICTI",
@@ -258,7 +258,7 @@
     },
     {
       "name": "IGNITION INTERLOCK VIOL-NOTATION ON DR REC-VERIFY INTERLOCK",
-      "count": 64,
+      "count": 65,
       "pct": 1.1
     }
   ],
@@ -283,8 +283,8 @@
     },
     {
       "name": "WSP",
-      "count": 40,
-      "pct": 3.3,
+      "count": 41,
+      "pct": 3.4,
       "label": "Washington State Patrol"
     },
     {
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 821,
+      "count": 823,
       "pct": 16.9,
       "label": "District Court (DARR)"
     },
@@ -346,7 +346,7 @@
     {
       "name": "S10",
       "count": 547,
-      "pct": 11.3,
+      "pct": 11.2,
       "label": "Superior Court (S10)"
     },
     {
@@ -401,8 +401,8 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2538,
-      "pct": 44.2,
+      "count": 2541,
+      "pct": 44.3,
       "label": "Gross Misdemeanor"
     },
     {
@@ -414,12 +414,12 @@
     {
       "name": "FB",
       "count": 881,
-      "pct": 15.4,
+      "pct": 15.3,
       "label": "Class B Felony"
     },
     {
       "name": "M",
-      "count": 527,
+      "count": 526,
       "pct": 9.2,
       "label": "Misdemeanor"
     },
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 21,
-      "pct": 4.5
+      "count": 22,
+      "pct": 4.8
     },
     {
       "name": "C",
@@ -472,17 +472,17 @@
     {
       "name": "E",
       "count": 101,
-      "pct": 21.9
+      "pct": 21.8
     },
     {
       "name": "F",
       "count": 109,
-      "pct": 23.6
+      "pct": 23.5
     },
     {
       "name": "G",
       "count": 102,
-      "pct": 22.1
+      "pct": 22
     },
     {
       "name": "H",
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2975,
+      "count": 2977,
       "pct": 51.8
     },
     {
@@ -564,7 +564,7 @@
   },
   "bond": {
     "withBond": 351,
-    "noBond": 130,
+    "noBond": 131,
     "medianBond": 30000,
     "maxBond": 10005000,
     "totalBond": 60108175
