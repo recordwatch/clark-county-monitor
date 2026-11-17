@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T12:55:17",
+  "generatedAt": "2026-11-17T13:11:34",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1227,
@@ -168,7 +168,7 @@
     },
     {
       "name": "ASSAULT-4 - DV",
-      "count": 300,
+      "count": 301,
       "pct": 5.2
     },
     {
@@ -193,7 +193,7 @@
     },
     {
       "name": "ASSAULT-4",
-      "count": 139,
+      "count": 141,
       "pct": 2.4
     },
     {
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 832,
+      "count": 835,
       "pct": 17.1,
       "label": "District Court (DARR)"
     },
@@ -345,14 +345,14 @@
     },
     {
       "name": "S12",
-      "count": 582,
-      "pct": 11.9,
+      "count": 588,
+      "pct": 12.1,
       "label": "Superior Court (S12)"
     },
     {
       "name": "S10",
-      "count": 545,
-      "pct": 11.2,
+      "count": 539,
+      "pct": 11.1,
       "label": "Superior Court (S10)"
     },
     {
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2546,
+      "count": 2549,
       "pct": 44.3,
       "label": "Gross Misdemeanor"
     },
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2983,
+      "count": 2986,
       "pct": 51.8
     },
     {
