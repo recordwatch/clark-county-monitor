@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T21:55:18",
+  "generatedAt": "2026-11-16T22:55:21",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1221,
@@ -183,7 +183,7 @@
     },
     {
       "name": "THEFT-3",
-      "count": 170,
+      "count": 171,
       "pct": 3
     },
     {
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "SO6",
-      "count": 657,
-      "pct": 54.2,
+      "count": 658,
+      "pct": 54.3,
       "label": "SO6"
     },
     {
@@ -277,7 +277,7 @@
     },
     {
       "name": "CLS",
-      "count": 123,
+      "count": 122,
       "pct": 10.1,
       "label": "CLS"
     },
@@ -344,16 +344,16 @@
       "label": "Superior Court (S9)"
     },
     {
+      "name": "S12",
+      "count": 542,
+      "pct": 11.2,
+      "label": "Superior Court (S12)"
+    },
+    {
       "name": "S10",
       "count": 540,
       "pct": 11.1,
       "label": "Superior Court (S10)"
-    },
-    {
-      "name": "S12",
-      "count": 538,
-      "pct": 11.1,
-      "label": "Superior Court (S12)"
     },
     {
       "name": "S8",
@@ -401,8 +401,8 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2535,
-      "pct": 44.2,
+      "count": 2536,
+      "pct": 44.3,
       "label": "Gross Misdemeanor"
     },
     {
@@ -515,13 +515,13 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2998,
+      "count": 2995,
       "pct": 52.2
     },
     {
       "name": "COMBINED",
-      "count": 1728,
-      "pct": 30.1
+      "count": 1731,
+      "pct": 30.2
     },
     {
       "name": "BAIL BOND",
@@ -559,15 +559,15 @@
         "count": 56
       }
     ],
-    "currentMedianDaysHeld": 50.9,
-    "currentLongestDaysHeld": 1067.9
+    "currentMedianDaysHeld": 51,
+    "currentLongestDaysHeld": 1068
   },
   "bond": {
-    "withBond": 342,
-    "noBond": 135,
-    "medianBond": 27750,
+    "withBond": 343,
+    "noBond": 134,
+    "medianBond": 28000,
     "maxBond": 10005000,
-    "totalBond": 59200175
+    "totalBond": 59549675
   },
   "chargesPerBooking": 4.7
 }
