@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T02:55:17",
+  "generatedAt": "2026-11-17T03:55:23",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1225,
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-17",
-      "booked": 3,
+      "booked": 4,
       "released": 0
     }
   ],
@@ -168,7 +168,7 @@
     },
     {
       "name": "ASSAULT-4 - DV",
-      "count": 301,
+      "count": 300,
       "pct": 5.2
     },
     {
@@ -193,7 +193,7 @@
     },
     {
       "name": "ASSAULT-4",
-      "count": 138,
+      "count": 139,
       "pct": 2.4
     },
     {
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "SO6",
-      "count": 667,
+      "count": 668,
       "pct": 54.9,
       "label": "SO6"
     },
     {
       "name": "VPD",
-      "count": 287,
-      "pct": 23.6,
+      "count": 286,
+      "pct": 23.5,
       "label": "Vancouver Police"
     },
     {
@@ -344,16 +344,16 @@
       "label": "Superior Court (S9)"
     },
     {
-      "name": "S12",
-      "count": 542,
-      "pct": 11.1,
-      "label": "Superior Court (S12)"
+      "name": "S10",
+      "count": 547,
+      "pct": 11.3,
+      "label": "Superior Court (S10)"
     },
     {
-      "name": "S10",
-      "count": 542,
-      "pct": 11.1,
-      "label": "Superior Court (S10)"
+      "name": "S12",
+      "count": 537,
+      "pct": 11,
+      "label": "Superior Court (S12)"
     },
     {
       "name": "S8",
@@ -515,17 +515,17 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2983,
-      "pct": 51.9
+      "count": 2975,
+      "pct": 51.8
     },
     {
       "name": "COMBINED",
-      "count": 1748,
-      "pct": 30.4
+      "count": 1754,
+      "pct": 30.5
     },
     {
       "name": "BAIL BOND",
-      "count": 1016,
+      "count": 1018,
       "pct": 17.7
     }
   ],
@@ -559,15 +559,15 @@
         "count": 56
       }
     ],
-    "currentMedianDaysHeld": 51.1,
-    "currentLongestDaysHeld": 1068.1
+    "currentMedianDaysHeld": 51.2,
+    "currentLongestDaysHeld": 1068.2
   },
   "bond": {
-    "withBond": 349,
-    "noBond": 132,
-    "medianBond": 28000,
+    "withBond": 351,
+    "noBond": 130,
+    "medianBond": 30000,
     "maxBond": 10005000,
-    "totalBond": 59898175
+    "totalBond": 60108175
   },
   "chargesPerBooking": 4.7
 }
