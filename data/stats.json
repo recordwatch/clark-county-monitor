@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T15:55:17",
+  "generatedAt": "2026-11-17T16:55:16",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1230,
@@ -174,17 +174,17 @@
     {
       "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
       "count": 229,
-      "pct": 4
+      "pct": 3.9
     },
     {
       "name": "PROTECTION ORDER VIOL PREV CONVICTI",
-      "count": 175,
-      "pct": 3
+      "count": 181,
+      "pct": 3.1
     },
     {
       "name": "THEFT-3",
       "count": 171,
-      "pct": 3
+      "pct": 2.9
     },
     {
       "name": "HARASSMENT PREV CONV OR THREAT TO KILL",
@@ -345,7 +345,7 @@
     },
     {
       "name": "S12",
-      "count": 589,
+      "count": 588,
       "pct": 12,
       "label": "Superior Court (S12)"
     },
@@ -364,7 +364,7 @@
     {
       "name": "D4",
       "count": 159,
-      "pct": 3.3,
+      "pct": 3.2,
       "label": "District Court (D4)"
     },
     {
@@ -382,7 +382,7 @@
     {
       "name": "D2",
       "count": 115,
-      "pct": 2.4,
+      "pct": 2.3,
       "label": "District Court (D2)"
     },
     {
@@ -402,18 +402,18 @@
     {
       "name": "GM",
       "count": 2562,
-      "pct": 44.4,
+      "pct": 44.3,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
-      "count": 1329,
-      "pct": 23,
+      "count": 1336,
+      "pct": 23.1,
       "label": "Class C Felony"
     },
     {
       "name": "FB",
-      "count": 882,
+      "count": 883,
       "pct": 15.3,
       "label": "Class B Felony"
     },
@@ -425,8 +425,8 @@
     },
     {
       "name": "FA",
-      "count": 339,
-      "pct": 5.9,
+      "count": 337,
+      "pct": 5.8,
       "label": "Class A Felony"
     },
     {
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 22,
-      "pct": 4.8
+      "count": 19,
+      "pct": 4.1
     },
     {
       "name": "C",
@@ -481,13 +481,13 @@
     },
     {
       "name": "G",
-      "count": 100,
-      "pct": 21.6
+      "count": 102,
+      "pct": 22.1
     },
     {
       "name": "H",
-      "count": 18,
-      "pct": 3.9
+      "count": 19,
+      "pct": 4.1
     },
     {
       "name": "JDH",
@@ -515,13 +515,13 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 2991,
+      "count": 2998,
       "pct": 51.8
     },
     {
       "name": "COMBINED",
-      "count": 1756,
-      "pct": 30.4
+      "count": 1755,
+      "pct": 30.3
     },
     {
       "name": "BAIL BOND",
@@ -567,7 +567,7 @@
     "noBond": 130,
     "medianBond": 30000,
     "maxBond": 10005000,
-    "totalBond": 61437625
+    "totalBond": 61437375
   },
   "chargesPerBooking": 4.7
 }
