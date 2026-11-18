@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T12:47:08",
+  "generatedAt": "2026-11-18T12:55:17",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1247,
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-18",
-      "booked": 11,
+      "booked": 12,
       "released": 14
     }
   ],
@@ -333,8 +333,8 @@
     },
     {
       "name": "S3",
-      "count": 666,
-      "pct": 13.4,
+      "count": 659,
+      "pct": 13.2,
       "label": "Superior Court (S3)"
     },
     {
@@ -345,14 +345,14 @@
     },
     {
       "name": "S12",
-      "count": 609,
-      "pct": 12.2,
+      "count": 611,
+      "pct": 12.3,
       "label": "Superior Court (S12)"
     },
     {
       "name": "S10",
-      "count": 587,
-      "pct": 11.8,
+      "count": 594,
+      "pct": 11.9,
       "label": "Superior Court (S10)"
     },
     {
@@ -520,12 +520,12 @@
     },
     {
       "name": "COMBINED",
-      "count": 1818,
+      "count": 1817,
       "pct": 30.9
     },
     {
       "name": "BAIL BOND",
-      "count": 1032,
+      "count": 1033,
       "pct": 17.6
     }
   ],
@@ -567,7 +567,7 @@
     "noBond": 125,
     "medianBond": 30000,
     "maxBond": 10005000,
-    "totalBond": 61369975
+    "totalBond": 61379975
   },
   "chargesPerBooking": 4.7
 }
