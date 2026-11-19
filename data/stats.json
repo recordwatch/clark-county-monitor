@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T05:55:17",
+  "generatedAt": "2026-11-19T06:55:18",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1262,
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-19",
-      "booked": 3,
+      "booked": 4,
       "released": 0
     }
   ],
@@ -419,7 +419,7 @@
     },
     {
       "name": "M",
-      "count": 544,
+      "count": 545,
       "pct": 9.2,
       "label": "Misdemeanor"
     },
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 3069,
+      "count": 3070,
       "pct": 51.8
     },
     {
@@ -559,8 +559,8 @@
         "count": 59
       }
     ],
-    "currentMedianDaysHeld": 52.2,
-    "currentLongestDaysHeld": 1070.2
+    "currentMedianDaysHeld": 51.3,
+    "currentLongestDaysHeld": 1070.3
   },
   "bond": {
     "withBond": 336,
