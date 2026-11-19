@@ -1,19 +1,14 @@
 {
-  "generatedAt": "2026-11-18T23:55:17",
+  "generatedAt": "2026-11-19T00:55:18",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1258,
-    "bookingsObserved": 789,
+    "bookingsTracked": 1259,
+    "bookingsObserved": 790,
     "releasesObserved": 795,
-    "inCustody": 463,
-    "uniquePeople": 1223
+    "inCustody": 464,
+    "uniquePeople": 1224
   },
   "bookingsByDay": [
-    {
-      "date": "2026-10-20",
-      "booked": 24,
-      "released": 26
-    },
     {
       "date": "2026-10-21",
       "booked": 16,
@@ -158,13 +153,18 @@
       "date": "2026-11-18",
       "booked": 23,
       "released": 29
+    },
+    {
+      "date": "2026-11-19",
+      "booked": 1,
+      "released": 0
     }
   ],
   "topCharges": [
     {
       "name": "PROTECTION ORDER VIOLATION",
-      "count": 554,
-      "pct": 9.3
+      "count": 555,
+      "pct": 9.4
     },
     {
       "name": "ASSAULT-4 - DV",
@@ -277,8 +277,8 @@
     },
     {
       "name": "CLS",
-      "count": 128,
-      "pct": 10.2,
+      "count": 129,
+      "pct": 10.3,
       "label": "CLS"
     },
     {
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 855,
+      "count": 856,
       "pct": 17.1,
       "label": "District Court (DARR)"
     },
@@ -345,7 +345,7 @@
     },
     {
       "name": "S12",
-      "count": 601,
+      "count": 599,
       "pct": 12,
       "label": "Superior Court (S12)"
     },
@@ -401,14 +401,14 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2624,
+      "count": 2625,
       "pct": 44.4,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
       "count": 1362,
-      "pct": 23.1,
+      "pct": 23,
       "label": "Class C Felony"
     },
     {
@@ -451,8 +451,8 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 12,
-      "pct": 2.7
+      "count": 13,
+      "pct": 2.9
     },
     {
       "name": "B",
@@ -462,7 +462,7 @@
     {
       "name": "C",
       "count": 41,
-      "pct": 9.3
+      "pct": 9.2
     },
     {
       "name": "D",
@@ -472,12 +472,12 @@
     {
       "name": "E",
       "count": 104,
-      "pct": 23.5
+      "pct": 23.4
     },
     {
       "name": "F",
       "count": 103,
-      "pct": 23.3
+      "pct": 23.2
     },
     {
       "name": "G",
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 3058,
+      "count": 3059,
       "pct": 51.7
     },
     {
@@ -564,7 +564,7 @@
   },
   "bond": {
     "withBond": 336,
-    "noBond": 127,
+    "noBond": 128,
     "medianBond": 30000,
     "maxBond": 10005000,
     "totalBond": 60905925
