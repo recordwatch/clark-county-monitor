@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-19T14:55:22",
+  "generatedAt": "2026-11-19T15:55:16",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1273,
-    "bookingsObserved": 804,
+    "bookingsTracked": 1276,
+    "bookingsObserved": 807,
     "releasesObserved": 800,
-    "inCustody": 473,
-    "uniquePeople": 1235
+    "inCustody": 476,
+    "uniquePeople": 1238
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-19",
-      "booked": 14,
+      "booked": 17,
       "released": 5
     }
   ],
@@ -168,7 +168,7 @@
     },
     {
       "name": "ASSAULT-4 - DV",
-      "count": 315,
+      "count": 316,
       "pct": 5.3
     },
     {
@@ -183,7 +183,7 @@
     },
     {
       "name": "THEFT-3",
-      "count": 179,
+      "count": 182,
       "pct": 3
     },
     {
@@ -193,7 +193,7 @@
     },
     {
       "name": "HARASSMENT PREV CONV OR THREAT TO KILL",
-      "count": 148,
+      "count": 147,
       "pct": 2.5
     },
     {
@@ -208,7 +208,7 @@
     },
     {
       "name": "OBSTRUCT LAW ENFORCEMENT OFC",
-      "count": 104,
+      "count": 103,
       "pct": 1.7
     },
     {
@@ -227,12 +227,12 @@
       "pct": 1.5
     },
     {
-      "name": "FUGITIVE",
-      "count": 80,
-      "pct": 1.3
+      "name": "MALICIOUS MISCHIEF-3 - DV",
+      "count": 81,
+      "pct": 1.4
     },
     {
-      "name": "MALICIOUS MISCHIEF-3 - DV",
+      "name": "FUGITIVE",
       "count": 80,
       "pct": 1.3
     },
@@ -266,19 +266,19 @@
     {
       "name": "SO6",
       "count": 693,
-      "pct": 54.9,
+      "pct": 54.7,
       "label": "SO6"
     },
     {
       "name": "VPD",
-      "count": 297,
-      "pct": 23.5,
+      "count": 299,
+      "pct": 23.6,
       "label": "Vancouver Police"
     },
     {
       "name": "CLS",
-      "count": 129,
-      "pct": 10.2,
+      "count": 131,
+      "pct": 10.3,
       "label": "CLS"
     },
     {
@@ -302,13 +302,13 @@
     {
       "name": "WGP",
       "count": 12,
-      "pct": 1,
+      "pct": 0.9,
       "label": "WGP"
     },
     {
       "name": "CMP",
       "count": 12,
-      "pct": 1,
+      "pct": 0.9,
       "label": "CMP"
     },
     {
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 862,
+      "count": 867,
       "pct": 17.1,
       "label": "District Court (DARR)"
     },
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2652,
+      "count": 2656,
       "pct": 44.5,
       "label": "Gross Misdemeanor"
     },
@@ -419,7 +419,7 @@
     },
     {
       "name": "M",
-      "count": 547,
+      "count": 550,
       "pct": 9.2,
       "label": "Misdemeanor"
     },
@@ -451,18 +451,18 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 14,
-      "pct": 3.1
+      "count": 13,
+      "pct": 2.9
     },
     {
       "name": "B",
-      "count": 23,
-      "pct": 5.1
+      "count": 26,
+      "pct": 5.7
     },
     {
       "name": "C",
       "count": 42,
-      "pct": 9.3
+      "pct": 9.2
     },
     {
       "name": "D",
@@ -472,22 +472,27 @@
     {
       "name": "E",
       "count": 103,
-      "pct": 22.7
+      "pct": 22.6
     },
     {
       "name": "F",
       "count": 107,
-      "pct": 23.6
+      "pct": 23.5
     },
     {
       "name": "G",
       "count": 94,
-      "pct": 20.8
+      "pct": 20.6
     },
     {
       "name": "H",
       "count": 18,
-      "pct": 4
+      "pct": 3.9
+    },
+    {
+      "name": "IR",
+      "count": 1,
+      "pct": 0.2
     },
     {
       "name": "JDH",
@@ -515,17 +520,17 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 3096,
+      "count": 3104,
       "pct": 51.9
     },
     {
       "name": "COMBINED",
-      "count": 1824,
-      "pct": 30.6
+      "count": 1825,
+      "pct": 30.5
     },
     {
       "name": "BAIL BOND",
-      "count": 1047,
+      "count": 1046,
       "pct": 17.5
     }
   ],
@@ -559,15 +564,15 @@
         "count": 60
       }
     ],
-    "currentMedianDaysHeld": 50.6,
-    "currentLongestDaysHeld": 1070.6
+    "currentMedianDaysHeld": 50.7,
+    "currentLongestDaysHeld": 1070.7
   },
   "bond": {
-    "withBond": 338,
-    "noBond": 135,
+    "withBond": 339,
+    "noBond": 137,
     "medianBond": 30000,
     "maxBond": 10005000,
-    "totalBond": 60888925
+    "totalBond": 60892925
   },
   "chargesPerBooking": 4.7
 }
