@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T12:55:18",
+  "generatedAt": "2026-11-19T13:55:22",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1272,
@@ -193,7 +193,7 @@
     },
     {
       "name": "HARASSMENT PREV CONV OR THREAT TO KILL",
-      "count": 147,
+      "count": 148,
       "pct": 2.5
     },
     {
@@ -339,8 +339,8 @@
     },
     {
       "name": "S12",
-      "count": 658,
-      "pct": 13,
+      "count": 665,
+      "pct": 13.2,
       "label": "Superior Court (S12)"
     },
     {
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 28,
-      "pct": 6.2
+      "count": 23,
+      "pct": 5.1
     },
     {
       "name": "C",
@@ -471,13 +471,13 @@
     },
     {
       "name": "E",
-      "count": 102,
-      "pct": 22.5
+      "count": 103,
+      "pct": 22.7
     },
     {
       "name": "F",
-      "count": 104,
-      "pct": 23
+      "count": 108,
+      "pct": 23.8
     },
     {
       "name": "G",
@@ -559,8 +559,8 @@
         "count": 60
       }
     ],
-    "currentMedianDaysHeld": 50.5,
-    "currentLongestDaysHeld": 1070.5
+    "currentMedianDaysHeld": 50.6,
+    "currentLongestDaysHeld": 1070.6
   },
   "bond": {
     "withBond": 338,
