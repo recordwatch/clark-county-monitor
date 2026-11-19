@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T01:55:16",
+  "generatedAt": "2026-11-19T02:35:19",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1261,
@@ -393,7 +393,7 @@
     },
     {
       "name": "D5",
-      "count": 106,
+      "count": 107,
       "pct": 2.1,
       "label": "District Court (D5)"
     }
@@ -407,7 +407,7 @@
     },
     {
       "name": "FC",
-      "count": 1365,
+      "count": 1366,
       "pct": 23.1,
       "label": "Class C Felony"
     },
@@ -425,7 +425,7 @@
     },
     {
       "name": "FA",
-      "count": 349,
+      "count": 350,
       "pct": 5.9,
       "label": "Class A Felony"
     },
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 3068,
+      "count": 3069,
       "pct": 51.8
     },
     {
@@ -525,7 +525,7 @@
     },
     {
       "name": "BAIL BOND",
-      "count": 1041,
+      "count": 1042,
       "pct": 17.6
     }
   ],
@@ -559,7 +559,7 @@
         "count": 59
       }
     ],
-    "currentMedianDaysHeld": 53.1,
+    "currentMedianDaysHeld": 52.1,
     "currentLongestDaysHeld": 1070.1
   },
   "bond": {
@@ -567,7 +567,7 @@
     "noBond": 130,
     "medianBond": 30000,
     "maxBond": 10005000,
-    "totalBond": 60905925
+    "totalBond": 60915925
   },
   "chargesPerBooking": 4.7
 }
