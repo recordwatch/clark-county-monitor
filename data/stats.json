@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-19T22:55:17",
+  "generatedAt": "2026-11-19T23:55:17",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1283,
     "bookingsObserved": 814,
-    "releasesObserved": 817,
-    "inCustody": 466,
+    "releasesObserved": 818,
+    "inCustody": 465,
     "uniquePeople": 1245
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-11-19",
       "booked": 25,
-      "released": 22
+      "released": 23
     }
   ],
   "topCharges": [
@@ -265,13 +265,13 @@
   "topAgencies": [
     {
       "name": "SO6",
-      "count": 695,
-      "pct": 54.6,
+      "count": 697,
+      "pct": 54.7,
       "label": "SO6"
     },
     {
       "name": "VPD",
-      "count": 300,
+      "count": 299,
       "pct": 23.5,
       "label": "Vancouver Police"
     },
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 855,
-      "pct": 16.8,
+      "count": 851,
+      "pct": 16.7,
       "label": "District Court (DARR)"
     },
     {
@@ -338,16 +338,16 @@
       "label": "Superior Court (S3)"
     },
     {
-      "name": "S12",
-      "count": 652,
-      "pct": 12.8,
-      "label": "Superior Court (S12)"
+      "name": "S9",
+      "count": 661,
+      "pct": 13,
+      "label": "Superior Court (S9)"
     },
     {
-      "name": "S9",
-      "count": 647,
-      "pct": 12.7,
-      "label": "Superior Court (S9)"
+      "name": "S12",
+      "count": 640,
+      "pct": 12.6,
+      "label": "Superior Court (S12)"
     },
     {
       "name": "S10",
@@ -451,13 +451,13 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 12,
-      "pct": 2.7
+      "count": 11,
+      "pct": 2.5
     },
     {
       "name": "B",
-      "count": 18,
-      "pct": 4
+      "count": 17,
+      "pct": 3.8
     },
     {
       "name": "C",
@@ -467,17 +467,17 @@
     {
       "name": "D",
       "count": 35,
-      "pct": 7.8
+      "pct": 7.9
     },
     {
       "name": "E",
       "count": 104,
-      "pct": 23.3
+      "pct": 23.4
     },
     {
       "name": "F",
-      "count": 109,
-      "pct": 24.4
+      "count": 110,
+      "pct": 24.7
     },
     {
       "name": "G",
@@ -508,7 +508,7 @@
   "releaseStatus": [
     {
       "name": "RELEASED",
-      "count": 805,
+      "count": 806,
       "pct": 100
     }
   ],
@@ -520,23 +520,23 @@
     },
     {
       "name": "COMBINED",
-      "count": 1824,
+      "count": 1825,
       "pct": 30.4
     },
     {
       "name": "BAIL BOND",
-      "count": 1058,
+      "count": 1057,
       "pct": 17.6
     }
   ],
   "stay": {
-    "releasedCount": 816,
+    "releasedCount": 817,
     "medianDays": 2.4,
     "meanDays": 25.8,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 156
+        "count": 157
       },
       {
         "label": "1–3 days",
@@ -563,11 +563,11 @@
     "currentLongestDaysHeld": 1071
   },
   "bond": {
-    "withBond": 336,
+    "withBond": 335,
     "noBond": 130,
     "medianBond": 30000,
     "maxBond": 10005000,
-    "totalBond": 60971425
+    "totalBond": 61034425
   },
   "chargesPerBooking": 4.7
 }
