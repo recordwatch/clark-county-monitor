@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-20T01:55:18",
+  "generatedAt": "2026-11-20T02:55:17",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1284,
-    "bookingsObserved": 815,
+    "bookingsTracked": 1285,
+    "bookingsObserved": 816,
     "releasesObserved": 818,
-    "inCustody": 466,
-    "uniquePeople": 1246
+    "inCustody": 467,
+    "uniquePeople": 1247
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-20",
-      "booked": 1,
+      "booked": 2,
       "released": 0
     }
   ],
@@ -168,12 +168,12 @@
     },
     {
       "name": "ASSAULT-4 - DV",
-      "count": 316,
-      "pct": 5.3
+      "count": 315,
+      "pct": 5.2
     },
     {
       "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
-      "count": 236,
+      "count": 237,
       "pct": 3.9
     },
     {
@@ -188,7 +188,7 @@
     },
     {
       "name": "ASSAULT-4",
-      "count": 149,
+      "count": 151,
       "pct": 2.5
     },
     {
@@ -300,6 +300,12 @@
       "label": "VCA"
     },
     {
+      "name": "RPD",
+      "count": 12,
+      "pct": 0.9,
+      "label": "RPD"
+    },
+    {
       "name": "WGP",
       "count": 12,
       "pct": 0.9,
@@ -312,12 +318,6 @@
       "label": "CMP"
     },
     {
-      "name": "RPD",
-      "count": 11,
-      "pct": 0.9,
-      "label": "RPD"
-    },
-    {
       "name": "CKP",
       "count": 9,
       "pct": 0.7,
@@ -327,19 +327,19 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 851,
-      "pct": 16.7,
+      "count": 852,
+      "pct": 16.8,
       "label": "District Court (DARR)"
     },
     {
       "name": "S3",
-      "count": 709,
+      "count": 707,
       "pct": 13.9,
       "label": "Superior Court (S3)"
     },
     {
       "name": "S9",
-      "count": 661,
+      "count": 663,
       "pct": 13,
       "label": "Superior Court (S9)"
     },
@@ -381,7 +381,7 @@
     },
     {
       "name": "D5",
-      "count": 120,
+      "count": 121,
       "pct": 2.4,
       "label": "District Court (D5)"
     },
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2669,
+      "count": 2671,
       "pct": 44.6,
       "label": "Gross Misdemeanor"
     },
@@ -520,12 +520,12 @@
     },
     {
       "name": "COMBINED",
-      "count": 1842,
+      "count": 1843,
       "pct": 30.7
     },
     {
       "name": "BAIL BOND",
-      "count": 1060,
+      "count": 1061,
       "pct": 17.7
     }
   ],
@@ -564,7 +564,7 @@
   },
   "bond": {
     "withBond": 338,
-    "noBond": 128,
+    "noBond": 129,
     "medianBond": 30000,
     "maxBond": 10005000,
     "totalBond": 62569925
