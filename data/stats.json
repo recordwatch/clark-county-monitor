@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-20T12:55:17",
+  "generatedAt": "2026-11-20T13:55:16",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1300,
-    "bookingsObserved": 831,
-    "releasesObserved": 829,
+    "bookingsTracked": 1301,
+    "bookingsObserved": 832,
+    "releasesObserved": 830,
     "inCustody": 471,
-    "uniquePeople": 1261
+    "uniquePeople": 1262
   },
   "bookingsByDay": [
     {
@@ -156,8 +156,8 @@
     },
     {
       "date": "2026-11-20",
-      "booked": 16,
-      "released": 11
+      "booked": 17,
+      "released": 12
     }
   ],
   "topCharges": [
@@ -173,7 +173,7 @@
     },
     {
       "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
-      "count": 237,
+      "count": 238,
       "pct": 3.9
     },
     {
@@ -266,13 +266,13 @@
     {
       "name": "SO6",
       "count": 705,
-      "pct": 54.7,
+      "pct": 54.6,
       "label": "SO6"
     },
     {
       "name": "VPD",
       "count": 304,
-      "pct": 23.6,
+      "pct": 23.5,
       "label": "Vancouver Police"
     },
     {
@@ -283,7 +283,7 @@
     },
     {
       "name": "WSP",
-      "count": 42,
+      "count": 43,
       "pct": 3.3,
       "label": "Washington State Patrol"
     },
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2687,
+      "count": 2688,
       "pct": 44.6,
       "label": "Gross Misdemeanor"
     },
@@ -456,13 +456,13 @@
     },
     {
       "name": "B",
-      "count": 30,
-      "pct": 6.6
+      "count": 31,
+      "pct": 6.9
     },
     {
       "name": "C",
-      "count": 36,
-      "pct": 8
+      "count": 35,
+      "pct": 7.7
     },
     {
       "name": "D",
@@ -508,14 +508,14 @@
   "releaseStatus": [
     {
       "name": "RELEASED",
-      "count": 817,
+      "count": 818,
       "pct": 100
     }
   ],
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 3125,
+      "count": 3126,
       "pct": 51.8
     },
     {
@@ -530,9 +530,9 @@
     }
   ],
   "stay": {
-    "releasedCount": 828,
+    "releasedCount": 829,
     "medianDays": 2.4,
-    "meanDays": 28.4,
+    "meanDays": 28.6,
     "buckets": [
       {
         "label": "< 1 day",
@@ -556,11 +556,11 @@
       },
       {
         "label": "3+ months",
-        "count": 65
+        "count": 66
       }
     ],
-    "currentMedianDaysHeld": 50.5,
-    "currentLongestDaysHeld": 1071.5
+    "currentMedianDaysHeld": 50.6,
+    "currentLongestDaysHeld": 1071.6
   },
   "bond": {
     "withBond": 340,
@@ -569,5 +569,5 @@
     "maxBond": 10005000,
     "totalBond": 62610925
   },
-  "chargesPerBooking": 4.7
+  "chargesPerBooking": 4.6
 }
