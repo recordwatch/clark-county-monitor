@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-20T14:55:18",
+  "generatedAt": "2026-11-20T15:17:38",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1301,
     "bookingsObserved": 832,
-    "releasesObserved": 830,
-    "inCustody": 471,
+    "releasesObserved": 831,
+    "inCustody": 470,
     "uniquePeople": 1262
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-11-20",
       "booked": 18,
-      "released": 12
+      "released": 13
     }
   ],
   "topCharges": [
@@ -277,7 +277,7 @@
     },
     {
       "name": "CLS",
-      "count": 135,
+      "count": 136,
       "pct": 10.5,
       "label": "CLS"
     },
@@ -456,13 +456,13 @@
     },
     {
       "name": "B",
-      "count": 25,
-      "pct": 5.5
+      "count": 24,
+      "pct": 5.3
     },
     {
       "name": "C",
-      "count": 37,
-      "pct": 8.2
+      "count": 36,
+      "pct": 8
     },
     {
       "name": "D",
@@ -472,22 +472,22 @@
     {
       "name": "E",
       "count": 105,
-      "pct": 23.2
+      "pct": 23.3
     },
     {
       "name": "F",
       "count": 105,
-      "pct": 23.2
+      "pct": 23.3
     },
     {
       "name": "G",
       "count": 96,
-      "pct": 21.2
+      "pct": 21.3
     },
     {
       "name": "H",
-      "count": 19,
-      "pct": 4.2
+      "count": 20,
+      "pct": 4.4
     },
     {
       "name": "JDH",
@@ -502,20 +502,20 @@
     {
       "name": "SKAMANIA",
       "count": 7,
-      "pct": 1.5
+      "pct": 1.6
     }
   ],
   "releaseStatus": [
     {
       "name": "RELEASED",
-      "count": 818,
+      "count": 819,
       "pct": 100
     }
   ],
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 3126,
+      "count": 3127,
       "pct": 51.8
     },
     {
@@ -530,9 +530,9 @@
     }
   ],
   "stay": {
-    "releasedCount": 829,
+    "releasedCount": 830,
     "medianDays": 2.4,
-    "meanDays": 28.6,
+    "meanDays": 28.8,
     "buckets": [
       {
         "label": "< 1 day",
@@ -556,18 +556,18 @@
       },
       {
         "label": "3+ months",
-        "count": 66
+        "count": 67
       }
     ],
-    "currentMedianDaysHeld": 50.6,
+    "currentMedianDaysHeld": 50.1,
     "currentLongestDaysHeld": 1071.6
   },
   "bond": {
-    "withBond": 340,
+    "withBond": 339,
     "noBond": 131,
     "medianBond": 30000,
     "maxBond": 10005000,
-    "totalBond": 62610925
+    "totalBond": 62595925
   },
   "chargesPerBooking": 4.6
 }
