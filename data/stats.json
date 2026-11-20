@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-20T08:55:18",
+  "generatedAt": "2026-11-20T09:29:43",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1294,
-    "bookingsObserved": 825,
+    "bookingsTracked": 1295,
+    "bookingsObserved": 826,
     "releasesObserved": 819,
-    "inCustody": 475,
-    "uniquePeople": 1255
+    "inCustody": 476,
+    "uniquePeople": 1256
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-20",
-      "booked": 9,
+      "booked": 11,
       "released": 1
     }
   ],
@@ -407,7 +407,7 @@
     },
     {
       "name": "FC",
-      "count": 1377,
+      "count": 1378,
       "pct": 22.9,
       "label": "Class C Felony"
     },
@@ -559,12 +559,12 @@
         "count": 60
       }
     ],
-    "currentMedianDaysHeld": 51.4,
+    "currentMedianDaysHeld": 50.4,
     "currentLongestDaysHeld": 1071.4
   },
   "bond": {
     "withBond": 340,
-    "noBond": 135,
+    "noBond": 136,
     "medianBond": 30000,
     "maxBond": 10005000,
     "totalBond": 62610925
