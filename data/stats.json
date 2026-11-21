@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-21T09:55:22",
+  "generatedAt": "2026-11-21T10:55:16",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1311,
-    "bookingsObserved": 842,
+    "bookingsTracked": 1312,
+    "bookingsObserved": 843,
     "releasesObserved": 847,
-    "inCustody": 464,
-    "uniquePeople": 1270
+    "inCustody": 465,
+    "uniquePeople": 1271
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-21",
-      "booked": 4,
+      "booked": 5,
       "released": 2
     }
   ],
@@ -173,7 +173,7 @@
     },
     {
       "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
-      "count": 241,
+      "count": 242,
       "pct": 4
     },
     {
@@ -271,7 +271,7 @@
     },
     {
       "name": "VPD",
-      "count": 303,
+      "count": 304,
       "pct": 23.3,
       "label": "Vancouver Police"
     },
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2713,
+      "count": 2714,
       "pct": 44.7,
       "label": "Gross Misdemeanor"
     },
@@ -456,13 +456,13 @@
     },
     {
       "name": "B",
-      "count": 17,
-      "pct": 3.8
+      "count": 18,
+      "pct": 4
     },
     {
       "name": "C",
       "count": 39,
-      "pct": 8.8
+      "pct": 8.7
     },
     {
       "name": "D",
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 3138,
+      "count": 3139,
       "pct": 51.7
     },
     {
@@ -559,12 +559,12 @@
         "count": 68
       }
     ],
-    "currentMedianDaysHeld": 51.4,
-    "currentLongestDaysHeld": 1072.4
+    "currentMedianDaysHeld": 51.5,
+    "currentLongestDaysHeld": 1072.5
   },
   "bond": {
     "withBond": 343,
-    "noBond": 121,
+    "noBond": 122,
     "medianBond": 30000,
     "maxBond": 10005000,
     "totalBond": 62832325
