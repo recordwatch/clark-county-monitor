@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-20T20:55:18",
+  "generatedAt": "2026-11-20T21:55:16",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1307,
     "bookingsObserved": 838,
-    "releasesObserved": 843,
-    "inCustody": 464,
+    "releasesObserved": 845,
+    "inCustody": 462,
     "uniquePeople": 1267
   },
   "bookingsByDay": [
@@ -157,19 +157,19 @@
     {
       "date": "2026-11-20",
       "booked": 23,
-      "released": 25
+      "released": 27
     }
   ],
   "topCharges": [
     {
       "name": "PROTECTION ORDER VIOLATION",
-      "count": 569,
+      "count": 570,
       "pct": 9.4
     },
     {
       "name": "ASSAULT-4 - DV",
       "count": 319,
-      "pct": 5.3
+      "pct": 5.2
     },
     {
       "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "SO6",
-      "count": 706,
-      "pct": 54.4,
+      "count": 709,
+      "pct": 54.6,
       "label": "SO6"
     },
     {
       "name": "VPD",
-      "count": 306,
-      "pct": 23.6,
+      "count": 303,
+      "pct": 23.3,
       "label": "Vancouver Police"
     },
     {
@@ -327,13 +327,13 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 867,
-      "pct": 16.9,
+      "count": 863,
+      "pct": 16.8,
       "label": "District Court (DARR)"
     },
     {
       "name": "S3",
-      "count": 676,
+      "count": 677,
       "pct": 13.2,
       "label": "Superior Court (S3)"
     },
@@ -381,8 +381,8 @@
     },
     {
       "name": "D5",
-      "count": 129,
-      "pct": 2.5,
+      "count": 133,
+      "pct": 2.6,
       "label": "District Court (D5)"
     },
     {
@@ -393,7 +393,7 @@
     },
     {
       "name": "D6",
-      "count": 109,
+      "count": 110,
       "pct": 2.1,
       "label": "District Court (D6)"
     }
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2708,
+      "count": 2709,
       "pct": 44.7,
       "label": "Gross Misdemeanor"
     },
@@ -451,13 +451,13 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 13,
-      "pct": 2.9
+      "count": 14,
+      "pct": 3.2
     },
     {
       "name": "B",
-      "count": 16,
-      "pct": 3.6
+      "count": 15,
+      "pct": 3.4
     },
     {
       "name": "C",
@@ -476,8 +476,8 @@
     },
     {
       "name": "F",
-      "count": 108,
-      "pct": 24.3
+      "count": 107,
+      "pct": 24.2
     },
     {
       "name": "G",
@@ -508,39 +508,39 @@
   "releaseStatus": [
     {
       "name": "RELEASED",
-      "count": 831,
+      "count": 833,
       "pct": 100
     }
   ],
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 3144,
-      "pct": 51.8
+      "count": 3138,
+      "pct": 51.7
     },
     {
       "name": "COMBINED",
-      "count": 1849,
-      "pct": 30.5
+      "count": 1853,
+      "pct": 30.6
     },
     {
       "name": "BAIL BOND",
-      "count": 1071,
+      "count": 1074,
       "pct": 17.7
     }
   ],
   "stay": {
-    "releasedCount": 842,
+    "releasedCount": 844,
     "medianDays": 2.3,
-    "meanDays": 28.4,
+    "meanDays": 28.3,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 161
+        "count": 162
       },
       {
         "label": "1–3 days",
-        "count": 327
+        "count": 328
       },
       {
         "label": "3–7 days",
@@ -563,11 +563,11 @@
     "currentLongestDaysHeld": 1071.9
   },
   "bond": {
-    "withBond": 337,
-    "noBond": 127,
+    "withBond": 339,
+    "noBond": 123,
     "medianBond": 30000,
     "maxBond": 10005000,
-    "totalBond": 62580825
+    "totalBond": 62760825
   },
   "chargesPerBooking": 4.6
 }
