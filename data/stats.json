@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T23:55:16",
+  "generatedAt": "2026-11-21T00:55:17",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1307,
@@ -9,11 +9,6 @@
     "uniquePeople": 1267
   },
   "bookingsByDay": [
-    {
-      "date": "2026-10-22",
-      "booked": 17,
-      "released": 19
-    },
     {
       "date": "2026-10-23",
       "booked": 26,
@@ -158,6 +153,11 @@
       "date": "2026-11-20",
       "booked": 23,
       "released": 27
+    },
+    {
+      "date": "2026-11-21",
+      "booked": 0,
+      "released": 0
     }
   ],
   "topCharges": [
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 863,
+      "count": 864,
       "pct": 16.8,
       "label": "District Court (DARR)"
     },
@@ -357,7 +357,7 @@
     },
     {
       "name": "S8",
-      "count": 532,
+      "count": 535,
       "pct": 10.4,
       "label": "Superior Court (S8)"
     },
