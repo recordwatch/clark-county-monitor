@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-21T21:55:17",
+  "generatedAt": "2026-11-21T22:55:17",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1316,
-    "bookingsObserved": 847,
+    "bookingsTracked": 1317,
+    "bookingsObserved": 848,
     "releasesObserved": 849,
-    "inCustody": 467,
-    "uniquePeople": 1274
+    "inCustody": 468,
+    "uniquePeople": 1275
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-21",
-      "booked": 9,
+      "booked": 10,
       "released": 4
     }
   ],
@@ -169,7 +169,7 @@
     {
       "name": "ASSAULT-4 - DV",
       "count": 320,
-      "pct": 5.3
+      "pct": 5.2
     },
     {
       "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
@@ -271,7 +271,7 @@
     },
     {
       "name": "VPD",
-      "count": 307,
+      "count": 308,
       "pct": 23.5,
       "label": "Vancouver Police"
     },
@@ -407,7 +407,7 @@
     },
     {
       "name": "FC",
-      "count": 1385,
+      "count": 1386,
       "pct": 22.8,
       "label": "Class C Felony"
     },
@@ -456,13 +456,13 @@
     },
     {
       "name": "B",
-      "count": 16,
-      "pct": 3.6
+      "count": 17,
+      "pct": 3.8
     },
     {
       "name": "C",
       "count": 41,
-      "pct": 9.2
+      "pct": 9.1
     },
     {
       "name": "D",
@@ -477,12 +477,12 @@
     {
       "name": "F",
       "count": 107,
-      "pct": 23.9
+      "pct": 23.8
     },
     {
       "name": "G",
       "count": 98,
-      "pct": 21.9
+      "pct": 21.8
     },
     {
       "name": "H",
@@ -516,7 +516,7 @@
     {
       "name": "NONE",
       "count": 3142,
-      "pct": 51.7
+      "pct": 51.6
     },
     {
       "name": "COMBINED",
@@ -525,7 +525,7 @@
     },
     {
       "name": "BAIL BOND",
-      "count": 1086,
+      "count": 1087,
       "pct": 17.9
     }
   ],
@@ -559,15 +559,15 @@
         "count": 68
       }
     ],
-    "currentMedianDaysHeld": 51.9,
-    "currentLongestDaysHeld": 1072.9
+    "currentMedianDaysHeld": 52,
+    "currentLongestDaysHeld": 1073
   },
   "bond": {
-    "withBond": 345,
+    "withBond": 346,
     "noBond": 122,
     "medianBond": 30000,
     "maxBond": 10005000,
-    "totalBond": 62829425
+    "totalBond": 62834425
   },
   "chargesPerBooking": 4.6
 }
