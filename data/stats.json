@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-22T07:55:18",
+  "generatedAt": "2026-11-22T08:55:20",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1321,
-    "bookingsObserved": 852,
-    "releasesObserved": 849,
+    "bookingsTracked": 1322,
+    "bookingsObserved": 853,
+    "releasesObserved": 850,
     "inCustody": 472,
-    "uniquePeople": 1279
+    "uniquePeople": 1280
   },
   "bookingsByDay": [
     {
@@ -156,8 +156,8 @@
     },
     {
       "date": "2026-11-22",
-      "booked": 3,
-      "released": 0
+      "booked": 4,
+      "released": 1
     }
   ],
   "topCharges": [
@@ -248,8 +248,8 @@
     },
     {
       "name": "ASSAULT-3",
-      "count": 76,
-      "pct": 1.2
+      "count": 77,
+      "pct": 1.3
     },
     {
       "name": "IGNITION INTERLOCK VIOL-NOTATION ON DR REC-VERIFY INTERLOCK",
@@ -266,7 +266,7 @@
     {
       "name": "SO6",
       "count": 712,
-      "pct": 54.3,
+      "pct": 54.2,
       "label": "SO6"
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "CLS",
-      "count": 139,
-      "pct": 10.6,
+      "count": 140,
+      "pct": 10.7,
       "label": "CLS"
     },
     {
@@ -407,7 +407,7 @@
     },
     {
       "name": "FC",
-      "count": 1388,
+      "count": 1389,
       "pct": 22.8,
       "label": "Class C Felony"
     },
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 21,
-      "pct": 4.6
+      "count": 22,
+      "pct": 4.9
     },
     {
       "name": "C",
@@ -481,8 +481,8 @@
     },
     {
       "name": "G",
-      "count": 98,
-      "pct": 21.6
+      "count": 97,
+      "pct": 21.4
     },
     {
       "name": "H",
@@ -508,14 +508,14 @@
   "releaseStatus": [
     {
       "name": "RELEASED",
-      "count": 837,
+      "count": 838,
       "pct": 100
     }
   ],
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 3152,
+      "count": 3153,
       "pct": 51.7
     },
     {
@@ -530,13 +530,13 @@
     }
   ],
   "stay": {
-    "releasedCount": 848,
+    "releasedCount": 849,
     "medianDays": 2.3,
     "meanDays": 28.5,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 162
+        "count": 163
       },
       {
         "label": "1–3 days",
@@ -559,8 +559,8 @@
         "count": 68
       }
     ],
-    "currentMedianDaysHeld": 51.3,
-    "currentLongestDaysHeld": 1073.3
+    "currentMedianDaysHeld": 51.4,
+    "currentLongestDaysHeld": 1073.4
   },
   "bond": {
     "withBond": 347,
