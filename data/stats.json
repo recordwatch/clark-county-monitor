@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T12:55:16",
+  "generatedAt": "2026-11-22T13:28:46",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1322,
@@ -218,7 +218,7 @@
     },
     {
       "name": "ASSAULT-2 -DV",
-      "count": 102,
+      "count": 101,
       "pct": 1.7
     },
     {
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2721,
+      "count": 2722,
       "pct": 44.7,
       "label": "Gross Misdemeanor"
     },
@@ -413,7 +413,7 @@
     },
     {
       "name": "FB",
-      "count": 922,
+      "count": 921,
       "pct": 15.1,
       "label": "Class B Felony"
     },
@@ -559,8 +559,8 @@
         "count": 68
       }
     ],
-    "currentMedianDaysHeld": 51.5,
-    "currentLongestDaysHeld": 1073.5
+    "currentMedianDaysHeld": 51.6,
+    "currentLongestDaysHeld": 1073.6
   },
   "bond": {
     "withBond": 347,
