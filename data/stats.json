@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T13:55:15",
+  "generatedAt": "2026-11-22T14:55:15",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1322,
@@ -471,8 +471,8 @@
     },
     {
       "name": "E",
-      "count": 99,
-      "pct": 22
+      "count": 97,
+      "pct": 21.5
     },
     {
       "name": "F",
@@ -481,8 +481,8 @@
     },
     {
       "name": "G",
-      "count": 98,
-      "pct": 21.7
+      "count": 100,
+      "pct": 22.2
     },
     {
       "name": "H",
