@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T11:55:17",
+  "generatedAt": "2026-11-22T12:55:16",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1322,
@@ -456,23 +456,23 @@
     },
     {
       "name": "B",
-      "count": 22,
-      "pct": 4.9
+      "count": 23,
+      "pct": 5.1
     },
     {
       "name": "C",
-      "count": 40,
-      "pct": 8.8
+      "count": 41,
+      "pct": 9.1
     },
     {
       "name": "D",
-      "count": 32,
-      "pct": 7.1
+      "count": 33,
+      "pct": 7.3
     },
     {
       "name": "E",
-      "count": 101,
-      "pct": 22.3
+      "count": 99,
+      "pct": 21.9
     },
     {
       "name": "F",
@@ -481,8 +481,8 @@
     },
     {
       "name": "G",
-      "count": 97,
-      "pct": 21.5
+      "count": 98,
+      "pct": 21.7
     },
     {
       "name": "H",
@@ -498,11 +498,6 @@
       "name": "M",
       "count": 10,
       "pct": 2.2
-    },
-    {
-      "name": "NR",
-      "count": 2,
-      "pct": 0.4
     },
     {
       "name": "SKAMANIA",
