@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-22T14:55:15",
+  "generatedAt": "2026-11-22T15:55:22",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1322,
-    "bookingsObserved": 853,
+    "bookingsTracked": 1323,
+    "bookingsObserved": 854,
     "releasesObserved": 852,
-    "inCustody": 470,
-    "uniquePeople": 1280
+    "inCustody": 471,
+    "uniquePeople": 1281
   },
   "bookingsByDay": [
     {
@@ -178,7 +178,7 @@
     },
     {
       "name": "THEFT-3",
-      "count": 191,
+      "count": 192,
       "pct": 3.1
     },
     {
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2722,
+      "count": 2723,
       "pct": 44.7,
       "label": "Gross Misdemeanor"
     },
@@ -419,7 +419,7 @@
     },
     {
       "name": "M",
-      "count": 566,
+      "count": 568,
       "pct": 9.3,
       "label": "Misdemeanor"
     },
@@ -451,13 +451,13 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 14,
-      "pct": 3.1
+      "count": 12,
+      "pct": 2.7
     },
     {
       "name": "B",
-      "count": 23,
-      "pct": 5.1
+      "count": 18,
+      "pct": 4
     },
     {
       "name": "C",
@@ -471,23 +471,23 @@
     },
     {
       "name": "E",
-      "count": 97,
-      "pct": 21.5
+      "count": 99,
+      "pct": 22
     },
     {
       "name": "F",
-      "count": 105,
-      "pct": 23.3
+      "count": 106,
+      "pct": 23.5
     },
     {
       "name": "G",
-      "count": 100,
-      "pct": 22.2
+      "count": 103,
+      "pct": 22.8
     },
     {
       "name": "H",
-      "count": 19,
-      "pct": 4.2
+      "count": 20,
+      "pct": 4.4
     },
     {
       "name": "JDH",
@@ -559,12 +559,12 @@
         "count": 68
       }
     ],
-    "currentMedianDaysHeld": 51.6,
-    "currentLongestDaysHeld": 1073.6
+    "currentMedianDaysHeld": 51.7,
+    "currentLongestDaysHeld": 1073.7
   },
   "bond": {
     "withBond": 347,
-    "noBond": 123,
+    "noBond": 124,
     "medianBond": 30000,
     "maxBond": 10005000,
     "totalBond": 62806925
