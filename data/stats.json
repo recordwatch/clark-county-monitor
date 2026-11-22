@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-22T06:55:18",
+  "generatedAt": "2026-11-22T07:30:30",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1320,
-    "bookingsObserved": 851,
+    "bookingsTracked": 1321,
+    "bookingsObserved": 852,
     "releasesObserved": 849,
-    "inCustody": 471,
-    "uniquePeople": 1278
+    "inCustody": 472,
+    "uniquePeople": 1279
   },
   "bookingsByDay": [
     {
@@ -164,7 +164,7 @@
     {
       "name": "PROTECTION ORDER VIOLATION",
       "count": 571,
-      "pct": 9.4
+      "pct": 9.3
     },
     {
       "name": "ASSAULT-4 - DV",
@@ -218,8 +218,8 @@
     },
     {
       "name": "ASSAULT-2 -DV",
-      "count": 99,
-      "pct": 1.6
+      "count": 102,
+      "pct": 1.7
     },
     {
       "name": "RESISTING ARREST",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "SO6",
-      "count": 711,
-      "pct": 54.2,
+      "count": 712,
+      "pct": 54.3,
       "label": "SO6"
     },
     {
@@ -328,7 +328,7 @@
     {
       "name": "DARR",
       "count": 876,
-      "pct": 17,
+      "pct": 16.9,
       "label": "District Court (DARR)"
     },
     {
@@ -407,13 +407,13 @@
     },
     {
       "name": "FC",
-      "count": 1387,
+      "count": 1388,
       "pct": 22.8,
       "label": "Class C Felony"
     },
     {
       "name": "FB",
-      "count": 919,
+      "count": 922,
       "pct": 15.1,
       "label": "Class B Felony"
     },
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 20,
-      "pct": 4.4
+      "count": 21,
+      "pct": 4.6
     },
     {
       "name": "C",
@@ -477,12 +477,12 @@
     {
       "name": "F",
       "count": 107,
-      "pct": 23.7
+      "pct": 23.6
     },
     {
       "name": "G",
       "count": 98,
-      "pct": 21.7
+      "pct": 21.6
     },
     {
       "name": "H",
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 3148,
+      "count": 3152,
       "pct": 51.7
     },
     {
@@ -564,7 +564,7 @@
   },
   "bond": {
     "withBond": 347,
-    "noBond": 124,
+    "noBond": 125,
     "medianBond": 30000,
     "maxBond": 10005000,
     "totalBond": 62806925
