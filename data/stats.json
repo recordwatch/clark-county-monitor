@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T20:55:16",
+  "generatedAt": "2026-11-22T21:55:16",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1326,
@@ -328,7 +328,7 @@
     {
       "name": "DARR",
       "count": 878,
-      "pct": 17,
+      "pct": 16.9,
       "label": "District Court (DARR)"
     },
     {
@@ -407,7 +407,7 @@
     },
     {
       "name": "FC",
-      "count": 1390,
+      "count": 1391,
       "pct": 22.8,
       "label": "Class C Felony"
     },
@@ -426,7 +426,7 @@
     {
       "name": "FA",
       "count": 357,
-      "pct": 5.9,
+      "pct": 5.8,
       "label": "Class A Felony"
     },
     {
@@ -525,7 +525,7 @@
     },
     {
       "name": "BAIL BOND",
-      "count": 1088,
+      "count": 1089,
       "pct": 17.8
     }
   ],
@@ -567,7 +567,7 @@
     "noBond": 126,
     "medianBond": 30000,
     "maxBond": 10005000,
-    "totalBond": 62809925
+    "totalBond": 62810425
   },
   "chargesPerBooking": 4.6
 }
