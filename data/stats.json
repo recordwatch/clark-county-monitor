@@ -1,19 +1,14 @@
 {
-  "generatedAt": "2026-11-22T23:55:17",
+  "generatedAt": "2026-11-23T00:55:21",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1329,
-    "bookingsObserved": 860,
+    "bookingsTracked": 1330,
+    "bookingsObserved": 861,
     "releasesObserved": 852,
-    "inCustody": 477,
-    "uniquePeople": 1287
+    "inCustody": 478,
+    "uniquePeople": 1288
   },
   "bookingsByDay": [
-    {
-      "date": "2026-10-24",
-      "booked": 21,
-      "released": 7
-    },
     {
       "date": "2026-10-25",
       "booked": 19,
@@ -156,8 +151,13 @@
     },
     {
       "date": "2026-11-22",
-      "booked": 10,
+      "booked": 11,
       "released": 3
+    },
+    {
+      "date": "2026-11-23",
+      "booked": 1,
+      "released": 0
     }
   ],
   "topCharges": [
@@ -173,7 +173,7 @@
     },
     {
       "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
-      "count": 243,
+      "count": 244,
       "pct": 4
     },
     {
@@ -188,7 +188,7 @@
     },
     {
       "name": "ASSAULT-4",
-      "count": 153,
+      "count": 154,
       "pct": 2.5
     },
     {
@@ -266,13 +266,13 @@
     {
       "name": "SO6",
       "count": 712,
-      "pct": 54,
+      "pct": 53.9,
       "label": "SO6"
     },
     {
       "name": "VPD",
-      "count": 315,
-      "pct": 23.9,
+      "count": 317,
+      "pct": 24,
       "label": "Vancouver Police"
     },
     {
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 884,
-      "pct": 17,
+      "count": 887,
+      "pct": 17.1,
       "label": "District Court (DARR)"
     },
     {
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2731,
+      "count": 2734,
       "pct": 44.7,
       "label": "Gross Misdemeanor"
     },
@@ -456,13 +456,13 @@
     },
     {
       "name": "B",
-      "count": 22,
-      "pct": 4.8
+      "count": 23,
+      "pct": 5
     },
     {
       "name": "C",
       "count": 41,
-      "pct": 9
+      "pct": 8.9
     },
     {
       "name": "D",
@@ -482,7 +482,7 @@
     {
       "name": "G",
       "count": 103,
-      "pct": 22.5
+      "pct": 22.4
     },
     {
       "name": "H",
@@ -516,17 +516,17 @@
     {
       "name": "NONE",
       "count": 3164,
-      "pct": 51.8
+      "pct": 51.7
     },
     {
       "name": "COMBINED",
-      "count": 1860,
+      "count": 1861,
       "pct": 30.4
     },
     {
       "name": "BAIL BOND",
-      "count": 1090,
-      "pct": 17.8
+      "count": 1093,
+      "pct": 17.9
     }
   ],
   "stay": {
@@ -559,15 +559,15 @@
         "count": 68
       }
     ],
-    "currentMedianDaysHeld": 51,
+    "currentMedianDaysHeld": 50,
     "currentLongestDaysHeld": 1074
   },
   "bond": {
-    "withBond": 349,
+    "withBond": 350,
     "noBond": 128,
-    "medianBond": 30000,
+    "medianBond": 29000,
     "maxBond": 10005000,
-    "totalBond": 62811425
+    "totalBond": 62814425
   },
   "chargesPerBooking": 4.6
 }
