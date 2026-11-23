@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-23T06:55:20",
+  "generatedAt": "2026-11-23T07:55:21",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1330,
     "bookingsObserved": 861,
-    "releasesObserved": 853,
-    "inCustody": 477,
+    "releasesObserved": 854,
+    "inCustody": 476,
     "uniquePeople": 1288
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-11-23",
       "booked": 1,
-      "released": 1
+      "released": 2
     }
   ],
   "topCharges": [
@@ -199,7 +199,7 @@
     {
       "name": "PROTECTION ORDER VIO RESIDENCE,WORKPLACE, DAYCARE",
       "count": 138,
-      "pct": 2.3
+      "pct": 2.2
     },
     {
       "name": "CONTROLLED SUBSTANCE KNOWINGLY POSSESS",
@@ -333,7 +333,7 @@
     },
     {
       "name": "S3",
-      "count": 706,
+      "count": 704,
       "pct": 13.6,
       "label": "Superior Court (S3)"
     },
@@ -357,8 +357,8 @@
     },
     {
       "name": "S8",
-      "count": 508,
-      "pct": 9.8,
+      "count": 512,
+      "pct": 9.9,
       "label": "Superior Court (S8)"
     },
     {
@@ -407,7 +407,7 @@
     },
     {
       "name": "FC",
-      "count": 1391,
+      "count": 1392,
       "pct": 22.8,
       "label": "Class C Felony"
     },
@@ -472,12 +472,12 @@
     {
       "name": "E",
       "count": 99,
-      "pct": 21.6
+      "pct": 21.7
     },
     {
       "name": "F",
-      "count": 106,
-      "pct": 23.1
+      "count": 105,
+      "pct": 23
     },
     {
       "name": "G",
@@ -508,14 +508,14 @@
   "releaseStatus": [
     {
       "name": "RELEASED",
-      "count": 841,
+      "count": 842,
       "pct": 100
     }
   ],
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 3167,
+      "count": 3168,
       "pct": 51.7
     },
     {
@@ -530,7 +530,7 @@
     }
   ],
   "stay": {
-    "releasedCount": 852,
+    "releasedCount": 853,
     "medianDays": 2.3,
     "meanDays": 28.4,
     "buckets": [
@@ -548,7 +548,7 @@
       },
       {
         "label": "1–4 weeks",
-        "count": 95
+        "count": 96
       },
       {
         "label": "1–3 months",
@@ -559,12 +559,12 @@
         "count": 68
       }
     ],
-    "currentMedianDaysHeld": 50.3,
+    "currentMedianDaysHeld": 50.8,
     "currentLongestDaysHeld": 1074.3
   },
   "bond": {
     "withBond": 350,
-    "noBond": 127,
+    "noBond": 126,
     "medianBond": 29000,
     "maxBond": 10005000,
     "totalBond": 62814425
