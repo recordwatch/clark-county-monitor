@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-22T16:55:17",
+  "generatedAt": "2026-11-22T17:55:12",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1324,
-    "bookingsObserved": 855,
+    "bookingsTracked": 1325,
+    "bookingsObserved": 856,
     "releasesObserved": 852,
-    "inCustody": 472,
-    "uniquePeople": 1282
+    "inCustody": 473,
+    "uniquePeople": 1283
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-22",
-      "booked": 6,
+      "booked": 7,
       "released": 3
     }
   ],
@@ -413,7 +413,7 @@
     },
     {
       "name": "FB",
-      "count": 922,
+      "count": 923,
       "pct": 15.1,
       "label": "Class B Felony"
     },
@@ -456,13 +456,13 @@
     },
     {
       "name": "B",
-      "count": 17,
-      "pct": 3.8
+      "count": 19,
+      "pct": 4.2
     },
     {
       "name": "C",
       "count": 41,
-      "pct": 9.1
+      "pct": 9
     },
     {
       "name": "D",
@@ -472,17 +472,17 @@
     {
       "name": "E",
       "count": 99,
-      "pct": 21.9
+      "pct": 21.8
     },
     {
       "name": "F",
       "count": 106,
-      "pct": 23.4
+      "pct": 23.3
     },
     {
       "name": "G",
-      "count": 104,
-      "pct": 23
+      "count": 103,
+      "pct": 22.7
     },
     {
       "name": "H",
@@ -564,7 +564,7 @@
   },
   "bond": {
     "withBond": 348,
-    "noBond": 124,
+    "noBond": 125,
     "medianBond": 30000,
     "maxBond": 10005000,
     "totalBond": 62809925
