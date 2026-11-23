@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T13:55:17",
+  "generatedAt": "2026-11-23T14:08:54",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1335,
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-23",
-      "booked": 5,
+      "booked": 6,
       "released": 11
     }
   ],
@@ -183,7 +183,7 @@
     },
     {
       "name": "PROTECTION ORDER VIOL PREV CONVICTI",
-      "count": 186,
+      "count": 187,
       "pct": 3
     },
     {
@@ -339,7 +339,7 @@
     },
     {
       "name": "S9",
-      "count": 653,
+      "count": 652,
       "pct": 12.5,
       "label": "Superior Court (S9)"
     },
@@ -357,8 +357,8 @@
     },
     {
       "name": "S8",
-      "count": 549,
-      "pct": 10.5,
+      "count": 555,
+      "pct": 10.6,
       "label": "Superior Court (S8)"
     },
     {
@@ -407,7 +407,7 @@
     },
     {
       "name": "FC",
-      "count": 1396,
+      "count": 1397,
       "pct": 22.8,
       "label": "Class C Felony"
     },
@@ -515,8 +515,8 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 3184,
-      "pct": 51.8
+      "count": 3185,
+      "pct": 51.9
     },
     {
       "name": "COMBINED",
