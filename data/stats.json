@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T23:55:18",
+  "generatedAt": "2026-11-24T00:55:19",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1342,
@@ -9,11 +9,6 @@
     "uniquePeople": 1297
   },
   "bookingsByDay": [
-    {
-      "date": "2026-10-25",
-      "booked": 19,
-      "released": 3
-    },
     {
       "date": "2026-10-26",
       "booked": 4,
@@ -158,6 +153,11 @@
       "date": "2026-11-23",
       "booked": 12,
       "released": 34
+    },
+    {
+      "date": "2026-11-24",
+      "booked": 0,
+      "released": 0
     }
   ],
   "topCharges": [
@@ -265,13 +265,13 @@
   "topAgencies": [
     {
       "name": "SO6",
-      "count": 725,
-      "pct": 54.4,
+      "count": 726,
+      "pct": 54.5,
       "label": "SO6"
     },
     {
       "name": "VPD",
-      "count": 315,
+      "count": 314,
       "pct": 23.6,
       "label": "Vancouver Police"
     },
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 878,
+      "count": 877,
       "pct": 16.8,
       "label": "District Court (DARR)"
     },
@@ -357,7 +357,7 @@
     },
     {
       "name": "S8",
-      "count": 550,
+      "count": 552,
       "pct": 10.5,
       "label": "Superior Court (S8)"
     },
@@ -381,7 +381,7 @@
     },
     {
       "name": "D5",
-      "count": 145,
+      "count": 146,
       "pct": 2.8,
       "label": "District Court (D5)"
     },
@@ -515,17 +515,17 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 3198,
+      "count": 3195,
       "pct": 51.8
     },
     {
       "name": "COMBINED",
-      "count": 1874,
+      "count": 1876,
       "pct": 30.4
     },
     {
       "name": "BAIL BOND",
-      "count": 1096,
+      "count": 1097,
       "pct": 17.8
     }
   ],
@@ -563,11 +563,11 @@
     "currentLongestDaysHeld": 1075
   },
   "bond": {
-    "withBond": 339,
-    "noBond": 117,
+    "withBond": 340,
+    "noBond": 116,
     "medianBond": 30000,
     "maxBond": 10005000,
-    "totalBond": 62520625
+    "totalBond": 62718625
   },
   "chargesPerBooking": 4.6
 }
