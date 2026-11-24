@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-23T20:55:18",
+  "generatedAt": "2026-11-23T21:55:19",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1342,
     "bookingsObserved": 873,
-    "releasesObserved": 875,
-    "inCustody": 467,
+    "releasesObserved": 883,
+    "inCustody": 459,
     "uniquePeople": 1297
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-11-23",
       "booked": 12,
-      "released": 23
+      "released": 31
     }
   ],
   "topCharges": [
@@ -333,19 +333,19 @@
     },
     {
       "name": "S3",
-      "count": 714,
+      "count": 711,
       "pct": 13.6,
       "label": "Superior Court (S3)"
     },
     {
       "name": "S9",
-      "count": 657,
+      "count": 659,
       "pct": 12.6,
       "label": "Superior Court (S9)"
     },
     {
       "name": "S12",
-      "count": 605,
+      "count": 607,
       "pct": 11.6,
       "label": "Superior Court (S12)"
     },
@@ -357,8 +357,8 @@
     },
     {
       "name": "S8",
-      "count": 558,
-      "pct": 10.7,
+      "count": 557,
+      "pct": 10.6,
       "label": "Superior Court (S8)"
     },
     {
@@ -451,53 +451,53 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 14,
-      "pct": 3.1
+      "count": 13,
+      "pct": 3
     },
     {
       "name": "B",
-      "count": 20,
-      "pct": 4.5
+      "count": 18,
+      "pct": 4.1
     },
     {
       "name": "C",
-      "count": 36,
-      "pct": 8
+      "count": 37,
+      "pct": 8.4
     },
     {
       "name": "D",
       "count": 32,
-      "pct": 7.1
+      "pct": 7.3
     },
     {
       "name": "E",
-      "count": 103,
+      "count": 101,
       "pct": 23
     },
     {
       "name": "F",
-      "count": 102,
-      "pct": 22.8
+      "count": 101,
+      "pct": 23
     },
     {
       "name": "G",
       "count": 101,
-      "pct": 22.5
+      "pct": 23
     },
     {
       "name": "H",
-      "count": 21,
-      "pct": 4.7
+      "count": 18,
+      "pct": 4.1
     },
     {
       "name": "JDH",
       "count": 2,
-      "pct": 0.4
+      "pct": 0.5
     },
     {
       "name": "M",
       "count": 10,
-      "pct": 2.2
+      "pct": 2.3
     },
     {
       "name": "SKAMANIA",
@@ -508,20 +508,20 @@
   "releaseStatus": [
     {
       "name": "RELEASED",
-      "count": 863,
+      "count": 871,
       "pct": 100
     }
   ],
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 3200,
+      "count": 3197,
       "pct": 51.9
     },
     {
       "name": "COMBINED",
-      "count": 1869,
-      "pct": 30.3
+      "count": 1872,
+      "pct": 30.4
     },
     {
       "name": "BAIL BOND",
@@ -530,21 +530,21 @@
     }
   ],
   "stay": {
-    "releasedCount": 874,
+    "releasedCount": 882,
     "medianDays": 2.4,
-    "meanDays": 28.7,
+    "meanDays": 28.4,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 166
+        "count": 168
       },
       {
         "label": "1–3 days",
-        "count": 333
+        "count": 336
       },
       {
         "label": "3–7 days",
-        "count": 122
+        "count": 125
       },
       {
         "label": "1–4 weeks",
@@ -559,15 +559,15 @@
         "count": 71
       }
     ],
-    "currentMedianDaysHeld": 50.9,
+    "currentMedianDaysHeld": 52.9,
     "currentLongestDaysHeld": 1074.9
   },
   "bond": {
     "withBond": 339,
-    "noBond": 128,
+    "noBond": 120,
     "medianBond": 30000,
     "maxBond": 10005000,
-    "totalBond": 62385675
+    "totalBond": 62478175
   },
   "chargesPerBooking": 4.6
 }
