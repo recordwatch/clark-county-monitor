@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T05:55:20",
+  "generatedAt": "2026-11-24T06:55:17",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1343,
@@ -374,16 +374,16 @@
       "label": "District Court (D3)"
     },
     {
+      "name": "D5",
+      "count": 152,
+      "pct": 2.9,
+      "label": "District Court (D5)"
+    },
+    {
       "name": "D1",
       "count": 151,
       "pct": 2.9,
       "label": "District Court (D1)"
-    },
-    {
-      "name": "D5",
-      "count": 150,
-      "pct": 2.9,
-      "label": "District Court (D5)"
     },
     {
       "name": "D2",
@@ -393,7 +393,7 @@
     },
     {
       "name": "D6",
-      "count": 110,
+      "count": 108,
       "pct": 2.1,
       "label": "District Court (D6)"
     }
@@ -559,8 +559,8 @@
         "count": 71
       }
     ],
-    "currentMedianDaysHeld": 54.2,
-    "currentLongestDaysHeld": 1075.2
+    "currentMedianDaysHeld": 54.3,
+    "currentLongestDaysHeld": 1075.3
   },
   "bond": {
     "withBond": 340,
