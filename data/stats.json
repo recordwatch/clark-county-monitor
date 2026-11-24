@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T15:55:16",
+  "generatedAt": "2026-11-23T16:55:25",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1339,
@@ -178,8 +178,8 @@
     },
     {
       "name": "THEFT-3",
-      "count": 193,
-      "pct": 3.1
+      "count": 195,
+      "pct": 3.2
     },
     {
       "name": "PROTECTION ORDER VIOL PREV CONVICTI",
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 900,
+      "count": 897,
       "pct": 17.2,
       "label": "District Court (DARR)"
     },
@@ -357,7 +357,7 @@
     },
     {
       "name": "S8",
-      "count": 558,
+      "count": 560,
       "pct": 10.7,
       "label": "Superior Court (S8)"
     },
@@ -375,19 +375,19 @@
     },
     {
       "name": "D1",
-      "count": 147,
-      "pct": 2.8,
+      "count": 151,
+      "pct": 2.9,
       "label": "District Court (D1)"
     },
     {
       "name": "D5",
-      "count": 133,
-      "pct": 2.5,
+      "count": 134,
+      "pct": 2.6,
       "label": "District Court (D5)"
     },
     {
       "name": "D2",
-      "count": 116,
+      "count": 117,
       "pct": 2.2,
       "label": "District Court (D2)"
     },
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2751,
+      "count": 2754,
       "pct": 44.8,
       "label": "Gross Misdemeanor"
     },
@@ -414,7 +414,7 @@
     {
       "name": "FB",
       "count": 931,
-      "pct": 15.2,
+      "pct": 15.1,
       "label": "Class B Felony"
     },
     {
@@ -451,13 +451,13 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 12,
-      "pct": 2.6
+      "count": 14,
+      "pct": 3.1
     },
     {
       "name": "B",
-      "count": 21,
-      "pct": 4.6
+      "count": 20,
+      "pct": 4.4
     },
     {
       "name": "C",
@@ -481,8 +481,8 @@
     },
     {
       "name": "G",
-      "count": 101,
-      "pct": 22.1
+      "count": 100,
+      "pct": 21.9
     },
     {
       "name": "H",
@@ -515,17 +515,17 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 3188,
-      "pct": 51.8
+      "count": 3195,
+      "pct": 51.9
     },
     {
       "name": "COMBINED",
-      "count": 1862,
-      "pct": 30.3
+      "count": 1860,
+      "pct": 30.2
     },
     {
       "name": "BAIL BOND",
-      "count": 1102,
+      "count": 1100,
       "pct": 17.9
     }
   ],
@@ -567,7 +567,7 @@
     "noBond": 131,
     "medianBond": 30000,
     "maxBond": 10005000,
-    "totalBond": 62821175
+    "totalBond": 62796175
   },
   "chargesPerBooking": 4.6
 }
