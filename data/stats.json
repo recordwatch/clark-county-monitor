@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T00:55:19",
+  "generatedAt": "2026-11-24T01:55:17",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1342,
@@ -193,7 +193,7 @@
     },
     {
       "name": "HARASSMENT PREV CONV OR THREAT TO KILL",
-      "count": 148,
+      "count": 149,
       "pct": 2.4
     },
     {
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 877,
-      "pct": 16.8,
+      "count": 873,
+      "pct": 16.7,
       "label": "District Court (DARR)"
     },
     {
@@ -351,14 +351,14 @@
     },
     {
       "name": "S10",
-      "count": 582,
-      "pct": 11.1,
+      "count": 584,
+      "pct": 11.2,
       "label": "Superior Court (S10)"
     },
     {
       "name": "S8",
-      "count": 552,
-      "pct": 10.5,
+      "count": 557,
+      "pct": 10.6,
       "label": "Superior Court (S8)"
     },
     {
@@ -381,8 +381,8 @@
     },
     {
       "name": "D5",
-      "count": 146,
-      "pct": 2.8,
+      "count": 150,
+      "pct": 2.9,
       "label": "District Court (D5)"
     },
     {
@@ -401,19 +401,19 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2757,
-      "pct": 44.8,
+      "count": 2756,
+      "pct": 44.7,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
-      "count": 1403,
+      "count": 1405,
       "pct": 22.8,
       "label": "Class C Felony"
     },
     {
       "name": "FB",
-      "count": 932,
+      "count": 931,
       "pct": 15.1,
       "label": "Class B Felony"
     },
@@ -559,15 +559,15 @@
         "count": 71
       }
     ],
-    "currentMedianDaysHeld": 54,
-    "currentLongestDaysHeld": 1075
+    "currentMedianDaysHeld": 54.1,
+    "currentLongestDaysHeld": 1075.1
   },
   "bond": {
     "withBond": 340,
     "noBond": 116,
     "medianBond": 30000,
     "maxBond": 10005000,
-    "totalBond": 62718625
+    "totalBond": 62716425
   },
   "chargesPerBooking": 4.6
 }
