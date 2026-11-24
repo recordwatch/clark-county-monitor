@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-24T01:55:17",
+  "generatedAt": "2026-11-24T02:55:23",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1342,
-    "bookingsObserved": 873,
+    "bookingsTracked": 1343,
+    "bookingsObserved": 874,
     "releasesObserved": 886,
-    "inCustody": 456,
-    "uniquePeople": 1297
+    "inCustody": 457,
+    "uniquePeople": 1298
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-24",
-      "booked": 0,
+      "booked": 1,
       "released": 0
     }
   ],
@@ -266,12 +266,12 @@
     {
       "name": "SO6",
       "count": 726,
-      "pct": 54.5,
+      "pct": 54.4,
       "label": "SO6"
     },
     {
       "name": "VPD",
-      "count": 314,
+      "count": 315,
       "pct": 23.6,
       "label": "Vancouver Police"
     },
@@ -302,7 +302,7 @@
     {
       "name": "WGP",
       "count": 14,
-      "pct": 1.1,
+      "pct": 1,
       "label": "WGP"
     },
     {
@@ -320,14 +320,14 @@
     {
       "name": "TRB",
       "count": 10,
-      "pct": 0.8,
+      "pct": 0.7,
       "label": "TRB"
     }
   ],
   "courts": [
     {
       "name": "DARR",
-      "count": 873,
+      "count": 874,
       "pct": 16.7,
       "label": "District Court (DARR)"
     },
@@ -346,7 +346,7 @@
     {
       "name": "S12",
       "count": 615,
-      "pct": 11.8,
+      "pct": 11.7,
       "label": "Superior Court (S12)"
     },
     {
@@ -401,8 +401,8 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2756,
-      "pct": 44.7,
+      "count": 2757,
+      "pct": 44.8,
       "label": "Gross Misdemeanor"
     },
     {
@@ -456,13 +456,13 @@
     },
     {
       "name": "B",
-      "count": 14,
-      "pct": 3.2
+      "count": 15,
+      "pct": 3.4
     },
     {
       "name": "C",
       "count": 37,
-      "pct": 8.5
+      "pct": 8.4
     },
     {
       "name": "D",
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 3195,
+      "count": 3196,
       "pct": 51.8
     },
     {
@@ -564,7 +564,7 @@
   },
   "bond": {
     "withBond": 340,
-    "noBond": 116,
+    "noBond": 117,
     "medianBond": 30000,
     "maxBond": 10005000,
     "totalBond": 62716425
