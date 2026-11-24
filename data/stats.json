@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T22:55:22",
+  "generatedAt": "2026-11-23T23:55:18",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1342,
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "SO6",
-      "count": 724,
-      "pct": 54.3,
+      "count": 725,
+      "pct": 54.4,
       "label": "SO6"
     },
     {
       "name": "VPD",
-      "count": 316,
-      "pct": 23.7,
+      "count": 315,
+      "pct": 23.6,
       "label": "Vancouver Police"
     },
     {
@@ -327,13 +327,13 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 884,
-      "pct": 16.9,
+      "count": 878,
+      "pct": 16.8,
       "label": "District Court (DARR)"
     },
     {
       "name": "S3",
-      "count": 707,
+      "count": 705,
       "pct": 13.5,
       "label": "Superior Court (S3)"
     },
@@ -345,8 +345,8 @@
     },
     {
       "name": "S12",
-      "count": 610,
-      "pct": 11.7,
+      "count": 615,
+      "pct": 11.8,
       "label": "Superior Court (S12)"
     },
     {
@@ -357,8 +357,8 @@
     },
     {
       "name": "S8",
-      "count": 554,
-      "pct": 10.6,
+      "count": 550,
+      "pct": 10.5,
       "label": "Superior Court (S8)"
     },
     {
@@ -381,8 +381,8 @@
     },
     {
       "name": "D5",
-      "count": 142,
-      "pct": 2.7,
+      "count": 145,
+      "pct": 2.8,
       "label": "District Court (D5)"
     },
     {
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 15,
-      "pct": 3.4
+      "count": 14,
+      "pct": 3.2
     },
     {
       "name": "C",
@@ -481,8 +481,8 @@
     },
     {
       "name": "G",
-      "count": 101,
-      "pct": 23.1
+      "count": 102,
+      "pct": 23.3
     },
     {
       "name": "H",
@@ -515,18 +515,18 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 3202,
-      "pct": 51.9
+      "count": 3198,
+      "pct": 51.8
     },
     {
       "name": "COMBINED",
-      "count": 1873,
+      "count": 1874,
       "pct": 30.4
     },
     {
       "name": "BAIL BOND",
-      "count": 1093,
-      "pct": 17.7
+      "count": 1096,
+      "pct": 17.8
     }
   ],
   "stay": {
@@ -563,11 +563,11 @@
     "currentLongestDaysHeld": 1075
   },
   "bond": {
-    "withBond": 338,
-    "noBond": 118,
+    "withBond": 339,
+    "noBond": 117,
     "medianBond": 30000,
     "maxBond": 10005000,
-    "totalBond": 62514675
+    "totalBond": 62520625
   },
   "chargesPerBooking": 4.6
 }
