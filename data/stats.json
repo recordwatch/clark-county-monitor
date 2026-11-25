@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T13:53:33",
+  "generatedAt": "2026-11-25T13:55:20",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1377,
@@ -333,31 +333,31 @@
     },
     {
       "name": "S3",
-      "count": 729,
-      "pct": 13.6,
+      "count": 730,
+      "pct": 13.7,
       "label": "Superior Court (S3)"
     },
     {
       "name": "S9",
-      "count": 652,
-      "pct": 12.2,
+      "count": 656,
+      "pct": 12.3,
       "label": "Superior Court (S9)"
     },
     {
       "name": "S12",
-      "count": 601,
-      "pct": 11.2,
+      "count": 604,
+      "pct": 11.3,
       "label": "Superior Court (S12)"
     },
     {
       "name": "S8",
-      "count": 591,
-      "pct": 11.1,
+      "count": 588,
+      "pct": 11,
       "label": "Superior Court (S8)"
     },
     {
       "name": "S10",
-      "count": 578,
+      "count": 576,
       "pct": 10.8,
       "label": "Superior Court (S10)"
     },
@@ -401,19 +401,19 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2821,
+      "count": 2822,
       "pct": 44.9,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
-      "count": 1420,
+      "count": 1421,
       "pct": 22.6,
       "label": "Class C Felony"
     },
     {
       "name": "FB",
-      "count": 943,
+      "count": 942,
       "pct": 15,
       "label": "Class B Felony"
     },
@@ -520,7 +520,7 @@
     },
     {
       "name": "COMBINED",
-      "count": 1890,
+      "count": 1891,
       "pct": 30.1
     },
     {
