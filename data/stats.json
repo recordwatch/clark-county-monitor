@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T02:55:17",
+  "generatedAt": "2026-11-25T03:55:18",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1366,
@@ -265,13 +265,13 @@
   "topAgencies": [
     {
       "name": "SO6",
-      "count": 731,
+      "count": 732,
       "pct": 53.9,
       "label": "SO6"
     },
     {
       "name": "VPD",
-      "count": 322,
+      "count": 321,
       "pct": 23.7,
       "label": "Vancouver Police"
     },
@@ -351,7 +351,7 @@
     },
     {
       "name": "S10",
-      "count": 589,
+      "count": 590,
       "pct": 11.1,
       "label": "Superior Court (S10)"
     },
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 23,
-      "pct": 5.1
+      "count": 22,
+      "pct": 4.9
     },
     {
       "name": "C",
@@ -471,8 +471,8 @@
     },
     {
       "name": "E",
-      "count": 104,
-      "pct": 23.2
+      "count": 105,
+      "pct": 23.4
     },
     {
       "name": "F",
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 3246,
+      "count": 3245,
       "pct": 51.9
     },
     {
@@ -525,7 +525,7 @@
     },
     {
       "name": "BAIL BOND",
-      "count": 1121,
+      "count": 1122,
       "pct": 17.9
     },
     {
@@ -564,15 +564,15 @@
         "count": 71
       }
     ],
-    "currentMedianDaysHeld": 51.1,
-    "currentLongestDaysHeld": 1076.1
+    "currentMedianDaysHeld": 51.2,
+    "currentLongestDaysHeld": 1076.2
   },
   "bond": {
     "withBond": 346,
     "noBond": 122,
     "medianBond": 27750,
     "maxBond": 10005000,
-    "totalBond": 62007025
+    "totalBond": 62016025
   },
   "chargesPerBooking": 4.6
 }
