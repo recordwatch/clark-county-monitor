@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-25T14:55:17",
+  "generatedAt": "2026-11-25T15:55:18",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1379,
     "bookingsObserved": 910,
-    "releasesObserved": 909,
-    "inCustody": 470,
+    "releasesObserved": 910,
+    "inCustody": 469,
     "uniquePeople": 1331
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-11-25",
       "booked": 17,
-      "released": 11
+      "released": 12
     }
   ],
   "topCharges": [
@@ -339,25 +339,25 @@
     },
     {
       "name": "S9",
-      "count": 659,
-      "pct": 12.3,
+      "count": 663,
+      "pct": 12.4,
       "label": "Superior Court (S9)"
     },
     {
       "name": "S12",
-      "count": 614,
+      "count": 617,
       "pct": 11.5,
       "label": "Superior Court (S12)"
     },
     {
       "name": "S8",
-      "count": 582,
-      "pct": 10.9,
+      "count": 577,
+      "pct": 10.8,
       "label": "Superior Court (S8)"
     },
     {
       "name": "S10",
-      "count": 572,
+      "count": 570,
       "pct": 10.7,
       "label": "Superior Court (S10)"
     },
@@ -456,13 +456,13 @@
     },
     {
       "name": "B",
-      "count": 31,
-      "pct": 6.8
+      "count": 28,
+      "pct": 6.2
     },
     {
       "name": "C",
-      "count": 40,
-      "pct": 8.8
+      "count": 39,
+      "pct": 8.6
     },
     {
       "name": "D",
@@ -471,23 +471,23 @@
     },
     {
       "name": "E",
-      "count": 103,
-      "pct": 22.7
+      "count": 102,
+      "pct": 22.6
     },
     {
       "name": "F",
-      "count": 100,
-      "pct": 22.1
+      "count": 101,
+      "pct": 22.3
     },
     {
       "name": "G",
-      "count": 97,
-      "pct": 21.4
+      "count": 99,
+      "pct": 21.9
     },
     {
       "name": "H",
-      "count": 17,
-      "pct": 3.8
+      "count": 18,
+      "pct": 4
     },
     {
       "name": "JDH",
@@ -508,7 +508,7 @@
   "releaseStatus": [
     {
       "name": "RELEASED",
-      "count": 897,
+      "count": 898,
       "pct": 100
     }
   ],
@@ -535,13 +535,13 @@
     }
   ],
   "stay": {
-    "releasedCount": 908,
+    "releasedCount": 909,
     "medianDays": 2.5,
     "meanDays": 29.4,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 170
+        "count": 171
       },
       {
         "label": "1–3 days",
@@ -564,15 +564,15 @@
         "count": 75
       }
     ],
-    "currentMedianDaysHeld": 49.6,
-    "currentLongestDaysHeld": 1076.6
+    "currentMedianDaysHeld": 49.7,
+    "currentLongestDaysHeld": 1076.7
   },
   "bond": {
-    "withBond": 351,
+    "withBond": 350,
     "noBond": 119,
-    "medianBond": 25000,
+    "medianBond": 25125,
     "maxBond": 10005000,
-    "totalBond": 62044625
+    "totalBond": 62037125
   },
   "chargesPerBooking": 4.6
 }
