@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-24T17:55:18",
+  "generatedAt": "2026-11-24T18:41:48",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1356,
-    "bookingsObserved": 887,
+    "bookingsTracked": 1357,
+    "bookingsObserved": 888,
     "releasesObserved": 889,
-    "inCustody": 467,
-    "uniquePeople": 1310
+    "inCustody": 468,
+    "uniquePeople": 1311
   },
   "bookingsByDay": [
     {
@@ -271,7 +271,7 @@
     },
     {
       "name": "VPD",
-      "count": 320,
+      "count": 321,
       "pct": 23.8,
       "label": "Vancouver Police"
     },
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 879,
+      "count": 878,
       "pct": 16.6,
       "label": "District Court (DARR)"
     },
@@ -375,14 +375,14 @@
     },
     {
       "name": "D1",
-      "count": 163,
-      "pct": 3.1,
+      "count": 158,
+      "pct": 3,
       "label": "District Court (D1)"
     },
     {
       "name": "D5",
-      "count": 153,
-      "pct": 2.9,
+      "count": 158,
+      "pct": 3,
       "label": "District Court (D5)"
     },
     {
@@ -419,8 +419,8 @@
     },
     {
       "name": "M",
-      "count": 574,
-      "pct": 9.2,
+      "count": 575,
+      "pct": 9.3,
       "label": "Misdemeanor"
     },
     {
@@ -452,7 +452,7 @@
     {
       "name": "A",
       "count": 11,
-      "pct": 2.5
+      "pct": 2.4
     },
     {
       "name": "B",
@@ -462,7 +462,7 @@
     {
       "name": "C",
       "count": 41,
-      "pct": 9.2
+      "pct": 9.1
     },
     {
       "name": "D",
@@ -476,8 +476,8 @@
     },
     {
       "name": "F",
-      "count": 101,
-      "pct": 22.5
+      "count": 102,
+      "pct": 22.7
     },
     {
       "name": "G",
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 3230,
+      "count": 3229,
       "pct": 51.9
     },
     {
@@ -525,7 +525,7 @@
     },
     {
       "name": "BAIL BOND",
-      "count": 1107,
+      "count": 1109,
       "pct": 17.8
     },
     {
@@ -564,15 +564,15 @@
         "count": 71
       }
     ],
-    "currentMedianDaysHeld": 52.2,
-    "currentLongestDaysHeld": 1075.7
+    "currentMedianDaysHeld": 51.8,
+    "currentLongestDaysHeld": 1075.8
   },
   "bond": {
-    "withBond": 344,
-    "noBond": 123,
+    "withBond": 346,
+    "noBond": 122,
     "medianBond": 30000,
     "maxBond": 10005000,
-    "totalBond": 62802425
+    "totalBond": 62803025
   },
   "chargesPerBooking": 4.6
 }
