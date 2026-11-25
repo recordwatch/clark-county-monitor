@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-25T08:55:15",
+  "generatedAt": "2026-11-25T09:55:18",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1370,
-    "bookingsObserved": 901,
-    "releasesObserved": 903,
-    "inCustody": 467,
-    "uniquePeople": 1323
+    "bookingsTracked": 1372,
+    "bookingsObserved": 903,
+    "releasesObserved": 904,
+    "inCustody": 468,
+    "uniquePeople": 1324
   },
   "bookingsByDay": [
     {
@@ -156,19 +156,19 @@
     },
     {
       "date": "2026-11-25",
-      "booked": 9,
-      "released": 5
+      "booked": 10,
+      "released": 6
     }
   ],
   "topCharges": [
     {
       "name": "PROTECTION ORDER VIOLATION",
-      "count": 579,
-      "pct": 9.2
+      "count": 584,
+      "pct": 9.3
     },
     {
       "name": "ASSAULT-4 - DV",
-      "count": 332,
+      "count": 333,
       "pct": 5.3
     },
     {
@@ -271,13 +271,13 @@
     },
     {
       "name": "VPD",
-      "count": 323,
-      "pct": 23.7,
+      "count": 324,
+      "pct": 23.8,
       "label": "Vancouver Police"
     },
     {
       "name": "CLS",
-      "count": 148,
+      "count": 149,
       "pct": 10.9,
       "label": "CLS"
     },
@@ -327,14 +327,14 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 901,
-      "pct": 16.9,
+      "count": 907,
+      "pct": 17,
       "label": "District Court (DARR)"
     },
     {
       "name": "S3",
       "count": 722,
-      "pct": 13.6,
+      "pct": 13.5,
       "label": "Superior Court (S3)"
     },
     {
@@ -345,21 +345,21 @@
     },
     {
       "name": "S12",
-      "count": 616,
-      "pct": 11.6,
+      "count": 610,
+      "pct": 11.4,
       "label": "Superior Court (S12)"
+    },
+    {
+      "name": "S8",
+      "count": 584,
+      "pct": 11,
+      "label": "Superior Court (S8)"
     },
     {
       "name": "S10",
       "count": 583,
-      "pct": 11,
-      "label": "Superior Court (S10)"
-    },
-    {
-      "name": "S8",
-      "count": 578,
       "pct": 10.9,
-      "label": "Superior Court (S8)"
+      "label": "Superior Court (S10)"
     },
     {
       "name": "D4",
@@ -374,16 +374,16 @@
       "label": "District Court (D3)"
     },
     {
-      "name": "D1",
-      "count": 158,
-      "pct": 3,
-      "label": "District Court (D1)"
-    },
-    {
       "name": "D5",
       "count": 158,
       "pct": 3,
       "label": "District Court (D5)"
+    },
+    {
+      "name": "D1",
+      "count": 157,
+      "pct": 2.9,
+      "label": "District Court (D1)"
     },
     {
       "name": "D2",
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2806,
+      "count": 2812,
       "pct": 44.9,
       "label": "Gross Misdemeanor"
     },
@@ -452,12 +452,12 @@
     {
       "name": "A",
       "count": 11,
-      "pct": 2.5
+      "pct": 2.4
     },
     {
       "name": "B",
-      "count": 26,
-      "pct": 5.8
+      "count": 28,
+      "pct": 6.2
     },
     {
       "name": "C",
@@ -472,17 +472,17 @@
     {
       "name": "E",
       "count": 103,
-      "pct": 23
+      "pct": 22.9
     },
     {
       "name": "F",
-      "count": 101,
-      "pct": 22.5
+      "count": 100,
+      "pct": 22.3
     },
     {
       "name": "G",
       "count": 99,
-      "pct": 22.1
+      "pct": 22
     },
     {
       "name": "H",
@@ -508,20 +508,20 @@
   "releaseStatus": [
     {
       "name": "RELEASED",
-      "count": 891,
+      "count": 892,
       "pct": 100
     }
   ],
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 3247,
-      "pct": 51.8
+      "count": 3253,
+      "pct": 51.9
     },
     {
       "name": "COMBINED",
       "count": 1890,
-      "pct": 30.2
+      "pct": 30.1
     },
     {
       "name": "BAIL BOND",
@@ -535,7 +535,7 @@
     }
   ],
   "stay": {
-    "releasedCount": 902,
+    "releasedCount": 903,
     "medianDays": 2.5,
     "meanDays": 29.5,
     "buckets": [
@@ -549,7 +549,7 @@
       },
       {
         "label": "3–7 days",
-        "count": 130
+        "count": 131
       },
       {
         "label": "1–4 weeks",
@@ -569,7 +569,7 @@
   },
   "bond": {
     "withBond": 350,
-    "noBond": 117,
+    "noBond": 118,
     "medianBond": 25125,
     "maxBond": 10005000,
     "totalBond": 62037525
