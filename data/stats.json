@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-26T01:55:20",
+  "generatedAt": "2026-11-26T02:55:20",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1382,
-    "bookingsObserved": 913,
+    "bookingsTracked": 1383,
+    "bookingsObserved": 914,
     "releasesObserved": 924,
-    "inCustody": 458,
-    "uniquePeople": 1333
+    "inCustody": 459,
+    "uniquePeople": 1334
   },
   "bookingsByDay": [
     {
@@ -266,7 +266,7 @@
     {
       "name": "SO6",
       "count": 738,
-      "pct": 53.8,
+      "pct": 53.7,
       "label": "SO6"
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "CLS",
-      "count": 151,
-      "pct": 11,
+      "count": 152,
+      "pct": 11.1,
       "label": "CLS"
     },
     {
@@ -413,7 +413,7 @@
     },
     {
       "name": "FB",
-      "count": 948,
+      "count": 949,
       "pct": 15,
       "label": "Class B Felony"
     },
@@ -456,13 +456,13 @@
     },
     {
       "name": "B",
-      "count": 12,
-      "pct": 2.7
+      "count": 13,
+      "pct": 2.9
     },
     {
       "name": "C",
       "count": 40,
-      "pct": 9.1
+      "pct": 9
     },
     {
       "name": "D",
@@ -477,7 +477,7 @@
     {
       "name": "F",
       "count": 103,
-      "pct": 23.4
+      "pct": 23.3
     },
     {
       "name": "G",
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 3309,
+      "count": 3310,
       "pct": 52.4
     },
     {
@@ -569,7 +569,7 @@
   },
   "bond": {
     "withBond": 335,
-    "noBond": 123,
+    "noBond": 124,
     "medianBond": 30000,
     "maxBond": 10005000,
     "totalBond": 61867625
