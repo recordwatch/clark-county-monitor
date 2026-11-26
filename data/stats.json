@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T22:55:19",
+  "generatedAt": "2026-11-25T23:55:19",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1382,
@@ -327,37 +327,37 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 918,
-      "pct": 17.1,
+      "count": 914,
+      "pct": 17,
       "label": "District Court (DARR)"
     },
     {
       "name": "S3",
-      "count": 730,
-      "pct": 13.6,
+      "count": 719,
+      "pct": 13.4,
       "label": "Superior Court (S3)"
     },
     {
       "name": "S9",
-      "count": 682,
-      "pct": 12.7,
+      "count": 685,
+      "pct": 12.8,
       "label": "Superior Court (S9)"
     },
     {
       "name": "S12",
-      "count": 631,
-      "pct": 11.8,
+      "count": 642,
+      "pct": 12,
       "label": "Superior Court (S12)"
     },
     {
       "name": "S10",
-      "count": 569,
+      "count": 571,
       "pct": 10.6,
       "label": "Superior Court (S10)"
     },
     {
       "name": "S8",
-      "count": 553,
+      "count": 551,
       "pct": 10.3,
       "label": "Superior Court (S8)"
     },
@@ -375,7 +375,7 @@
     },
     {
       "name": "D1",
-      "count": 159,
+      "count": 163,
       "pct": 3,
       "label": "District Court (D1)"
     },
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 15,
-      "pct": 3.4
+      "count": 14,
+      "pct": 3.2
     },
     {
       "name": "C",
@@ -476,8 +476,8 @@
     },
     {
       "name": "F",
-      "count": 102,
-      "pct": 23.1
+      "count": 103,
+      "pct": 23.4
     },
     {
       "name": "G",
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 3300,
+      "count": 3301,
       "pct": 52.2
     },
     {
@@ -525,7 +525,7 @@
     },
     {
       "name": "BAIL BOND",
-      "count": 1130,
+      "count": 1129,
       "pct": 17.9
     },
     {
@@ -572,7 +572,7 @@
     "noBond": 122,
     "medianBond": 30000,
     "maxBond": 10005000,
-    "totalBond": 61906306.58
+    "totalBond": 61892625
   },
   "chargesPerBooking": 4.6
 }
