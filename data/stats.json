@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T13:55:17",
+  "generatedAt": "2026-11-26T14:32:00",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1390,
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-26",
-      "booked": 5,
+      "booked": 6,
       "released": 3
     }
   ],
@@ -266,12 +266,12 @@
     {
       "name": "SO6",
       "count": 738,
-      "pct": 53.5,
+      "pct": 53.4,
       "label": "SO6"
     },
     {
       "name": "VPD",
-      "count": 332,
+      "count": 333,
       "pct": 24.1,
       "label": "Vancouver Police"
     },
@@ -334,12 +334,12 @@
     {
       "name": "S3",
       "count": 715,
-      "pct": 13.3,
+      "pct": 13.2,
       "label": "Superior Court (S3)"
     },
     {
       "name": "S9",
-      "count": 713,
+      "count": 714,
       "pct": 13.2,
       "label": "Superior Court (S9)"
     },
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 3318,
+      "count": 3319,
       "pct": 52.3
     },
     {
