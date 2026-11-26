@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-26T09:55:17",
+  "generatedAt": "2026-11-26T10:55:16",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1387,
-    "bookingsObserved": 918,
+    "bookingsTracked": 1388,
+    "bookingsObserved": 919,
     "releasesObserved": 926,
-    "inCustody": 461,
-    "uniquePeople": 1338
+    "inCustody": 462,
+    "uniquePeople": 1339
   },
   "bookingsByDay": [
     {
@@ -271,7 +271,7 @@
     },
     {
       "name": "VPD",
-      "count": 329,
+      "count": 330,
       "pct": 23.9,
       "label": "Vancouver Police"
     },
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 915,
+      "count": 917,
       "pct": 17,
       "label": "District Court (DARR)"
     },
@@ -339,7 +339,7 @@
     },
     {
       "name": "S9",
-      "count": 709,
+      "count": 711,
       "pct": 13.2,
       "label": "Superior Court (S9)"
     },
@@ -401,14 +401,14 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2841,
+      "count": 2843,
       "pct": 44.9,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
       "count": 1435,
-      "pct": 22.7,
+      "pct": 22.6,
       "label": "Class C Felony"
     },
     {
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 3314,
+      "count": 3315,
       "pct": 52.3
     },
     {
@@ -525,7 +525,7 @@
     },
     {
       "name": "BAIL BOND",
-      "count": 1130,
+      "count": 1131,
       "pct": 17.8
     },
     {
@@ -564,15 +564,15 @@
         "count": 77
       }
     ],
-    "currentMedianDaysHeld": 50.4,
-    "currentLongestDaysHeld": 1077.4
+    "currentMedianDaysHeld": 50.5,
+    "currentLongestDaysHeld": 1077.5
   },
   "bond": {
-    "withBond": 335,
+    "withBond": 336,
     "noBond": 126,
     "medianBond": 30000,
     "maxBond": 10005000,
-    "totalBond": 61894225
+    "totalBond": 61896225
   },
   "chargesPerBooking": 4.6
 }
