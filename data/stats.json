@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T21:55:16",
+  "generatedAt": "2026-11-25T22:55:19",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1382,
@@ -277,8 +277,8 @@
     },
     {
       "name": "CLS",
-      "count": 151,
-      "pct": 11,
+      "count": 152,
+      "pct": 11.1,
       "label": "CLS"
     },
     {
@@ -375,8 +375,8 @@
     },
     {
       "name": "D1",
-      "count": 158,
-      "pct": 2.9,
+      "count": 159,
+      "pct": 3,
       "label": "District Court (D1)"
     },
     {
@@ -564,15 +564,15 @@
         "count": 76
       }
     ],
-    "currentMedianDaysHeld": 51.9,
-    "currentLongestDaysHeld": 1076.9
+    "currentMedianDaysHeld": 51.5,
+    "currentLongestDaysHeld": 1077
   },
   "bond": {
     "withBond": 336,
     "noBond": 122,
     "medianBond": 30000,
     "maxBond": 10005000,
-    "totalBond": 61862806.58
+    "totalBond": 61906306.58
   },
   "chargesPerBooking": 4.6
 }
