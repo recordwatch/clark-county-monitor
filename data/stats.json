@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-26T12:55:16",
+  "generatedAt": "2026-11-26T13:55:17",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1388,
-    "bookingsObserved": 919,
+    "bookingsTracked": 1390,
+    "bookingsObserved": 921,
     "releasesObserved": 927,
-    "inCustody": 461,
-    "uniquePeople": 1339
+    "inCustody": 463,
+    "uniquePeople": 1340
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-26",
-      "booked": 4,
+      "booked": 5,
       "released": 3
     }
   ],
@@ -173,7 +173,7 @@
     },
     {
       "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
-      "count": 254,
+      "count": 255,
       "pct": 4
     },
     {
@@ -218,7 +218,7 @@
     },
     {
       "name": "ASSAULT-2 -DV",
-      "count": 101,
+      "count": 102,
       "pct": 1.6
     },
     {
@@ -266,19 +266,19 @@
     {
       "name": "SO6",
       "count": 738,
-      "pct": 53.6,
+      "pct": 53.5,
       "label": "SO6"
     },
     {
       "name": "VPD",
-      "count": 331,
-      "pct": 24,
+      "count": 332,
+      "pct": 24.1,
       "label": "Vancouver Police"
     },
     {
       "name": "CLS",
-      "count": 152,
-      "pct": 11,
+      "count": 153,
+      "pct": 11.1,
       "label": "CLS"
     },
     {
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 917,
+      "count": 918,
       "pct": 17,
       "label": "District Court (DARR)"
     },
@@ -352,7 +352,7 @@
     {
       "name": "S10",
       "count": 569,
-      "pct": 10.6,
+      "pct": 10.5,
       "label": "Superior Court (S10)"
     },
     {
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2843,
+      "count": 2845,
       "pct": 44.9,
       "label": "Gross Misdemeanor"
     },
@@ -413,7 +413,7 @@
     },
     {
       "name": "FB",
-      "count": 954,
+      "count": 956,
       "pct": 15.1,
       "label": "Class B Felony"
     },
@@ -426,7 +426,7 @@
     {
       "name": "FA",
       "count": 358,
-      "pct": 5.7,
+      "pct": 5.6,
       "label": "Class A Felony"
     },
     {
@@ -437,7 +437,7 @@
     },
     {
       "name": "O",
-      "count": 47,
+      "count": 46,
       "pct": 0.7,
       "label": "O"
     },
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 16,
-      "pct": 3.6
+      "count": 18,
+      "pct": 4
     },
     {
       "name": "C",
@@ -472,17 +472,17 @@
     {
       "name": "E",
       "count": 100,
-      "pct": 22.5
+      "pct": 22.4
     },
     {
       "name": "F",
       "count": 103,
-      "pct": 23.2
+      "pct": 23.1
     },
     {
       "name": "G",
       "count": 100,
-      "pct": 22.5
+      "pct": 22.4
     },
     {
       "name": "H",
@@ -492,12 +492,12 @@
     {
       "name": "JDH",
       "count": 2,
-      "pct": 0.5
+      "pct": 0.4
     },
     {
       "name": "M",
       "count": 10,
-      "pct": 2.3
+      "pct": 2.2
     },
     {
       "name": "SKAMANIA",
@@ -515,17 +515,17 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 3315,
+      "count": 3318,
       "pct": 52.3
     },
     {
       "name": "COMBINED",
-      "count": 1897,
+      "count": 1898,
       "pct": 29.9
     },
     {
       "name": "BAIL BOND",
-      "count": 1131,
+      "count": 1130,
       "pct": 17.8
     },
     {
@@ -564,15 +564,15 @@
         "count": 77
       }
     ],
-    "currentMedianDaysHeld": 50.5,
-    "currentLongestDaysHeld": 1077.5
+    "currentMedianDaysHeld": 50.6,
+    "currentLongestDaysHeld": 1077.6
   },
   "bond": {
     "withBond": 335,
-    "noBond": 126,
+    "noBond": 128,
     "medianBond": 30000,
     "maxBond": 10005000,
-    "totalBond": 61894225
+    "totalBond": 61892225
   },
   "chargesPerBooking": 4.6
 }
