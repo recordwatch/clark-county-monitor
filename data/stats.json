@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-26T02:55:20",
+  "generatedAt": "2026-11-26T03:55:22",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1383,
-    "bookingsObserved": 914,
+    "bookingsTracked": 1384,
+    "bookingsObserved": 915,
     "releasesObserved": 924,
-    "inCustody": 459,
-    "uniquePeople": 1334
+    "inCustody": 460,
+    "uniquePeople": 1335
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-26",
-      "booked": 0,
+      "booked": 1,
       "released": 0
     }
   ],
@@ -339,7 +339,7 @@
     },
     {
       "name": "S9",
-      "count": 687,
+      "count": 689,
       "pct": 12.8,
       "label": "Superior Court (S9)"
     },
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2832,
+      "count": 2833,
       "pct": 44.9,
       "label": "Gross Misdemeanor"
     },
@@ -451,8 +451,8 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 16,
-      "pct": 3.6
+      "count": 17,
+      "pct": 3.8
     },
     {
       "name": "B",
@@ -467,12 +467,12 @@
     {
       "name": "D",
       "count": 33,
-      "pct": 7.5
+      "pct": 7.4
     },
     {
       "name": "E",
       "count": 101,
-      "pct": 22.9
+      "pct": 22.8
     },
     {
       "name": "F",
@@ -482,7 +482,7 @@
     {
       "name": "G",
       "count": 99,
-      "pct": 22.4
+      "pct": 22.3
     },
     {
       "name": "H",
@@ -515,17 +515,17 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 3310,
+      "count": 3312,
       "pct": 52.4
     },
     {
       "name": "COMBINED",
-      "count": 1883,
+      "count": 1882,
       "pct": 29.8
     },
     {
       "name": "BAIL BOND",
-      "count": 1127,
+      "count": 1126,
       "pct": 17.8
     },
     {
@@ -564,15 +564,15 @@
         "count": 76
       }
     ],
-    "currentMedianDaysHeld": 51.6,
-    "currentLongestDaysHeld": 1077.1
+    "currentMedianDaysHeld": 51.2,
+    "currentLongestDaysHeld": 1077.2
   },
   "bond": {
-    "withBond": 335,
-    "noBond": 124,
+    "withBond": 334,
+    "noBond": 126,
     "medianBond": 30000,
     "maxBond": 10005000,
-    "totalBond": 61867625
+    "totalBond": 61857625
   },
   "chargesPerBooking": 4.6
 }
