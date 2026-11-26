@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T11:55:21",
+  "generatedAt": "2026-11-26T12:55:16",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1388,
@@ -271,14 +271,14 @@
     },
     {
       "name": "VPD",
-      "count": 330,
-      "pct": 23.9,
+      "count": 331,
+      "pct": 24,
       "label": "Vancouver Police"
     },
     {
       "name": "CLS",
-      "count": 153,
-      "pct": 11.1,
+      "count": 152,
+      "pct": 11,
       "label": "CLS"
     },
     {
@@ -339,19 +339,19 @@
     },
     {
       "name": "S9",
-      "count": 711,
+      "count": 713,
       "pct": 13.2,
       "label": "Superior Court (S9)"
     },
     {
       "name": "S12",
-      "count": 652,
+      "count": 654,
       "pct": 12.1,
       "label": "Superior Court (S12)"
     },
     {
       "name": "S10",
-      "count": 571,
+      "count": 569,
       "pct": 10.6,
       "label": "Superior Court (S10)"
     },
@@ -471,8 +471,8 @@
     },
     {
       "name": "E",
-      "count": 101,
-      "pct": 22.7
+      "count": 100,
+      "pct": 22.5
     },
     {
       "name": "F",
@@ -481,8 +481,8 @@
     },
     {
       "name": "G",
-      "count": 99,
-      "pct": 22.3
+      "count": 100,
+      "pct": 22.5
     },
     {
       "name": "H",
