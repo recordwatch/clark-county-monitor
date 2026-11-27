@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-26T17:55:22",
+  "generatedAt": "2026-11-26T18:55:16",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1392,
-    "bookingsObserved": 923,
+    "bookingsTracked": 1393,
+    "bookingsObserved": 924,
     "releasesObserved": 927,
-    "inCustody": 465,
-    "uniquePeople": 1342
+    "inCustody": 466,
+    "uniquePeople": 1343
   },
   "bookingsByDay": [
     {
@@ -156,14 +156,14 @@
     },
     {
       "date": "2026-11-26",
-      "booked": 8,
+      "booked": 9,
       "released": 3
     }
   ],
   "topCharges": [
     {
       "name": "PROTECTION ORDER VIOLATION",
-      "count": 584,
+      "count": 585,
       "pct": 9.2
     },
     {
@@ -277,7 +277,7 @@
     },
     {
       "name": "CLS",
-      "count": 153,
+      "count": 154,
       "pct": 11.1,
       "label": "CLS"
     },
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 920,
-      "pct": 17,
+      "count": 921,
+      "pct": 17.1,
       "label": "District Court (DARR)"
     },
     {
@@ -401,14 +401,14 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2846,
+      "count": 2847,
       "pct": 44.9,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
       "count": 1437,
-      "pct": 22.7,
+      "pct": 22.6,
       "label": "Class C Felony"
     },
     {
@@ -451,8 +451,8 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 16,
-      "pct": 3.6
+      "count": 15,
+      "pct": 3.3
     },
     {
       "name": "B",
@@ -467,22 +467,22 @@
     {
       "name": "D",
       "count": 33,
-      "pct": 7.4
+      "pct": 7.3
     },
     {
       "name": "E",
-      "count": 100,
-      "pct": 22.3
+      "count": 101,
+      "pct": 22.5
     },
     {
       "name": "F",
       "count": 103,
-      "pct": 23
+      "pct": 22.9
     },
     {
       "name": "G",
-      "count": 101,
-      "pct": 22.5
+      "count": 102,
+      "pct": 22.7
     },
     {
       "name": "H",
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 3322,
+      "count": 3323,
       "pct": 52.3
     },
     {
@@ -564,12 +564,12 @@
         "count": 77
       }
     ],
-    "currentMedianDaysHeld": 50.7,
-    "currentLongestDaysHeld": 1077.7
+    "currentMedianDaysHeld": 50.8,
+    "currentLongestDaysHeld": 1077.8
   },
   "bond": {
     "withBond": 335,
-    "noBond": 130,
+    "noBond": 131,
     "medianBond": 30000,
     "maxBond": 10005000,
     "totalBond": 61892225
