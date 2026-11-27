@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T14:55:19",
+  "generatedAt": "2026-11-27T15:11:11",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1413,
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-27",
-      "booked": 11,
+      "booked": 12,
       "released": 5
     }
   ],
@@ -413,7 +413,7 @@
     },
     {
       "name": "FB",
-      "count": 961,
+      "count": 959,
       "pct": 15,
       "label": "Class B Felony"
     },
@@ -425,7 +425,7 @@
     },
     {
       "name": "FA",
-      "count": 357,
+      "count": 359,
       "pct": 5.6,
       "label": "Class A Felony"
     },
@@ -456,13 +456,13 @@
     },
     {
       "name": "B",
-      "count": 29,
-      "pct": 6.3
+      "count": 30,
+      "pct": 6.5
     },
     {
       "name": "C",
       "count": 41,
-      "pct": 8.9
+      "pct": 8.8
     },
     {
       "name": "D",
@@ -477,7 +477,7 @@
     {
       "name": "F",
       "count": 104,
-      "pct": 22.5
+      "pct": 22.4
     },
     {
       "name": "G",
@@ -515,12 +515,12 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 3355,
+      "count": 3356,
       "pct": 52.4
     },
     {
       "name": "COMBINED",
-      "count": 1901,
+      "count": 1900,
       "pct": 29.7
     },
     {
@@ -564,7 +564,7 @@
         "count": 77
       }
     ],
-    "currentMedianDaysHeld": 49.6,
+    "currentMedianDaysHeld": 48.6,
     "currentLongestDaysHeld": 1078.6
   },
   "bond": {
