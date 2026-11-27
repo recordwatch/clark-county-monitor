@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-27T10:55:16",
+  "generatedAt": "2026-11-27T11:55:17",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1406,
-    "bookingsObserved": 937,
+    "bookingsTracked": 1407,
+    "bookingsObserved": 938,
     "releasesObserved": 932,
-    "inCustody": 474,
-    "uniquePeople": 1356
+    "inCustody": 475,
+    "uniquePeople": 1357
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-27",
-      "booked": 5,
+      "booked": 6,
       "released": 5
     }
   ],
@@ -178,8 +178,8 @@
     },
     {
       "name": "THEFT-3",
-      "count": 207,
-      "pct": 3.2
+      "count": 208,
+      "pct": 3.3
     },
     {
       "name": "PROTECTION ORDER VIOL PREV CONVICTI",
@@ -271,7 +271,7 @@
     },
     {
       "name": "VPD",
-      "count": 336,
+      "count": 337,
       "pct": 24.1,
       "label": "Vancouver Police"
     },
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 931,
+      "count": 932,
       "pct": 17.1,
       "label": "District Court (DARR)"
     },
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2864,
+      "count": 2865,
       "pct": 44.9,
       "label": "Gross Misdemeanor"
     },
@@ -413,7 +413,7 @@
     },
     {
       "name": "FB",
-      "count": 958,
+      "count": 959,
       "pct": 15,
       "label": "Class B Felony"
     },
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 22,
-      "pct": 4.8
+      "count": 23,
+      "pct": 5
     },
     {
       "name": "C",
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 3347,
+      "count": 3348,
       "pct": 52.4
     },
     {
@@ -525,7 +525,7 @@
     },
     {
       "name": "BAIL BOND",
-      "count": 1137,
+      "count": 1138,
       "pct": 17.8
     },
     {
@@ -568,11 +568,11 @@
     "currentLongestDaysHeld": 1078.5
   },
   "bond": {
-    "withBond": 339,
+    "withBond": 340,
     "noBond": 135,
     "medianBond": 30000,
     "maxBond": 10005000,
-    "totalBond": 61890225
+    "totalBond": 61891225
   },
-  "chargesPerBooking": 4.6
+  "chargesPerBooking": 4.5
 }
