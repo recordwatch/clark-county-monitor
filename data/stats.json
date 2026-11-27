@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-26T19:55:16",
+  "generatedAt": "2026-11-26T20:44:27",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1394,
-    "bookingsObserved": 925,
+    "bookingsTracked": 1395,
+    "bookingsObserved": 926,
     "releasesObserved": 927,
-    "inCustody": 467,
-    "uniquePeople": 1344
+    "inCustody": 468,
+    "uniquePeople": 1345
   },
   "bookingsByDay": [
     {
@@ -163,7 +163,7 @@
   "topCharges": [
     {
       "name": "PROTECTION ORDER VIOLATION",
-      "count": 585,
+      "count": 586,
       "pct": 9.2
     },
     {
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2850,
+      "count": 2851,
       "pct": 44.9,
       "label": "Gross Misdemeanor"
     },
@@ -451,8 +451,8 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 16,
-      "pct": 3.6
+      "count": 17,
+      "pct": 3.8
     },
     {
       "name": "B",
@@ -472,17 +472,17 @@
     {
       "name": "E",
       "count": 102,
-      "pct": 22.7
+      "pct": 22.6
     },
     {
       "name": "F",
       "count": 103,
-      "pct": 22.9
+      "pct": 22.8
     },
     {
       "name": "G",
       "count": 102,
-      "pct": 22.7
+      "pct": 22.6
     },
     {
       "name": "H",
@@ -564,12 +564,12 @@
         "count": 77
       }
     ],
-    "currentMedianDaysHeld": 50.8,
-    "currentLongestDaysHeld": 1077.8
+    "currentMedianDaysHeld": 50.9,
+    "currentLongestDaysHeld": 1077.9
   },
   "bond": {
     "withBond": 335,
-    "noBond": 132,
+    "noBond": 133,
     "medianBond": 30000,
     "maxBond": 10005000,
     "totalBond": 61892225
