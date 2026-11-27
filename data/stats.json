@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T09:55:15",
+  "generatedAt": "2026-11-27T10:55:16",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1406,
@@ -375,7 +375,7 @@
     },
     {
       "name": "D3",
-      "count": 163,
+      "count": 162,
       "pct": 3,
       "label": "District Court (D3)"
     },
@@ -564,8 +564,8 @@
         "count": 77
       }
     ],
-    "currentMedianDaysHeld": 50.4,
-    "currentLongestDaysHeld": 1078.4
+    "currentMedianDaysHeld": 50.5,
+    "currentLongestDaysHeld": 1078.5
   },
   "bond": {
     "withBond": 339,
