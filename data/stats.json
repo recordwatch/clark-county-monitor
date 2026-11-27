@@ -1,19 +1,14 @@
 {
-  "generatedAt": "2026-11-26T23:55:20",
+  "generatedAt": "2026-11-27T00:55:18",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1399,
-    "bookingsObserved": 930,
-    "releasesObserved": 927,
+    "bookingsTracked": 1400,
+    "bookingsObserved": 931,
+    "releasesObserved": 928,
     "inCustody": 472,
-    "uniquePeople": 1349
+    "uniquePeople": 1350
   },
   "bookingsByDay": [
-    {
-      "date": "2026-10-28",
-      "booked": 26,
-      "released": 18
-    },
     {
       "date": "2026-10-29",
       "booked": 28,
@@ -158,6 +153,11 @@
       "date": "2026-11-26",
       "booked": 15,
       "released": 3
+    },
+    {
+      "date": "2026-11-27",
+      "booked": 0,
+      "released": 1
     }
   ],
   "topCharges": [
@@ -289,8 +289,8 @@
     },
     {
       "name": "BGP",
-      "count": 17,
-      "pct": 1.2,
+      "count": 18,
+      "pct": 1.3,
       "label": "BGP"
     },
     {
@@ -408,7 +408,7 @@
     {
       "name": "FC",
       "count": 1441,
-      "pct": 22.7,
+      "pct": 22.6,
       "label": "Class C Felony"
     },
     {
@@ -419,7 +419,7 @@
     },
     {
       "name": "M",
-      "count": 602,
+      "count": 603,
       "pct": 9.5,
       "label": "Misdemeanor"
     },
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 21,
-      "pct": 4.6
+      "count": 20,
+      "pct": 4.4
     },
     {
       "name": "C",
@@ -472,17 +472,17 @@
     {
       "name": "E",
       "count": 102,
-      "pct": 22.4
+      "pct": 22.5
     },
     {
       "name": "F",
       "count": 103,
-      "pct": 22.6
+      "pct": 22.7
     },
     {
       "name": "G",
       "count": 102,
-      "pct": 22.4
+      "pct": 22.5
     },
     {
       "name": "H",
@@ -508,7 +508,7 @@
   "releaseStatus": [
     {
       "name": "RELEASED",
-      "count": 914,
+      "count": 915,
       "pct": 100
     }
   ],
@@ -525,7 +525,7 @@
     },
     {
       "name": "BAIL BOND",
-      "count": 1132,
+      "count": 1133,
       "pct": 17.8
     },
     {
@@ -535,13 +535,13 @@
     }
   ],
   "stay": {
-    "releasedCount": 926,
-    "medianDays": 2.5,
+    "releasedCount": 927,
+    "medianDays": 2.4,
     "meanDays": 29.2,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 176
+        "count": 177
       },
       {
         "label": "1–3 days",
@@ -564,7 +564,7 @@
         "count": 77
       }
     ],
-    "currentMedianDaysHeld": 50.5,
+    "currentMedianDaysHeld": 50,
     "currentLongestDaysHeld": 1078
   },
   "bond": {
@@ -572,7 +572,7 @@
     "noBond": 135,
     "medianBond": 30000,
     "maxBond": 10005000,
-    "totalBond": 61894725
+    "totalBond": 61894225
   },
   "chargesPerBooking": 4.6
 }
