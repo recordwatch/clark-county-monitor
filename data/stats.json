@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-26T22:55:20",
+  "generatedAt": "2026-11-26T23:55:20",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1397,
-    "bookingsObserved": 928,
+    "bookingsTracked": 1399,
+    "bookingsObserved": 930,
     "releasesObserved": 927,
-    "inCustody": 470,
-    "uniquePeople": 1347
+    "inCustody": 472,
+    "uniquePeople": 1349
   },
   "bookingsByDay": [
     {
@@ -156,14 +156,14 @@
     },
     {
       "date": "2026-11-26",
-      "booked": 13,
+      "booked": 15,
       "released": 3
     }
   ],
   "topCharges": [
     {
       "name": "PROTECTION ORDER VIOLATION",
-      "count": 586,
+      "count": 587,
       "pct": 9.2
     },
     {
@@ -173,7 +173,7 @@
     },
     {
       "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
-      "count": 255,
+      "count": 256,
       "pct": 4
     },
     {
@@ -227,12 +227,12 @@
       "pct": 1.6
     },
     {
-      "name": "THEFT-2",
-      "count": 90,
+      "name": "DWS 3 -DRIVE W/LICENSE SUSP OR REVOKED-3 OR REVOKED LIC OR PRIVILEGE",
+      "count": 91,
       "pct": 1.4
     },
     {
-      "name": "DWS 3 -DRIVE W/LICENSE SUSP OR REVOKED-3 OR REVOKED LIC OR PRIVILEGE",
+      "name": "THEFT-2",
       "count": 90,
       "pct": 1.4
     },
@@ -266,13 +266,13 @@
     {
       "name": "SO6",
       "count": 739,
-      "pct": 53.3,
+      "pct": 53.2,
       "label": "SO6"
     },
     {
       "name": "VPD",
       "count": 334,
-      "pct": 24.1,
+      "pct": 24,
       "label": "Vancouver Police"
     },
     {
@@ -283,7 +283,7 @@
     },
     {
       "name": "WSP",
-      "count": 44,
+      "count": 45,
       "pct": 3.2,
       "label": "Washington State Patrol"
     },
@@ -307,7 +307,7 @@
     },
     {
       "name": "RPD",
-      "count": 12,
+      "count": 13,
       "pct": 0.9,
       "label": "RPD"
     },
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 922,
-      "pct": 17,
+      "count": 925,
+      "pct": 17.1,
       "label": "District Court (DARR)"
     },
     {
@@ -401,14 +401,14 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2857,
+      "count": 2859,
       "pct": 44.9,
       "label": "Gross Misdemeanor"
     },
     {
       "name": "FC",
-      "count": 1440,
-      "pct": 22.6,
+      "count": 1441,
+      "pct": 22.7,
       "label": "Class C Felony"
     },
     {
@@ -419,7 +419,7 @@
     },
     {
       "name": "M",
-      "count": 601,
+      "count": 602,
       "pct": 9.5,
       "label": "Misdemeanor"
     },
@@ -452,12 +452,12 @@
     {
       "name": "A",
       "count": 17,
-      "pct": 3.8
+      "pct": 3.7
     },
     {
       "name": "B",
-      "count": 19,
-      "pct": 4.2
+      "count": 21,
+      "pct": 4.6
     },
     {
       "name": "C",
@@ -472,17 +472,17 @@
     {
       "name": "E",
       "count": 102,
-      "pct": 22.5
+      "pct": 22.4
     },
     {
       "name": "F",
       "count": 103,
-      "pct": 22.7
+      "pct": 22.6
     },
     {
       "name": "G",
       "count": 102,
-      "pct": 22.5
+      "pct": 22.4
     },
     {
       "name": "H",
@@ -515,17 +515,17 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 3337,
+      "count": 3338,
       "pct": 52.4
     },
     {
       "name": "COMBINED",
-      "count": 1898,
+      "count": 1899,
       "pct": 29.8
     },
     {
       "name": "BAIL BOND",
-      "count": 1130,
+      "count": 1132,
       "pct": 17.8
     },
     {
@@ -564,15 +564,15 @@
         "count": 77
       }
     ],
-    "currentMedianDaysHeld": 51,
+    "currentMedianDaysHeld": 50.5,
     "currentLongestDaysHeld": 1078
   },
   "bond": {
-    "withBond": 335,
+    "withBond": 337,
     "noBond": 135,
     "medianBond": 30000,
     "maxBond": 10005000,
-    "totalBond": 61892225
+    "totalBond": 61894725
   },
   "chargesPerBooking": 4.6
 }
