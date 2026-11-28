@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T20:50:14",
+  "generatedAt": "2026-11-27T20:55:17",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
     "bookingsTracked": 1420,
@@ -271,14 +271,14 @@
     },
     {
       "name": "VPD",
-      "count": 341,
-      "pct": 24.2,
+      "count": 342,
+      "pct": 24.3,
       "label": "Vancouver Police"
     },
     {
       "name": "CLS",
       "count": 160,
-      "pct": 11.4,
+      "pct": 11.3,
       "label": "CLS"
     },
     {
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 939,
+      "count": 940,
       "pct": 17.2,
       "label": "District Court (DARR)"
     },
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 3367,
+      "count": 3368,
       "pct": 52.5
     },
     {
@@ -564,7 +564,7 @@
         "count": 77
       }
     ],
-    "currentMedianDaysHeld": 47,
+    "currentMedianDaysHeld": 46.7,
     "currentLongestDaysHeld": 1078.9
   },
   "bond": {
