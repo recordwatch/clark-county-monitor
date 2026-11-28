@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-27T22:55:17",
+  "generatedAt": "2026-11-27T23:55:16",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1423,
-    "bookingsObserved": 954,
+    "bookingsTracked": 1424,
+    "bookingsObserved": 955,
     "releasesObserved": 933,
-    "inCustody": 490,
-    "uniquePeople": 1372
+    "inCustody": 491,
+    "uniquePeople": 1373
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-27",
-      "booked": 22,
+      "booked": 23,
       "released": 6
     }
   ],
@@ -173,7 +173,7 @@
     },
     {
       "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
-      "count": 262,
+      "count": 263,
       "pct": 4.1
     },
     {
@@ -301,8 +301,8 @@
     },
     {
       "name": "CMP",
-      "count": 14,
-      "pct": 1,
+      "count": 15,
+      "pct": 1.1,
       "label": "CMP"
     },
     {
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 947,
+      "count": 949,
       "pct": 17.3,
       "label": "District Court (DARR)"
     },
@@ -401,8 +401,8 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2882,
-      "pct": 44.9,
+      "count": 2884,
+      "pct": 45,
       "label": "Gross Misdemeanor"
     },
     {
@@ -456,13 +456,13 @@
     },
     {
       "name": "B",
-      "count": 31,
-      "pct": 6.6
+      "count": 29,
+      "pct": 6.1
     },
     {
       "name": "C",
       "count": 41,
-      "pct": 8.7
+      "pct": 8.6
     },
     {
       "name": "D",
@@ -471,18 +471,18 @@
     },
     {
       "name": "E",
-      "count": 103,
-      "pct": 21.8
+      "count": 104,
+      "pct": 21.9
     },
     {
       "name": "F",
-      "count": 105,
-      "pct": 22.2
+      "count": 106,
+      "pct": 22.4
     },
     {
       "name": "G",
-      "count": 101,
-      "pct": 21.4
+      "count": 102,
+      "pct": 21.5
     },
     {
       "name": "H",
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 3371,
+      "count": 3373,
       "pct": 52.5
     },
     {
@@ -564,12 +564,12 @@
         "count": 77
       }
     ],
-    "currentMedianDaysHeld": 45.8,
+    "currentMedianDaysHeld": 45.9,
     "currentLongestDaysHeld": 1079
   },
   "bond": {
     "withBond": 345,
-    "noBond": 145,
+    "noBond": 146,
     "medianBond": 28000,
     "maxBond": 10005000,
     "totalBond": 61908725
