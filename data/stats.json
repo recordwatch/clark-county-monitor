@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-27T16:55:17",
+  "generatedAt": "2026-11-27T17:55:19",
   "monitoringSince": "2026-10-10T18:32:10",
   "totals": {
-    "bookingsTracked": 1415,
-    "bookingsObserved": 946,
+    "bookingsTracked": 1416,
+    "bookingsObserved": 947,
     "releasesObserved": 932,
-    "inCustody": 483,
-    "uniquePeople": 1364
+    "inCustody": 484,
+    "uniquePeople": 1365
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-27",
-      "booked": 14,
+      "booked": 15,
       "released": 5
     }
   ],
@@ -173,8 +173,8 @@
     },
     {
       "name": "DUI -GM- DRIVING UNDER THE INFLUENCE",
-      "count": 259,
-      "pct": 4
+      "count": 260,
+      "pct": 4.1
     },
     {
       "name": "THEFT-3",
@@ -233,7 +233,7 @@
     },
     {
       "name": "FUGITIVE",
-      "count": 90,
+      "count": 91,
       "pct": 1.4
     },
     {
@@ -327,13 +327,13 @@
   "courts": [
     {
       "name": "DARR",
-      "count": 935,
+      "count": 938,
       "pct": 17.2,
       "label": "District Court (DARR)"
     },
     {
       "name": "S9",
-      "count": 740,
+      "count": 742,
       "pct": 13.6,
       "label": "Superior Court (S9)"
     },
@@ -401,7 +401,7 @@
   "chargeClasses": [
     {
       "name": "GM",
-      "count": 2871,
+      "count": 2873,
       "pct": 44.9,
       "label": "Gross Misdemeanor"
     },
@@ -419,8 +419,8 @@
     },
     {
       "name": "M",
-      "count": 610,
-      "pct": 9.5,
+      "count": 611,
+      "pct": 9.6,
       "label": "Misdemeanor"
     },
     {
@@ -431,7 +431,7 @@
     },
     {
       "name": "H",
-      "count": 91,
+      "count": 92,
       "pct": 1.4,
       "label": "H"
     },
@@ -456,8 +456,8 @@
     },
     {
       "name": "B",
-      "count": 31,
-      "pct": 6.7
+      "count": 32,
+      "pct": 6.9
     },
     {
       "name": "C",
@@ -472,7 +472,7 @@
     {
       "name": "E",
       "count": 102,
-      "pct": 21.9
+      "pct": 21.8
     },
     {
       "name": "F",
@@ -482,7 +482,7 @@
     {
       "name": "G",
       "count": 100,
-      "pct": 21.5
+      "pct": 21.4
     },
     {
       "name": "H",
@@ -515,7 +515,7 @@
   "bailTypes": [
     {
       "name": "NONE",
-      "count": 3356,
+      "count": 3359,
       "pct": 52.4
     },
     {
@@ -525,7 +525,7 @@
     },
     {
       "name": "BAIL BOND",
-      "count": 1144,
+      "count": 1145,
       "pct": 17.9
     },
     {
@@ -564,15 +564,15 @@
         "count": 77
       }
     ],
-    "currentMedianDaysHeld": 48,
+    "currentMedianDaysHeld": 47.3,
     "currentLongestDaysHeld": 1078.7
   },
   "bond": {
-    "withBond": 343,
+    "withBond": 344,
     "noBond": 140,
     "medianBond": 30000,
     "maxBond": 10005000,
-    "totalBond": 61928725
+    "totalBond": 61929725
   },
   "chargesPerBooking": 4.5
 }
